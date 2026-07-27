@@ -13128,7 +13128,7 @@ PROPITEM_TXT_209268,Feed Bag (30 days),Sac de Nourriture (30 jours)
 PROPITEM_TXT_209269,Does not reduce the energy of Raised pets for 1 day when used.,Ne réduit pas l’énergie des familiers élevés pendant 1 jour après utilisation.
 PROPITEM_TXT_209270,Does not reduce the energy of Raised pets for 7 days when used.,Ne réduit pas l’énergie des familiers élevés pendant 7 jours après utilisation.
 PROPITEM_TXT_209271,Does not reduce the energy of Raised pets for 15 days when used.,Ne réduit pas l’énergie des familiers élevés pendant 15 jours après utilisation.
-PROPITEM_TXT_209272,Does not reduce the energy of Raised pets for 30 days when used.,Ne réduit pas l’énergie des familiers élevés pendant 30 jours après utilisation.
+PROPITEM_TXT_209272,Does not reduce the energy of Raised pets for 30 days when used.,Ne réduit pas l'énergie des familiers élevés pendant toute sa durée d'utilisation.
 PROPITEM_TXT_209332,Scroll of PickUp Boost (30 days),Parchemin de Boost de Ramassage (30 jours)
 PROPITEM_TXT_209333,Pet's pickup speed is increased by 100% for 30 days,La vitesse de ramassage du familier est augmentée de 100% pendant 30 jours
 PROPITEM_TXT_209334,Scroll of PickUp Boost (15 days),Parchemin de Boost de Ramassage (15 jours)
@@ -28607,86 +28607,86 @@ PROPITEM_TXT_905573,Japanese Uniform Light Shoes (F),Chaussures uniforme japonai
 PROPITEM_TXT_905574,Spring Qipao Black Hat (M),Chapeau qipao printanier noir (M)
 PROPITEM_TXT_905575,Spring Qipao Black Suit (M),Tenue qipao printanière noire (M)
 PROPITEM_TXT_905576,Spring Qipao Black Shoes (M),Chaussures qipao printanières noires (M)
-PROPITEM_TXT_905577,Spring Qipao Black Umbrella,Spring Qipao Black Umbrella
-PROPITEM_TXT_905578,Spring Qipao Black Mask,Spring Qipao Black Mask
-PROPITEM_TXT_905579,Spring Qipao Black Hat (F),Spring Qipao Black Hat (F)
-PROPITEM_TXT_905580,Spring Qipao Black Suit (F),Spring Qipao Black Suit (F)
-PROPITEM_TXT_905581,Spring Qipao Black Shoes (F),Spring Qipao Black Shoes (F)
-PROPITEM_TXT_905582,Spring Qipao Red Hat (M),Spring Qipao Red Hat (M)
-PROPITEM_TXT_905583,Spring Qipao Red Suit (M),Spring Qipao Red Suit (M)
-PROPITEM_TXT_905584,Spring Qipao Red Shoes (M),Spring Qipao Red Shoes (M)
-PROPITEM_TXT_905585,Spring Qipao Red Umbrella,Spring Qipao Red Umbrella
-PROPITEM_TXT_905586,Spring Qipao Red Mask,Spring Qipao Red Mask
-PROPITEM_TXT_905587,Spring Qipao Red Hat (F),Spring Qipao Red Hat (F)
-PROPITEM_TXT_905588,Spring Qipao Red Suit (F),Spring Qipao Red Suit (F)
-PROPITEM_TXT_905589,Spring Qipao Red Shoes (F),Spring Qipao Red Shoes (F)
-PROPITEM_TXT_905590,Spring Qipao Purple Hat (M),Spring Qipao Purple Hat (M)
-PROPITEM_TXT_905591,Spring Qipao Purple Suit (M),Spring Qipao Purple Suit (M)
-PROPITEM_TXT_905592,Spring Qipao Purple Shoes (M),Spring Qipao Purple Shoes (M)
-PROPITEM_TXT_905593,Spring Qipao Purple Umbrella,Spring Qipao Purple Umbrella
-PROPITEM_TXT_905594,Spring Qipao Purple Mask,Spring Qipao Purple Mask
-PROPITEM_TXT_905595,Spring Qipao Purple Hat (F),Spring Qipao Purple Hat (F)
-PROPITEM_TXT_905596,Spring Qipao Purple Suit (F),Spring Qipao Purple Suit (F)
-PROPITEM_TXT_905597,Spring Qipao Purple Shoes (F),Spring Qipao Purple Shoes (F)
-PROPITEM_TXT_905598,Spring Qipao Pink Hat (M),Spring Qipao Pink Hat (M)
-PROPITEM_TXT_905599,Spring Qipao Pink Suit (M),Spring Qipao Pink Suit (M)
-PROPITEM_TXT_905600,Spring Qipao Pink Shoes (M),Spring Qipao Pink Shoes (M)
-PROPITEM_TXT_905601,Spring Qipao Pink Umbrella,Spring Qipao Pink Umbrella
-PROPITEM_TXT_905602,Spring Qipao Pink Mask,Spring Qipao Pink Mask
-PROPITEM_TXT_905603,Spring Qipao Pink Hat (F),Spring Qipao Pink Hat (F)
-PROPITEM_TXT_905604,Spring Qipao Pink Suit (F),Spring Qipao Pink Suit (F)
-PROPITEM_TXT_905605,Spring Qipao Pink Shoes (F),Spring Qipao Pink Shoes (F)
-PROPITEM_TXT_905606,Spring Qipao Orange Hat (M),Spring Qipao Orange Hat (M)
-PROPITEM_TXT_905607,Spring Qipao Orange Suit (M),Spring Qipao Orange Suit (M)
-PROPITEM_TXT_905608,Spring Qipao Orange Shoes (M),Spring Qipao Orange Shoes (M)
-PROPITEM_TXT_905609,Spring Qipao Orange Umbrella,Spring Qipao Orange Umbrella
-PROPITEM_TXT_905610,Spring Qipao Orange Mask,Spring Qipao Orange Mask
-PROPITEM_TXT_905611,Spring Qipao Orange Hat (F),Spring Qipao Orange Hat (F)
-PROPITEM_TXT_905612,Spring Qipao Orange Suit (F),Spring Qipao Orange Suit (F)
-PROPITEM_TXT_905613,Spring Qipao Orange Shoes (F),Spring Qipao Orange Shoes (F)
-PROPITEM_TXT_905614,Spring Qipao Cyan Hat (M),Spring Qipao Cyan Hat (M)
-PROPITEM_TXT_905615,Spring Qipao Cyan Suit (M),Spring Qipao Cyan Suit (M)
-PROPITEM_TXT_905616,Spring Qipao Cyan Shoes (M),Spring Qipao Cyan Shoes (M)
-PROPITEM_TXT_905617,Spring Qipao Cyan Umbrella,Spring Qipao Cyan Umbrella
-PROPITEM_TXT_905618,Spring Qipao Cyan Mask,Spring Qipao Cyan Mask
-PROPITEM_TXT_905619,Spring Qipao Cyan Hat (F),Spring Qipao Cyan Hat (F)
-PROPITEM_TXT_905620,Spring Qipao Cyan Suit (F),Spring Qipao Cyan Suit (F)
-PROPITEM_TXT_905621,Spring Qipao Cyan Shoes (F),Spring Qipao Cyan Shoes (F)
-PROPITEM_TXT_905622,Spring Qipao Blue Hat (M),Spring Qipao Blue Hat (M)
-PROPITEM_TXT_905623,Spring Qipao Blue Suit (M),Spring Qipao Blue Suit (M)
-PROPITEM_TXT_905624,Spring Qipao Blue Shoes (M),Spring Qipao Blue Shoes (M)
-PROPITEM_TXT_905625,Spring Qipao Blue Umbrella,Spring Qipao Blue Umbrella
-PROPITEM_TXT_905626,Spring Qipao Blue Mask,Spring Qipao Blue Mask
-PROPITEM_TXT_905627,Spring Qipao Blue Hat (F),Spring Qipao Blue Hat (F)
-PROPITEM_TXT_905628,Spring Qipao Blue Suit (F),Spring Qipao Blue Suit (F)
-PROPITEM_TXT_905629,Spring Qipao Blue Shoes (F),Spring Qipao Blue Shoes (F)
-PROPITEM_TXT_905630,Spring Qipao White Hat (M),Spring Qipao White Hat (M)
-PROPITEM_TXT_905631,Spring Qipao White Suit (M),Spring Qipao White Suit (M)
-PROPITEM_TXT_905632,Spring Qipao White Shoes (M),Spring Qipao White Shoes (M)
-PROPITEM_TXT_905633,Spring Qipao White Umbrella,Spring Qipao White Umbrella
-PROPITEM_TXT_905634,Spring Qipao White Mask,Spring Qipao White Mask
-PROPITEM_TXT_905635,Spring Qipao White Hat (F),Spring Qipao White Hat (F)
-PROPITEM_TXT_905636,Spring Qipao White Suit (F),Spring Qipao White Suit (F)
-PROPITEM_TXT_905637,Spring Qipao White Shoes (F),Spring Qipao White Shoes (F)
-PROPITEM_TXT_905638,Steampunk Wizard Blue Hat (M),Steampunk Wizard Blue Hat (M)
-PROPITEM_TXT_905639,Steampunk Wizard Blue Suit (M),Steampunk Wizard Blue Suit (M)
-PROPITEM_TXT_905640,Steampunk Wizard Blue Shoes (M),Steampunk Wizard Blue Shoes (M)
-PROPITEM_TXT_905641,Steampunk Wizard Blue Backpack,Steampunk Wizard Blue Backpack
-PROPITEM_TXT_905642,Steampunk Wizard Blue Mustache Eye patch,Steampunk Wizard Blue Mustache Eye patch
-PROPITEM_TXT_905643,Steampunk Wizard Blue Eye patch,Steampunk Wizard Blue Eye patch
-PROPITEM_TXT_905644,Steampunk Wizard Blue Hat (F),Steampunk Wizard Blue Hat (F)
-PROPITEM_TXT_905645,Steampunk Wizard Blue Suit (F),Steampunk Wizard Blue Suit (F)
-PROPITEM_TXT_905646,Steampunk Wizard Blue Shoes (F),Steampunk Wizard Blue Shoes (F)
-PROPITEM_TXT_905647,Steampunk Wizard Red Hat (M),Steampunk Wizard Red Hat (M)
-PROPITEM_TXT_905648,Steampunk Wizard Red Suit (M),Steampunk Wizard Red Suit (M)
-PROPITEM_TXT_905649,Steampunk Wizard Red Shoes (M),Steampunk Wizard Red Shoes (M)
-PROPITEM_TXT_905650,Steampunk Wizard Red Backpack,Steampunk Wizard Red Backpack
-PROPITEM_TXT_905651,Steampunk Wizard Red Mustache Eye patch,Steampunk Wizard Red Mustache Eye patch
-PROPITEM_TXT_905652,Steampunk Wizard Red Eye patch,Steampunk Wizard Red Eye patch
-PROPITEM_TXT_905653,Steampunk Wizard Red Hat (F),Steampunk Wizard Red Hat (F)
-PROPITEM_TXT_905654,Steampunk Wizard Red Suit (F),Steampunk Wizard Red Suit (F)
-PROPITEM_TXT_905655,Steampunk Wizard Red Shoes (F),Steampunk Wizard Red Shoes (F)
-PROPITEM_TXT_905656,Steampunk Wizard Purple Hat (M),Steampunk Wizard Purple Hat (M)
+PROPITEM_TXT_905577,Spring Qipao Black Umbrella,Parapluie noir du qipao printanier
+PROPITEM_TXT_905578,Spring Qipao Black Mask,Masque noir du qipao printanier
+PROPITEM_TXT_905579,Spring Qipao Black Hat (F),Chapeau noir du qipao printanier (F)
+PROPITEM_TXT_905580,Spring Qipao Black Suit (F),Tenue noire du qipao printanier (F)
+PROPITEM_TXT_905581,Spring Qipao Black Shoes (F),Chaussures noires du qipao printanier (F)
+PROPITEM_TXT_905582,Spring Qipao Red Hat (M),Chapeau rouge du qipao printanier (M)
+PROPITEM_TXT_905583,Spring Qipao Red Suit (M),Tenue rouge du qipao printanier (M)
+PROPITEM_TXT_905584,Spring Qipao Red Shoes (M),Chaussures rouges du qipao printanier (M)
+PROPITEM_TXT_905585,Spring Qipao Red Umbrella,Parapluie rouge du qipao printanier
+PROPITEM_TXT_905586,Spring Qipao Red Mask,Masque rouge du qipao printanier
+PROPITEM_TXT_905587,Spring Qipao Red Hat (F),Chapeau rouge du qipao printanier (F)
+PROPITEM_TXT_905588,Spring Qipao Red Suit (F),Tenue rouge du qipao printanier (F)
+PROPITEM_TXT_905589,Spring Qipao Red Shoes (F),Chaussures rouges du qipao printanier (F)
+PROPITEM_TXT_905590,Spring Qipao Purple Hat (M),Chapeau violet du qipao printanier (M)
+PROPITEM_TXT_905591,Spring Qipao Purple Suit (M),Tenue violette du qipao printanier (M)
+PROPITEM_TXT_905592,Spring Qipao Purple Shoes (M),Chaussures violettes du qipao printanier (M)
+PROPITEM_TXT_905593,Spring Qipao Purple Umbrella,Parapluie violet du qipao printanier
+PROPITEM_TXT_905594,Spring Qipao Purple Mask,Masque violet du qipao printanier
+PROPITEM_TXT_905595,Spring Qipao Purple Hat (F),Chapeau violet du qipao printanier (F)
+PROPITEM_TXT_905596,Spring Qipao Purple Suit (F),Tenue violette du qipao printanier (F)
+PROPITEM_TXT_905597,Spring Qipao Purple Shoes (F),Chaussures violettes du qipao printanier (F)
+PROPITEM_TXT_905598,Spring Qipao Pink Hat (M),Chapeau rose du qipao printanier (M)
+PROPITEM_TXT_905599,Spring Qipao Pink Suit (M),Tenue rose du qipao printanier (M)
+PROPITEM_TXT_905600,Spring Qipao Pink Shoes (M),Chaussures roses du qipao printanier (M)
+PROPITEM_TXT_905601,Spring Qipao Pink Umbrella,Parapluie rose du qipao printanier
+PROPITEM_TXT_905602,Spring Qipao Pink Mask,Masque rose du qipao printanier
+PROPITEM_TXT_905603,Spring Qipao Pink Hat (F),Chapeau rose du qipao printanier (F)
+PROPITEM_TXT_905604,Spring Qipao Pink Suit (F),Tenue rose du qipao printanier (F)
+PROPITEM_TXT_905605,Spring Qipao Pink Shoes (F),Chaussures roses du qipao printanier (F)
+PROPITEM_TXT_905606,Spring Qipao Orange Hat (M),Chapeau orange du qipao printanier (M)
+PROPITEM_TXT_905607,Spring Qipao Orange Suit (M),Tenue orange du qipao printanier (M)
+PROPITEM_TXT_905608,Spring Qipao Orange Shoes (M),Chaussures orange du qipao printanier (M)
+PROPITEM_TXT_905609,Spring Qipao Orange Umbrella,Parapluie orange du qipao printanier
+PROPITEM_TXT_905610,Spring Qipao Orange Mask,Masque orange du qipao printanier
+PROPITEM_TXT_905611,Spring Qipao Orange Hat (F),Chapeau orange du qipao printanier (F)
+PROPITEM_TXT_905612,Spring Qipao Orange Suit (F),Tenue orange du qipao printanier (F)
+PROPITEM_TXT_905613,Spring Qipao Orange Shoes (F),Chaussures orange du qipao printanier (F)
+PROPITEM_TXT_905614,Spring Qipao Cyan Hat (M),Chapeau cyan du qipao printanier (M)
+PROPITEM_TXT_905615,Spring Qipao Cyan Suit (M),Tenue cyan du qipao printanier (M)
+PROPITEM_TXT_905616,Spring Qipao Cyan Shoes (M),Chaussures cyan du qipao printanier (M)
+PROPITEM_TXT_905617,Spring Qipao Cyan Umbrella,Parapluie cyan du qipao printanier
+PROPITEM_TXT_905618,Spring Qipao Cyan Mask,Masque cyan du qipao printanier
+PROPITEM_TXT_905619,Spring Qipao Cyan Hat (F),Chapeau cyan du qipao printanier (F)
+PROPITEM_TXT_905620,Spring Qipao Cyan Suit (F),Tenue cyan du qipao printanier (F)
+PROPITEM_TXT_905621,Spring Qipao Cyan Shoes (F),Chaussures cyan du qipao printanier (F)
+PROPITEM_TXT_905622,Spring Qipao Blue Hat (M),Chapeau bleu du qipao printanier (M)
+PROPITEM_TXT_905623,Spring Qipao Blue Suit (M),Tenue bleue du qipao printanier (M)
+PROPITEM_TXT_905624,Spring Qipao Blue Shoes (M),Chaussures bleues du qipao printanier (M)
+PROPITEM_TXT_905625,Spring Qipao Blue Umbrella,Parapluie bleu du qipao printanier
+PROPITEM_TXT_905626,Spring Qipao Blue Mask,Masque bleu du qipao printanier
+PROPITEM_TXT_905627,Spring Qipao Blue Hat (F),Chapeau bleu du qipao printanier (F)
+PROPITEM_TXT_905628,Spring Qipao Blue Suit (F),Tenue bleue du qipao printanier (F)
+PROPITEM_TXT_905629,Spring Qipao Blue Shoes (F),Chaussures bleues du qipao printanier (F)
+PROPITEM_TXT_905630,Spring Qipao White Hat (M),Chapeau blanc du qipao printanier (M)
+PROPITEM_TXT_905631,Spring Qipao White Suit (M),Tenue blanche du qipao printanier (M)
+PROPITEM_TXT_905632,Spring Qipao White Shoes (M),Chaussures blanches du qipao printanier (M)
+PROPITEM_TXT_905633,Spring Qipao White Umbrella,Parapluie blanc du qipao printanier
+PROPITEM_TXT_905634,Spring Qipao White Mask,Masque blanc du qipao printanier
+PROPITEM_TXT_905635,Spring Qipao White Hat (F),Chapeau blanc du qipao printanier (F)
+PROPITEM_TXT_905636,Spring Qipao White Suit (F),Tenue blanche du qipao printanier (F)
+PROPITEM_TXT_905637,Spring Qipao White Shoes (F),Chaussures blanches du qipao printanier (F)
+PROPITEM_TXT_905638,Steampunk Wizard Blue Hat (M),Chapeau bleu du magicien steampunk (M)
+PROPITEM_TXT_905639,Steampunk Wizard Blue Suit (M),Tenue bleue du magicien steampunk (M)
+PROPITEM_TXT_905640,Steampunk Wizard Blue Shoes (M),Chaussures bleues du magicien steampunk (M)
+PROPITEM_TXT_905641,Steampunk Wizard Blue Backpack,Sac à dos bleu du magicien steampunk
+PROPITEM_TXT_905642,Steampunk Wizard Blue Mustache Eye patch,Cache-œil et moustache bleus du magicien steampunk
+PROPITEM_TXT_905643,Steampunk Wizard Blue Eye patch,Cache-œil bleu du magicien steampunk
+PROPITEM_TXT_905644,Steampunk Wizard Blue Hat (F),Chapeau bleu du magicien steampunk (F)
+PROPITEM_TXT_905645,Steampunk Wizard Blue Suit (F),Tenue bleue du magicien steampunk (F)
+PROPITEM_TXT_905646,Steampunk Wizard Blue Shoes (F),Chaussures bleues du magicien steampunk (F)
+PROPITEM_TXT_905647,Steampunk Wizard Red Hat (M),Chapeau rouge du magicien steampunk (M)
+PROPITEM_TXT_905648,Steampunk Wizard Red Suit (M),Tenue rouge du magicien steampunk (M)
+PROPITEM_TXT_905649,Steampunk Wizard Red Shoes (M),Chaussures rouges du magicien steampunk (M)
+PROPITEM_TXT_905650,Steampunk Wizard Red Backpack,Sac à dos rouge du magicien steampunk
+PROPITEM_TXT_905651,Steampunk Wizard Red Mustache Eye patch,Cache-œil et moustache rouges du magicien steampunk
+PROPITEM_TXT_905652,Steampunk Wizard Red Eye patch,Cache-œil rouge du magicien steampunk
+PROPITEM_TXT_905653,Steampunk Wizard Red Hat (F),Chapeau rouge du magicien steampunk (F)
+PROPITEM_TXT_905654,Steampunk Wizard Red Suit (F),Tenue rouge du magicien steampunk (F)
+PROPITEM_TXT_905655,Steampunk Wizard Red Shoes (F),Chaussures rouges du magicien steampunk (F)
+PROPITEM_TXT_905656,Steampunk Wizard Purple Hat (M),Chapeau violet du magicien steampunk (M)
 PROPITEM_TXT_905657,Steampunk Wizard Purple Suit (M),Tenue de Magicien Steampunk Violet (M)
 PROPITEM_TXT_905658,Steampunk Wizard Purple Shoes (M),Chaussures de Magicien Steampunk Violet (M)
 PROPITEM_TXT_905659,Steampunk Wizard Purple Backpack,Sac à dos de Magicien Steampunk Violet
@@ -29423,8 +29423,6 @@ PROPITEM_TXT_1902681,Select which Royal Abyss Weapon you want to receive!,Sélec
 PROPITEM_TXT_1902682,Reonan Kalgas Set,Reonan Kalgas Set
 PROPITEM_TXT_1902683,Reonan Kalgas Cloak,Reonan Kalgas Cloak
 PROPITEM_TXT_1902684,Reonan Kalgas Hat (M),Reonan Kalgas Hat (M)
-Je te les traduis en gardant exactement le même format et la même structure :
-
 PROPITEM_TXT_1902685,Reonan Kalgas Suit (M),Costume Kalgas Reonan (H)
 PROPITEM_TXT_1902686,Reonan Kalgas Shoes (M),Chaussures Kalgas Reonan (H)
 PROPITEM_TXT_1902687,Reonan Kalgas Hands (M),Gants Kalgas Reonan (H)
