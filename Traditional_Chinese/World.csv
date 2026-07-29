@@ -33,7 +33,7 @@ WDCOLOSSEUM_WLD_000001,The Colosseum,鬥獸場
 WDCOLOSSEUM_WLD_000002,Colosseum Stadium,鬥獸競技場館
 WDCOLOSSEUM_WLD_000003,The Cage of Clockworks,時空毀滅者之牢
 WDCOLOSSEUM_WLD_000004,Clockworks was sealed here after the Clockworks War.,在時空毀滅者戰爭過後，將時空毀滅者囚禁於此處。
-WDEVENT_WLD_000000,Duel Zone,這裡是「對戰場」
+WDEVENT_WLD_000000,Duel Zone,這裡是決鬥區。
 WORLD_WDGUILDWAR_WDGUILDWAR_RGN_000000,Prove yourself!\nShow them that you are the best!,證明你自己！\n向他們證明你是最強的！
 WDGUILDWARBIG_WLD_000000,Prove yourself!\nShow them that you are the best!,證明你自己！\n向他們證明你是最強的！
 WORLD_WDGUILDWAR_CAVERN_RGN_000000,Prove yourself!\nShow them that you are the best!,證明你自己！\n向他們證明你是最強的！
@@ -44,11 +44,11 @@ WORLD_WDGUILDWAR_SNOW_RGN_000000,Prove yourself!\nShow them that you are the bes
 WORLD_WDGUILDWAR_UNDERWATER_RGN_000000,Prove yourself!\nShow them that you are the best!,證明你自己！\n向他們證明你是最強的！
 WORLD_WDGUILDWAR_VOLCANO_RGN_000000,Prove yourself!\nShow them that you are the best!,證明你自己！\n向他們證明你是最強的！
 WDKEBARAS_WLD_000000,Lodelight,生命光柱
-WDKEBARAS_WLD_000001,This is a safe place.,這裡是安全地區
+WDKEBARAS_WLD_000001,This is a safe place.,這裡是安全區域。
 WORLD_WDKEBARAS_WDKEBARAS_RGN_000000,Kebaras,卡巴拉斯
 WORLD_WDKEBARAS_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras!\nLong ago, this place served as a prison for criminals...",歡迎來到卡巴拉斯城鎮！\n這個地方很久以前是關押罪犯的監獄……
 WDKEBARAS2_WLD_000000,Lodelight,生命光柱
-WDKEBARAS2_WLD_000001,This is a safe place.,這裡是安全地區。
+WDKEBARAS2_WLD_000001,This is a safe place.,這裡是安全區域。
 WORLD_WDKEBARAS2_WDKEBARAS_RGN_000000,Kebaras 2,卡巴拉斯 2
 WORLD_WDKEBARAS2_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras 2!\nLong ago, this place served as a prison for criminals...",歡迎來到卡巴拉斯 2！\n這裡在很久以前曾是關押罪犯的監獄……
 WDMADRIGAL_WLD_000000,Mysterious Castle,神秘的城堡
@@ -72,7 +72,7 @@ WDMADRIGAL_WLD_000019,Guardiane Sanctuary Entrance,守護者聖域入口
 WDMADRIGAL_WLD_000021,Leren Chasm Entrance,勒倫峽谷入口
 WDMADRIGAL_WLD_000022,Wilds Entrance,荒野叢境入口
 WDMADRIGAL_WLD_000023,Rhisis Catacombs,黎席斯墓窟
-WDMADRIGAL_WLD_000024,This is a safe place.,這裡是安全地區。
+WDMADRIGAL_WLD_000024,This is a safe place.,這裡是安全區域。
 WDMADRIGAL_WLD_000025,The Wilds Entrance,荒野叢境入口
 WDMADRIGAL_WLD_000026,Coral Village,珊瑚村
 WDMADRIGAL_WLD_000028,Coral Island,珊瑚島
@@ -85,14 +85,14 @@ WDMADRIGAL_WLD_000036,This place was famous long ago...,這裡曾聞名一時…
 WDMADRIGAL_WLD_000037,Kaillun,凱倫
 WDMADRIGAL_WLD_000038,Welcome to Kaillun!,歡迎來到凱倫！
 WDMADRIGAL_WLD_000039,Orbalune Port,奧爾巴倫港
-WDMADRIGAL_WLD_000040,This is a safe place.,這裡是安全地區。
+WDMADRIGAL_WLD_000040,This is a safe place.,這裡是安全區域。
 WDMADRIGAL_WLD_000041,Kaillun Grassland,凱倫草原
 WDMADRIGAL_WLD_000042,Dreknir Ridge,德雷克尼爾嶺
 WDMADRIGAL_WLD_000043,Lionrath Falls,萊昂拉斯瀑布
 WDMADRIGAL_WLD_000044,Velora Cliffs,維洛拉懸崖
 WDMADRIGAL_WLD_000045,Dreknir Forest,德雷克尼爾森林
 WDMADRIGAL_WLD_000046,Ankou's Asylum Entrance,安庫幽禁所入口
-WDMADRIGAL_WLD_000047,This is a safe place.,這裡是安全地區。
+WDMADRIGAL_WLD_000047,This is a safe place.,這裡是安全區域。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000000,Darkon 1\nErons Factory 2,得肯第一區\n艾磷斯第二工廠
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000001,Erons Factory 2. Used to produce Erons.,生產艾磷斯的第二工廠。專門生產艾磷斯的地方。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000002,The Middle of Leren Mountains,勒倫山脈中部
@@ -125,7 +125,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000028,Haunt of Nyangnyang,喵娘的棲息地
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000029,Haunt of Nyangnyang.,這裡是貓種族「喵娘」的棲息地
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000030,The bridge was repaired!\n You used to have to jump across a gap.,前方的橋已經斷了！\n必須用跳躍來跳過去才行。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000031,Lodelight,生命光柱
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000032,This is a safe place.,這裡是安全地區
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000032,This is a safe place.,這裡是安全區域。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000033,Madren Town,莫德琳鎮
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000034,This is a small town for Demian.\nCast-off Demian live here.,丹丹所建立的小鎮。\n被家人遺棄的小孩，成為丹丹之後居住在這裡。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000035,Middle of River of Weeping,哭泣之河中部
@@ -150,7 +150,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000055,Eastern River of Weeping,哭泣之河東�
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000056,The Eastern part of the River of Weeping\nAltar of Dreadpet,哭泣之河的東部\n德萊德祭壇
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000057,Another Altar to the Dreadpet.\nThe magic of the Dreadpet tamers electrifies the air.,另一個控制德萊德魔獸的祭壇。\n此處的魔獸馴獸師能夠讓空氣導電。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000058,Saint Morning\nSaint Hall,聖音特\n聖音特教堂
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000059,Saint Hall is the oldest building. It has been standing longer than anyone in town has been alive.\nPublic offices and the laboratory are located in this building.,聖音特教堂是最古老的建築，佇立在此的時間遠比鎮上任何居民的壽命還長。\n設置有管理中心與研究中心。
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000059,Saint Hall is the oldest building. It has been standing longer than anyone in town has been alive.\nPublic offices and the laboratory are located in this building.,聖音特教堂是最古老的建築，存在的時間比鎮上任何居民的年紀都長。\n城鎮服務處與研究室都位於這棟建築內。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000060,Saint Morning,聖音特
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000061,Saint Morning has gained independence from Flaris.\nThey have made a fortune from commerce.,聖音特從布拉里斯獨立出來。\n許多人因為貿易的活耀而致富。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000062,Saint Morning\nStation,聖音特\n航空站
@@ -174,7 +174,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000079,Plateau of Silence\nGravity Disorder Area
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000080,"It is impossible to fly in this area of Madrigal. According to a research group, gravity is stronger here than anywhere else in the world.",唯一在瑪德利賈中不能飛行的區域，根據研究團隊研究，這裡的重力比起世界上任何地方都還要強大。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000081,Hill of Shade,闇影丘嶺
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000082,"Shade, the Clown Goddess was here.\nShe created this place in the time it takes to blink an eye.",小丑之神闇影曾到過這裡。\n她一眨眼就創造出了這個地方。
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000083,This is a safe place.,這裡是安全地區，你在這裡可以得到保護！
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000083,This is a safe place.,這裡是安全區域。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000084,Pumpkin Town\nThe Home of Mr. Pumpkin.,南瓜鎮\n南瓜先生居住地
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000085,"This town was made by people who dislike the city life of Saint Morning.\nHowever, this town was ruined because of an invasion of Mr. Pumpkins.",不喜歡居住在聖音特城鎮的人類，搬到此地開發的一個小村莊\n但是村莊在被南瓜先生襲擊後，遭到了破壞。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000086,Central Hillid Mountains,矽立得山脈中部
@@ -260,9 +260,9 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000165,"Euphresia was a magical, dreamlike wetla
 PROTOTYPE_WLD_000000,Prototype,原型
 WDPROTOTYPE_WLD_000000,Unknown Place in Madrigal,瑪德利賈大陸未知地區
 WDPROTOTYPE_WLD_000001,Only a Game Master can help you to leave.,你無法自行離開，請聯繫 GM 遊戲管理員。
-WDREALM_WLD_000000,This is a safe place.,這裡是安全地區
-WDREALM_WLD_000001,This is a safe place.,這裡是安全地區
-WDREALM_WLD_000002,This is a safe place.,這裡是安全地區
+WDREALM_WLD_000000,This is a safe place.,這裡是安全區域。
+WDREALM_WLD_000001,This is a safe place.,這裡是安全區域。
+WDREALM_WLD_000002,This is a safe place.,這裡是安全區域。
 WORLD_WDEVENT01_WDEVENT01_RGN_000000,You enter a battle zone!!!,你進入了戰鬥區域！！!
 WDHEAVEN06_1_WLD_000003,Secret Room,秘密房間
 WDUPRESIA_WLD_000000,Euphresia,尤芙蕾西亞

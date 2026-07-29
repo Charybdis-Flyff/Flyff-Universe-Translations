@@ -115,7 +115,7 @@ PROPSKILL_TXT_000113,Removes debuffs from the target.,移除所有異常狀態�
 PROPSKILL_TXT_000114,Geburah Tiphreth,戰士之歌
 PROPSKILL_TXT_000115,"Draws upon the inner strength of the user and nearby party members, increasing Attack, Attack Speed and Casting Speed for a limited time.",吟唱戰歌，提升自身周遭的隊友攻擊力、攻擊速度和施法速度。
 PROPSKILL_TXT_000116,Merkaba Hanzelrusha,神聖領域
-PROPSKILL_TXT_000117,Summons a lingering effect that deals damage over time to enemies within its area.,設置一個持續效果，使區域內的敵人持續受到傷害。
+PROPSKILL_TXT_000117,Summons a lingering effect that deals damage over time to enemies within its area.,召喚一個持續存在的效果，對範圍內的敵人造成持續傷害。
 PROPSKILL_TXT_000118,Belial Smashing,貝利爾碎擊
 PROPSKILL_TXT_000119,Strikes the enemy with five powerful blows.,拳頭冒出火花，同時往前衝刺進行強力的攻擊。
 PROPSKILL_TXT_000120,Piercing Serpent,蛇影穿芒
@@ -294,7 +294,7 @@ PROPSKILL_TXT_000298,Burningfield,灼熱領域
 PROPSKILL_TXT_000299,"Ignites the ground, creating a burning field that deals damage over time to enemies standing on it.",在一定範圍內召喚出火燄，使敵人持續受到傷害。
 PROPSKILL_TXT_000300,Poison,中毒
 PROPSKILL_TXT_000301,"You are poisoned, suffering damage over time and reduced HP Restoration.",你已中毒，會持續受到傷害，且生命恢復效果降低。
-PROPSKILL_TXT_000302,Stun,擊暈
+PROPSKILL_TXT_000302,Stun,暈眩
 PROPSKILL_TXT_000303,You are stunned and cannot move.,你被暈眩了，動彈不得。
 PROPSKILL_TXT_000304,Bleeding,流血
 PROPSKILL_TXT_000305,"You are bleeding, suffering damage over time and reduced Attack Speed and Casting Speed.",你正在流血，會持續受到傷害，且攻擊速度與施法速度降低。
@@ -439,7 +439,7 @@ PROPSKILL_TXT_100090,"Iblis is a revered god of apathy and neutrality, and they 
 PROPSKILL_TXT_100091,Bubble's Bulwark,巴布樂庇護
 PROPSKILL_TXT_100092,"Bubble is a legendary god of joy and purity, and they grant this buff to players by creating a powerful shield that provides an extra layer of defense against enemy attacks.",由喜悅之神巴布樂，賦予的強力護盾，提升防禦力以抵擋敵方傷害。
 PROPSKILL_TXT_100093,Guild's Enhancement,公會強化
-PROPSKILL_TXT_100094,Donate G-Tokens to your guild and upgrade this enhancement's level!,捐贈 G-Tokens，提升公會強化等級！
+PROPSKILL_TXT_100094,Donate G-Tokens to your guild and upgrade this enhancement's level!,捐贈 G 代幣，提升公會強化等級！
 PROPSKILL_TXT_100095,Spiritual Overcharge,靈能激湧
 PROPSKILL_TXT_100096,Healing Grace,聖療恩典
 PROPSKILL_TXT_100097,Prankster's Escape,詭戲脫逃
@@ -476,7 +476,7 @@ PROPSKILL_TXT_100127,Reload the Experience Lock Gauge by 5% of the maximum.,將�
 PROPSKILL_TXT_100128,Party Together,同心劇團
 PROPSKILL_TXT_100129,Increases party experience by 10% for 30 minutes while you and your partner are in the same party.,當你與情侶位於同一劇團時，劇團經驗值提高 10%，持續 30 分鐘。
 PROPSKILL_TXT_100130,Golden Luck,黃金幸運
-PROPSKILL_TXT_100131,Increases drop rate and Penya gained by 5% for you and your partner for 10 minutes.,你與情侶的道具掉落率與 Penya 獲得量提高 5%，持續 10 分鐘。
+PROPSKILL_TXT_100131,Increases drop rate and Penya gained by 5% for you and your partner for 10 minutes.,你與情侶的道具掉落率與金幣獲得量提高 5%，持續 10 分鐘。
 PROPSKILL_TXT_100132,Stamina Boost,活力共鳴
 PROPSKILL_TXT_100133,Increases all stats by 5 for you and your partner for 10 minutes.,你與情侶的全能力值提高 5 點，持續 10 分鐘。
 PROPSKILL_TXT_100134,Sky's Blessing,蒼穹祝福

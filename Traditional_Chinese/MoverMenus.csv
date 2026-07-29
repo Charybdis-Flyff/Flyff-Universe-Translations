@@ -19,7 +19,7 @@ MMI_16,Guild Rankings,公會排名
 MMI_17,Guild Duel Rankings,公會決鬥排名
 MMI_18,Guild Statistics Rankings,公會統計排名
 MMI_21,Register Bounty,登記懸賞金
-MMI_22,Bounty List,懸賞金名單
+MMI_22,Bounty List,懸賞名單
 MMI_24,View equipment,查看裝備
 MMI_25,Mailbox,信箱
 MMI_26,Apply,套用
@@ -71,7 +71,7 @@ MMI_1003,Unbinding,解除綁定
 MMI_1004,Exchange,交換
 MMI_1005,Combat Power Ranking,戰鬥力排名
 MMI_1006,Giant Hunt Ranking ,首領擊殺排名
-MMI_1007,Accessory Upgrade,飾品升級
+MMI_1007,Accessory Upgrade,飾品精煉
 MMI_1008,Mute,靜音
 MMI_1009,Unmute,解除靜音
 MMI_1010,Freeze,禁止移動
@@ -119,7 +119,7 @@ MMI_1055,Dismantle Item,分解物品
 MMI_1056,Purchase Guild Ship,購買公會飛船
 MMI_1057,Enter Guild Ship,進入公會飛船
 MMI_1058,Enter Your House,進入你的小屋
-MMI_1059,Select House Template,選擇小屋模板
+MMI_1059,Select House Template,選擇小屋範本
 MMI_1060,Visit Friend's House,拜訪好友的小屋
 MMI_1061,Edit,編輯
 MMI_1062,Remove,移除
@@ -161,7 +161,7 @@ MMI_1099,Enter Couple House,進入情侶小屋
 MMI_1100,Select Couple House Template,選擇情侶小屋模板
 MMI_1101,Wandering Shop,流浪商店
 MMI_1102,Master Chip Shop - Alchemy,大師籌碼商店 - 煉金
-MMI_1103,Product Upgrade,生產品升級
+MMI_1103,Product Upgrade,製作品升級
 MMI_1104,Life Mastery Ranking,生活精通排名
 MMI_1105,Life Mastery Ranking Reward,生活精通排名獎勵
 MMI_1106,Alchemy,煉金
@@ -178,7 +178,7 @@ MMI_1121,Champion Coin Exchange,冠軍硬幣交換
 MMI_1116,Synthesize Ultimate Jewel,合成終極寶石 (3 合 1)
 MMI_1117,Convert Ultimate Jewel,轉換終極寶石
 MMI_2025,PTS Exchange (Equipment),PTS 交換 (裝備)
-MMI_2026,Give Feedback,提供反饋
+MMI_2026,Give Feedback,提供意見回饋
 MMI_2027,PTS Exchange (Materials),PTS 交換 (材料)
 MMI_2028,PTS Exchange (Essentials),PTS 交換 (基本)
 MMI_2029,PTS Exchange (Jewelry),PTS 交換 (飾品)
