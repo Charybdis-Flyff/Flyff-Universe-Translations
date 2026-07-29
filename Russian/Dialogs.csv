@@ -1347,8 +1347,7 @@ NPC_150199,I am the mayor of Eillun. The harmony of our blossoms and our people 
 NPC_150200,Farewell!,Прощайте!
 NPC_150201,I've spotted a security issue that needs immediate attention. Can you handle it?,"Я заметил проблему с безопасностью, требующую немедленного решения. Не возьмёшься?"
 NPC_100198,Let luck do its thing.,Пусть удача идёт своим путём.
-NPC_100199,I deal in pieces and fortune.\nCare to try your luck?,"Я торгую фрагментами и удачей.
-Не хочешь испытать судьбу?"
+NPC_100199,I deal in pieces and fortune.\nCare to try your luck?,"Я торгую фрагментами и удачей. Не хочешь испытать судьбу?"
 NPC_100200,Wanna test your luck?,Хочешь испытать удачу?
 NPC_150202,#b#cff8a004fThe #cfff60000Level 165 Guild Siege Application Center #cff8a004fis open! Enjoy it before your third class!#nc#nb,#b#cff8a004fОткрыт #cfff60000Центр записи на Осадную Войну (165 уровень)#cff8a004f! Воспользуйся возможностью до третьего класса!#nc#nb
 NPC_150203,Good Luck!,Удачи!
@@ -1365,8 +1364,7 @@ NPC_155015,"Damn it, there are still people trapped inside!","Чёрт, внут
 NPC_155016,You're the rescue team? Good. You'll need my observation records.,Вы спасатели? Отлично. Тебе пригодятся мои записи из наблюдений.
 NPC_155017,"I'm Root. I was in charge of plant mutation management and cultivation... Well, I WAS. Now I'm investigating this incident.","Меня зовут Рут. Я отвечал за управление мутациями растений и их выращиванием… Ну, отвечал. Сейчас расследую этот инцидент."
 NPC_155018,Hmm... I should document that mutation pattern...,Хмм… Я должен зафиксировать этот паттерн мутации…
-NPC_155019,"This is serious… For something like this to happen inside the village…\nWe need to contain it, and fast.","Это серьёзно… Чтобы такое происходило внутри деревни…
-Нужно сдержать заразу, и быстро."
+NPC_155019,"This is serious… For something like this to happen inside the village…\nWe need to contain it, and fast.","Это серьёзно… Чтобы такое происходило внутри деревни… Нужно сдержать заразу, и быстро."
 NPC_155020,Baron here. Have you found the three yet?,Это Барон. Ты нашёл троих?
 NPC_155021,We don’t have much time. Every delay makes things worse.,У нас не так много времени. Каждое промедление только ухудшает ситуацию.
 NPC_156000,P-please help me! I-I can't go back to the village like this! W-what if those things show up again? I-I won't make it on my own...,"П-пожалуйста, помоги мне! Я-я не могу вернуться в деревню в таком виде! А-а вдруг те создания явятся снова? Я-я не справлюсь одна…"
