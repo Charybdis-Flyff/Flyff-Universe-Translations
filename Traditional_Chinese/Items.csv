@@ -4987,7 +4987,7 @@ PROPITEM_TXT_010286,NFL Uniform (M),美式足球服 (男)
 PROPITEM_TXT_014251,Forest Faerie Shoes for female characters.,森林精靈鞋 (女)，供女性角色使用。
 PROPITEM_TXT_009255,"One of the legend cloaks (honor, light, sea god), It makes increase drop rate.",瑪德利賈大陸從以前流傳下來的傳說 3 大披風中 (榮耀，光芒，龍王) 的其中之一，使用後可以從怪物身上獲得更多道具
 PROPITEM_TXT_010298,NFL Gloves (F),美式足球手套 (女)
-PROPITEM_TXT_011137,Hands for female characters.,女性角色用手套。
+PROPITEM_TXT_011137,Hands for female characters.,女角色使用的手套。
 PROPITEM_TXT_010438,Spacesuit Hat (F),宇宙服帽子 (女)
 PROPITEM_TXT_020382,Black Wedding Shoes for Male Characters.,黑色禮服鞋子 (男)，供男性角色使用。
 PROPITEM_TXT_019641,Cloak of the Almighty Blood Dragon (M),全能血龍的披風 (男)
@@ -5223,7 +5223,7 @@ PROPITEM_TXT_017054,Santa's Hat (colored version),聖誕老人帽 (彩色版)
 PROPITEM_TXT_020600,Blue Snowboarder Shoes for Male Characters.,聖誕帽 (彩色)
 PROPITEM_TXT_015229,An elegant Yukata reserved for the seafaring warrior. This mystical garb is said to harness the power of the typhoon.,為航海戰士準備的優雅浴衣。據說這種神秘的服裝可利用颱風的力量。
 PROPITEM_TXT_009830,Traditional German Hat (M),德國鄉村帽子 (男)
-PROPITEM_TXT_009717,Hands for male characters,男性角色用手套。
+PROPITEM_TXT_009717,Hands for male characters,男角色使用的手套。
 PROPITEM_TXT_012036,Cloak of the Night Sky,夜空披風
 PROPITEM_TXT_017073,Luxurious Ski Hat (F),奢華滑雪帽 (女)
 PROPITEM_TXT_015426,Traditional Taiwan Outfit (M),賽德克服裝 (男)
@@ -5244,7 +5244,7 @@ PROPITEM_TXT_017038,Some fancy frogtastic Gloves (size S),花哨的青蛙手套 
 PROPITEM_TXT_016875,Vampire Hat (F),吸血鬼帽子 (女)
 PROPITEM_TXT_020368,Neo Hip Hop Suit for Male Characters.,新嘻哈男角色套裝。
 PROPITEM_TXT_012422,Bushido Yukata Hair (M),武士浴衣髮型 (男)
-PROPITEM_TXT_011127,Hands for male characters.,男性角色用手套。
+PROPITEM_TXT_011127,Hands for male characters.,男角色使用的手套。
 PROPITEM_TXT_011177,Detective Hands for female characters.,女性用偵探手套
 PROPITEM_TXT_016843,Traditional German Shoes (M) 2015,德國鄉村鞋子 2015 (男)
 PROPITEM_TXT_015161,These armor colors clearly show that you are not edible.,這些盔甲顏色清楚地表明你不可食用。
@@ -5787,7 +5787,7 @@ PROPITEM_TXT_009887,Traditional Thailand Shoes for female characters.,女性角�
 PROPITEM_TXT_010713,"A yukata is a Japanese garment, a casual summer kimono usually made of cotton. These hands are for female characters.",浴衣是一種日本服裝，通常是棉質的夏季休閒和服。這雙手套供女性角色使用。
 PROPITEM_TXT_017289,Bolo Cloak (F),哈薩拉披風 (女)
 PROPITEM_TXT_017939,Rose Bunny Yukata Gloves (F),玫瑰浴衣手套 (女)
-PROPITEM_TXT_009725,Hands for female characters,女性角色用手套。
+PROPITEM_TXT_009725,Hands for female characters,女角色使用的手套。
 PROPITEM_TXT_017182,Wedding Tuxedo for Male Characters,新郎燕尾服 (男)，供男性角色使用。
 PROPITEM_TXT_009976,Traditional Chile Suit (F),智利服裝 (女)
 PROPITEM_TXT_014174,Samba Gloves (M),森巴手套 (男)
@@ -6664,7 +6664,7 @@ PROPITEM_TXT_100230,Casual Summer 8% Blue Set,夏日休閒藍色套裝 8%
 PROPITEM_TXT_100231,Casual Summer 2% Coral Set,夏季休閒珊瑚套裝 2%
 PROPITEM_TXT_100232,Casual Summer 10% Black Set,夏日休閒黑色套裝 10%
 PROPITEM_TXT_100233,Casual Summer 6% White Set,夏日休閒白色套裝 6%
-PROPITEM_TXT_100234,Select which Gender you want to receive!,選擇你想要的性別！
+PROPITEM_TXT_100234,Select which Gender you want to receive!,選擇想獲得的性別！
 PROPITEM_TXT_100235,Casual Summer 4% Purple Set (F),夏日休閒紫色套裝 4% (女)
 PROPITEM_TXT_100236,The Casual Summer Purple set for female characters.,女角色使用的夏日休閒紫色套裝 4%。
 PROPITEM_TXT_100237,Casual Summer 8% Blue Set (F),夏日休閒藍色套裝 8% (女)
@@ -8019,92 +8019,92 @@ PROPITEM_TXT_101381,Baby Mothbee,魔斯蜂空軍寶貝
 PROPITEM_TXT_101382,"A cute and fast, baby, Mothbee that follows its master around and picks up dropped items",一隻可愛又快速的魔斯蜂空軍寶貝跟隨它的主人並撿起掉落的物品
 PROPITEM_TXT_101383,Baby Hobo,獨刀寶貝
 PROPITEM_TXT_101384,"A cute and fast, baby, Hobo that follows its master around and picks up dropped items",一個可愛而快速的獨刀寶貝跟隨它的主人並撿起掉落的物品
-PROPITEM_TXT_101385,Menhera Kei Costume Lucky Box,病嬌系造型幸運箱
-PROPITEM_TXT_101386,This box contains a Menhera Kei Costume Set with Speed bonus. You can select your gender after opening the Lucky Box.,此箱子包含一套帶有速度加成的病嬌系造型套裝，可以在打開幸運箱後選擇性別。
-PROPITEM_TXT_101387,Menhera Kei 10% Violet Set,病嬌系紫色套裝 10%
-PROPITEM_TXT_101388,Menhera Kei 8% Blue Set,病嬌系藍色套裝 8%
-PROPITEM_TXT_101389,Menhera Kei 6% Green Set,病嬌系綠色套裝 6%
-PROPITEM_TXT_101390,Menhera Kei 4% Yellow Set,病嬌系黃色套裝 4%
-PROPITEM_TXT_101391,Menhera Kei 2% Black Set,病嬌系黑色套裝 2%
-PROPITEM_TXT_101392,Menhera Kei 2% White Set,病嬌系白色套裝 2%
-PROPITEM_TXT_101393,Menhera Kei 10% Violet Set (F),病嬌系紫色套裝 10% (女)
-PROPITEM_TXT_101394,Menhera Kei 8% Blue Set (F),病嬌系藍色套裝 8% (女)
-PROPITEM_TXT_101395,Menhera Kei 6% Green Set (F),病嬌系綠色套裝 6% (女)
-PROPITEM_TXT_101396,Menhera Kei 4% Yellow Set (F),病嬌系黃色套裝 4% (女)
-PROPITEM_TXT_101397,Menhera Kei 2% Black Set (F),病嬌系黑色套裝 2% (女)
-PROPITEM_TXT_101398,Menhera Kei 2% White Set (F),病嬌系白色套裝 2% (女)
-PROPITEM_TXT_101399,Menhera Kei 10% Violet Set (M),病嬌系紫色套裝 10% (男)
-PROPITEM_TXT_101400,Menhera Kei 8% Blue Set (M),病嬌系藍色套裝 8% (男)
-PROPITEM_TXT_101401,Menhera Kei 6% Green Set (M),病嬌系綠色套裝 6% (男)
-PROPITEM_TXT_101402,Menhera Kei 4% Yellow Set (M),病嬌系黃色套裝 4% (男)
-PROPITEM_TXT_101403,Menhera Kei 2% Black Set (M),病嬌系黑色套裝 2% (男)
-PROPITEM_TXT_101404,Menhera Kei 2% White Set (M),病嬌系白色套裝 2% (男)
-PROPITEM_TXT_101405,The Menhera Kei Violet set for female characters.,女角色使用的病嬌系紫色套裝 10%。
-PROPITEM_TXT_101406,The Menhera Kei Blue set for female characters.,女角色使用的病嬌系藍色套裝 8%。
-PROPITEM_TXT_101407,The Menhera Kei Green set for female characters.,女角色使用的病嬌系綠色套裝 6%。
-PROPITEM_TXT_101408,The Menhera Kei Yellow set for female characters.,女角色使用的病嬌系黃色套裝 4%。
-PROPITEM_TXT_101409,The Menhera Kei Black set for female characters.,女角色使用的病嬌系黑色套裝 2%。
-PROPITEM_TXT_101410,The Menhera Kei White set for female characters.,女角色使用的病嬌系白色套裝 2%。
-PROPITEM_TXT_101411,The Menhera Kei Violet set for male characters.,男角色使用的病嬌系紫色套裝 10%。
-PROPITEM_TXT_101412,The Menhera Kei Blue set for male characters.,男角色使用的病嬌系藍色套裝 8%。
-PROPITEM_TXT_101413,The Menhera Kei Green set for male characters.,男角色使用的病嬌系綠色套裝 6%。
-PROPITEM_TXT_101414,The Menhera Kei Yellow set for male characters.,男角色使用的病嬌系黃色套裝 4%。
-PROPITEM_TXT_101415,The Menhera Kei Black set for male characters.,男角色使用的病嬌系黑色套裝 2%。
-PROPITEM_TXT_101416,The Menhera Kei White set for male characters.,男角色使用的病嬌系白色套裝 2%。
-PROPITEM_TXT_101417,Menhera Kei Violet Suit (F),病嬌系紫色服裝 (女)
-PROPITEM_TXT_101418,Menhera Kei Blue Suit (F),病嬌系藍色服裝 (女)
-PROPITEM_TXT_101419,Menhera Kei Green Suit (F),病嬌系綠色服裝 (女)
-PROPITEM_TXT_101420,Menhera Kei Yellow Suit (F),病嬌系黃色服裝 (女)
-PROPITEM_TXT_101421,Menhera Kei Black Suit (F),病嬌系黑色服裝 (女)
-PROPITEM_TXT_101422,Menhera Kei White Suit (F),病嬌系白色服裝 (女)
-PROPITEM_TXT_101423,Menhera Kei Suit for female characters.,女角色病嬌系服裝
-PROPITEM_TXT_101424,Menhera Kei Violet Suit (M),病嬌系紫色服裝 (男)
-PROPITEM_TXT_101425,Menhera Kei Blue Suit (M),病嬌系藍色服裝 (男)
-PROPITEM_TXT_101426,Menhera Kei Green Suit (M),病嬌系綠色服裝 (男)
-PROPITEM_TXT_101427,Menhera Kei Yellow Suit (M),病嬌系黃色服裝 (男)
-PROPITEM_TXT_101428,Menhera Kei Black Suit (M),病嬌系黑色服裝 (男)
-PROPITEM_TXT_101429,Menhera Kei White Suit (M),病嬌系白色服裝 (男)
-PROPITEM_TXT_101430,Menhera Kei Suit for male characters.,男角色病嬌系服裝
-PROPITEM_TXT_101431,Menhera Kei Violet Shoes (F),病嬌系紫色鞋子 (女)
-PROPITEM_TXT_101432,Menhera Kei Blue Shoes (F),病嬌系藍色鞋子 (女)
-PROPITEM_TXT_101433,Menhera Kei Green Shoes (F),病嬌系綠色鞋子 (女)
-PROPITEM_TXT_101434,Menhera Kei Yellow Shoes (F),病嬌系黃色鞋子 (女)
-PROPITEM_TXT_101435,Menhera Kei Black Shoes (F),病嬌系黑色鞋子 (女)
-PROPITEM_TXT_101436,Menhera Kei White Shoes (F),病嬌系白色鞋子 (女)
-PROPITEM_TXT_101437,Menhera Kei Shoes for female characters.,女角色病嬌系鞋子
-PROPITEM_TXT_101438,Menhera Kei Violet Shoes (M),病嬌系紫色鞋子 (男)
-PROPITEM_TXT_101439,Menhera Kei Blue Shoes (M),病嬌系藍色鞋子 (男)
-PROPITEM_TXT_101440,Menhera Kei Green Shoes (M),病嬌系綠色鞋子 (男)
-PROPITEM_TXT_101441,Menhera Kei Yellow Shoes (M),病嬌系黃色鞋子 (男)
-PROPITEM_TXT_101442,Menhera Kei Black Shoes (M),病嬌系黑色鞋子 (男)
-PROPITEM_TXT_101443,Menhera Kei White Shoes (M),病嬌系白色鞋子 (男)
-PROPITEM_TXT_101444,Menhera Kei Shoes for male characters.,男角色病嬌系鞋子
-PROPITEM_TXT_101445,Menhera Kei Violet Hair (F),病嬌系紫色髮型 (女)
-PROPITEM_TXT_101446,Menhera Kei Blue Hair (F),病嬌系藍色髮型 (女)
-PROPITEM_TXT_101447,Menhera Kei Green Hair (F),病嬌系綠色髮型 (女)
-PROPITEM_TXT_101448,Menhera Kei Yellow Hair (F),病嬌系黃色髮型 (女)
-PROPITEM_TXT_101449,Menhera Kei Black Hair (F),病嬌系黑色髮型 (女)
-PROPITEM_TXT_101450,Menhera Kei White Hair (F),病嬌系白色髮型 (女)
-PROPITEM_TXT_101451,Menhera Kei Hair for female characters.,女角色病嬌系頭髮
-PROPITEM_TXT_101452,Menhera Kei Violet Hair (M),病嬌系紫色髮型 (男)
-PROPITEM_TXT_101453,Menhera Kei Blue Hair (M),病嬌系藍色髮型 (男)
-PROPITEM_TXT_101454,Menhera Kei Green Hair (M),病嬌系綠色髮型 (男)
-PROPITEM_TXT_101455,Menhera Kei Yellow Hair (M),病嬌系黃色髮型 (男)
-PROPITEM_TXT_101456,Menhera Kei Black Hair (M),病嬌系黑色髮型 (男)
-PROPITEM_TXT_101457,Menhera Kei White Hair (M),病嬌系白色髮型 (男)
-PROPITEM_TXT_101458,Menhera Kei Hair for male characters.,男角色病嬌系頭髮
-PROPITEM_TXT_101459,Menhera Kei Violet Backpack,病嬌系紫色背包
-PROPITEM_TXT_101460,Menhera Kei Blue Backpack,病嬌系藍色背包
-PROPITEM_TXT_101461,Menhera Kei Green Backpack,病嬌系綠色背包
-PROPITEM_TXT_101462,Menhera Kei Yellow Backpack,病嬌系黃色背包
-PROPITEM_TXT_101463,Menhera Kei Black Backpack,病嬌系黑色背包
-PROPITEM_TXT_101464,Menhera Kei White Backpack,病嬌系白色背包
-PROPITEM_TXT_101465,Menhera Kei Violet Patch,病嬌系紫色飾品
-PROPITEM_TXT_101466,Menhera Kei Blue Patch,病嬌系藍色飾品
-PROPITEM_TXT_101467,Menhera Kei Green Patch,病嬌系綠色飾品
-PROPITEM_TXT_101468,Menhera Kei Yellow Patch,病嬌系黃色飾品
-PROPITEM_TXT_101469,Menhera Kei Black Patch,病嬌系黑色飾品
-PROPITEM_TXT_101470,Menhera Kei White Patch,病嬌系白色飾品
+PROPITEM_TXT_101385,Menhera Kei Costume Lucky Box,病嬌系服裝幸運箱
+PROPITEM_TXT_101386,This box contains a Menhera Kei Costume Set with Speed bonus. You can select your gender after opening the Lucky Box.,此幸運箱內含一套具速度加成的病嬌系套裝，開啟後可選擇性別。
+PROPITEM_TXT_101387,Menhera Kei 10% Violet Set,病嬌系夢紫套裝 10%
+PROPITEM_TXT_101388,Menhera Kei 8% Blue Set,病嬌系淚藍套裝 8%
+PROPITEM_TXT_101389,Menhera Kei 6% Green Set,病嬌系毒翠套裝 6%
+PROPITEM_TXT_101390,Menhera Kei 4% Yellow Set,病嬌系蜜金套裝 4%
+PROPITEM_TXT_101391,Menhera Kei 2% Black Set,病嬌系闇心套裝 2%
+PROPITEM_TXT_101392,Menhera Kei 2% White Set,病嬌系蒼白套裝 2%
+PROPITEM_TXT_101393,Menhera Kei 10% Violet Set (F),病嬌系夢紫套裝 10% (女)
+PROPITEM_TXT_101394,Menhera Kei 8% Blue Set (F),病嬌系淚藍套裝 8% (女)
+PROPITEM_TXT_101395,Menhera Kei 6% Green Set (F),病嬌系毒翠套裝 6% (女)
+PROPITEM_TXT_101396,Menhera Kei 4% Yellow Set (F),病嬌系蜜金套裝 4% (女)
+PROPITEM_TXT_101397,Menhera Kei 2% Black Set (F),病嬌系闇心套裝 2% (女)
+PROPITEM_TXT_101398,Menhera Kei 2% White Set (F),病嬌系蒼白套裝 2% (女)
+PROPITEM_TXT_101399,Menhera Kei 10% Violet Set (M),病嬌系夢紫套裝 10% (男)
+PROPITEM_TXT_101400,Menhera Kei 8% Blue Set (M),病嬌系淚藍套裝 8% (男)
+PROPITEM_TXT_101401,Menhera Kei 6% Green Set (M),病嬌系毒翠套裝 6% (男)
+PROPITEM_TXT_101402,Menhera Kei 4% Yellow Set (M),病嬌系蜜金套裝 4% (男)
+PROPITEM_TXT_101403,Menhera Kei 2% Black Set (M),病嬌系闇心套裝 2% (男)
+PROPITEM_TXT_101404,Menhera Kei 2% White Set (M),病嬌系蒼白套裝 2% (男)
+PROPITEM_TXT_101405,The Menhera Kei Violet set for female characters.,女角色使用的病嬌系夢紫套裝。
+PROPITEM_TXT_101406,The Menhera Kei Blue set for female characters.,女角色使用的病嬌系淚藍套裝。
+PROPITEM_TXT_101407,The Menhera Kei Green set for female characters.,女角色使用的病嬌系毒翠套裝。
+PROPITEM_TXT_101408,The Menhera Kei Yellow set for female characters.,女角色使用的病嬌系蜜金套裝。
+PROPITEM_TXT_101409,The Menhera Kei Black set for female characters.,女角色使用的病嬌系闇心套裝。
+PROPITEM_TXT_101410,The Menhera Kei White set for female characters.,女角色使用的病嬌系蒼白套裝。
+PROPITEM_TXT_101411,The Menhera Kei Violet set for male characters.,男角色使用的病嬌系夢紫套裝。
+PROPITEM_TXT_101412,The Menhera Kei Blue set for male characters.,男角色使用的病嬌系淚藍套裝。
+PROPITEM_TXT_101413,The Menhera Kei Green set for male characters.,男角色使用的病嬌系毒翠套裝。
+PROPITEM_TXT_101414,The Menhera Kei Yellow set for male characters.,男角色使用的病嬌系蜜金套裝。
+PROPITEM_TXT_101415,The Menhera Kei Black set for male characters.,男角色使用的病嬌系闇心套裝。
+PROPITEM_TXT_101416,The Menhera Kei White set for male characters.,男角色使用的病嬌系蒼白套裝。
+PROPITEM_TXT_101417,Menhera Kei Violet Suit (F),病嬌系夢紫服裝 (女)
+PROPITEM_TXT_101418,Menhera Kei Blue Suit (F),病嬌系淚藍服裝 (女)
+PROPITEM_TXT_101419,Menhera Kei Green Suit (F),病嬌系毒翠服裝 (女)
+PROPITEM_TXT_101420,Menhera Kei Yellow Suit (F),病嬌系蜜金服裝 (女)
+PROPITEM_TXT_101421,Menhera Kei Black Suit (F),病嬌系闇心服裝 (女)
+PROPITEM_TXT_101422,Menhera Kei White Suit (F),病嬌系蒼白服裝 (女)
+PROPITEM_TXT_101423,Menhera Kei Suit for female characters.,女角色使用的病嬌系服裝。
+PROPITEM_TXT_101424,Menhera Kei Violet Suit (M),病嬌系夢紫服裝 (男)
+PROPITEM_TXT_101425,Menhera Kei Blue Suit (M),病嬌系淚藍服裝 (男)
+PROPITEM_TXT_101426,Menhera Kei Green Suit (M),病嬌系毒翠服裝 (男)
+PROPITEM_TXT_101427,Menhera Kei Yellow Suit (M),病嬌系蜜金服裝 (男)
+PROPITEM_TXT_101428,Menhera Kei Black Suit (M),病嬌系闇心服裝 (男)
+PROPITEM_TXT_101429,Menhera Kei White Suit (M),病嬌系蒼白服裝 (男)
+PROPITEM_TXT_101430,Menhera Kei Suit for male characters.,男角色使用的病嬌系服裝。
+PROPITEM_TXT_101431,Menhera Kei Violet Shoes (F),病嬌系夢紫鞋子 (女)
+PROPITEM_TXT_101432,Menhera Kei Blue Shoes (F),病嬌系淚藍鞋子 (女)
+PROPITEM_TXT_101433,Menhera Kei Green Shoes (F),病嬌系毒翠鞋子 (女)
+PROPITEM_TXT_101434,Menhera Kei Yellow Shoes (F),病嬌系蜜金鞋子 (女)
+PROPITEM_TXT_101435,Menhera Kei Black Shoes (F),病嬌系闇心鞋子 (女)
+PROPITEM_TXT_101436,Menhera Kei White Shoes (F),病嬌系蒼白鞋子 (女)
+PROPITEM_TXT_101437,Menhera Kei Shoes for female characters.,女角色使用的病嬌系鞋子。
+PROPITEM_TXT_101438,Menhera Kei Violet Shoes (M),病嬌系夢紫鞋子 (男)
+PROPITEM_TXT_101439,Menhera Kei Blue Shoes (M),病嬌系淚藍鞋子 (男)
+PROPITEM_TXT_101440,Menhera Kei Green Shoes (M),病嬌系毒翠鞋子 (男)
+PROPITEM_TXT_101441,Menhera Kei Yellow Shoes (M),病嬌系蜜金鞋子 (男)
+PROPITEM_TXT_101442,Menhera Kei Black Shoes (M),病嬌系闇心鞋子 (男)
+PROPITEM_TXT_101443,Menhera Kei White Shoes (M),病嬌系蒼白鞋子 (男)
+PROPITEM_TXT_101444,Menhera Kei Shoes for male characters.,男角色使用的病嬌系鞋子。
+PROPITEM_TXT_101445,Menhera Kei Violet Hair (F),病嬌系夢紫髮型 (女)
+PROPITEM_TXT_101446,Menhera Kei Blue Hair (F),病嬌系淚藍髮型 (女)
+PROPITEM_TXT_101447,Menhera Kei Green Hair (F),病嬌系毒翠髮型 (女)
+PROPITEM_TXT_101448,Menhera Kei Yellow Hair (F),病嬌系蜜金髮型 (女)
+PROPITEM_TXT_101449,Menhera Kei Black Hair (F),病嬌系闇心髮型 (女)
+PROPITEM_TXT_101450,Menhera Kei White Hair (F),病嬌系蒼白髮型 (女)
+PROPITEM_TXT_101451,Menhera Kei Hair for female characters.,女角色使用的病嬌系髮型。
+PROPITEM_TXT_101452,Menhera Kei Violet Hair (M),病嬌系夢紫髮型 (男)
+PROPITEM_TXT_101453,Menhera Kei Blue Hair (M),病嬌系淚藍髮型 (男)
+PROPITEM_TXT_101454,Menhera Kei Green Hair (M),病嬌系毒翠髮型 (男)
+PROPITEM_TXT_101455,Menhera Kei Yellow Hair (M),病嬌系蜜金髮型 (男)
+PROPITEM_TXT_101456,Menhera Kei Black Hair (M),病嬌系闇心髮型 (男)
+PROPITEM_TXT_101457,Menhera Kei White Hair (M),病嬌系蒼白髮型 (男)
+PROPITEM_TXT_101458,Menhera Kei Hair for male characters.,男角色使用的病嬌系髮型。
+PROPITEM_TXT_101459,Menhera Kei Violet Backpack,病嬌系夢紫背包
+PROPITEM_TXT_101460,Menhera Kei Blue Backpack,病嬌系淚藍背包
+PROPITEM_TXT_101461,Menhera Kei Green Backpack,病嬌系毒翠背包
+PROPITEM_TXT_101462,Menhera Kei Yellow Backpack,病嬌系蜜金背包
+PROPITEM_TXT_101463,Menhera Kei Black Backpack,病嬌系闇心背包
+PROPITEM_TXT_101464,Menhera Kei White Backpack,病嬌系蒼白背包
+PROPITEM_TXT_101465,Menhera Kei Violet Patch,病嬌系夢紫飾品
+PROPITEM_TXT_101466,Menhera Kei Blue Patch,病嬌系淚藍飾品
+PROPITEM_TXT_101467,Menhera Kei Green Patch,病嬌系毒翠飾品
+PROPITEM_TXT_101468,Menhera Kei Yellow Patch,病嬌系蜜金飾品
+PROPITEM_TXT_101469,Menhera Kei Black Patch,病嬌系闇心飾品
+PROPITEM_TXT_101470,Menhera Kei White Patch,病嬌系蒼白飾品
 PROPITEM_TXT_101471,"Exchange 10 mosquitoes and 50,000 Penya for a Rock-Paper-Scissors coupon to the Mayor of Flarine.","用 10 隻蚊子和 50,000 金幣換取一張剪刀石頭布優惠券給布拉里斯市長。"
 PROPITEM_TXT_101472,Low Star Sign Cloak (Aries),低星座披風 (牡羊座)
 PROPITEM_TXT_101473,Low Star Sign Cloak (Taurus),低星座披風 (金牛座)
@@ -8168,92 +8168,92 @@ PROPITEM_TXT_101521,Red Gummy Bear,櫻桃軟糖熊
 PROPITEM_TXT_101522,Black Gummy Bear,黑糖軟糖熊
 PROPITEM_TXT_101523,White Gummy Bear,牛奶軟糖熊
 PROPITEM_TXT_101524,A cute Gummy Bear that follows its master around and picks up dropped items,一隻可愛小熊軟糖，跟隨它的主人並撿起掉落的物品
-PROPITEM_TXT_101525,Gummy Bear Costume Lucky Box,小熊軟糖服裝幸運箱
-PROPITEM_TXT_101526,This box contains a Gummy Bear Costume Set with Speed bonus. You can select your gender after opening the Lucky Box.,此盒子包含帶有速度獎勵的小熊軟糖服裝套裝。你可在打開幸運箱後選擇你的性別。
-PROPITEM_TXT_101527,Gummy Bear 10% Blue Set,軟糖熊藍色套裝 10%
-PROPITEM_TXT_101528,Gummy Bear 8% Green Set,軟糖熊綠色套裝 8%
-PROPITEM_TXT_101529,Gummy Bear 6% Yellow Set,軟糖熊黃色套裝 6%
-PROPITEM_TXT_101530,Gummy Bear 4% Red Set,軟糖熊紅色套裝 4%
-PROPITEM_TXT_101531,Gummy Bear 2% Black Set,軟糖熊黑色套裝 2%
-PROPITEM_TXT_101532,Gummy Bear 2% White Set,軟糖熊白色套裝 2%
-PROPITEM_TXT_101533,Gummy Bear 10% Blue Set (F),軟糖熊藍色套裝 10% (女)
-PROPITEM_TXT_101534,Gummy Bear 8% Green Set (F),軟糖熊綠色套裝 8% (女)
-PROPITEM_TXT_101535,Gummy Bear 6% Yellow Set (F),軟糖熊黃色套裝 6% (女)
-PROPITEM_TXT_101536,Gummy Bear 4% Red Set (F),軟糖熊紅色套裝 4% (女)
-PROPITEM_TXT_101537,Gummy Bear 2% Black Set (F),軟糖熊黑色套裝 2% (女)
-PROPITEM_TXT_101538,Gummy Bear 2% White Set (F),軟糖熊白色套裝 2% (女)
-PROPITEM_TXT_101539,Gummy Bear 10% Blue Set (M),軟糖熊藍色套裝 10% (男)
-PROPITEM_TXT_101540,Gummy Bear 8% Green Set (M),軟糖熊綠色套裝 8% (男)
-PROPITEM_TXT_101541,Gummy Bear 6% Yellow Set (M),軟糖熊黃色套裝 6% (男)
-PROPITEM_TXT_101542,Gummy Bear 4% Red Set (M),軟糖熊紅色套裝 4% (男)
-PROPITEM_TXT_101543,Gummy Bear 2% Black Set (M),軟糖熊黑色套裝 2% (男)
-PROPITEM_TXT_101544,Gummy Bear 2% White Set (M),軟糖熊白色套裝 2% (男)
-PROPITEM_TXT_101545,The Gummy Bear Blue set for female characters.,女角色使用的軟糖熊藍色套裝 10%。
-PROPITEM_TXT_101546,The Gummy Bear Green set for female characters.,女角色使用的軟糖熊綠色套裝 8%。
-PROPITEM_TXT_101547,The Gummy Bear Yellow set for female characters.,女角色使用的軟糖熊黃色套裝 6%。
-PROPITEM_TXT_101548,The Gummy Bear Red set for female characters.,女角色使用的軟糖熊紅色套裝 4%。
-PROPITEM_TXT_101549,The Gummy Bear Black set for female characters.,女角色使用的軟糖熊黑色套裝 2%。
-PROPITEM_TXT_101550,The Gummy Bear White set for female characters.,女角色使用的軟糖熊白色套裝 2%。
-PROPITEM_TXT_101551,The Gummy Bear Blue set for male characters.,男角色使用的軟糖熊藍色套裝 10%。
-PROPITEM_TXT_101552,The Gummy Bear Green set for male characters.,男角色使用的軟糖熊綠色套裝 8%。
-PROPITEM_TXT_101553,The Gummy Bear Yellow set for male characters.,男角色使用的軟糖熊黃色套裝 6%。
-PROPITEM_TXT_101554,The Gummy Bear Red set for male characters.,男角色使用的軟糖熊紅色套裝 4%。
-PROPITEM_TXT_101555,The Gummy Bear Black set for male characters.,男角色使用的軟糖熊黑色套裝 2%。
-PROPITEM_TXT_101556,The Gummy Bear White set for male characters.,男角色使用的軟糖熊白色套裝 2%。
-PROPITEM_TXT_101557,Gummy Bear Blue Suit (F),軟糖熊藍色服裝 (女)
-PROPITEM_TXT_101558,Gummy Bear Green Suit (F),軟糖熊綠色服裝 (女)
-PROPITEM_TXT_101559,Gummy Bear Yellow Suit (F),軟糖熊黃色服裝 (女)
-PROPITEM_TXT_101560,Gummy Bear Red Suit (F),軟糖熊紅色服裝 (女)
-PROPITEM_TXT_101561,Gummy Bear Black Suit (F),軟糖熊黑色服裝 (女)
-PROPITEM_TXT_101562,Gummy Bear White Suit (F),軟糖熊白色服裝 (女)
-PROPITEM_TXT_101563,Gummy Bear Suit for female characters.,女角色使用的小熊軟糖服裝
-PROPITEM_TXT_101564,Gummy Bear Blue Suit (M),軟糖熊藍色服裝 (男)
-PROPITEM_TXT_101565,Gummy Bear Green Suit (M),軟糖熊綠色服裝 (男)
-PROPITEM_TXT_101566,Gummy Bear Yellow Suit (M),軟糖熊黃色服裝 (男)
-PROPITEM_TXT_101567,Gummy Bear Red Suit (M),軟糖熊紅色服裝 (男)
-PROPITEM_TXT_101568,Gummy Bear Black Suit (M),軟糖熊黑色服裝 (男)
-PROPITEM_TXT_101569,Gummy Bear White Suit (M),軟糖熊白色服裝 (男)
-PROPITEM_TXT_101570,Gummy Bear Suit for male characters.,男角色使用的小熊軟糖服裝
-PROPITEM_TXT_101571,Gummy Bear Blue Shoes (F),軟糖熊藍色鞋子 (女)
-PROPITEM_TXT_101572,Gummy Bear Green Shoes (F),軟糖熊綠色鞋子 (女)
-PROPITEM_TXT_101573,Gummy Bear Yellow Shoes (F),軟糖熊黃色鞋子 (女)
-PROPITEM_TXT_101574,Gummy Bear Red Shoes (F),軟糖熊紅色鞋子 (女)
-PROPITEM_TXT_101575,Gummy Bear Black Shoes (F),軟糖熊黑色鞋子 (女)
-PROPITEM_TXT_101576,Gummy Bear White Shoes (F),軟糖熊白色鞋子 (女)
-PROPITEM_TXT_101577,Gummy Bear Shoes for female characters.,女角色使用的小熊軟糖鞋子。
-PROPITEM_TXT_101578,Gummy Bear Blue Shoes (M),軟糖熊藍色鞋子 (男)
-PROPITEM_TXT_101579,Gummy Bear Green Shoes (M),軟糖熊綠色鞋子 (男)
-PROPITEM_TXT_101580,Gummy Bear Yellow Shoes (M),軟糖熊黃色鞋子 (男)
-PROPITEM_TXT_101581,Gummy Bear Red Shoes (M),軟糖熊紅色鞋子 (男)
-PROPITEM_TXT_101582,Gummy Bear Black Shoes (M),軟糖熊黑色鞋子 (男)
-PROPITEM_TXT_101583,Gummy Bear White Shoes (M),軟糖熊白色鞋子 (男)
-PROPITEM_TXT_101584,Gummy Bear Shoes for male characters.,男角色使用的小熊軟糖鞋子
-PROPITEM_TXT_101585,Gummy Bear Blue Hair (F),軟糖熊藍色髮型 (女)
-PROPITEM_TXT_101586,Gummy Bear Green Hair (F),軟糖熊綠色髮型 (女)
-PROPITEM_TXT_101587,Gummy Bear Yellow Hair (F),軟糖熊黃色髮型 (女)
-PROPITEM_TXT_101588,Gummy Bear Red Hair (F),軟糖熊紅色髮型 (女)
-PROPITEM_TXT_101589,Gummy Bear Black Hair (F),軟糖熊黑色髮型 (女)
-PROPITEM_TXT_101590,Gummy Bear White Hair (F),軟糖熊白色髮型 (女)
-PROPITEM_TXT_101591,Gummy Bear Hair for female characters.,女角色使用的小熊軟糖頭髮
-PROPITEM_TXT_101592,Gummy Bear Blue Hair (M),軟糖熊藍色髮型 (男)
-PROPITEM_TXT_101593,Gummy Bear Green Hair (M),軟糖熊綠色髮型 (男)
-PROPITEM_TXT_101594,Gummy Bear Yellow Hair (M),軟糖熊黃色髮型 (男)
-PROPITEM_TXT_101595,Gummy Bear Red Hair (M),軟糖熊紅色髮型 (男)
-PROPITEM_TXT_101596,Gummy Bear Black Hair (M),軟糖熊黑色髮型 (男)
-PROPITEM_TXT_101597,Gummy Bear White Hair (M),軟糖熊白色髮型 (男)
-PROPITEM_TXT_101598,Gummy Bear Hair for male characters.,男角色使用的小熊軟糖頭髮
-PROPITEM_TXT_101599,Gummy Bear Blue Backpack,軟糖熊藍色背包
-PROPITEM_TXT_101600,Gummy Bear Green Backpack,軟糖熊綠色背包
-PROPITEM_TXT_101601,Gummy Bear Yellow Backpack,軟糖熊黃色背包
-PROPITEM_TXT_101602,Gummy Bear Red Backpack,軟糖熊紅色背包
-PROPITEM_TXT_101603,Gummy Bear Black Backpack,軟糖熊黑色背包
-PROPITEM_TXT_101604,Gummy Bear White Backpack,軟糖熊白色背包
-PROPITEM_TXT_101605,Gummy Bear Blue Glasses,軟糖熊藍色眼鏡
-PROPITEM_TXT_101606,Gummy Bear Green Glasses,軟糖熊綠色眼鏡
-PROPITEM_TXT_101607,Gummy Bear Yellow Glasses,軟糖熊黃色眼鏡
-PROPITEM_TXT_101608,Gummy Bear Red Glasses,軟糖熊紅色眼鏡
-PROPITEM_TXT_101609,Gummy Bear Black Glasses,軟糖熊黑色眼鏡
-PROPITEM_TXT_101610,Gummy Bear White Glasses,軟糖熊白色眼鏡
+PROPITEM_TXT_101525,Gummy Bear Costume Lucky Box,軟糖熊服裝幸運箱
+PROPITEM_TXT_101526,This box contains a Gummy Bear Costume Set with Speed bonus. You can select your gender after opening the Lucky Box.,此幸運箱內含一套具速度加成的軟糖熊套裝，開啟後可選擇性別。
+PROPITEM_TXT_101527,Gummy Bear 10% Blue Set,軟糖熊藍莓套裝 10%
+PROPITEM_TXT_101528,Gummy Bear 8% Green Set,軟糖熊青蘋果套裝 8%
+PROPITEM_TXT_101529,Gummy Bear 6% Yellow Set,軟糖熊檸檬套裝 6%
+PROPITEM_TXT_101530,Gummy Bear 4% Red Set,軟糖熊櫻桃套裝 4%
+PROPITEM_TXT_101531,Gummy Bear 2% Black Set,軟糖熊黑糖套裝 2%
+PROPITEM_TXT_101532,Gummy Bear 2% White Set,軟糖熊牛奶套裝 2%
+PROPITEM_TXT_101533,Gummy Bear 10% Blue Set (F),軟糖熊藍莓套裝 10% (女)
+PROPITEM_TXT_101534,Gummy Bear 8% Green Set (F),軟糖熊青蘋果套裝 8% (女)
+PROPITEM_TXT_101535,Gummy Bear 6% Yellow Set (F),軟糖熊檸檬套裝 6% (女)
+PROPITEM_TXT_101536,Gummy Bear 4% Red Set (F),軟糖熊櫻桃套裝 4% (女)
+PROPITEM_TXT_101537,Gummy Bear 2% Black Set (F),軟糖熊黑糖套裝 2% (女)
+PROPITEM_TXT_101538,Gummy Bear 2% White Set (F),軟糖熊牛奶套裝 2% (女)
+PROPITEM_TXT_101539,Gummy Bear 10% Blue Set (M),軟糖熊藍莓套裝 10% (男)
+PROPITEM_TXT_101540,Gummy Bear 8% Green Set (M),軟糖熊青蘋果套裝 8% (男)
+PROPITEM_TXT_101541,Gummy Bear 6% Yellow Set (M),軟糖熊檸檬套裝 6% (男)
+PROPITEM_TXT_101542,Gummy Bear 4% Red Set (M),軟糖熊櫻桃套裝 4% (男)
+PROPITEM_TXT_101543,Gummy Bear 2% Black Set (M),軟糖熊黑糖套裝 2% (男)
+PROPITEM_TXT_101544,Gummy Bear 2% White Set (M),軟糖熊牛奶套裝 2% (男)
+PROPITEM_TXT_101545,The Gummy Bear Blue set for female characters.,女角色使用的軟糖熊藍莓套裝。
+PROPITEM_TXT_101546,The Gummy Bear Green set for female characters.,女角色使用的軟糖熊青蘋果套裝。
+PROPITEM_TXT_101547,The Gummy Bear Yellow set for female characters.,女角色使用的軟糖熊檸檬套裝。
+PROPITEM_TXT_101548,The Gummy Bear Red set for female characters.,女角色使用的軟糖熊櫻桃套裝。
+PROPITEM_TXT_101549,The Gummy Bear Black set for female characters.,女角色使用的軟糖熊黑糖套裝。
+PROPITEM_TXT_101550,The Gummy Bear White set for female characters.,女角色使用的軟糖熊牛奶套裝。
+PROPITEM_TXT_101551,The Gummy Bear Blue set for male characters.,男角色使用的軟糖熊藍莓套裝。
+PROPITEM_TXT_101552,The Gummy Bear Green set for male characters.,男角色使用的軟糖熊青蘋果套裝。
+PROPITEM_TXT_101553,The Gummy Bear Yellow set for male characters.,男角色使用的軟糖熊檸檬套裝。
+PROPITEM_TXT_101554,The Gummy Bear Red set for male characters.,男角色使用的軟糖熊櫻桃套裝。
+PROPITEM_TXT_101555,The Gummy Bear Black set for male characters.,男角色使用的軟糖熊黑糖套裝。
+PROPITEM_TXT_101556,The Gummy Bear White set for male characters.,男角色使用的軟糖熊牛奶套裝。
+PROPITEM_TXT_101557,Gummy Bear Blue Suit (F),軟糖熊藍莓服裝 (女)
+PROPITEM_TXT_101558,Gummy Bear Green Suit (F),軟糖熊青蘋果服裝 (女)
+PROPITEM_TXT_101559,Gummy Bear Yellow Suit (F),軟糖熊檸檬服裝 (女)
+PROPITEM_TXT_101560,Gummy Bear Red Suit (F),軟糖熊櫻桃服裝 (女)
+PROPITEM_TXT_101561,Gummy Bear Black Suit (F),軟糖熊黑糖服裝 (女)
+PROPITEM_TXT_101562,Gummy Bear White Suit (F),軟糖熊牛奶服裝 (女)
+PROPITEM_TXT_101563,Gummy Bear Suit for female characters.,女角色使用的軟糖熊服裝。
+PROPITEM_TXT_101564,Gummy Bear Blue Suit (M),軟糖熊藍莓服裝 (男)
+PROPITEM_TXT_101565,Gummy Bear Green Suit (M),軟糖熊青蘋果服裝 (男)
+PROPITEM_TXT_101566,Gummy Bear Yellow Suit (M),軟糖熊檸檬服裝 (男)
+PROPITEM_TXT_101567,Gummy Bear Red Suit (M),軟糖熊櫻桃服裝 (男)
+PROPITEM_TXT_101568,Gummy Bear Black Suit (M),軟糖熊黑糖服裝 (男)
+PROPITEM_TXT_101569,Gummy Bear White Suit (M),軟糖熊牛奶服裝 (男)
+PROPITEM_TXT_101570,Gummy Bear Suit for male characters.,男角色使用的軟糖熊服裝。
+PROPITEM_TXT_101571,Gummy Bear Blue Shoes (F),軟糖熊藍莓鞋子 (女)
+PROPITEM_TXT_101572,Gummy Bear Green Shoes (F),軟糖熊青蘋果鞋子 (女)
+PROPITEM_TXT_101573,Gummy Bear Yellow Shoes (F),軟糖熊檸檬鞋子 (女)
+PROPITEM_TXT_101574,Gummy Bear Red Shoes (F),軟糖熊櫻桃鞋子 (女)
+PROPITEM_TXT_101575,Gummy Bear Black Shoes (F),軟糖熊黑糖鞋子 (女)
+PROPITEM_TXT_101576,Gummy Bear White Shoes (F),軟糖熊牛奶鞋子 (女)
+PROPITEM_TXT_101577,Gummy Bear Shoes for female characters.,女角色使用的軟糖熊鞋子。
+PROPITEM_TXT_101578,Gummy Bear Blue Shoes (M),軟糖熊藍莓鞋子 (男)
+PROPITEM_TXT_101579,Gummy Bear Green Shoes (M),軟糖熊青蘋果鞋子 (男)
+PROPITEM_TXT_101580,Gummy Bear Yellow Shoes (M),軟糖熊檸檬鞋子 (男)
+PROPITEM_TXT_101581,Gummy Bear Red Shoes (M),軟糖熊櫻桃鞋子 (男)
+PROPITEM_TXT_101582,Gummy Bear Black Shoes (M),軟糖熊黑糖鞋子 (男)
+PROPITEM_TXT_101583,Gummy Bear White Shoes (M),軟糖熊牛奶鞋子 (男)
+PROPITEM_TXT_101584,Gummy Bear Shoes for male characters.,男角色使用的軟糖熊鞋子。
+PROPITEM_TXT_101585,Gummy Bear Blue Hair (F),軟糖熊藍莓髮型 (女)
+PROPITEM_TXT_101586,Gummy Bear Green Hair (F),軟糖熊青蘋果髮型 (女)
+PROPITEM_TXT_101587,Gummy Bear Yellow Hair (F),軟糖熊檸檬髮型 (女)
+PROPITEM_TXT_101588,Gummy Bear Red Hair (F),軟糖熊櫻桃髮型 (女)
+PROPITEM_TXT_101589,Gummy Bear Black Hair (F),軟糖熊黑糖髮型 (女)
+PROPITEM_TXT_101590,Gummy Bear White Hair (F),軟糖熊牛奶髮型 (女)
+PROPITEM_TXT_101591,Gummy Bear Hair for female characters.,女角色使用的軟糖熊髮型。
+PROPITEM_TXT_101592,Gummy Bear Blue Hair (M),軟糖熊藍莓髮型 (男)
+PROPITEM_TXT_101593,Gummy Bear Green Hair (M),軟糖熊青蘋果髮型 (男)
+PROPITEM_TXT_101594,Gummy Bear Yellow Hair (M),軟糖熊檸檬髮型 (男)
+PROPITEM_TXT_101595,Gummy Bear Red Hair (M),軟糖熊櫻桃髮型 (男)
+PROPITEM_TXT_101596,Gummy Bear Black Hair (M),軟糖熊黑糖髮型 (男)
+PROPITEM_TXT_101597,Gummy Bear White Hair (M),軟糖熊牛奶髮型 (男)
+PROPITEM_TXT_101598,Gummy Bear Hair for male characters.,男角色使用的軟糖熊髮型。
+PROPITEM_TXT_101599,Gummy Bear Blue Backpack,軟糖熊藍莓背包
+PROPITEM_TXT_101600,Gummy Bear Green Backpack,軟糖熊青蘋果背包
+PROPITEM_TXT_101601,Gummy Bear Yellow Backpack,軟糖熊檸檬背包
+PROPITEM_TXT_101602,Gummy Bear Red Backpack,軟糖熊櫻桃背包
+PROPITEM_TXT_101603,Gummy Bear Black Backpack,軟糖熊黑糖背包
+PROPITEM_TXT_101604,Gummy Bear White Backpack,軟糖熊牛奶背包
+PROPITEM_TXT_101605,Gummy Bear Blue Glasses,軟糖熊藍莓眼鏡
+PROPITEM_TXT_101606,Gummy Bear Green Glasses,軟糖熊青蘋果眼鏡
+PROPITEM_TXT_101607,Gummy Bear Yellow Glasses,軟糖熊檸檬眼鏡
+PROPITEM_TXT_101608,Gummy Bear Red Glasses,軟糖熊櫻桃眼鏡
+PROPITEM_TXT_101609,Gummy Bear Black Glasses,軟糖熊黑糖眼鏡
+PROPITEM_TXT_101610,Gummy Bear White Glasses,軟糖熊牛奶眼鏡
 PROPITEM_TXT_101611,Stat Scroll Box,能力值卷軸箱
 PROPITEM_TXT_101612,Select which Weapons Stat Scroll you want to receive!,選擇你想收到的武器能力值卷軸！
 PROPITEM_TXT_101613,Extended Flyff Pass,特別通行證
@@ -8601,7 +8601,7 @@ PROPITEM_TXT_101928,Sport Pop Red Foot (F),運動潮風紅色鞋 (女)
 PROPITEM_TXT_101929,Sport Pop 10% Red Set (F),運動流行紅色套裝 10% (女)
 PROPITEM_TXT_101930,The Sport Pop set for female characters.,女角色使用的運動流行紅色套裝 10%。
 PROPITEM_TXT_101931,Sport Pop 8% Blue Set,運動流行藍色套裝 8%
-PROPITEM_TXT_101932,Select which Gender you want to receive!,選擇你想要的性別！
+PROPITEM_TXT_101932,Select which Gender you want to receive!,選擇想獲得的性別！
 PROPITEM_TXT_101933,Sport Pop Blue Hat (M),運動流行藍色帽子 (男)
 PROPITEM_TXT_101934,Sport Pop Blue Suit (M),運動流行藍色服裝 (男)
 PROPITEM_TXT_101935,Sport Pop Blue Foot  (M),運動潮風藍色鞋 (男)
@@ -10720,90 +10720,90 @@ PROPITEM_TXT_008476,Primitive (F) Shoes,原始人鞋子 (女)
 PROPITEM_TXT_008477,Fur shoes made for Female characters.,女角色用毛皮做的原始人鞋子
 PROPITEM_TXT_008478,Primitive (F) Set,原始人套裝 (女)
 PROPITEM_TXT_008479,Fur set made for Female characters.,女角色使用毛皮做的原始人套裝
-PROPITEM_TXT_120928,Japanese Uniform 10% Black Set,日式制服黑色套裝 10%
-PROPITEM_TXT_120929,Japanese Uniform Black Hair (M),日式制服黑色髮型 (男)
-PROPITEM_TXT_120930,Japanese Uniform Black Suit (M),日式制服黑色服裝 (男)
-PROPITEM_TXT_120931,Japanese Uniform Black Shoes (M),日式制服黑色鞋子 (男)
-PROPITEM_TXT_120932,Japanese Uniform Black Backpack,日式制服黑色背包
-PROPITEM_TXT_120933,Japanese Uniform 10% Black Set (M),日式制服黑色套裝 10% (男)
-PROPITEM_TXT_120934,The Japanese Uniform 10% Black Set for male characters.,男角色使用的日式制服黑色套裝 10%。
-PROPITEM_TXT_120935,Japanese Uniform Black Hair (F),日式制服黑色髮型 (女)
-PROPITEM_TXT_120936,Japanese Uniform Black Suit (F),日式制服黑色服裝 (女)
-PROPITEM_TXT_120937,Japanese Uniform Black Shoes (F),日式制服黑色鞋子 (女)
-PROPITEM_TXT_120938,Japanese Uniform 10% Black Set (F),日式制服黑色套裝 10% (女)
-PROPITEM_TXT_120939,The Japanese Uniform 10% Black Set for female characters.,女角色使用的日式制服黑色套裝 10%。
-PROPITEM_TXT_120940,Japanese Uniform 10% Blue Set,日式制服藍色套裝 10%
-PROPITEM_TXT_120941,Japanese Uniform Blue Hair (M),日式制服藍色髮型 (男)
-PROPITEM_TXT_120942,Japanese Uniform Blue Suit (M),日式制服藍色服裝 (男)
-PROPITEM_TXT_120943,Japanese Uniform Blue Shoes (M),日式制服藍色鞋子 (男)
-PROPITEM_TXT_120944,Japanese Uniform Purple Backpack,日式制服紫色背包
-PROPITEM_TXT_120945,Japanese Uniform 10% Blue Set (M),日式制服藍色套裝 10% (男)
-PROPITEM_TXT_120946,The Japanese Uniform 10% Blue Set for male characters.,男角色使用的日式制服藍色套裝 10%。
-PROPITEM_TXT_120947,Japanese Uniform Blue Hair (F),日式制服藍色髮型 (女)
-PROPITEM_TXT_120948,Japanese Uniform Blue Suit (F),日式制服藍色服裝 (女)
-PROPITEM_TXT_120949,Japanese Uniform Blue Shoes (F),日式制服藍色鞋子 (女)
-PROPITEM_TXT_120950,Japanese Uniform 10% Blue Set (F),日式制服藍色套裝 10% (女)
-PROPITEM_TXT_120951,The Japanese Uniform 10% Blue Set for female characters.,女角色使用的日式制服藍色套裝 10%。
-PROPITEM_TXT_120952,Japanese Uniform 8% Green Set,日式制服綠色套裝 8%
-PROPITEM_TXT_120953,Japanese Uniform Green Hair (M),日式制服綠色髮型 (男)
-PROPITEM_TXT_120954,Japanese Uniform Green Suit (M),日式制服綠色服裝 (男)
-PROPITEM_TXT_120955,Japanese Uniform Green Shoes (M),日式制服綠色鞋子 (男)
-PROPITEM_TXT_120956,Japanese Uniform Green Backpack,日式制服綠色背包
-PROPITEM_TXT_120957,Japanese Uniform 8% Green Set (M),日式制服綠色套裝 8% (男)
-PROPITEM_TXT_120958,The Japanese Uniform 8% Green Set for male characters.,男角色使用的日式制服綠色套裝 8%。
-PROPITEM_TXT_120959,Japanese Uniform Green Hair (F),日式制服綠色髮型 (女)
-PROPITEM_TXT_120960,Japanese Uniform Green Suit (F),日式制服綠色服裝 (女)
-PROPITEM_TXT_120961,Japanese Uniform Green Shoes (F),日式制服綠色鞋子 (女)
-PROPITEM_TXT_120962,Japanese Uniform 8% Green Set (F),日式制服綠色套裝 8% (女)
-PROPITEM_TXT_120963,The Japanese Uniform 8% Green Set for female characters.,女角色使用的日式制服綠色套裝 8%。
-PROPITEM_TXT_120964,Japanese Uniform 6% Purple Set,日式制服紫色套裝 6%
-PROPITEM_TXT_120965,Japanese Uniform Purple Hair (M),日式制服紫色髮型 (男)
-PROPITEM_TXT_120966,Japanese Uniform Purple Suit (M),日式制服紫色服裝 (男)
-PROPITEM_TXT_120967,Japanese Uniform Purple Shoes (M),日式制服紫色鞋子 (男)
-PROPITEM_TXT_120968,Japanese Uniform Brown Backpack,日式制服棕色背包
-PROPITEM_TXT_120969,Japanese Uniform 6% Purple Set (M),日式制服紫色套裝 6% (男)
-PROPITEM_TXT_120970,The Japanese Uniform 6% Purple Set for male characters.,男角色使用的日式制服紫色套裝 6%。
-PROPITEM_TXT_120971,Japanese Uniform Purple Hair (F),日式制服紫色髮型 (女)
-PROPITEM_TXT_120972,Japanese Uniform Purple Suit (F),日式制服紫色服裝 (女)
-PROPITEM_TXT_120973,Japanese Uniform Purple Shoes (F),日式制服紫色鞋子 (女)
-PROPITEM_TXT_120974,Japanese Uniform 6% Purple Set (F),日式制服紫色套裝 6% (女)
-PROPITEM_TXT_120975,The Japanese Uniform 6% Purple Set for female characters.,女角色使用的日式制服紫色套裝 6%。
-PROPITEM_TXT_120976,Japanese Uniform 4% Orange Set,日式制服橙色套裝 4%
-PROPITEM_TXT_120977,Japanese Uniform Orange Hair (M),日式制服橙色髮型 (男)
-PROPITEM_TXT_120978,Japanese Uniform Orange Suit (M),日式制服橙色服裝 (男)
-PROPITEM_TXT_120979,Japanese Uniform Orange Shoes (M),日式制服橙色鞋子 (男)
-PROPITEM_TXT_120980,Japanese Uniform Orange Backpack,日式制服橙色背包
-PROPITEM_TXT_120981,Japanese Uniform 4% Orange Set (M),日式制服橙色套裝 4% (男)
-PROPITEM_TXT_120982,The Japanese Uniform 4% Orange Set for male characters.,男角色使用的日式制服橙色套裝 4%。
-PROPITEM_TXT_120983,Japanese Uniform Orange Hair (F),日式制服橙色髮型 (女)
-PROPITEM_TXT_120984,Japanese Uniform Orange Suit (F),日式制服橙色服裝 (女)
-PROPITEM_TXT_120985,Japanese Uniform Orange Shoes (F),日式制服橙色鞋子 (女)
-PROPITEM_TXT_120986,Japanese Uniform 4% Orange Set (F),日式制服橙色套裝 4% (女)
-PROPITEM_TXT_120987,The Japanese Uniform 4% Orange Set for female characters.,女角色使用的日式制服橙色套裝 4%。
-PROPITEM_TXT_120988,Japanese Uniform White Hair (M),日式制服白色髮型 (男)
-PROPITEM_TXT_120989,Japanese Uniform White Suit (M),日式制服白色服裝 (男)
-PROPITEM_TXT_120990,Japanese Uniform White Shoes (M),日式制服白色鞋子 (男)
-PROPITEM_TXT_120991,Japanese Uniform White Backpack,日式制服白色背包
-PROPITEM_TXT_120992,Japanese Uniform 2% White Set (M),日式制服白色套裝 2% (男)
-PROPITEM_TXT_120993,The Japanese Uniform 2% White Set for male characters.,男角色使用的日式制服白色套裝 2%。
-PROPITEM_TXT_120994,Japanese Uniform 2% White Set,日式制服白色套裝 2%
-PROPITEM_TXT_120995,Japanese Uniform White Hair (F),日式制服白色髮型 (女)
-PROPITEM_TXT_120996,Japanese Uniform White Suit (F),日式制服白色服裝 (女)
-PROPITEM_TXT_120997,Japanese Uniform White Shoes (F),日式制服白色鞋子 (女)
-PROPITEM_TXT_120998,Japanese Uniform 2% White Set (F),日式制服白色套裝 2% (女)
-PROPITEM_TXT_120999,The Japanese Uniform 2% White Set for female characters.,女角色使用的日式制服白色套裝 2%。
-PROPITEM_TXT_121000,Japanese Uniform 2% Light Set,日式制服淺色套裝 2%
-PROPITEM_TXT_121001,Japanese Uniform Light Hair (M),日式制服淺色髮型 (男)
-PROPITEM_TXT_121002,Japanese Uniform Light Suit (M),日式制服淺色服裝 (男)
-PROPITEM_TXT_121003,Japanese Uniform Light Shoes (M),日式制服淺色鞋子 (男)
-PROPITEM_TXT_121004,Japanese Uniform Light Backpack,日式制服淺色背包
-PROPITEM_TXT_121005,Japanese Uniform 2% Light Set (M),日式制服淺色套裝 2% (男)
-PROPITEM_TXT_121006,The Japanese Uniform 2% Light Set for male characters.,男角色使用的日式制服淺色套裝 2%。
-PROPITEM_TXT_121007,Japanese Uniform Light Hair (F),日式制服淺色髮型 (女)
-PROPITEM_TXT_121008,Japanese Uniform Light Suit (F),日式制服淺色服裝 (女)
-PROPITEM_TXT_121009,Japanese Uniform Light Shoes (F),日式制服淺色鞋子 (女)
-PROPITEM_TXT_121010,Japanese Uniform 2% Light Set (F),日式制服淺色套裝 2% (女)
-PROPITEM_TXT_121011,The Japanese Uniform 2% Light Set for female characters.,女角色使用的日式制服淺色套裝 2%。
+PROPITEM_TXT_120928,Japanese Uniform 10% Black Set,日式制服墨夜套裝 10%
+PROPITEM_TXT_120929,Japanese Uniform Black Hair (M),日式制服墨夜髮型 (男)
+PROPITEM_TXT_120930,Japanese Uniform Black Suit (M),日式制服墨夜服裝 (男)
+PROPITEM_TXT_120931,Japanese Uniform Black Shoes (M),日式制服墨夜鞋子 (男)
+PROPITEM_TXT_120932,Japanese Uniform Black Backpack,日式制服墨夜背包
+PROPITEM_TXT_120933,Japanese Uniform 10% Black Set (M),日式制服墨夜套裝 10% (男)
+PROPITEM_TXT_120934,The Japanese Uniform 10% Black Set for male characters.,男角色使用的日式制服墨夜套裝 10%。
+PROPITEM_TXT_120935,Japanese Uniform Black Hair (F),日式制服墨夜髮型 (女)
+PROPITEM_TXT_120936,Japanese Uniform Black Suit (F),日式制服墨夜服裝 (女)
+PROPITEM_TXT_120937,Japanese Uniform Black Shoes (F),日式制服墨夜鞋子 (女)
+PROPITEM_TXT_120938,Japanese Uniform 10% Black Set (F),日式制服墨夜套裝 10% (女)
+PROPITEM_TXT_120939,The Japanese Uniform 10% Black Set for female characters.,女角色使用的日式制服墨夜套裝 10%。
+PROPITEM_TXT_120940,Japanese Uniform 10% Blue Set,日式制服青空套裝 10%
+PROPITEM_TXT_120941,Japanese Uniform Blue Hair (M),日式制服青空髮型 (男)
+PROPITEM_TXT_120942,Japanese Uniform Blue Suit (M),日式制服青空服裝 (男)
+PROPITEM_TXT_120943,Japanese Uniform Blue Shoes (M),日式制服青空鞋子 (男)
+PROPITEM_TXT_120944,Japanese Uniform Purple Backpack,日式制服紫藤背包
+PROPITEM_TXT_120945,Japanese Uniform 10% Blue Set (M),日式制服青空套裝 10% (男)
+PROPITEM_TXT_120946,The Japanese Uniform 10% Blue Set for male characters.,男角色使用的日式制服青空套裝 10%。
+PROPITEM_TXT_120947,Japanese Uniform Blue Hair (F),日式制服青空髮型 (女)
+PROPITEM_TXT_120948,Japanese Uniform Blue Suit (F),日式制服青空服裝 (女)
+PROPITEM_TXT_120949,Japanese Uniform Blue Shoes (F),日式制服青空鞋子 (女)
+PROPITEM_TXT_120950,Japanese Uniform 10% Blue Set (F),日式制服青空套裝 10% (女)
+PROPITEM_TXT_120951,The Japanese Uniform 10% Blue Set for female characters.,女角色使用的日式制服青空套裝 10%。
+PROPITEM_TXT_120952,Japanese Uniform 8% Green Set,日式制服若葉套裝 8%
+PROPITEM_TXT_120953,Japanese Uniform Green Hair (M),日式制服若葉髮型 (男)
+PROPITEM_TXT_120954,Japanese Uniform Green Suit (M),日式制服若葉服裝 (男)
+PROPITEM_TXT_120955,Japanese Uniform Green Shoes (M),日式制服若葉鞋子 (男)
+PROPITEM_TXT_120956,Japanese Uniform Green Backpack,日式制服若葉背包
+PROPITEM_TXT_120957,Japanese Uniform 8% Green Set (M),日式制服若葉套裝 8% (男)
+PROPITEM_TXT_120958,The Japanese Uniform 8% Green Set for male characters.,男角色使用的日式制服若葉套裝 8%。
+PROPITEM_TXT_120959,Japanese Uniform Green Hair (F),日式制服若葉髮型 (女)
+PROPITEM_TXT_120960,Japanese Uniform Green Suit (F),日式制服若葉服裝 (女)
+PROPITEM_TXT_120961,Japanese Uniform Green Shoes (F),日式制服若葉鞋子 (女)
+PROPITEM_TXT_120962,Japanese Uniform 8% Green Set (F),日式制服若葉套裝 8% (女)
+PROPITEM_TXT_120963,The Japanese Uniform 8% Green Set for female characters.,女角色使用的日式制服若葉套裝 8%。
+PROPITEM_TXT_120964,Japanese Uniform 6% Purple Set,日式制服紫藤套裝 6%
+PROPITEM_TXT_120965,Japanese Uniform Purple Hair (M),日式制服紫藤髮型 (男)
+PROPITEM_TXT_120966,Japanese Uniform Purple Suit (M),日式制服紫藤服裝 (男)
+PROPITEM_TXT_120967,Japanese Uniform Purple Shoes (M),日式制服紫藤鞋子 (男)
+PROPITEM_TXT_120968,Japanese Uniform Brown Backpack,日式制服栗影背包
+PROPITEM_TXT_120969,Japanese Uniform 6% Purple Set (M),日式制服紫藤套裝 6% (男)
+PROPITEM_TXT_120970,The Japanese Uniform 6% Purple Set for male characters.,男角色使用的日式制服紫藤套裝 6%。
+PROPITEM_TXT_120971,Japanese Uniform Purple Hair (F),日式制服紫藤髮型 (女)
+PROPITEM_TXT_120972,Japanese Uniform Purple Suit (F),日式制服紫藤服裝 (女)
+PROPITEM_TXT_120973,Japanese Uniform Purple Shoes (F),日式制服紫藤鞋子 (女)
+PROPITEM_TXT_120974,Japanese Uniform 6% Purple Set (F),日式制服紫藤套裝 6% (女)
+PROPITEM_TXT_120975,The Japanese Uniform 6% Purple Set for female characters.,女角色使用的日式制服紫藤套裝 6%。
+PROPITEM_TXT_120976,Japanese Uniform 4% Orange Set,日式制服夕霞套裝 4%
+PROPITEM_TXT_120977,Japanese Uniform Orange Hair (M),日式制服夕霞髮型 (男)
+PROPITEM_TXT_120978,Japanese Uniform Orange Suit (M),日式制服夕霞服裝 (男)
+PROPITEM_TXT_120979,Japanese Uniform Orange Shoes (M),日式制服夕霞鞋子 (男)
+PROPITEM_TXT_120980,Japanese Uniform Orange Backpack,日式制服夕霞背包
+PROPITEM_TXT_120981,Japanese Uniform 4% Orange Set (M),日式制服夕霞套裝 4% (男)
+PROPITEM_TXT_120982,The Japanese Uniform 4% Orange Set for male characters.,男角色使用的日式制服夕霞套裝 4%。
+PROPITEM_TXT_120983,Japanese Uniform Orange Hair (F),日式制服夕霞髮型 (女)
+PROPITEM_TXT_120984,Japanese Uniform Orange Suit (F),日式制服夕霞服裝 (女)
+PROPITEM_TXT_120985,Japanese Uniform Orange Shoes (F),日式制服夕霞鞋子 (女)
+PROPITEM_TXT_120986,Japanese Uniform 4% Orange Set (F),日式制服夕霞套裝 4% (女)
+PROPITEM_TXT_120987,The Japanese Uniform 4% Orange Set for female characters.,女角色使用的日式制服夕霞套裝 4%。
+PROPITEM_TXT_120988,Japanese Uniform White Hair (M),日式制服初雪髮型 (男)
+PROPITEM_TXT_120989,Japanese Uniform White Suit (M),日式制服初雪服裝 (男)
+PROPITEM_TXT_120990,Japanese Uniform White Shoes (M),日式制服初雪鞋子 (男)
+PROPITEM_TXT_120991,Japanese Uniform White Backpack,日式制服初雪背包
+PROPITEM_TXT_120992,Japanese Uniform 2% White Set (M),日式制服初雪套裝 2% (男)
+PROPITEM_TXT_120993,The Japanese Uniform 2% White Set for male characters.,男角色使用的日式制服初雪套裝 2%。
+PROPITEM_TXT_120994,Japanese Uniform 2% White Set,日式制服初雪套裝 2%
+PROPITEM_TXT_120995,Japanese Uniform White Hair (F),日式制服初雪髮型 (女)
+PROPITEM_TXT_120996,Japanese Uniform White Suit (F),日式制服初雪服裝 (女)
+PROPITEM_TXT_120997,Japanese Uniform White Shoes (F),日式制服初雪鞋子 (女)
+PROPITEM_TXT_120998,Japanese Uniform 2% White Set (F),日式制服初雪套裝 2% (女)
+PROPITEM_TXT_120999,The Japanese Uniform 2% White Set for female characters.,女角色使用的日式制服初雪套裝 2%。
+PROPITEM_TXT_121000,Japanese Uniform 2% Light Set,日式制服曙光套裝 2%
+PROPITEM_TXT_121001,Japanese Uniform Light Hair (M),日式制服曙光髮型 (男)
+PROPITEM_TXT_121002,Japanese Uniform Light Suit (M),日式制服曙光服裝 (男)
+PROPITEM_TXT_121003,Japanese Uniform Light Shoes (M),日式制服曙光鞋子 (男)
+PROPITEM_TXT_121004,Japanese Uniform Light Backpack,日式制服曙光背包
+PROPITEM_TXT_121005,Japanese Uniform 2% Light Set (M),日式制服曙光套裝 2% (男)
+PROPITEM_TXT_121006,The Japanese Uniform 2% Light Set for male characters.,男角色使用的日式制服曙光套裝 2%。
+PROPITEM_TXT_121007,Japanese Uniform Light Hair (F),日式制服曙光髮型 (女)
+PROPITEM_TXT_121008,Japanese Uniform Light Suit (F),日式制服曙光服裝 (女)
+PROPITEM_TXT_121009,Japanese Uniform Light Shoes (F),日式制服曙光鞋子 (女)
+PROPITEM_TXT_121010,Japanese Uniform 2% Light Set (F),日式制服曙光套裝 2% (女)
+PROPITEM_TXT_121011,The Japanese Uniform 2% Light Set for female characters.,女角色使用的日式制服曙光套裝 2%。
 PROPITEM_TXT_121012,Black Japanese Piggy,和風墨黑小豬
 PROPITEM_TXT_121013,"This little piggy will follow you everywhere! Give it a sword, and it will fight demons with you!",這隻小豬會跟著你到處走！給它一把劍，它會與你一起對抗怪物！
 PROPITEM_TXT_121014,Purple Japanese Piggy,和風紫藤小豬
@@ -10813,7 +10813,7 @@ PROPITEM_TXT_121017,Orange Japanese Piggy,和風蜜橘小豬
 PROPITEM_TXT_121018,White Japanese Piggy,和風雪白小豬
 PROPITEM_TXT_121019,Light Japanese Piggy,和風晨光小豬
 PROPITEM_TXT_121020,Japanese Uniform Lucky Box,日式制服幸運箱
-PROPITEM_TXT_121021,This box contains a Japanese Uniform Set with Speed bonus. You can select your gender after opening the Lucky Box.,箱子包含一套帶有速度獎勵的日本制服。打開幸運箱後，你可以選擇你的性別。
+PROPITEM_TXT_121021,This box contains a Japanese Uniform Set with Speed bonus. You can select your gender after opening the Lucky Box.,此幸運箱內含一套具速度加成的日式制服套裝，開啟後可選擇性別。
 PROPITEM_TXT_121022,Baby Carrierbomb,寶寶背帶炸彈
 PROPITEM_TXT_121023,"A dangerous but fast, baby, Carrierbomb that follows its master around and picks up dropped items",危險但快速的寶寶背帶炸彈，它會跟隨主人並撿起掉落的物品
 PROPITEM_TXT_121024,Baby Fefern,寶寶費芬
@@ -10937,84 +10937,84 @@ PROPITEM_TXT_121126,Diabolic Whisper Score,惡魔呢喃樂譜
 PROPITEM_TXT_121127,"A package containing 1x Upcut Stone, 1x Vital Drink X or Refresher Hold and 1x Flask Box. All items are also linked.",禮包含 1x 力量之石、1x 無限活力多或無限魔力多以及 1x 強效藥水箱。所有物品皆為帳戶綁定。
 PROPITEM_TXT_121128,Nagging Score,嘮叨樂譜
 PROPITEM_TXT_121129,A package containing 1x Blinkwing of Madrigal and 1x Potion Box. All items are also linked.,禮包包含 1x 瑪德利賈回城卷軸和 1x 藥水箱。所有物品皆為綁定。
-PROPITEM_TXT_121130,Neo 10% Purple Set,新潮紫色套裝 10%
-PROPITEM_TXT_121131,Neo Purple Hat (M),新潮紫色帽子 (男)
-PROPITEM_TXT_121132,Neo Purple Suit (M),新潮紫色服裝 (男)
-PROPITEM_TXT_121133,Neo Purple Shoes (M),新潮紫色鞋子 (男)
-PROPITEM_TXT_121134,Neo Purple Wings,新潮紫色翅膀
-PROPITEM_TXT_121135,Neo Purple Glasses,新潮紫色眼鏡
-PROPITEM_TXT_121136,Neo 10% Purple Set (M),新潮紫色套裝 10% (男)
-PROPITEM_TXT_121137,The Neo 10% Purple Set for male characters.,男角色使用的新潮紫色套裝 10%。
-PROPITEM_TXT_121138,Neo Purple Hat (F),新潮紫色帽子 (女)
-PROPITEM_TXT_121139,Neo Purple Suit (F),新潮紫色服裝 (女)
-PROPITEM_TXT_121140,Neo Purple Shoes (F),新潮紫色鞋子 (女)
-PROPITEM_TXT_121141,Neo 10% Purple Set (F),新潮紫色套裝 10% (女)
-PROPITEM_TXT_121142,The Neo 10% Purple Set for female characters.,女角色使用的新潮紫色套裝 10%。
-PROPITEM_TXT_121143,Neo 8% Green Set,新潮綠色套裝 8%
-PROPITEM_TXT_121144,Neo Green Hat (M),新潮綠色帽子 (男)
-PROPITEM_TXT_121145,Neo Green Suit (M),新潮綠色服裝 (男)
-PROPITEM_TXT_121146,Neo Green Shoes (M),新潮綠色鞋子 (男)
-PROPITEM_TXT_121147,Neo Green Wings,新潮綠色翅膀
-PROPITEM_TXT_121148,Neo Green Glasses,新潮綠色眼鏡
-PROPITEM_TXT_121149,Neo 8% Green Set (M),新潮綠色套裝 8% (男)
-PROPITEM_TXT_121150,The Neo 8% Green Set for male characters.,男角色使用的新潮綠色套裝 8%。
-PROPITEM_TXT_121151,Neo Green Hat (F),新潮綠色帽子 (女)
-PROPITEM_TXT_121152,Neo Green Suit (F),新潮綠色服裝 (女)
-PROPITEM_TXT_121153,Neo Green Shoes (F),新潮綠色鞋子 (女)
-PROPITEM_TXT_121154,Neo 8% Green Set (F),新潮綠色套裝 8% (女)
-PROPITEM_TXT_121155,The Neo 8% Green Set for female characters.,女角色使用的新潮綠色套裝 8%。
-PROPITEM_TXT_121156,Neo 6% Orange Set,新潮橙色套裝 6%
-PROPITEM_TXT_121157,Neo Orange Hat (M),新潮橙色帽子 (男)
-PROPITEM_TXT_121158,Neo Orange Suit (M),新潮橙色服裝 (男)
-PROPITEM_TXT_121159,Neo Orange Shoes (M),新潮橙色鞋子 (男)
-PROPITEM_TXT_121160,Neo Orange Wings,新潮橙色翅膀
-PROPITEM_TXT_121161,Neo Orange Glasses,新潮橙色眼鏡
-PROPITEM_TXT_121162,Neo 6% Orange Set (M),新潮橙色套裝 6% (男)
-PROPITEM_TXT_121163,The Neo 6% Orange Set for male characters.,男角色使用的新潮橙色套裝 6%。
-PROPITEM_TXT_121164,Neo Orange Hat (F),新潮橙色帽子 (女)
-PROPITEM_TXT_121165,Neo Orange Suit (F),新潮橙色服裝 (女)
-PROPITEM_TXT_121166,Neo Orange Shoes (F),新潮橙色鞋子 (女)
-PROPITEM_TXT_121167,Neo 6% Orange Set (F),新潮橙色套裝 6% (女)
-PROPITEM_TXT_121168,The Neo 6% Orange Set for female characters.,女角色使用的新潮橙色套裝 6%。
-PROPITEM_TXT_121169,Neo 4% Yellow Set,新潮黃色套裝 4%
-PROPITEM_TXT_121170,Neo Yellow Hat (M),新潮黃色帽子 (男)
-PROPITEM_TXT_121171,Neo Yellow Suit (M),新潮黃色服裝 (男)
-PROPITEM_TXT_121172,Neo Yellow Shoes (M),新潮黃色鞋子 (男)
-PROPITEM_TXT_121173,Neo Yellow Wings,新潮黃色翅膀
-PROPITEM_TXT_121174,Neo Yellow Glasses,新潮黃色眼鏡
-PROPITEM_TXT_121175,Neo 4% Yellow Set (M),新潮黃色套裝 4% (男)
-PROPITEM_TXT_121176,The Neo 4% Yellow Set for male characters.,男角色使用的新潮黃色套裝 4%。
-PROPITEM_TXT_121177,Neo Yellow Hat (F),新潮黃色帽子 (女)
-PROPITEM_TXT_121178,Neo Yellow Suit (F),新潮黃色服裝 (女)
-PROPITEM_TXT_121179,Neo Yellow Shoes (F),新潮黃色鞋子 (女)
-PROPITEM_TXT_121180,Neo 4% Yellow Set (F),新潮黃色套裝 4% (女)
-PROPITEM_TXT_121181,The Neo 4% Yellow Set for female characters.,女角色使用的新潮黃色套裝 4%。
-PROPITEM_TXT_121182,Neo 2% Black Set,新潮黑色套裝 2%
-PROPITEM_TXT_121183,Neo Black Hat (M),新潮黑色帽子 (男)
-PROPITEM_TXT_121184,Neo Black Suit (M),新潮黑色服裝 (男)
-PROPITEM_TXT_121185,Neo Black Shoes (M),新潮黑色鞋子 (男)
-PROPITEM_TXT_121186,Neo Black Wings,新潮黑色翅膀
-PROPITEM_TXT_121187,Neo Black Glasses,新潮黑色眼鏡
-PROPITEM_TXT_121188,Neo 2% Black Set (M),新潮黑色套裝 2% (男)
-PROPITEM_TXT_121189,The Neo 2% Black Set for male characters.,男角色使用的新潮黑色套裝 2%。
-PROPITEM_TXT_121190,Neo Black Hat (F),新潮黑色帽子 (女)
-PROPITEM_TXT_121191,Neo Black Suit (F),新潮黑色服裝 (女)
-PROPITEM_TXT_121192,Neo Black Shoes (F),新潮黑色鞋子 (女)
-PROPITEM_TXT_121193,Neo 2% Black Set (F),新潮黑色套裝 2% (女)
-PROPITEM_TXT_121194,The Neo 2% Black Set for female characters.,女角色使用的新潮黑色套裝 2%。
-PROPITEM_TXT_121195,Neo 2% White Set,新潮白色套裝 2%
-PROPITEM_TXT_121196,Neo White Hat (M),新潮白色帽子 (男)
-PROPITEM_TXT_121197,Neo White Suit (M),新潮白色服裝 (男)
-PROPITEM_TXT_121198,Neo White Shoes (M),新潮白色鞋子 (男)
-PROPITEM_TXT_121199,Neo White Wings,新潮白色翅膀
-PROPITEM_TXT_121200,Neo White Glasses,新潮白色眼鏡
-PROPITEM_TXT_121201,Neo 2% White Set (M),新潮白色套裝 2% (男)
-PROPITEM_TXT_121202,The Neo 2% White Set for male characters.,男角色使用的新潮白色套裝 2%。
-PROPITEM_TXT_121203,Neo White Hat (F),新潮白色帽子 (女)
-PROPITEM_TXT_121204,Neo White Suit (F),新潮白色服裝 (女)
-PROPITEM_TXT_121205,Neo White Shoes (F),新潮白色鞋子 (女)
-PROPITEM_TXT_121206,Neo 2% White Set (F),新潮白色套裝 2% (女)
-PROPITEM_TXT_121207,The Neo 2% White Set for female characters.,女角色使用的新潮白色套裝 2%。
+PROPITEM_TXT_121130,Neo 10% Purple Set,新潮幻紫套裝 10%
+PROPITEM_TXT_121131,Neo Purple Hat (M),新潮幻紫帽子 (男)
+PROPITEM_TXT_121132,Neo Purple Suit (M),新潮幻紫服裝 (男)
+PROPITEM_TXT_121133,Neo Purple Shoes (M),新潮幻紫鞋子 (男)
+PROPITEM_TXT_121134,Neo Purple Wings,新潮幻紫翅膀
+PROPITEM_TXT_121135,Neo Purple Glasses,新潮幻紫眼鏡
+PROPITEM_TXT_121136,Neo 10% Purple Set (M),新潮幻紫套裝 10% (男)
+PROPITEM_TXT_121137,The Neo 10% Purple Set for male characters.,男角色使用的新潮幻紫套裝 10%。
+PROPITEM_TXT_121138,Neo Purple Hat (F),新潮幻紫帽子 (女)
+PROPITEM_TXT_121139,Neo Purple Suit (F),新潮幻紫服裝 (女)
+PROPITEM_TXT_121140,Neo Purple Shoes (F),新潮幻紫鞋子 (女)
+PROPITEM_TXT_121141,Neo 10% Purple Set (F),新潮幻紫套裝 10% (女)
+PROPITEM_TXT_121142,The Neo 10% Purple Set for female characters.,女角色使用的新潮幻紫套裝 10%。
+PROPITEM_TXT_121143,Neo 8% Green Set,新潮翠光套裝 8%
+PROPITEM_TXT_121144,Neo Green Hat (M),新潮翠光帽子 (男)
+PROPITEM_TXT_121145,Neo Green Suit (M),新潮翠光服裝 (男)
+PROPITEM_TXT_121146,Neo Green Shoes (M),新潮翠光鞋子 (男)
+PROPITEM_TXT_121147,Neo Green Wings,新潮翠光翅膀
+PROPITEM_TXT_121148,Neo Green Glasses,新潮翠光眼鏡
+PROPITEM_TXT_121149,Neo 8% Green Set (M),新潮翠光套裝 8% (男)
+PROPITEM_TXT_121150,The Neo 8% Green Set for male characters.,男角色使用的新潮翠光套裝 8%。
+PROPITEM_TXT_121151,Neo Green Hat (F),新潮翠光帽子 (女)
+PROPITEM_TXT_121152,Neo Green Suit (F),新潮翠光服裝 (女)
+PROPITEM_TXT_121153,Neo Green Shoes (F),新潮翠光鞋子 (女)
+PROPITEM_TXT_121154,Neo 8% Green Set (F),新潮翠光套裝 8% (女)
+PROPITEM_TXT_121155,The Neo 8% Green Set for female characters.,女角色使用的新潮翠光套裝 8%。
+PROPITEM_TXT_121156,Neo 6% Orange Set,新潮熾橙套裝 6%
+PROPITEM_TXT_121157,Neo Orange Hat (M),新潮熾橙帽子 (男)
+PROPITEM_TXT_121158,Neo Orange Suit (M),新潮熾橙服裝 (男)
+PROPITEM_TXT_121159,Neo Orange Shoes (M),新潮熾橙鞋子 (男)
+PROPITEM_TXT_121160,Neo Orange Wings,新潮熾橙翅膀
+PROPITEM_TXT_121161,Neo Orange Glasses,新潮熾橙眼鏡
+PROPITEM_TXT_121162,Neo 6% Orange Set (M),新潮熾橙套裝 6% (男)
+PROPITEM_TXT_121163,The Neo 6% Orange Set for male characters.,男角色使用的新潮熾橙套裝 6%。
+PROPITEM_TXT_121164,Neo Orange Hat (F),新潮熾橙帽子 (女)
+PROPITEM_TXT_121165,Neo Orange Suit (F),新潮熾橙服裝 (女)
+PROPITEM_TXT_121166,Neo Orange Shoes (F),新潮熾橙鞋子 (女)
+PROPITEM_TXT_121167,Neo 6% Orange Set (F),新潮熾橙套裝 6% (女)
+PROPITEM_TXT_121168,The Neo 6% Orange Set for female characters.,女角色使用的新潮熾橙套裝 6%。
+PROPITEM_TXT_121169,Neo 4% Yellow Set,新潮曜金套裝 4%
+PROPITEM_TXT_121170,Neo Yellow Hat (M),新潮曜金帽子 (男)
+PROPITEM_TXT_121171,Neo Yellow Suit (M),新潮曜金服裝 (男)
+PROPITEM_TXT_121172,Neo Yellow Shoes (M),新潮曜金鞋子 (男)
+PROPITEM_TXT_121173,Neo Yellow Wings,新潮曜金翅膀
+PROPITEM_TXT_121174,Neo Yellow Glasses,新潮曜金眼鏡
+PROPITEM_TXT_121175,Neo 4% Yellow Set (M),新潮曜金套裝 4% (男)
+PROPITEM_TXT_121176,The Neo 4% Yellow Set for male characters.,男角色使用的新潮曜金套裝 4%。
+PROPITEM_TXT_121177,Neo Yellow Hat (F),新潮曜金帽子 (女)
+PROPITEM_TXT_121178,Neo Yellow Suit (F),新潮曜金服裝 (女)
+PROPITEM_TXT_121179,Neo Yellow Shoes (F),新潮曜金鞋子 (女)
+PROPITEM_TXT_121180,Neo 4% Yellow Set (F),新潮曜金套裝 4% (女)
+PROPITEM_TXT_121181,The Neo 4% Yellow Set for female characters.,女角色使用的新潮曜金套裝 4%。
+PROPITEM_TXT_121182,Neo 2% Black Set,新潮黯星套裝 2%
+PROPITEM_TXT_121183,Neo Black Hat (M),新潮黯星帽子 (男)
+PROPITEM_TXT_121184,Neo Black Suit (M),新潮黯星服裝 (男)
+PROPITEM_TXT_121185,Neo Black Shoes (M),新潮黯星鞋子 (男)
+PROPITEM_TXT_121186,Neo Black Wings,新潮黯星翅膀
+PROPITEM_TXT_121187,Neo Black Glasses,新潮黯星眼鏡
+PROPITEM_TXT_121188,Neo 2% Black Set (M),新潮黯星套裝 2% (男)
+PROPITEM_TXT_121189,The Neo 2% Black Set for male characters.,男角色使用的新潮黯星套裝 2%。
+PROPITEM_TXT_121190,Neo Black Hat (F),新潮黯星帽子 (女)
+PROPITEM_TXT_121191,Neo Black Suit (F),新潮黯星服裝 (女)
+PROPITEM_TXT_121192,Neo Black Shoes (F),新潮黯星鞋子 (女)
+PROPITEM_TXT_121193,Neo 2% Black Set (F),新潮黯星套裝 2% (女)
+PROPITEM_TXT_121194,The Neo 2% Black Set for female characters.,女角色使用的新潮黯星套裝 2%。
+PROPITEM_TXT_121195,Neo 2% White Set,新潮銀輝套裝 2%
+PROPITEM_TXT_121196,Neo White Hat (M),新潮銀輝帽子 (男)
+PROPITEM_TXT_121197,Neo White Suit (M),新潮銀輝服裝 (男)
+PROPITEM_TXT_121198,Neo White Shoes (M),新潮銀輝鞋子 (男)
+PROPITEM_TXT_121199,Neo White Wings,新潮銀輝翅膀
+PROPITEM_TXT_121200,Neo White Glasses,新潮銀輝眼鏡
+PROPITEM_TXT_121201,Neo 2% White Set (M),新潮銀輝套裝 2% (男)
+PROPITEM_TXT_121202,The Neo 2% White Set for male characters.,男角色使用的新潮銀輝套裝 2%。
+PROPITEM_TXT_121203,Neo White Hat (F),新潮銀輝帽子 (女)
+PROPITEM_TXT_121204,Neo White Suit (F),新潮銀輝服裝 (女)
+PROPITEM_TXT_121205,Neo White Shoes (F),新潮銀輝鞋子 (女)
+PROPITEM_TXT_121206,Neo 2% White Set (F),新潮銀輝套裝 2% (女)
+PROPITEM_TXT_121207,The Neo 2% White Set for female characters.,女角色使用的新潮銀輝套裝 2%。
 PROPITEM_TXT_121210,Neo Purple Robot,新潮紫晶機器人
 PROPITEM_TXT_121211,This nimble little flying robot will faithfully trail behind you wherever you go!,無論你走到哪裡，這個靈活的小飛行機器人都會忠實地跟在你身後！
 PROPITEM_TXT_121212,Neo Green Robot,新潮翠綠機器人
@@ -11023,7 +11023,7 @@ PROPITEM_TXT_121214,Neo Yellow Robot,新潮金光機器人
 PROPITEM_TXT_121215,Neo Black Robot,新潮黑曜機器人
 PROPITEM_TXT_121216,Neo White Robot,新潮雪白機器人
 PROPITEM_TXT_121217,Neo Lucky Box,新潮幸運箱
-PROPITEM_TXT_121218,This box contains a Neo Set with Speed bonus. You can select your gender after opening the Lucky Box.,箱子包含一套帶有速度獎勵的新潮套裝。打開幸運箱後，你可以選擇你的性別。
+PROPITEM_TXT_121218,This box contains a Neo Set with Speed bonus. You can select your gender after opening the Lucky Box.,此幸運箱內含一套具速度加成的新潮套裝，開啟後可選擇性別。
 PROPITEM_TXT_121219,Cake King Red Hat (M),蛋糕國王紅色帽子 (男)
 PROPITEM_TXT_121220,Cake King Red Suit (M),蛋糕國王紅色服裝 (男)
 PROPITEM_TXT_121221,Cake King Red Hands (M),蛋糕國王紅色手套 (男)
@@ -11424,76 +11424,76 @@ PROPITEM_TXT_121588,AI Casual Dark Suit (F),AI 休閒深色套裝 (女)
 PROPITEM_TXT_121589,AI Casual Dark Shoes (F),AI 休閒深色鞋 (女)
 PROPITEM_TXT_121590,AI Casual 2% Dark Set (F),AI 休閒深色套裝 2% (女)
 PROPITEM_TXT_121591,The AI Casual 2% Dark Set for female characters.,女角色使用的 AI 休閒深色套裝 2%。
-PROPITEM_TXT_121592,AI Yukata 10% Pink Set,人工智慧浴衣粉色套裝 10%
-PROPITEM_TXT_121593,AI Yukata Pink Hat (M),人工智慧浴衣粉色帽子 (男)
-PROPITEM_TXT_121594,AI Yukata Pink Suit (M),人工智慧浴衣粉色服裝 (男)
-PROPITEM_TXT_121595,AI Yukata Pink Shoes (M),人工智慧浴衣粉色鞋子 (男)
-PROPITEM_TXT_121596,AI Yukata 10% Pink Set (M),人工智慧浴衣粉色套裝 10% (男)
-PROPITEM_TXT_121597,The AI Yukata 10% Pink Set for male characters.,男角色使用的人工智慧浴衣粉色套裝 10%。
-PROPITEM_TXT_121598,AI Yukata Pink Hat (F),人工智慧浴衣粉色帽子 (女)
-PROPITEM_TXT_121599,AI Yukata Pink Suit (F),人工智慧浴衣粉色服裝 (女)
-PROPITEM_TXT_121600,AI Yukata Pink Shoes (F),人工智慧浴衣粉色鞋子 (女)
-PROPITEM_TXT_121601,AI Yukata 10% Pink Set (F),人工智慧浴衣粉色套裝 10% (女)
-PROPITEM_TXT_121602,The AI Yukata 10% Pink Set for female characters.,女角色使用的人工智慧浴衣粉色套裝 10%。
-PROPITEM_TXT_121603,AI Yukata 8% Light Set,AI 浴衣燈套裝 8%
-PROPITEM_TXT_121604,AI Yukata Light Hat (M),AI 浴衣淺帽 (男)
-PROPITEM_TXT_121605,AI Yukata Light Suit (M),AI 輕便浴衣 (男)
-PROPITEM_TXT_121606,AI Yukata Light Shoes (M),AI 浴衣輕便鞋 (男)
-PROPITEM_TXT_121607,AI Yukata 8% Light Set (M),AI 浴衣輕套裝 8% (男)
-PROPITEM_TXT_121608,The AI Yukata 8% Light Set for male characters.,男角色使用的 AI 浴衣輕套裝 8%。
-PROPITEM_TXT_121609,AI Yukata Light Hat (F),AI 浴衣淺帽 (女)
-PROPITEM_TXT_121610,AI Yukata Light Suit (F),AI 浴衣輕便套裝 (女)
-PROPITEM_TXT_121611,AI Yukata Light Shoes (F),AI 浴衣輕便鞋 (女)
-PROPITEM_TXT_121612,AI Yukata 8% Light Set (F),AI 浴衣輕便套裝 8% (女)
-PROPITEM_TXT_121613,The AI Yukata 8% Light Set for female characters.,女角色使用的 AI 浴衣輕便套裝 8%。
-PROPITEM_TXT_121614,AI Yukata 6% Dark Set,AI 浴衣深色套裝 6%
-PROPITEM_TXT_121615,AI Yukata Dark Hat (M),AI 浴衣黑帽 (男)
-PROPITEM_TXT_121616,AI Yukata Dark Suit (M),AI 深色浴衣套裝 (男)
-PROPITEM_TXT_121617,AI Yukata Dark Shoes (M),AI 浴衣深色鞋 (男)
-PROPITEM_TXT_121618,AI Yukata 6% Dark Set (M),AI 浴衣深色套裝 6% (男)
-PROPITEM_TXT_121619,The AI Yukata 6% Dark Set for male characters.,男角色使用的 AI 浴衣深色套裝 6%。
-PROPITEM_TXT_121620,AI Yukata Dark Hat (F),AI 浴衣黑帽 (女)
-PROPITEM_TXT_121621,AI Yukata Dark Suit (F),AI 浴衣深色套裝 (女)
-PROPITEM_TXT_121622,AI Yukata Dark Shoes (F),AI 浴衣深色鞋 (女)
-PROPITEM_TXT_121623,AI Yukata 6% Dark Set (F),AI 浴衣深色套裝 6% (女)
-PROPITEM_TXT_121624,The AI Yukata 6% Dark Set for female characters.,女角色使用的 AI 浴衣深色套裝 6%。
-PROPITEM_TXT_121625,AI Yukata 4% White Set,人工智慧浴衣白色套裝 4%
-PROPITEM_TXT_121626,AI Yukata White Hat (M),人工智慧浴衣白色帽子 (男)
-PROPITEM_TXT_121627,AI Yukata White Suit (M),人工智慧浴衣白色服裝 (男)
-PROPITEM_TXT_121628,AI Yukata White Shoes (M),人工智慧浴衣白色鞋子 (男)
-PROPITEM_TXT_121629,AI Yukata 4% White Set (M),人工智慧浴衣白色套裝 4% (男)
-PROPITEM_TXT_121630,The AI Yukata 4% White Set for male characters.,男角色使用的人工智慧浴衣白色套裝 4%。
-PROPITEM_TXT_121631,AI Yukata White Hat (F),人工智慧浴衣白色帽子 (女)
-PROPITEM_TXT_121632,AI Yukata White Suit (F),人工智慧浴衣白色服裝 (女)
-PROPITEM_TXT_121633,AI Yukata White Shoes (F),人工智慧浴衣白色鞋子 (女)
-PROPITEM_TXT_121634,AI Yukata 4% White Set (F),人工智慧浴衣白色套裝 4% (女)
-PROPITEM_TXT_121635,The AI Yukata 4% White Set for female characters.,女角色使用的人工智慧浴衣白色套裝 4%。
-PROPITEM_TXT_121636,AI Yukata 2% Purple Set,人工智慧浴衣紫色套裝 2%
-PROPITEM_TXT_121637,AI Yukata Purple Hat (M),人工智慧浴衣紫色帽子 (男)
-PROPITEM_TXT_121638,AI Yukata Purple Suit (M),人工智慧浴衣紫色服裝 (男)
-PROPITEM_TXT_121639,AI Yukata Purple Shoes (M),人工智慧浴衣紫色鞋子 (男)
-PROPITEM_TXT_121640,AI Yukata 2% Purple Set (M),人工智慧浴衣紫色套裝 2% (男)
-PROPITEM_TXT_121641,The AI Yukata 2% Purple Set for male characters.,男角色使用的人工智慧浴衣紫色套裝 2%。
-PROPITEM_TXT_121642,AI Yukata Purple Hat (F),人工智慧浴衣紫色帽子 (女)
-PROPITEM_TXT_121643,AI Yukata Purple Suit (F),人工智慧浴衣紫色服裝 (女)
-PROPITEM_TXT_121644,AI Yukata Purple Shoes (F),人工智慧浴衣紫色鞋子 (女)
-PROPITEM_TXT_121645,AI Yukata 2% Purple Set (F),人工智慧浴衣紫色套裝 2% (女)
-PROPITEM_TXT_121646,The AI Yukata 2% Purple Set for female characters.,女角色使用的人工智慧浴衣紫色套裝 2%。
-PROPITEM_TXT_121647,AI Yukata 2% Green Set,人工智慧浴衣綠色套裝 2%
-PROPITEM_TXT_121648,AI Yukata Green Hat (M),人工智慧浴衣綠色帽子 (男)
-PROPITEM_TXT_121649,AI Yukata Green Suit (M),人工智慧浴衣綠色服裝 (男)
-PROPITEM_TXT_121650,AI Yukata Green Shoes (M),人工智慧浴衣綠色鞋子 (男)
-PROPITEM_TXT_121651,AI Yukata 2% Green Set (M),人工智慧浴衣綠色套裝 2% (男)
-PROPITEM_TXT_121652,The AI Yukata 2% Green Set for male characters.,男角色使用的人工智慧浴衣綠色套裝 2%。
-PROPITEM_TXT_121653,AI Yukata Green Hat (F),人工智慧浴衣綠色帽子 (女)
-PROPITEM_TXT_121654,AI Yukata Green Suit (F),人工智慧浴衣綠色服裝 (女)
-PROPITEM_TXT_121655,AI Yukata Green Shoes (F),人工智慧浴衣綠色鞋子 (女)
-PROPITEM_TXT_121656,AI Yukata 2% Green Set (F),人工智慧浴衣綠色套裝 2% (女)
-PROPITEM_TXT_121657,The AI Yukata 2% Green Set for female characters.,女角色使用的人工智慧浴衣綠色套裝 2%。
+PROPITEM_TXT_121592,AI Yukata 10% Pink Set,AI 浴衣櫻霞套裝 10%
+PROPITEM_TXT_121593,AI Yukata Pink Hat (M),AI 浴衣櫻霞帽子 (男)
+PROPITEM_TXT_121594,AI Yukata Pink Suit (M),AI 浴衣櫻霞服裝 (男)
+PROPITEM_TXT_121595,AI Yukata Pink Shoes (M),AI 浴衣櫻霞鞋子 (男)
+PROPITEM_TXT_121596,AI Yukata 10% Pink Set (M),AI 浴衣櫻霞套裝 10% (男)
+PROPITEM_TXT_121597,The AI Yukata 10% Pink Set for male characters.,男角色使用的 AI 浴衣櫻霞套裝 10%。
+PROPITEM_TXT_121598,AI Yukata Pink Hat (F),AI 浴衣櫻霞帽子 (女)
+PROPITEM_TXT_121599,AI Yukata Pink Suit (F),AI 浴衣櫻霞服裝 (女)
+PROPITEM_TXT_121600,AI Yukata Pink Shoes (F),AI 浴衣櫻霞鞋子 (女)
+PROPITEM_TXT_121601,AI Yukata 10% Pink Set (F),AI 浴衣櫻霞套裝 10% (女)
+PROPITEM_TXT_121602,The AI Yukata 10% Pink Set for female characters.,女角色使用的 AI 浴衣櫻霞套裝 10%。
+PROPITEM_TXT_121603,AI Yukata 8% Light Set,AI 浴衣流光套裝 8%
+PROPITEM_TXT_121604,AI Yukata Light Hat (M),AI 浴衣流光帽子 (男)
+PROPITEM_TXT_121605,AI Yukata Light Suit (M),AI 浴衣流光服裝 (男)
+PROPITEM_TXT_121606,AI Yukata Light Shoes (M),AI 浴衣流光鞋子 (男)
+PROPITEM_TXT_121607,AI Yukata 8% Light Set (M),AI 浴衣流光套裝 8% (男)
+PROPITEM_TXT_121608,The AI Yukata 8% Light Set for male characters.,男角色使用的 AI 浴衣流光套裝 8%。
+PROPITEM_TXT_121609,AI Yukata Light Hat (F),AI 浴衣流光帽子 (女)
+PROPITEM_TXT_121610,AI Yukata Light Suit (F),AI 浴衣流光服裝 (女)
+PROPITEM_TXT_121611,AI Yukata Light Shoes (F),AI 浴衣流光鞋子 (女)
+PROPITEM_TXT_121612,AI Yukata 8% Light Set (F),AI 浴衣流光套裝 8% (女)
+PROPITEM_TXT_121613,The AI Yukata 8% Light Set for female characters.,女角色使用的 AI 浴衣流光套裝 8%。
+PROPITEM_TXT_121614,AI Yukata 6% Dark Set,AI 浴衣宵闇套裝 6%
+PROPITEM_TXT_121615,AI Yukata Dark Hat (M),AI 浴衣宵闇帽子 (男)
+PROPITEM_TXT_121616,AI Yukata Dark Suit (M),AI 浴衣宵闇服裝 (男)
+PROPITEM_TXT_121617,AI Yukata Dark Shoes (M),AI 浴衣宵闇鞋子 (男)
+PROPITEM_TXT_121618,AI Yukata 6% Dark Set (M),AI 浴衣宵闇套裝 6% (男)
+PROPITEM_TXT_121619,The AI Yukata 6% Dark Set for male characters.,男角色使用的 AI 浴衣宵闇套裝 6%。
+PROPITEM_TXT_121620,AI Yukata Dark Hat (F),AI 浴衣宵闇帽子 (女)
+PROPITEM_TXT_121621,AI Yukata Dark Suit (F),AI 浴衣宵闇服裝 (女)
+PROPITEM_TXT_121622,AI Yukata Dark Shoes (F),AI 浴衣宵闇鞋子 (女)
+PROPITEM_TXT_121623,AI Yukata 6% Dark Set (F),AI 浴衣宵闇套裝 6% (女)
+PROPITEM_TXT_121624,The AI Yukata 6% Dark Set for female characters.,女角色使用的 AI 浴衣宵闇套裝 6%。
+PROPITEM_TXT_121625,AI Yukata 4% White Set,AI 浴衣月白套裝 4%
+PROPITEM_TXT_121626,AI Yukata White Hat (M),AI 浴衣月白帽子 (男)
+PROPITEM_TXT_121627,AI Yukata White Suit (M),AI 浴衣月白服裝 (男)
+PROPITEM_TXT_121628,AI Yukata White Shoes (M),AI 浴衣月白鞋子 (男)
+PROPITEM_TXT_121629,AI Yukata 4% White Set (M),AI 浴衣月白套裝 4% (男)
+PROPITEM_TXT_121630,The AI Yukata 4% White Set for male characters.,男角色使用的 AI 浴衣月白套裝 4%。
+PROPITEM_TXT_121631,AI Yukata White Hat (F),AI 浴衣月白帽子 (女)
+PROPITEM_TXT_121632,AI Yukata White Suit (F),AI 浴衣月白服裝 (女)
+PROPITEM_TXT_121633,AI Yukata White Shoes (F),AI 浴衣月白鞋子 (女)
+PROPITEM_TXT_121634,AI Yukata 4% White Set (F),AI 浴衣月白套裝 4% (女)
+PROPITEM_TXT_121635,The AI Yukata 4% White Set for female characters.,女角色使用的 AI 浴衣月白套裝 4%。
+PROPITEM_TXT_121636,AI Yukata 2% Purple Set,AI 浴衣紫宵套裝 2%
+PROPITEM_TXT_121637,AI Yukata Purple Hat (M),AI 浴衣紫宵帽子 (男)
+PROPITEM_TXT_121638,AI Yukata Purple Suit (M),AI 浴衣紫宵服裝 (男)
+PROPITEM_TXT_121639,AI Yukata Purple Shoes (M),AI 浴衣紫宵鞋子 (男)
+PROPITEM_TXT_121640,AI Yukata 2% Purple Set (M),AI 浴衣紫宵套裝 2% (男)
+PROPITEM_TXT_121641,The AI Yukata 2% Purple Set for male characters.,男角色使用的 AI 浴衣紫宵套裝 2%。
+PROPITEM_TXT_121642,AI Yukata Purple Hat (F),AI 浴衣紫宵帽子 (女)
+PROPITEM_TXT_121643,AI Yukata Purple Suit (F),AI 浴衣紫宵服裝 (女)
+PROPITEM_TXT_121644,AI Yukata Purple Shoes (F),AI 浴衣紫宵鞋子 (女)
+PROPITEM_TXT_121645,AI Yukata 2% Purple Set (F),AI 浴衣紫宵套裝 2% (女)
+PROPITEM_TXT_121646,The AI Yukata 2% Purple Set for female characters.,女角色使用的 AI 浴衣紫宵套裝 2%。
+PROPITEM_TXT_121647,AI Yukata 2% Green Set,AI 浴衣若竹套裝 2%
+PROPITEM_TXT_121648,AI Yukata Green Hat (M),AI 浴衣若竹帽子 (男)
+PROPITEM_TXT_121649,AI Yukata Green Suit (M),AI 浴衣若竹服裝 (男)
+PROPITEM_TXT_121650,AI Yukata Green Shoes (M),AI 浴衣若竹鞋子 (男)
+PROPITEM_TXT_121651,AI Yukata 2% Green Set (M),AI 浴衣若竹套裝 2% (男)
+PROPITEM_TXT_121652,The AI Yukata 2% Green Set for male characters.,男角色使用的 AI 浴衣若竹套裝 2%。
+PROPITEM_TXT_121653,AI Yukata Green Hat (F),AI 浴衣若竹帽子 (女)
+PROPITEM_TXT_121654,AI Yukata Green Suit (F),AI 浴衣若竹服裝 (女)
+PROPITEM_TXT_121655,AI Yukata Green Shoes (F),AI 浴衣若竹鞋子 (女)
+PROPITEM_TXT_121656,AI Yukata 2% Green Set (F),AI 浴衣若竹套裝 2% (女)
+PROPITEM_TXT_121657,The AI Yukata 2% Green Set for female characters.,女角色使用的 AI 浴衣若竹套裝 2%。
 PROPITEM_TXT_121658,AI Casual Lucky Box,AI 休閒幸運箱
 PROPITEM_TXT_121659,This box contains a AI Casual Set with Speed bonus. You can select your gender after opening the Lucky Box.,盒子包含一套具有速度獎勵的 AI 休閒套裝。打開幸運箱後，你可選擇你的角色性別來使用。
-PROPITEM_TXT_121660,AI Yukata Lucky Box,AI 浴衣福袋
-PROPITEM_TXT_121661,This box contains a AI Yukata Set with Speed bonus. You can select your gender after opening the Lucky Box.,盒子包含一套具有速度獎勵的 AI 浴衣套裝。打開幸運箱後，你可以選擇你的角色性別來使用。
+PROPITEM_TXT_121660,AI Yukata Lucky Box,AI 浴衣幸運箱
+PROPITEM_TXT_121661,This box contains a AI Yukata Set with Speed bonus. You can select your gender after opening the Lucky Box.,此幸運箱內含一套具速度加成的 AI 浴衣套裝，開啟後可選擇性別。
 PROPITEM_TXT_121662,Sea Shell,海貝殼
 PROPITEM_TXT_121663,Obtained by defeating monsters. Can be exchanged for Various Item from the NPC Conch in town.,透過擊敗怪物來獲得。可以在城鎮的 NPC 海螺處兌換各種物品。
 PROPITEM_TXT_121664,Aibatt Shaved Ice,獨眼蝙蝠刨冰
@@ -14285,86 +14285,86 @@ PROPITEM_TXT_131425,Kalgas Gold Coin,卡爾加斯金幣
 PROPITEM_TXT_131426,"Instant respawn item that can be used unlimited number of times when participating in Kalgas Assault When used, will be immediately respawned at the starting point without wait time.",瞬逝復活道具，參與「卡爾加斯突襲」時可無限次使用。使用後將在起點立即復活，無等待時間。
 PROPITEM_TXT_131427,Kalgas Chip,卡爾加斯籌碼
 PROPITEM_TXT_131428,Exchange this Old Kalgas chip to Waforu for wonderful rewards!,將舊卡爾加斯籌碼交給 [戰鬥商人] 華弗，兌換豐厚獎勵！
-PROPITEM_TXT_722673,Valentine 2024 10% Red Set,2024 情人節紅色套裝 10%
-PROPITEM_TXT_722674,Valentine 2024 10% Red Set (M),2024 情人節紅色套裝 10% (男)
-PROPITEM_TXT_722675,The Valentine 2024 10% Red Set for male characters.,男角色使用的 2024 情人節紅色套裝 10%。
-PROPITEM_TXT_722676,Valentine 2024 Red Hat (M),2024 情人節紅色帽子 (男)
-PROPITEM_TXT_722677,Valentine 2024 Red Suit (M),2024 情人節紅色服裝 (男)
-PROPITEM_TXT_722678,Valentine 2024 Red Shoes (M),2024 情人節紅色鞋子 (男)
-PROPITEM_TXT_722679,Valentine 2024 10% Red Set (F),2024 情人節紅色套裝 10% (女)
-PROPITEM_TXT_722680,The Valentine 2024 10% Red Set for female characters.,女角色使用的 2024 情人節紅色套裝 10%。
-PROPITEM_TXT_722681,Valentine 2024 Red Hat (F),2024 情人節紅色帽子 (女)
-PROPITEM_TXT_722682,Valentine 2024 Red Suit (F),2024 情人節紅色服裝 (女)
-PROPITEM_TXT_722683,Valentine 2024 Red Shoes (F),2024 情人節紅色鞋子 (女)
-PROPITEM_TXT_722684,Valentine 2024 Red Backpack,2024 情人節紅色背包
-PROPITEM_TXT_722685,Valentine 2024 Red Mask,2024 情人節紅色面具
-PROPITEM_TXT_722686,Valentine 2024 8% Pink Set,2024 情人節粉色套裝 8%
-PROPITEM_TXT_722687,Valentine 2024 8% Pink Set (M),2024 情人節粉色套裝 8% (男)
-PROPITEM_TXT_722688,The Valentine 2024 8% Pink Set for male characters.,男角色使用的 2024 情人節粉色套裝 8%。
-PROPITEM_TXT_722689,Valentine 2024 Pink Hat (M),2024 情人節粉色帽子 (男)
-PROPITEM_TXT_722690,Valentine 2024 Pink Suit (M),2024 情人節粉色服裝 (男)
-PROPITEM_TXT_722691,Valentine 2024 Pink Shoes (M),2024 情人節粉色鞋子 (男)
-PROPITEM_TXT_722692,Valentine 2024 8% Pink Set (F),2024 情人節粉色套裝 8% (女)
-PROPITEM_TXT_722693,The Valentine 2024 8% Pink Set for female characters.,女角色使用的 2024 情人節粉色套裝 8%。
-PROPITEM_TXT_722694,Valentine 2024 Pink Hat (F),2024 情人節粉色帽子 (女)
-PROPITEM_TXT_722695,Valentine 2024 Pink Suit (F),2024 情人節粉色服裝 (女)
-PROPITEM_TXT_722696,Valentine 2024 Pink Shoes (F),2024 情人節粉色鞋子 (女)
-PROPITEM_TXT_722697,Valentine 2024 Pink Backpack,2024 情人節粉色背包
-PROPITEM_TXT_722698,Valentine 2024 Pink Mask,2024 情人節粉紅色面具
-PROPITEM_TXT_722699,Valentine 2024 6% Purple Set,2024 情人節紫色套裝 6%
-PROPITEM_TXT_722700,Valentine 2024 6% Purple Set (M),2024 情人節紫色套裝 6% (男)
-PROPITEM_TXT_722701,The Valentine 2024 6% Purple Set for male characters.,男角色使用的 2024 情人節紫色套裝 6%。
-PROPITEM_TXT_722702,Valentine 2024 Purple Hat (M),2024 情人節紫色帽子 (男)
-PROPITEM_TXT_722703,Valentine 2024 Purple Suit (M),2024 情人節紫色服裝 (男)
-PROPITEM_TXT_722704,Valentine 2024 Purple Shoes (M),2024 情人節紫色鞋子 (男)
-PROPITEM_TXT_722705,Valentine 2024 6% Purple Set (F),2024 情人節紫色套裝 6% (女)
-PROPITEM_TXT_722706,The Valentine 2024 6% Purple Set for female characters.,女角色使用的 2024 情人節紫色套裝 6%。
-PROPITEM_TXT_722707,Valentine 2024 Purple Hat (F),2024 情人節紫色帽子 (女)
-PROPITEM_TXT_722708,Valentine 2024 Purple Suit (F),2024 情人節紫色服裝 (女)
-PROPITEM_TXT_722709,Valentine 2024 Purple Shoes (F),2024 情人節紫色鞋子 (女)
-PROPITEM_TXT_722710,Valentine 2024 Purple Backpack,2024 情人節紫色背包
-PROPITEM_TXT_722711,Valentine 2024 Purple Mask,2024 情人節紫色面具
-PROPITEM_TXT_722712,Valentine 2024 4% Orange Set,2024 情人節橙色套裝 4%
-PROPITEM_TXT_722713,Valentine 2024 4% Orange Set (M),2024 情人節橙色套裝 4% (男)
-PROPITEM_TXT_722714,The Valentine 2024 4% Orange Set for male characters.,男角色使用的 2024 情人節橙色套裝 4%。
-PROPITEM_TXT_722715,Valentine 2024 Orange Hat (M),2024 情人節橙色帽子 (男)
-PROPITEM_TXT_722716,Valentine 2024 Orange Suit (M),2024 情人節橙色服裝 (男)
-PROPITEM_TXT_722717,Valentine 2024 Orange Shoes (M),2024 情人節橙色鞋子 (男)
-PROPITEM_TXT_722718,Valentine 2024 4% Orange Set (F),2024 情人節橙色套裝 4% (女)
-PROPITEM_TXT_722719,The Valentine 2024 4% Orange Set for female characters.,女角色使用的 2024 情人節橙色套裝 4%。
-PROPITEM_TXT_722720,Valentine 2024 Orange Hat (F),2024 情人節橙色帽子 (女)
-PROPITEM_TXT_722721,Valentine 2024 Orange Suit (F),2024 情人節橙色服裝 (女)
-PROPITEM_TXT_722722,Valentine 2024 Orange Shoes (F),2024 情人節橙色鞋子 (女)
-PROPITEM_TXT_722723,Valentine 2024 Orange Backpack,2024 情人節橙色背包
-PROPITEM_TXT_722724,Valentine 2024 Orange Mask,2024 情人節橙色面具
-PROPITEM_TXT_722725,Valentine 2024 2% Blue Set,2024 情人節藍色套裝 2%
-PROPITEM_TXT_722726,Valentine 2024 2% Blue Set (M),2024 情人節藍色套裝 2% (男)
-PROPITEM_TXT_722727,The Valentine 2024 2% Blue Set for male characters.,男角色使用的 2024 情人節藍色套裝 2%。
-PROPITEM_TXT_722728,Valentine 2024 Blue Hat (M),2024 情人節藍色帽子 (男)
-PROPITEM_TXT_722729,Valentine 2024 Blue Suit (M),2024 情人節藍色服裝 (男)
-PROPITEM_TXT_722730,Valentine 2024 Blue Shoes (M),2024 情人節藍色鞋子 (男)
-PROPITEM_TXT_722731,Valentine 2024 2% Blue Set (F),2024 情人節藍色套裝 2% (女)
-PROPITEM_TXT_722732,The Valentine 2024 2% Blue Set for female characters.,女角色使用的 2024 情人節藍色套裝 2%。
-PROPITEM_TXT_722733,Valentine 2024 Blue Hat (F),2024 情人節藍色帽子 (女)
-PROPITEM_TXT_722734,Valentine 2024 Blue Suit (F),2024 情人節藍色服裝 (女)
-PROPITEM_TXT_722735,Valentine 2024 Blue Shoes (F),2024 情人節藍色鞋子 (女)
-PROPITEM_TXT_722736,Valentine 2024 Blue Backpack,2024 情人節藍色背包
-PROPITEM_TXT_722737,Valentine 2024 Blue Mask,2024 情人節藍色面具
-PROPITEM_TXT_722738,Valentine 2024 2% Black Set,2024 情人節黑色套裝 2%
-PROPITEM_TXT_722739,Valentine 2024 2% Black Set (M),2024 情人節黑色套裝 2% (男)
-PROPITEM_TXT_722740,The Valentine 2024 2% Black Set for male characters.,男角色使用的 2024 情人節黑色套裝 2%。
-PROPITEM_TXT_722741,Valentine 2024 Black Hat (M),2024 情人節黑色帽子 (男)
-PROPITEM_TXT_722742,Valentine 2024 Black Suit (M),2024 情人節黑色服裝 (男)
-PROPITEM_TXT_722743,Valentine 2024 Black Shoes (M),2024 情人節黑色鞋子 (男)
-PROPITEM_TXT_722744,Valentine 2024 2% Black Set (F),2024 情人節黑色套裝 2% (女)
-PROPITEM_TXT_722745,The Valentine 2024 2% Black Set for female characters.,女角色使用的 2024 情人節黑色套裝 2%。
-PROPITEM_TXT_722746,Valentine 2024 Black Hat (F),2024 情人節黑色帽子 (女)
-PROPITEM_TXT_722747,Valentine 2024 Black Suit (F),2024 情人節黑色服裝 (女)
-PROPITEM_TXT_722748,Valentine 2024 Black Shoes (F),2024 情人節黑色鞋子 (女)
-PROPITEM_TXT_722749,Valentine 2024 Black Backpack,2024 情人節黑色背包
-PROPITEM_TXT_722750,Valentine 2024 Black Mask,2024 情人節黑色面具
+PROPITEM_TXT_722673,Valentine 2024 10% Red Set,2024 情人節熾戀套裝 10%
+PROPITEM_TXT_722674,Valentine 2024 10% Red Set (M),2024 情人節熾戀套裝 10% (男)
+PROPITEM_TXT_722675,The Valentine 2024 10% Red Set for male characters.,男角色使用的 2024 情人節熾戀套裝 10%。
+PROPITEM_TXT_722676,Valentine 2024 Red Hat (M),2024 情人節熾戀帽子 (男)
+PROPITEM_TXT_722677,Valentine 2024 Red Suit (M),2024 情人節熾戀服裝 (男)
+PROPITEM_TXT_722678,Valentine 2024 Red Shoes (M),2024 情人節熾戀鞋子 (男)
+PROPITEM_TXT_722679,Valentine 2024 10% Red Set (F),2024 情人節熾戀套裝 10% (女)
+PROPITEM_TXT_722680,The Valentine 2024 10% Red Set for female characters.,女角色使用的 2024 情人節熾戀套裝 10%。
+PROPITEM_TXT_722681,Valentine 2024 Red Hat (F),2024 情人節熾戀帽子 (女)
+PROPITEM_TXT_722682,Valentine 2024 Red Suit (F),2024 情人節熾戀服裝 (女)
+PROPITEM_TXT_722683,Valentine 2024 Red Shoes (F),2024 情人節熾戀鞋子 (女)
+PROPITEM_TXT_722684,Valentine 2024 Red Backpack,2024 情人節熾戀背包
+PROPITEM_TXT_722685,Valentine 2024 Red Mask,2024 情人節熾戀面具
+PROPITEM_TXT_722686,Valentine 2024 8% Pink Set,2024 情人節初戀套裝 8%
+PROPITEM_TXT_722687,Valentine 2024 8% Pink Set (M),2024 情人節初戀套裝 8% (男)
+PROPITEM_TXT_722688,The Valentine 2024 8% Pink Set for male characters.,男角色使用的 2024 情人節初戀套裝 8%。
+PROPITEM_TXT_722689,Valentine 2024 Pink Hat (M),2024 情人節初戀帽子 (男)
+PROPITEM_TXT_722690,Valentine 2024 Pink Suit (M),2024 情人節初戀服裝 (男)
+PROPITEM_TXT_722691,Valentine 2024 Pink Shoes (M),2024 情人節初戀鞋子 (男)
+PROPITEM_TXT_722692,Valentine 2024 8% Pink Set (F),2024 情人節初戀套裝 8% (女)
+PROPITEM_TXT_722693,The Valentine 2024 8% Pink Set for female characters.,女角色使用的 2024 情人節初戀套裝 8%。
+PROPITEM_TXT_722694,Valentine 2024 Pink Hat (F),2024 情人節初戀帽子 (女)
+PROPITEM_TXT_722695,Valentine 2024 Pink Suit (F),2024 情人節初戀服裝 (女)
+PROPITEM_TXT_722696,Valentine 2024 Pink Shoes (F),2024 情人節初戀鞋子 (女)
+PROPITEM_TXT_722697,Valentine 2024 Pink Backpack,2024 情人節初戀背包
+PROPITEM_TXT_722698,Valentine 2024 Pink Mask,2024 情人節初戀面具
+PROPITEM_TXT_722699,Valentine 2024 6% Purple Set,2024 情人節謎戀套裝 6%
+PROPITEM_TXT_722700,Valentine 2024 6% Purple Set (M),2024 情人節謎戀套裝 6% (男)
+PROPITEM_TXT_722701,The Valentine 2024 6% Purple Set for male characters.,男角色使用的 2024 情人節謎戀套裝 6%。
+PROPITEM_TXT_722702,Valentine 2024 Purple Hat (M),2024 情人節謎戀帽子 (男)
+PROPITEM_TXT_722703,Valentine 2024 Purple Suit (M),2024 情人節謎戀服裝 (男)
+PROPITEM_TXT_722704,Valentine 2024 Purple Shoes (M),2024 情人節謎戀鞋子 (男)
+PROPITEM_TXT_722705,Valentine 2024 6% Purple Set (F),2024 情人節謎戀套裝 6% (女)
+PROPITEM_TXT_722706,The Valentine 2024 6% Purple Set for female characters.,女角色使用的 2024 情人節謎戀套裝 6%。
+PROPITEM_TXT_722707,Valentine 2024 Purple Hat (F),2024 情人節謎戀帽子 (女)
+PROPITEM_TXT_722708,Valentine 2024 Purple Suit (F),2024 情人節謎戀服裝 (女)
+PROPITEM_TXT_722709,Valentine 2024 Purple Shoes (F),2024 情人節謎戀鞋子 (女)
+PROPITEM_TXT_722710,Valentine 2024 Purple Backpack,2024 情人節謎戀背包
+PROPITEM_TXT_722711,Valentine 2024 Purple Mask,2024 情人節謎戀面具
+PROPITEM_TXT_722712,Valentine 2024 4% Orange Set,2024 情人節暖陽套裝 4%
+PROPITEM_TXT_722713,Valentine 2024 4% Orange Set (M),2024 情人節暖陽套裝 4% (男)
+PROPITEM_TXT_722714,The Valentine 2024 4% Orange Set for male characters.,男角色使用的 2024 情人節暖陽套裝 4%。
+PROPITEM_TXT_722715,Valentine 2024 Orange Hat (M),2024 情人節暖陽帽子 (男)
+PROPITEM_TXT_722716,Valentine 2024 Orange Suit (M),2024 情人節暖陽服裝 (男)
+PROPITEM_TXT_722717,Valentine 2024 Orange Shoes (M),2024 情人節暖陽鞋子 (男)
+PROPITEM_TXT_722718,Valentine 2024 4% Orange Set (F),2024 情人節暖陽套裝 4% (女)
+PROPITEM_TXT_722719,The Valentine 2024 4% Orange Set for female characters.,女角色使用的 2024 情人節暖陽套裝 4%。
+PROPITEM_TXT_722720,Valentine 2024 Orange Hat (F),2024 情人節暖陽帽子 (女)
+PROPITEM_TXT_722721,Valentine 2024 Orange Suit (F),2024 情人節暖陽服裝 (女)
+PROPITEM_TXT_722722,Valentine 2024 Orange Shoes (F),2024 情人節暖陽鞋子 (女)
+PROPITEM_TXT_722723,Valentine 2024 Orange Backpack,2024 情人節暖陽背包
+PROPITEM_TXT_722724,Valentine 2024 Orange Mask,2024 情人節暖陽面具
+PROPITEM_TXT_722725,Valentine 2024 2% Blue Set,2024 情人節星戀套裝 2%
+PROPITEM_TXT_722726,Valentine 2024 2% Blue Set (M),2024 情人節星戀套裝 2% (男)
+PROPITEM_TXT_722727,The Valentine 2024 2% Blue Set for male characters.,男角色使用的 2024 情人節星戀套裝 2%。
+PROPITEM_TXT_722728,Valentine 2024 Blue Hat (M),2024 情人節星戀帽子 (男)
+PROPITEM_TXT_722729,Valentine 2024 Blue Suit (M),2024 情人節星戀服裝 (男)
+PROPITEM_TXT_722730,Valentine 2024 Blue Shoes (M),2024 情人節星戀鞋子 (男)
+PROPITEM_TXT_722731,Valentine 2024 2% Blue Set (F),2024 情人節星戀套裝 2% (女)
+PROPITEM_TXT_722732,The Valentine 2024 2% Blue Set for female characters.,女角色使用的 2024 情人節星戀套裝 2%。
+PROPITEM_TXT_722733,Valentine 2024 Blue Hat (F),2024 情人節星戀帽子 (女)
+PROPITEM_TXT_722734,Valentine 2024 Blue Suit (F),2024 情人節星戀服裝 (女)
+PROPITEM_TXT_722735,Valentine 2024 Blue Shoes (F),2024 情人節星戀鞋子 (女)
+PROPITEM_TXT_722736,Valentine 2024 Blue Backpack,2024 情人節星戀背包
+PROPITEM_TXT_722737,Valentine 2024 Blue Mask,2024 情人節星戀面具
+PROPITEM_TXT_722738,Valentine 2024 2% Black Set,2024 情人節夜戀套裝 2%
+PROPITEM_TXT_722739,Valentine 2024 2% Black Set (M),2024 情人節夜戀套裝 2% (男)
+PROPITEM_TXT_722740,The Valentine 2024 2% Black Set for male characters.,男角色使用的 2024 情人節夜戀套裝 2%。
+PROPITEM_TXT_722741,Valentine 2024 Black Hat (M),2024 情人節夜戀帽子 (男)
+PROPITEM_TXT_722742,Valentine 2024 Black Suit (M),2024 情人節夜戀服裝 (男)
+PROPITEM_TXT_722743,Valentine 2024 Black Shoes (M),2024 情人節夜戀鞋子 (男)
+PROPITEM_TXT_722744,Valentine 2024 2% Black Set (F),2024 情人節夜戀套裝 2% (女)
+PROPITEM_TXT_722745,The Valentine 2024 2% Black Set for female characters.,女角色使用的 2024 情人節夜戀套裝 2%。
+PROPITEM_TXT_722746,Valentine 2024 Black Hat (F),2024 情人節夜戀帽子 (女)
+PROPITEM_TXT_722747,Valentine 2024 Black Suit (F),2024 情人節夜戀服裝 (女)
+PROPITEM_TXT_722748,Valentine 2024 Black Shoes (F),2024 情人節夜戀鞋子 (女)
+PROPITEM_TXT_722749,Valentine 2024 Black Backpack,2024 情人節夜戀背包
+PROPITEM_TXT_722750,Valentine 2024 Black Mask,2024 情人節夜戀面具
 PROPITEM_TXT_722751,Valentine 2024 Costume Lucky Box,2024 情人節服裝幸運箱
-PROPITEM_TXT_722752,This box contains a Valentine 2024 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,此箱子包含附帶速度加成的 2024 情人節套裝。開啟幸運箱後可選擇性別。
+PROPITEM_TXT_722752,This box contains a Valentine 2024 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,此幸運箱內含一套具速度加成的 2024 情人節套裝，開啟後可選擇性別。
 PROPITEM_TXT_722753,Teddy Bear 2024 10% Brown Set,2024 泰迪熊棕色套裝 10%
 PROPITEM_TXT_722754,Teddy Bear 2024 10% Brown Set (M),2024 泰迪熊棕色套裝 10% (男)
 PROPITEM_TXT_722755,The Teddy Bear 2024 10% Brown Set for male characters.,男角色使用的 2024 泰迪熊棕色套裝 10%。
@@ -15427,23 +15427,23 @@ PROPITEM_TXT_724578,Anniversary 2024 Blue Shoes (F),2024 週年紀念藍色鞋�
 PROPITEM_TXT_724579,Anniversary 2024 Blue Hands (F),2024 週年藍色手套 (女)
 PROPITEM_TXT_724580,Anniversary 2024 Blue Backpack,2024 週年紀念藍色背包
 PROPITEM_TXT_724581,Anniversary 2024 Blue Glasses,2024 週年紀念藍色眼鏡
-PROPITEM_TXT_724582,Anniversary 2024 2% White Set,2024 週年紀念白色套裝 2%
-PROPITEM_TXT_724583,Anniversary 2024 White Set (M) (2%),2024 週年紀念白色套裝 (男)
-PROPITEM_TXT_724584,The Anniversary 2024 White (2%) Set for male characters.,男角色使用的 2024 週年紀念白色套裝。
-PROPITEM_TXT_724585,Anniversary 2024 White Hat (M),2024 週年紀念白色帽子 (男)
-PROPITEM_TXT_724586,Anniversary 2024 White Suit (M),2024 週年紀念白色服裝 (男)
-PROPITEM_TXT_724587,Anniversary 2024 White Shoes (M),2024 週年紀念白色鞋子 (男)
-PROPITEM_TXT_724588,Anniversary 2024 White Hands (M),2024 週年白色手套 (男)
-PROPITEM_TXT_724589,Anniversary 2024 White Set (F) (2%),2024 週年紀念白色套裝 (女)
-PROPITEM_TXT_724590,The Anniversary 2024 White (2%) Set for female characters.,女角色使用的 2024 週年紀念白色套裝。
-PROPITEM_TXT_724591,Anniversary 2024 White Hat (F),2024 週年紀念白色帽子 (女)
-PROPITEM_TXT_724592,Anniversary 2024 White Suit (F),2024 週年紀念白色服裝 (女)
-PROPITEM_TXT_724593,Anniversary 2024 White Shoes (F),2024 週年紀念白色鞋子 (女)
-PROPITEM_TXT_724594,Anniversary 2024 White Hands (F),2024 週年白色手套 (女)
-PROPITEM_TXT_724595,Anniversary 2024 White Backpack,2024 週年紀念白色背包
-PROPITEM_TXT_724596,Anniversary 2024 White Glasses,2024 週年紀念白色眼鏡
-PROPITEM_TXT_724597,Anniversary 2024 Costume Lucky Box,2024 週年服裝幸運箱
-PROPITEM_TXT_724598,This box contains a Anniversary 2024 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,此箱子包含附帶速度加成的 2024 週年套裝。開啟幸運箱後可選擇性別。
+PROPITEM_TXT_724582,Anniversary 2024 2% White Set,2024 週年紀念星耀套裝 2%
+PROPITEM_TXT_724583,Anniversary 2024 White Set (M) (2%),2024 週年紀念星耀套裝 2% (男)
+PROPITEM_TXT_724584,The Anniversary 2024 White (2%) Set for male characters.,男角色使用的 2024 週年紀念星耀套裝 2%。
+PROPITEM_TXT_724585,Anniversary 2024 White Hat (M),2024 週年紀念星耀帽子 (男)
+PROPITEM_TXT_724586,Anniversary 2024 White Suit (M),2024 週年紀念星耀服裝 (男)
+PROPITEM_TXT_724587,Anniversary 2024 White Shoes (M),2024 週年紀念星耀鞋子 (男)
+PROPITEM_TXT_724588,Anniversary 2024 White Hands (M),2024 週年紀念星耀手套 (男)
+PROPITEM_TXT_724589,Anniversary 2024 White Set (F) (2%),2024 週年紀念星耀套裝 2% (女)
+PROPITEM_TXT_724590,The Anniversary 2024 White (2%) Set for female characters.,女角色使用的 2024 週年紀念星耀套裝 2%。
+PROPITEM_TXT_724591,Anniversary 2024 White Hat (F),2024 週年紀念星耀帽子 (女)
+PROPITEM_TXT_724592,Anniversary 2024 White Suit (F),2024 週年紀念星耀服裝 (女)
+PROPITEM_TXT_724593,Anniversary 2024 White Shoes (F),2024 週年紀念星耀鞋子 (女)
+PROPITEM_TXT_724594,Anniversary 2024 White Hands (F),2024 週年紀念星耀手套 (女)
+PROPITEM_TXT_724595,Anniversary 2024 White Backpack,2024 週年紀念星耀背包
+PROPITEM_TXT_724596,Anniversary 2024 White Glasses,2024 週年紀念星耀眼鏡
+PROPITEM_TXT_724597,Anniversary 2024 Costume Lucky Box,2024 週年紀念服裝幸運箱
+PROPITEM_TXT_724598,This box contains a Anniversary 2024 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,此幸運箱內含一套具速度加成的 2024 週年紀念套裝，開啟後可選擇性別。
 PROPITEM_TXT_724599,Black Anniversary Cat,週年黑貓
 PROPITEM_TXT_724600,This majestic cat will accompany you on your adventure and pick up items for you.,這隻雄偉的貓咪將陪伴你冒險並為你拾取物品。
 PROPITEM_TXT_724601,Purple Anniversary Cat,週年紫貓
@@ -15464,8 +15464,8 @@ PROPITEM_TXT_724615,Anniversary 2024 Cyan Bag,2024 週年紀念包包 青藍色
 PROPITEM_TXT_724616,Anniversary 2024 Cyan Eye Patch,2024 週年青色眼罩
 PROPITEM_TXT_724617,Anniversary 2024 Blue Bag,2024 週年紀念藍色包包
 PROPITEM_TXT_724618,Anniversary 2024 Blue Eye Patch,2024 週年藍色眼罩
-PROPITEM_TXT_724619,Anniversary 2024 White Bag,2024 週年紀念白色包包
-PROPITEM_TXT_724620,Anniversary 2024 White Eye Patch,2024 週年白色眼罩
+PROPITEM_TXT_724619,Anniversary 2024 White Bag,2024 週年紀念星耀提袋
+PROPITEM_TXT_724620,Anniversary 2024 White Eye Patch,2024 週年紀念星耀眼罩
 PROPITEM_TXT_724621,Necklace +15 Box,項鍊 +15 寶箱
 PROPITEM_TXT_724622,Select which +15 Necklace you want to receive!,請選擇你想要獲得的 +15 項鍊！
 PROPITEM_TXT_724623,Earring +15 Box,耳環 +15 寶箱
@@ -15548,112 +15548,112 @@ PROPITEM_TXT_724699,FWC Golden Lusaka's Crystal Wand,榮耀‧盧薩卡水晶魔
 PROPITEM_TXT_724700,FWC Golden Lusaka's Crystal Yo-Yo,榮耀‧盧薩卡水晶溜刃
 PROPITEM_TXT_724701,FWC Pre-Register Gift Box,FWC 預註冊禮盒
 PROPITEM_TXT_724702,Some useful items to start your journey!,一些有用的物品來開始你的旅程！
-PROPITEM_TXT_724703,Spring Qipao 10% Black Set,春日旗袍黑色套裝 10%
-PROPITEM_TXT_724704,Spring Qipao 10% Black Set (M),春日旗袍黑色套裝 10% (男)
-PROPITEM_TXT_724705,The Spring Qipao 10% Black Set for male characters.,男角色使用的春日旗袍黑色套裝 10%。
-PROPITEM_TXT_724706,Spring Qipao Black Hat (M),春日旗袍黑色帽子 (男)
-PROPITEM_TXT_724707,Spring Qipao Black Suit (M),春日旗袍黑色服裝 (男)
-PROPITEM_TXT_724708,Spring Qipao Black Shoes (M),春日旗袍黑色鞋子 (男)
-PROPITEM_TXT_724709,Spring Qipao 10% Black Set (F),春日旗袍黑色套裝 10% (女)
-PROPITEM_TXT_724710,The Spring Qipao 10% Black Set for female characters.,女角色使用的春日旗袍黑色套裝 10%。
-PROPITEM_TXT_724711,Spring Qipao Black Hat (F),春日旗袍黑色帽子 (女)
-PROPITEM_TXT_724712,Spring Qipao Black Suit (F),春日旗袍黑色服裝 (女)
-PROPITEM_TXT_724713,Spring Qipao Black Shoes (F),春日旗袍黑色鞋子 (女)
-PROPITEM_TXT_724714,Spring Qipao Black Umbrella,春日旗袍黑色雨傘
-PROPITEM_TXT_724715,Spring Qipao Black Mask,春日旗袍黑色面具
-PROPITEM_TXT_724716,Spring Qipao 10% Red Set,春日旗袍紅色套裝 10%
-PROPITEM_TXT_724717,Spring Qipao 10% Red Set (M),春日旗袍紅色套裝 10% (男)
-PROPITEM_TXT_724718,The Spring Qipao 10% Red Set for male characters.,男角色使用的春日旗袍紅色套裝 10%。
-PROPITEM_TXT_724719,Spring Qipao Red Hat (M),春日旗袍紅色帽子 (男)
-PROPITEM_TXT_724720,Spring Qipao Red Suit (M),春日旗袍紅色服裝 (男)
-PROPITEM_TXT_724721,Spring Qipao Red Shoes (M),春日旗袍紅色鞋子 (男)
-PROPITEM_TXT_724722,Spring Qipao 10% Red Set (F),春日旗袍紅色套裝 10% (女)
-PROPITEM_TXT_724723,The Spring Qipao 10% Red Set for female characters.,女角色使用的春日旗袍紅色套裝 10%。
-PROPITEM_TXT_724724,Spring Qipao Red Hat (F),春日旗袍紅色帽子 (女)
-PROPITEM_TXT_724725,Spring Qipao Red Suit (F),春日旗袍紅色服裝 (女)
-PROPITEM_TXT_724726,Spring Qipao Red Shoes (F),春日旗袍紅色鞋子 (女)
-PROPITEM_TXT_724727,Spring Qipao Red Umbrella,春日旗袍紅色雨傘
-PROPITEM_TXT_724728,Spring Qipao Red Mask,春日旗袍紅色面具
-PROPITEM_TXT_724729,Spring Qipao 8% Purple Set,春日旗袍紫色套裝 8%
-PROPITEM_TXT_724730,Spring Qipao 8% Purple Set (M),春日旗袍紫色套裝 8% (男)
-PROPITEM_TXT_724731,The Spring Qipao 8% Purple Set for male characters.,男角色使用的春日旗袍紫色套裝 8%。
-PROPITEM_TXT_724732,Spring Qipao Purple Hat (M),春日旗袍紫色帽子 (男)
-PROPITEM_TXT_724733,Spring Qipao Purple Suit (M),春日旗袍紫色服裝 (男)
-PROPITEM_TXT_724734,Spring Qipao Purple Shoes (M),春日旗袍紫色鞋子 (男)
-PROPITEM_TXT_724735,Spring Qipao 8% Purple Set (F),春日旗袍紫色套裝 8% (女)
-PROPITEM_TXT_724736,The Spring Qipao 8% Purple Set for female characters.,女角色使用的春日旗袍紫色套裝 8%。
-PROPITEM_TXT_724737,Spring Qipao Purple Hat (F),春日旗袍紫色帽子 (女)
-PROPITEM_TXT_724738,Spring Qipao Purple Suit (F),春日旗袍紫色服裝 (女)
-PROPITEM_TXT_724739,Spring Qipao Purple Shoes (F),春日旗袍紫色鞋子 (女)
-PROPITEM_TXT_724740,Spring Qipao Purple Umbrella,春日旗袍紫色雨傘
-PROPITEM_TXT_724741,Spring Qipao Purple Mask,春日旗袍紫色面具
-PROPITEM_TXT_724742,Spring Qipao 8% Pink Set,春日旗袍粉色套裝 8%
-PROPITEM_TXT_724743,Spring Qipao 8% Pink Set (M),春日旗袍粉色套裝 8% (男)
-PROPITEM_TXT_724744,The Spring Qipao 8% Pink Set for male characters.,男角色使用的春日旗袍粉色套裝 8%。
-PROPITEM_TXT_724745,Spring Qipao Pink Hat (M),春日旗袍粉色帽子 (男)
-PROPITEM_TXT_724746,Spring Qipao Pink Suit (M),春日旗袍粉色服裝 (男)
-PROPITEM_TXT_724747,Spring Qipao Pink Shoes (M),春日旗袍粉色鞋子 (男)
-PROPITEM_TXT_724748,Spring Qipao 8% Pink Set (F),春日旗袍粉色套裝 8% (女)
-PROPITEM_TXT_724749,The Spring Qipao 8% Pink Set for female characters.,女角色使用的春日旗袍粉色套裝 8%。
-PROPITEM_TXT_724750,Spring Qipao Pink Hat (F),春日旗袍粉色帽子 (女)
-PROPITEM_TXT_724751,Spring Qipao Pink Suit (F),春日旗袍粉色服裝 (女)
-PROPITEM_TXT_724752,Spring Qipao Pink Shoes (F),春日旗袍粉色鞋子 (女)
-PROPITEM_TXT_724753,Spring Qipao Pink Umbrella,春日旗袍粉紅色雨傘
-PROPITEM_TXT_724754,Spring Qipao Pink Mask,春日旗袍粉紅色面具
-PROPITEM_TXT_724755,Spring Qipao 6% Orange Set,春日旗袍橙色套裝 6%
-PROPITEM_TXT_724756,Spring Qipao 6% Orange Set (M),春日旗袍橙色套裝 6% (男)
-PROPITEM_TXT_724757,The Spring Qipao 6% Orange Set for male characters.,男角色使用的春日旗袍橙色套裝 6%。
-PROPITEM_TXT_724758,Spring Qipao Orange Hat (M),春日旗袍橙色帽子 (男)
-PROPITEM_TXT_724759,Spring Qipao Orange Suit (M),春日旗袍橙色服裝 (男)
-PROPITEM_TXT_724760,Spring Qipao Orange Shoes (M),春日旗袍橙色鞋子 (男)
-PROPITEM_TXT_724761,Spring Qipao 6% Orange Set (F),春日旗袍橙色套裝 6% (女)
-PROPITEM_TXT_724762,The Spring Qipao 6% Orange Set for female characters.,女角色使用的春日旗袍橙色套裝 6%。
-PROPITEM_TXT_724763,Spring Qipao Orange Hat (F),春日旗袍橙色帽子 (女)
-PROPITEM_TXT_724764,Spring Qipao Orange Suit (F),春日旗袍橙色服裝 (女)
-PROPITEM_TXT_724765,Spring Qipao Orange Shoes (F),春日旗袍橙色鞋子 (女)
-PROPITEM_TXT_724766,Spring Qipao Orange Umbrella,春日旗袍橙色雨傘
-PROPITEM_TXT_724767,Spring Qipao Orange Mask,春日旗袍橙色面具
-PROPITEM_TXT_724768,Spring Qipao 4% Cyan Set,春日旗袍青色套裝 4%
-PROPITEM_TXT_724769,Spring Qipao 4% Cyan Set (M),春日旗袍青色套裝 4% (男)
-PROPITEM_TXT_724770,The Spring Qipao 4% Cyan Set for male characters.,男角色使用的春日旗袍青色套裝 4%。
-PROPITEM_TXT_724771,Spring Qipao Cyan Hat (M),春日旗袍青色帽子 (男)
-PROPITEM_TXT_724772,Spring Qipao Cyan Suit (M),春日旗袍青色服裝 (男)
-PROPITEM_TXT_724773,Spring Qipao Cyan Shoes (M),春日旗袍青色鞋子 (男)
-PROPITEM_TXT_724774,Spring Qipao 4% Cyan Set (F),春日旗袍青色套裝 4% (女)
-PROPITEM_TXT_724775,The Spring Qipao 4% Cyan Set for female characters.,女角色使用的春日旗袍青色套裝 4%。
-PROPITEM_TXT_724776,Spring Qipao Cyan Hat (F),春日旗袍青色帽子 (女)
-PROPITEM_TXT_724777,Spring Qipao Cyan Suit (F),春日旗袍青色服裝 (女)
-PROPITEM_TXT_724778,Spring Qipao Cyan Shoes (F),春日旗袍青色鞋子 (女)
-PROPITEM_TXT_724779,Spring Qipao Cyan Umbrella,春日旗袍青色雨傘
-PROPITEM_TXT_724780,Spring Qipao Cyan Mask,春日旗袍青色面具
-PROPITEM_TXT_724781,Spring Qipao 2% Blue Set,春日旗袍藍色套裝 2%
-PROPITEM_TXT_724782,Spring Qipao 2% Blue Set (M),春日旗袍藍色套裝 2% (男)
-PROPITEM_TXT_724783,The Spring Qipao 2% Blue Set for male characters.,男角色使用的春日旗袍藍色套裝 2%。
-PROPITEM_TXT_724784,Spring Qipao Blue Hat (M),春日旗袍藍色帽子 (男)
-PROPITEM_TXT_724785,Spring Qipao Blue Suit (M),春日旗袍藍色服裝 (男)
-PROPITEM_TXT_724786,Spring Qipao Blue Shoes (M),春日旗袍藍色鞋子 (男)
-PROPITEM_TXT_724787,Spring Qipao 2% Blue Set (F),春日旗袍藍色套裝 2% (女)
-PROPITEM_TXT_724788,The Spring Qipao 2% Blue Set for female characters.,女角色使用的春日旗袍藍色套裝 2%。
-PROPITEM_TXT_724789,Spring Qipao Blue Hat (F),春日旗袍藍色帽子 (女)
-PROPITEM_TXT_724790,Spring Qipao Blue Suit (F),春日旗袍藍色服裝 (女)
-PROPITEM_TXT_724791,Spring Qipao Blue Shoes (F),春日旗袍藍色鞋子 (女)
-PROPITEM_TXT_724792,Spring Qipao Blue Umbrella,春日旗袍藍色雨傘
-PROPITEM_TXT_724793,Spring Qipao Blue Mask,春日旗袍藍色面具
-PROPITEM_TXT_724794,Spring Qipao 2% White Set,春日旗袍白色套裝 2%
-PROPITEM_TXT_724795,Spring Qipao 2% White Set (M),春日旗袍白色套裝 2% (男)
-PROPITEM_TXT_724796,The Spring Qipao 2% White Set for male characters.,男角色使用的春日旗袍白色套裝 2%。
-PROPITEM_TXT_724797,Spring Qipao White Hat (M),春日旗袍白色帽子 (男)
-PROPITEM_TXT_724798,Spring Qipao White Suit (M),春日旗袍白色服裝 (男)
-PROPITEM_TXT_724799,Spring Qipao White Shoes (M),春日旗袍白色鞋子 (男)
-PROPITEM_TXT_724800,Spring Qipao 2% White Set (F),春日旗袍白色套裝 2% (女)
-PROPITEM_TXT_724801,The Spring Qipao 2% White Set for female characters.,女角色使用的春日旗袍白色套裝 2%。
-PROPITEM_TXT_724802,Spring Qipao White Hat (F),春日旗袍白色帽子 (女)
-PROPITEM_TXT_724803,Spring Qipao White Suit (F),春日旗袍白色服裝 (女)
-PROPITEM_TXT_724804,Spring Qipao White Shoes (F),春日旗袍白色鞋子 (女)
-PROPITEM_TXT_724805,Spring Qipao White Umbrella,春日旗袍白色雨傘
-PROPITEM_TXT_724806,Spring Qipao White Mask,春日旗袍白色面具
+PROPITEM_TXT_724703,Spring Qipao 10% Black Set,春日旗袍墨竹套裝 10%
+PROPITEM_TXT_724704,Spring Qipao 10% Black Set (M),春日旗袍墨竹套裝 10% (男)
+PROPITEM_TXT_724705,The Spring Qipao 10% Black Set for male characters.,男角色使用的春日旗袍墨竹套裝 10%。
+PROPITEM_TXT_724706,Spring Qipao Black Hat (M),春日旗袍墨竹帽子 (男)
+PROPITEM_TXT_724707,Spring Qipao Black Suit (M),春日旗袍墨竹服裝 (男)
+PROPITEM_TXT_724708,Spring Qipao Black Shoes (M),春日旗袍墨竹鞋子 (男)
+PROPITEM_TXT_724709,Spring Qipao 10% Black Set (F),春日旗袍墨竹套裝 10% (女)
+PROPITEM_TXT_724710,The Spring Qipao 10% Black Set for female characters.,女角色使用的春日旗袍墨竹套裝 10%。
+PROPITEM_TXT_724711,Spring Qipao Black Hat (F),春日旗袍墨竹帽子 (女)
+PROPITEM_TXT_724712,Spring Qipao Black Suit (F),春日旗袍墨竹服裝 (女)
+PROPITEM_TXT_724713,Spring Qipao Black Shoes (F),春日旗袍墨竹鞋子 (女)
+PROPITEM_TXT_724714,Spring Qipao Black Umbrella,春日旗袍墨竹傘
+PROPITEM_TXT_724715,Spring Qipao Black Mask,春日旗袍墨竹面具
+PROPITEM_TXT_724716,Spring Qipao 10% Red Set,春日旗袍丹霞套裝 10%
+PROPITEM_TXT_724717,Spring Qipao 10% Red Set (M),春日旗袍丹霞套裝 10% (男)
+PROPITEM_TXT_724718,The Spring Qipao 10% Red Set for male characters.,男角色使用的春日旗袍丹霞套裝 10%。
+PROPITEM_TXT_724719,Spring Qipao Red Hat (M),春日旗袍丹霞帽子 (男)
+PROPITEM_TXT_724720,Spring Qipao Red Suit (M),春日旗袍丹霞服裝 (男)
+PROPITEM_TXT_724721,Spring Qipao Red Shoes (M),春日旗袍丹霞鞋子 (男)
+PROPITEM_TXT_724722,Spring Qipao 10% Red Set (F),春日旗袍丹霞套裝 10% (女)
+PROPITEM_TXT_724723,The Spring Qipao 10% Red Set for female characters.,女角色使用的春日旗袍丹霞套裝 10%。
+PROPITEM_TXT_724724,Spring Qipao Red Hat (F),春日旗袍丹霞帽子 (女)
+PROPITEM_TXT_724725,Spring Qipao Red Suit (F),春日旗袍丹霞服裝 (女)
+PROPITEM_TXT_724726,Spring Qipao Red Shoes (F),春日旗袍丹霞鞋子 (女)
+PROPITEM_TXT_724727,Spring Qipao Red Umbrella,春日旗袍丹霞傘
+PROPITEM_TXT_724728,Spring Qipao Red Mask,春日旗袍丹霞面具
+PROPITEM_TXT_724729,Spring Qipao 8% Purple Set,春日旗袍紫藤套裝 8%
+PROPITEM_TXT_724730,Spring Qipao 8% Purple Set (M),春日旗袍紫藤套裝 8% (男)
+PROPITEM_TXT_724731,The Spring Qipao 8% Purple Set for male characters.,男角色使用的春日旗袍紫藤套裝 8%。
+PROPITEM_TXT_724732,Spring Qipao Purple Hat (M),春日旗袍紫藤帽子 (男)
+PROPITEM_TXT_724733,Spring Qipao Purple Suit (M),春日旗袍紫藤服裝 (男)
+PROPITEM_TXT_724734,Spring Qipao Purple Shoes (M),春日旗袍紫藤鞋子 (男)
+PROPITEM_TXT_724735,Spring Qipao 8% Purple Set (F),春日旗袍紫藤套裝 8% (女)
+PROPITEM_TXT_724736,The Spring Qipao 8% Purple Set for female characters.,女角色使用的春日旗袍紫藤套裝 8%。
+PROPITEM_TXT_724737,Spring Qipao Purple Hat (F),春日旗袍紫藤帽子 (女)
+PROPITEM_TXT_724738,Spring Qipao Purple Suit (F),春日旗袍紫藤服裝 (女)
+PROPITEM_TXT_724739,Spring Qipao Purple Shoes (F),春日旗袍紫藤鞋子 (女)
+PROPITEM_TXT_724740,Spring Qipao Purple Umbrella,春日旗袍紫藤傘
+PROPITEM_TXT_724741,Spring Qipao Purple Mask,春日旗袍紫藤面具
+PROPITEM_TXT_724742,Spring Qipao 8% Pink Set,春日旗袍桃華套裝 8%
+PROPITEM_TXT_724743,Spring Qipao 8% Pink Set (M),春日旗袍桃華套裝 8% (男)
+PROPITEM_TXT_724744,The Spring Qipao 8% Pink Set for male characters.,男角色使用的春日旗袍桃華套裝 8%。
+PROPITEM_TXT_724745,Spring Qipao Pink Hat (M),春日旗袍桃華帽子 (男)
+PROPITEM_TXT_724746,Spring Qipao Pink Suit (M),春日旗袍桃華服裝 (男)
+PROPITEM_TXT_724747,Spring Qipao Pink Shoes (M),春日旗袍桃華鞋子 (男)
+PROPITEM_TXT_724748,Spring Qipao 8% Pink Set (F),春日旗袍桃華套裝 8% (女)
+PROPITEM_TXT_724749,The Spring Qipao 8% Pink Set for female characters.,女角色使用的春日旗袍桃華套裝 8%。
+PROPITEM_TXT_724750,Spring Qipao Pink Hat (F),春日旗袍桃華帽子 (女)
+PROPITEM_TXT_724751,Spring Qipao Pink Suit (F),春日旗袍桃華服裝 (女)
+PROPITEM_TXT_724752,Spring Qipao Pink Shoes (F),春日旗袍桃華鞋子 (女)
+PROPITEM_TXT_724753,Spring Qipao Pink Umbrella,春日旗袍桃華傘
+PROPITEM_TXT_724754,Spring Qipao Pink Mask,春日旗袍桃華面具
+PROPITEM_TXT_724755,Spring Qipao 6% Orange Set,春日旗袍金桂套裝 6%
+PROPITEM_TXT_724756,Spring Qipao 6% Orange Set (M),春日旗袍金桂套裝 6% (男)
+PROPITEM_TXT_724757,The Spring Qipao 6% Orange Set for male characters.,男角色使用的春日旗袍金桂套裝 6%。
+PROPITEM_TXT_724758,Spring Qipao Orange Hat (M),春日旗袍金桂帽子 (男)
+PROPITEM_TXT_724759,Spring Qipao Orange Suit (M),春日旗袍金桂服裝 (男)
+PROPITEM_TXT_724760,Spring Qipao Orange Shoes (M),春日旗袍金桂鞋子 (男)
+PROPITEM_TXT_724761,Spring Qipao 6% Orange Set (F),春日旗袍金桂套裝 6% (女)
+PROPITEM_TXT_724762,The Spring Qipao 6% Orange Set for female characters.,女角色使用的春日旗袍金桂套裝 6%。
+PROPITEM_TXT_724763,Spring Qipao Orange Hat (F),春日旗袍金桂帽子 (女)
+PROPITEM_TXT_724764,Spring Qipao Orange Suit (F),春日旗袍金桂服裝 (女)
+PROPITEM_TXT_724765,Spring Qipao Orange Shoes (F),春日旗袍金桂鞋子 (女)
+PROPITEM_TXT_724766,Spring Qipao Orange Umbrella,春日旗袍金桂傘
+PROPITEM_TXT_724767,Spring Qipao Orange Mask,春日旗袍金桂面具
+PROPITEM_TXT_724768,Spring Qipao 4% Cyan Set,春日旗袍碧荷套裝 4%
+PROPITEM_TXT_724769,Spring Qipao 4% Cyan Set (M),春日旗袍碧荷套裝 4% (男)
+PROPITEM_TXT_724770,The Spring Qipao 4% Cyan Set for male characters.,男角色使用的春日旗袍碧荷套裝 4%。
+PROPITEM_TXT_724771,Spring Qipao Cyan Hat (M),春日旗袍碧荷帽子 (男)
+PROPITEM_TXT_724772,Spring Qipao Cyan Suit (M),春日旗袍碧荷服裝 (男)
+PROPITEM_TXT_724773,Spring Qipao Cyan Shoes (M),春日旗袍碧荷鞋子 (男)
+PROPITEM_TXT_724774,Spring Qipao 4% Cyan Set (F),春日旗袍碧荷套裝 4% (女)
+PROPITEM_TXT_724775,The Spring Qipao 4% Cyan Set for female characters.,女角色使用的春日旗袍碧荷套裝 4%。
+PROPITEM_TXT_724776,Spring Qipao Cyan Hat (F),春日旗袍碧荷帽子 (女)
+PROPITEM_TXT_724777,Spring Qipao Cyan Suit (F),春日旗袍碧荷服裝 (女)
+PROPITEM_TXT_724778,Spring Qipao Cyan Shoes (F),春日旗袍碧荷鞋子 (女)
+PROPITEM_TXT_724779,Spring Qipao Cyan Umbrella,春日旗袍碧荷傘
+PROPITEM_TXT_724780,Spring Qipao Cyan Mask,春日旗袍碧荷面具
+PROPITEM_TXT_724781,Spring Qipao 2% Blue Set,春日旗袍青花套裝 2%
+PROPITEM_TXT_724782,Spring Qipao 2% Blue Set (M),春日旗袍青花套裝 2% (男)
+PROPITEM_TXT_724783,The Spring Qipao 2% Blue Set for male characters.,男角色使用的春日旗袍青花套裝 2%。
+PROPITEM_TXT_724784,Spring Qipao Blue Hat (M),春日旗袍青花帽子 (男)
+PROPITEM_TXT_724785,Spring Qipao Blue Suit (M),春日旗袍青花服裝 (男)
+PROPITEM_TXT_724786,Spring Qipao Blue Shoes (M),春日旗袍青花鞋子 (男)
+PROPITEM_TXT_724787,Spring Qipao 2% Blue Set (F),春日旗袍青花套裝 2% (女)
+PROPITEM_TXT_724788,The Spring Qipao 2% Blue Set for female characters.,女角色使用的春日旗袍青花套裝 2%。
+PROPITEM_TXT_724789,Spring Qipao Blue Hat (F),春日旗袍青花帽子 (女)
+PROPITEM_TXT_724790,Spring Qipao Blue Suit (F),春日旗袍青花服裝 (女)
+PROPITEM_TXT_724791,Spring Qipao Blue Shoes (F),春日旗袍青花鞋子 (女)
+PROPITEM_TXT_724792,Spring Qipao Blue Umbrella,春日旗袍青花傘
+PROPITEM_TXT_724793,Spring Qipao Blue Mask,春日旗袍青花面具
+PROPITEM_TXT_724794,Spring Qipao 2% White Set,春日旗袍月白套裝 2%
+PROPITEM_TXT_724795,Spring Qipao 2% White Set (M),春日旗袍月白套裝 2% (男)
+PROPITEM_TXT_724796,The Spring Qipao 2% White Set for male characters.,男角色使用的春日旗袍月白套裝 2%。
+PROPITEM_TXT_724797,Spring Qipao White Hat (M),春日旗袍月白帽子 (男)
+PROPITEM_TXT_724798,Spring Qipao White Suit (M),春日旗袍月白服裝 (男)
+PROPITEM_TXT_724799,Spring Qipao White Shoes (M),春日旗袍月白鞋子 (男)
+PROPITEM_TXT_724800,Spring Qipao 2% White Set (F),春日旗袍月白套裝 2% (女)
+PROPITEM_TXT_724801,The Spring Qipao 2% White Set for female characters.,女角色使用的春日旗袍月白套裝 2%。
+PROPITEM_TXT_724802,Spring Qipao White Hat (F),春日旗袍月白帽子 (女)
+PROPITEM_TXT_724803,Spring Qipao White Suit (F),春日旗袍月白服裝 (女)
+PROPITEM_TXT_724804,Spring Qipao White Shoes (F),春日旗袍月白鞋子 (女)
+PROPITEM_TXT_724805,Spring Qipao White Umbrella,春日旗袍月白傘
+PROPITEM_TXT_724806,Spring Qipao White Mask,春日旗袍月白面具
 PROPITEM_TXT_724807,Spring Qipao Costume Lucky Box,春日旗袍服裝幸運箱
-PROPITEM_TXT_724808,This box contains a Spring Qipao Set with Speed Bonus. You can select your gender after opening the Lucky Box.,此箱子包含附帶速度加成的春日旗袍套裝。開啟幸運箱後可選擇性別。
+PROPITEM_TXT_724808,This box contains a Spring Qipao Set with Speed Bonus. You can select your gender after opening the Lucky Box.,此幸運箱內含一套具速度加成的春日旗袍套裝，開啟後可選擇性別。
 PROPITEM_TXT_724809,Flying Starter Pack,飛行入門包
 PROPITEM_TXT_724810,A package containing 1x Angel's Wings (White) and 1x Nitro Booster (15 Days). All items are also linked.,內含 1x 天使翅膀 (白色) 與 1x 硝基加速器 (15 天) 的禮包。所有物品皆為綁定。
 PROPITEM_TXT_724811,Demian's Lost Package,德米安遺失的包裹
@@ -15757,106 +15757,106 @@ PROPITEM_TXT_724908,Space Engineer Pink Bike,太空工程師粉紅色自行車
 PROPITEM_TXT_724909,Space Engineer Yellow Bike,太空工程師黃色自行車
 PROPITEM_TXT_724910,Space Engineer Red Bike,太空工程師紅色自行車
 PROPITEM_TXT_724911,Space Engineer Black Bike,太空工程師黑色自行車
-PROPITEM_TXT_724912,Steampunk Wizard 10% Blue Set,蒸氣龐克巫師藍色套裝 10%
-PROPITEM_TXT_724913,Steampunk Wizard 10% Blue Set (M),蒸氣龐克巫師藍色套裝 10% (男)
-PROPITEM_TXT_724914,The Steampunk Wizard 10% Blue Set for male characters.,男角色使用的蒸氣龐克巫師藍色套裝 10%。
-PROPITEM_TXT_724915,Steampunk Wizard Blue Hat (M),蒸氣龐克巫師藍色帽子 (男)
-PROPITEM_TXT_724916,Steampunk Wizard Blue Suit (M),蒸氣龐克巫師藍色服裝 (男)
-PROPITEM_TXT_724917,Steampunk Wizard Blue Shoes (M),蒸氣龐克巫師藍色鞋子 (男)
-PROPITEM_TXT_724918,Steampunk Wizard 10% Blue Set (F),蒸氣龐克巫師藍色套裝 10% (女)
-PROPITEM_TXT_724919,The Steampunk Wizard 10% Blue Set for female characters.,女角色使用的蒸氣龐克巫師藍色套裝 10%。
-PROPITEM_TXT_724920,Steampunk Wizard Blue Hat (F),蒸氣龐克巫師藍色帽子 (女)
-PROPITEM_TXT_724921,Steampunk Wizard Blue Suit (F),蒸氣龐克巫師藍色服裝 (女)
-PROPITEM_TXT_724922,Steampunk Wizard Blue Shoes (F),蒸氣龐克巫師藍色鞋子 (女)
-PROPITEM_TXT_724923,Steampunk Wizard Blue Backpack,蒸氣龐克巫師藍色背包
-PROPITEM_TXT_724924,Steampunk Wizard Blue Mustache Eye patch,蒸氣龐克巫師藍色小鬍子眼罩
-PROPITEM_TXT_724925,Steampunk Wizard 10% Red Set,蒸氣龐克巫師紅色套裝 10%
-PROPITEM_TXT_724926,Steampunk Wizard 10% Red Set (M),蒸氣龐克巫師紅色套裝 10% (男)
-PROPITEM_TXT_724927,The Steampunk Wizard 10% Red Set for male characters.,男角色使用的蒸氣龐克巫師紅色套裝 10%。
-PROPITEM_TXT_724928,Steampunk Wizard Red Hat (M),蒸氣龐克巫師紅色帽子 (男)
-PROPITEM_TXT_724929,Steampunk Wizard Red Suit (M),蒸氣龐克巫師紅色服裝 (男)
-PROPITEM_TXT_724930,Steampunk Wizard Red Shoes (M),蒸氣龐克巫師紅色鞋子 (男)
-PROPITEM_TXT_724931,Steampunk Wizard 10% Red Set (F),蒸氣龐克巫師紅色套裝 10% (女)
-PROPITEM_TXT_724932,The Steampunk Wizard 10% Red Set for female characters.,女角色使用的蒸氣龐克巫師紅色套裝 10%。
-PROPITEM_TXT_724933,Steampunk Wizard Red Hat (F),蒸氣龐克巫師紅色帽子 (女)
-PROPITEM_TXT_724934,Steampunk Wizard Red Suit (F),蒸氣龐克巫師紅色服裝 (女)
-PROPITEM_TXT_724935,Steampunk Wizard Red Shoes (F),蒸氣龐克巫師紅色鞋子 (女)
-PROPITEM_TXT_724936,Steampunk Wizard Red Backpack,蒸氣龐克巫師紅色背包
-PROPITEM_TXT_724937,Steampunk Wizard Red Mustache Eye patch,蒸氣龐克巫師紅色小鬍子眼罩
-PROPITEM_TXT_724938,Steampunk Wizard 8% Purple Set,蒸氣龐克巫師紫色套裝 8%
-PROPITEM_TXT_724939,Steampunk Wizard 8% Purple Set (M),蒸氣龐克巫師紫色套裝 8% (男)
-PROPITEM_TXT_724940,The Steampunk Wizard 8% Purple Set for male characters.,男角色使用的蒸氣龐克巫師紫色套裝 8%。
-PROPITEM_TXT_724941,Steampunk Wizard Purple Hat (M),蒸氣龐克巫師紫色帽子 (男)
-PROPITEM_TXT_724942,Steampunk Wizard Purple Suit (M),蒸氣龐克巫師紫色服裝 (男)
-PROPITEM_TXT_724943,Steampunk Wizard Purple Shoes (M),蒸氣龐克巫師紫色鞋子 (男)
-PROPITEM_TXT_724944,Steampunk Wizard 8% Purple Set (F),蒸氣龐克巫師紫色套裝 8% (女)
-PROPITEM_TXT_724945,The Steampunk Wizard 8% Purple Set for female characters.,女角色使用的蒸氣龐克巫師紫色套裝 8%。
-PROPITEM_TXT_724946,Steampunk Wizard Purple Hat (F),蒸氣龐克巫師紫色帽子 (女)
-PROPITEM_TXT_724947,Steampunk Wizard Purple Suit (F),蒸氣龐克巫師紫色服裝 (女)
-PROPITEM_TXT_724948,Steampunk Wizard Purple Shoes (F),蒸氣龐克巫師紫色鞋子 (女)
-PROPITEM_TXT_724949,Steampunk Wizard Purple Backpack,蒸氣龐克巫師紫色背包
-PROPITEM_TXT_724950,Steampunk Wizard Purple Mustache Eye patch,蒸氣龐克巫師紫色小鬍子眼罩
-PROPITEM_TXT_724951,Steampunk Wizard 6% Pink Set,蒸氣龐克巫師粉色套裝 6%
-PROPITEM_TXT_724952,Steampunk Wizard 6% Pink Set (M),蒸氣龐克巫師粉色套裝 6% (男)
-PROPITEM_TXT_724953,The Steampunk Wizard 6% Pink Set for male characters.,男角色使用的蒸氣龐克巫師粉色套裝 6%。
-PROPITEM_TXT_724954,Steampunk Wizard Pink Hat (M),蒸氣龐克巫師粉色帽子 (男)
-PROPITEM_TXT_724955,Steampunk Wizard Pink Suit (M),蒸氣龐克巫師粉色服裝 (男)
-PROPITEM_TXT_724956,Steampunk Wizard Pink Shoes (M),蒸氣龐克巫師粉色鞋子 (男)
-PROPITEM_TXT_724957,Steampunk Wizard 6% Pink Set (F),蒸氣龐克巫師粉色套裝 6% (女)
-PROPITEM_TXT_724958,The Steampunk Wizard 6% Pink Set for female characters.,女角色使用的蒸氣龐克巫師粉色套裝 6%。
-PROPITEM_TXT_724959,Steampunk Wizard Pink Hat (F),蒸氣龐克巫師粉色帽子 (女)
-PROPITEM_TXT_724960,Steampunk Wizard Pink Suit (F),蒸氣龐克巫師粉色服裝 (女)
-PROPITEM_TXT_724961,Steampunk Wizard Pink Shoes (F),蒸氣龐克巫師粉色鞋子 (女)
-PROPITEM_TXT_724962,Steampunk Wizard Pink Backpack,蒸氣龐克巫師粉色背包
-PROPITEM_TXT_724963,Steampunk Wizard Pink Mustache Eye patch,蒸氣龐克巫師粉紅色小鬍子眼罩
-PROPITEM_TXT_724964,Steampunk Wizard 4% Green Set,蒸氣龐克巫師綠色套裝 4%
-PROPITEM_TXT_724965,Steampunk Wizard 4% Green Set (M),蒸氣龐克巫師綠色套裝 4% (男)
-PROPITEM_TXT_724966,The Steampunk Wizard 4% Green Set for male characters.,男角色使用的蒸氣龐克巫師綠色套裝 4%。
-PROPITEM_TXT_724967,Steampunk Wizard Green Hat (M),蒸氣龐克巫師綠色帽子 (男)
-PROPITEM_TXT_724968,Steampunk Wizard Green Suit (M),蒸氣龐克巫師綠色服裝 (男)
-PROPITEM_TXT_724969,Steampunk Wizard Green Shoes (M),蒸氣龐克巫師綠色鞋子 (男)
-PROPITEM_TXT_724970,Steampunk Wizard 4% Green Set (F),蒸氣龐克巫師綠色套裝 4% (女)
-PROPITEM_TXT_724971,The Steampunk Wizard 4% Green Set for female characters.,女角色使用的蒸氣龐克巫師綠色套裝 4%。
-PROPITEM_TXT_724972,Steampunk Wizard Green Hat (F),蒸氣龐克巫師綠色帽子 (女)
-PROPITEM_TXT_724973,Steampunk Wizard Green Suit (F),蒸氣龐克巫師綠色服裝 (女)
-PROPITEM_TXT_724974,Steampunk Wizard Green Shoes (F),蒸氣龐克巫師綠色鞋子 (女)
-PROPITEM_TXT_724975,Steampunk Wizard Green Backpack,蒸氣龐克巫師綠色背包
-PROPITEM_TXT_724976,Steampunk Wizard Green Mustache Eye patch,蒸氣龐克巫師綠色小鬍子眼罩
-PROPITEM_TXT_724977,Steampunk Wizard 2% Cyan Set,蒸氣龐克巫師青色套裝 2%
-PROPITEM_TXT_724978,Steampunk Wizard 2% Cyan Set (M),蒸氣龐克巫師青色套裝 2% (男)
-PROPITEM_TXT_724979,The Steampunk Wizard 2% Cyan Set for male characters.,男角色使用的蒸氣龐克巫師青色套裝 2%。
-PROPITEM_TXT_724980,Steampunk Wizard Cyan Hat (M),蒸氣龐克巫師青色帽子 (男)
-PROPITEM_TXT_724981,Steampunk Wizard Cyan Suit (M),蒸氣龐克巫師青色服裝 (男)
-PROPITEM_TXT_724982,Steampunk Wizard Cyan Shoes (M),蒸氣龐克巫師青色鞋子 (男)
-PROPITEM_TXT_724983,Steampunk Wizard 2% Cyan Set (F),蒸氣龐克巫師青色套裝 2% (女)
-PROPITEM_TXT_724984,The Steampunk Wizard 2% Cyan Set for female characters.,女角色使用的蒸氣龐克巫師青色套裝 2%。
-PROPITEM_TXT_724985,Steampunk Wizard Cyan Hat (F),蒸氣龐克巫師青色帽子 (女)
-PROPITEM_TXT_724986,Steampunk Wizard Cyan Suit (F),蒸氣龐克巫師青色服裝 (女)
-PROPITEM_TXT_724987,Steampunk Wizard Cyan Shoes (F),蒸氣龐克巫師青色鞋子 (女)
-PROPITEM_TXT_724988,Steampunk Wizard Cyan Backpack,蒸氣龐克巫師青色背包
-PROPITEM_TXT_724989,Steampunk Wizard Cyan Mustache Eye patch,蒸氣龐克巫師青色小鬍子眼罩
-PROPITEM_TXT_724990,Steampunk Wizard 2% Black Set,蒸氣龐克巫師黑色套裝 2%
-PROPITEM_TXT_724991,Steampunk Wizard 2% Black Set (M),蒸氣龐克巫師黑色套裝 2% (男)
-PROPITEM_TXT_724992,The Steampunk Wizard 2% Black Set for male characters.,男角色使用的蒸氣龐克巫師黑色套裝 2%。
-PROPITEM_TXT_724993,Steampunk Wizard Black Hat (M),蒸氣龐克巫師黑色帽子 (男)
-PROPITEM_TXT_724994,Steampunk Wizard Black Suit (M),蒸氣龐克巫師黑色服裝 (男)
-PROPITEM_TXT_724995,Steampunk Wizard Black Shoes (M),蒸氣龐克巫師黑色鞋子 (男)
-PROPITEM_TXT_724996,Steampunk Wizard 2% Black Set (F),蒸氣龐克巫師黑色套裝 2% (女)
-PROPITEM_TXT_724997,The Steampunk Wizard 2% Black Set for female characters.,女角色使用的蒸氣龐克巫師黑色套裝 2%。
-PROPITEM_TXT_724998,Steampunk Wizard Black Hat (F),蒸氣龐克巫師黑色帽子 (女)
-PROPITEM_TXT_724999,Steampunk Wizard Black Suit (F),蒸氣龐克巫師黑色服裝 (女)
-PROPITEM_TXT_725000,Steampunk Wizard Black Shoes (F),蒸氣龐克巫師黑色鞋子 (女)
-PROPITEM_TXT_725001,Steampunk Wizard Black Backpack,蒸氣龐克巫師黑色背包
-PROPITEM_TXT_725002,Steampunk Wizard Black Mustache Eye patch,蒸氣龐克巫師黑色小鬍子眼罩
+PROPITEM_TXT_724912,Steampunk Wizard 10% Blue Set,蒸氣龐克巫師鈷藍套裝 10%
+PROPITEM_TXT_724913,Steampunk Wizard 10% Blue Set (M),蒸氣龐克巫師鈷藍套裝 10% (男)
+PROPITEM_TXT_724914,The Steampunk Wizard 10% Blue Set for male characters.,男角色使用的蒸氣龐克巫師鈷藍套裝 10%。
+PROPITEM_TXT_724915,Steampunk Wizard Blue Hat (M),蒸氣龐克巫師鈷藍帽子 (男)
+PROPITEM_TXT_724916,Steampunk Wizard Blue Suit (M),蒸氣龐克巫師鈷藍服裝 (男)
+PROPITEM_TXT_724917,Steampunk Wizard Blue Shoes (M),蒸氣龐克巫師鈷藍鞋子 (男)
+PROPITEM_TXT_724918,Steampunk Wizard 10% Blue Set (F),蒸氣龐克巫師鈷藍套裝 10% (女)
+PROPITEM_TXT_724919,The Steampunk Wizard 10% Blue Set for female characters.,女角色使用的蒸氣龐克巫師鈷藍套裝 10%。
+PROPITEM_TXT_724920,Steampunk Wizard Blue Hat (F),蒸氣龐克巫師鈷藍帽子 (女)
+PROPITEM_TXT_724921,Steampunk Wizard Blue Suit (F),蒸氣龐克巫師鈷藍服裝 (女)
+PROPITEM_TXT_724922,Steampunk Wizard Blue Shoes (F),蒸氣龐克巫師鈷藍鞋子 (女)
+PROPITEM_TXT_724923,Steampunk Wizard Blue Backpack,蒸氣龐克巫師鈷藍背包
+PROPITEM_TXT_724924,Steampunk Wizard Blue Mustache Eye patch,蒸氣龐克巫師鈷藍小鬍子眼罩
+PROPITEM_TXT_724925,Steampunk Wizard 10% Red Set,蒸氣龐克巫師赤銅套裝 10%
+PROPITEM_TXT_724926,Steampunk Wizard 10% Red Set (M),蒸氣龐克巫師赤銅套裝 10% (男)
+PROPITEM_TXT_724927,The Steampunk Wizard 10% Red Set for male characters.,男角色使用的蒸氣龐克巫師赤銅套裝 10%。
+PROPITEM_TXT_724928,Steampunk Wizard Red Hat (M),蒸氣龐克巫師赤銅帽子 (男)
+PROPITEM_TXT_724929,Steampunk Wizard Red Suit (M),蒸氣龐克巫師赤銅服裝 (男)
+PROPITEM_TXT_724930,Steampunk Wizard Red Shoes (M),蒸氣龐克巫師赤銅鞋子 (男)
+PROPITEM_TXT_724931,Steampunk Wizard 10% Red Set (F),蒸氣龐克巫師赤銅套裝 10% (女)
+PROPITEM_TXT_724932,The Steampunk Wizard 10% Red Set for female characters.,女角色使用的蒸氣龐克巫師赤銅套裝 10%。
+PROPITEM_TXT_724933,Steampunk Wizard Red Hat (F),蒸氣龐克巫師赤銅帽子 (女)
+PROPITEM_TXT_724934,Steampunk Wizard Red Suit (F),蒸氣龐克巫師赤銅服裝 (女)
+PROPITEM_TXT_724935,Steampunk Wizard Red Shoes (F),蒸氣龐克巫師赤銅鞋子 (女)
+PROPITEM_TXT_724936,Steampunk Wizard Red Backpack,蒸氣龐克巫師赤銅背包
+PROPITEM_TXT_724937,Steampunk Wizard Red Mustache Eye patch,蒸氣龐克巫師赤銅小鬍子眼罩
+PROPITEM_TXT_724938,Steampunk Wizard 8% Purple Set,蒸氣龐克巫師魔晶套裝 8%
+PROPITEM_TXT_724939,Steampunk Wizard 8% Purple Set (M),蒸氣龐克巫師魔晶套裝 8% (男)
+PROPITEM_TXT_724940,The Steampunk Wizard 8% Purple Set for male characters.,男角色使用的蒸氣龐克巫師魔晶套裝 8%。
+PROPITEM_TXT_724941,Steampunk Wizard Purple Hat (M),蒸氣龐克巫師魔晶帽子 (男)
+PROPITEM_TXT_724942,Steampunk Wizard Purple Suit (M),蒸氣龐克巫師魔晶服裝 (男)
+PROPITEM_TXT_724943,Steampunk Wizard Purple Shoes (M),蒸氣龐克巫師魔晶鞋子 (男)
+PROPITEM_TXT_724944,Steampunk Wizard 8% Purple Set (F),蒸氣龐克巫師魔晶套裝 8% (女)
+PROPITEM_TXT_724945,The Steampunk Wizard 8% Purple Set for female characters.,女角色使用的蒸氣龐克巫師魔晶套裝 8%。
+PROPITEM_TXT_724946,Steampunk Wizard Purple Hat (F),蒸氣龐克巫師魔晶帽子 (女)
+PROPITEM_TXT_724947,Steampunk Wizard Purple Suit (F),蒸氣龐克巫師魔晶服裝 (女)
+PROPITEM_TXT_724948,Steampunk Wizard Purple Shoes (F),蒸氣龐克巫師魔晶鞋子 (女)
+PROPITEM_TXT_724949,Steampunk Wizard Purple Backpack,蒸氣龐克巫師魔晶背包
+PROPITEM_TXT_724950,Steampunk Wizard Purple Mustache Eye patch,蒸氣龐克巫師魔晶小鬍子眼罩
+PROPITEM_TXT_724951,Steampunk Wizard 6% Pink Set,蒸氣龐克巫師玫晶套裝 6%
+PROPITEM_TXT_724952,Steampunk Wizard 6% Pink Set (M),蒸氣龐克巫師玫晶套裝 6% (男)
+PROPITEM_TXT_724953,The Steampunk Wizard 6% Pink Set for male characters.,男角色使用的蒸氣龐克巫師玫晶套裝 6%。
+PROPITEM_TXT_724954,Steampunk Wizard Pink Hat (M),蒸氣龐克巫師玫晶帽子 (男)
+PROPITEM_TXT_724955,Steampunk Wizard Pink Suit (M),蒸氣龐克巫師玫晶服裝 (男)
+PROPITEM_TXT_724956,Steampunk Wizard Pink Shoes (M),蒸氣龐克巫師玫晶鞋子 (男)
+PROPITEM_TXT_724957,Steampunk Wizard 6% Pink Set (F),蒸氣龐克巫師玫晶套裝 6% (女)
+PROPITEM_TXT_724958,The Steampunk Wizard 6% Pink Set for female characters.,女角色使用的蒸氣龐克巫師玫晶套裝 6%。
+PROPITEM_TXT_724959,Steampunk Wizard Pink Hat (F),蒸氣龐克巫師玫晶帽子 (女)
+PROPITEM_TXT_724960,Steampunk Wizard Pink Suit (F),蒸氣龐克巫師玫晶服裝 (女)
+PROPITEM_TXT_724961,Steampunk Wizard Pink Shoes (F),蒸氣龐克巫師玫晶鞋子 (女)
+PROPITEM_TXT_724962,Steampunk Wizard Pink Backpack,蒸氣龐克巫師玫晶背包
+PROPITEM_TXT_724963,Steampunk Wizard Pink Mustache Eye patch,蒸氣龐克巫師玫晶小鬍子眼罩
+PROPITEM_TXT_724964,Steampunk Wizard 4% Green Set,蒸氣龐克巫師青銅套裝 4%
+PROPITEM_TXT_724965,Steampunk Wizard 4% Green Set (M),蒸氣龐克巫師青銅套裝 4% (男)
+PROPITEM_TXT_724966,The Steampunk Wizard 4% Green Set for male characters.,男角色使用的蒸氣龐克巫師青銅套裝 4%。
+PROPITEM_TXT_724967,Steampunk Wizard Green Hat (M),蒸氣龐克巫師青銅帽子 (男)
+PROPITEM_TXT_724968,Steampunk Wizard Green Suit (M),蒸氣龐克巫師青銅服裝 (男)
+PROPITEM_TXT_724969,Steampunk Wizard Green Shoes (M),蒸氣龐克巫師青銅鞋子 (男)
+PROPITEM_TXT_724970,Steampunk Wizard 4% Green Set (F),蒸氣龐克巫師青銅套裝 4% (女)
+PROPITEM_TXT_724971,The Steampunk Wizard 4% Green Set for female characters.,女角色使用的蒸氣龐克巫師青銅套裝 4%。
+PROPITEM_TXT_724972,Steampunk Wizard Green Hat (F),蒸氣龐克巫師青銅帽子 (女)
+PROPITEM_TXT_724973,Steampunk Wizard Green Suit (F),蒸氣龐克巫師青銅服裝 (女)
+PROPITEM_TXT_724974,Steampunk Wizard Green Shoes (F),蒸氣龐克巫師青銅鞋子 (女)
+PROPITEM_TXT_724975,Steampunk Wizard Green Backpack,蒸氣龐克巫師青銅背包
+PROPITEM_TXT_724976,Steampunk Wizard Green Mustache Eye patch,蒸氣龐克巫師青銅小鬍子眼罩
+PROPITEM_TXT_724977,Steampunk Wizard 2% Cyan Set,蒸氣龐克巫師秘銀套裝 2%
+PROPITEM_TXT_724978,Steampunk Wizard 2% Cyan Set (M),蒸氣龐克巫師秘銀套裝 2% (男)
+PROPITEM_TXT_724979,The Steampunk Wizard 2% Cyan Set for male characters.,男角色使用的蒸氣龐克巫師秘銀套裝 2%。
+PROPITEM_TXT_724980,Steampunk Wizard Cyan Hat (M),蒸氣龐克巫師秘銀帽子 (男)
+PROPITEM_TXT_724981,Steampunk Wizard Cyan Suit (M),蒸氣龐克巫師秘銀服裝 (男)
+PROPITEM_TXT_724982,Steampunk Wizard Cyan Shoes (M),蒸氣龐克巫師秘銀鞋子 (男)
+PROPITEM_TXT_724983,Steampunk Wizard 2% Cyan Set (F),蒸氣龐克巫師秘銀套裝 2% (女)
+PROPITEM_TXT_724984,The Steampunk Wizard 2% Cyan Set for female characters.,女角色使用的蒸氣龐克巫師秘銀套裝 2%。
+PROPITEM_TXT_724985,Steampunk Wizard Cyan Hat (F),蒸氣龐克巫師秘銀帽子 (女)
+PROPITEM_TXT_724986,Steampunk Wizard Cyan Suit (F),蒸氣龐克巫師秘銀服裝 (女)
+PROPITEM_TXT_724987,Steampunk Wizard Cyan Shoes (F),蒸氣龐克巫師秘銀鞋子 (女)
+PROPITEM_TXT_724988,Steampunk Wizard Cyan Backpack,蒸氣龐克巫師秘銀背包
+PROPITEM_TXT_724989,Steampunk Wizard Cyan Mustache Eye patch,蒸氣龐克巫師秘銀小鬍子眼罩
+PROPITEM_TXT_724990,Steampunk Wizard 2% Black Set,蒸氣龐克巫師黑鋼套裝 2%
+PROPITEM_TXT_724991,Steampunk Wizard 2% Black Set (M),蒸氣龐克巫師黑鋼套裝 2% (男)
+PROPITEM_TXT_724992,The Steampunk Wizard 2% Black Set for male characters.,男角色使用的蒸氣龐克巫師黑鋼套裝 2%。
+PROPITEM_TXT_724993,Steampunk Wizard Black Hat (M),蒸氣龐克巫師黑鋼帽子 (男)
+PROPITEM_TXT_724994,Steampunk Wizard Black Suit (M),蒸氣龐克巫師黑鋼服裝 (男)
+PROPITEM_TXT_724995,Steampunk Wizard Black Shoes (M),蒸氣龐克巫師黑鋼鞋子 (男)
+PROPITEM_TXT_724996,Steampunk Wizard 2% Black Set (F),蒸氣龐克巫師黑鋼套裝 2% (女)
+PROPITEM_TXT_724997,The Steampunk Wizard 2% Black Set for female characters.,女角色使用的蒸氣龐克巫師黑鋼套裝 2%。
+PROPITEM_TXT_724998,Steampunk Wizard Black Hat (F),蒸氣龐克巫師黑鋼帽子 (女)
+PROPITEM_TXT_724999,Steampunk Wizard Black Suit (F),蒸氣龐克巫師黑鋼服裝 (女)
+PROPITEM_TXT_725000,Steampunk Wizard Black Shoes (F),蒸氣龐克巫師黑鋼鞋子 (女)
+PROPITEM_TXT_725001,Steampunk Wizard Black Backpack,蒸氣龐克巫師黑鋼背包
+PROPITEM_TXT_725002,Steampunk Wizard Black Mustache Eye patch,蒸氣龐克巫師黑鋼小鬍子眼罩
 PROPITEM_TXT_725003,Steampunk Wizard Costume Lucky Box,蒸氣龐克巫師服裝幸運箱
-PROPITEM_TXT_725004,This box contains a Steampunk Wizard Set with Speed Bonus. You can select your gender after opening the Lucky Box.,此箱子包含附帶速度加成的蒸氣龐克巫師套裝。開啟幸運箱後可選擇性別。
-PROPITEM_TXT_725005,Steampunk Wizard Blue Eye patch,蒸氣龐克巫師藍色眼罩
-PROPITEM_TXT_725006,Steampunk Wizard Red Eye patch,蒸氣龐克巫師紅色眼罩
-PROPITEM_TXT_725007,Steampunk Wizard Purple Eye patch,蒸氣龐克巫師紫色眼罩
-PROPITEM_TXT_725008,Steampunk Wizard Pink Eye patch,蒸氣龐克巫師粉紅色眼罩
-PROPITEM_TXT_725009,Steampunk Wizard Green Eye patch,蒸氣龐克巫師綠色眼罩
-PROPITEM_TXT_725010,Steampunk Wizard Cyan Eye patch,蒸氣龐克巫師青色眼罩
-PROPITEM_TXT_725011,Steampunk Wizard Black Eye patch,蒸氣龐克巫師黑色眼罩
+PROPITEM_TXT_725004,This box contains a Steampunk Wizard Set with Speed Bonus. You can select your gender after opening the Lucky Box.,此幸運箱內含一套具速度加成的蒸氣龐克巫師套裝，開啟後可選擇性別。
+PROPITEM_TXT_725005,Steampunk Wizard Blue Eye patch,蒸氣龐克巫師鈷藍眼罩
+PROPITEM_TXT_725006,Steampunk Wizard Red Eye patch,蒸氣龐克巫師赤銅眼罩
+PROPITEM_TXT_725007,Steampunk Wizard Purple Eye patch,蒸氣龐克巫師魔晶眼罩
+PROPITEM_TXT_725008,Steampunk Wizard Pink Eye patch,蒸氣龐克巫師玫晶眼罩
+PROPITEM_TXT_725009,Steampunk Wizard Green Eye patch,蒸氣龐克巫師青銅眼罩
+PROPITEM_TXT_725010,Steampunk Wizard Cyan Eye patch,蒸氣龐克巫師秘銀眼罩
+PROPITEM_TXT_725011,Steampunk Wizard Black Eye patch,蒸氣龐克巫師黑鋼眼罩
 PROPITEM_TXT_725012,Magical Kid 10% Blue Set,魔法兒童藍色套裝 10%
 PROPITEM_TXT_725013,Magical Kid 10% Blue Set (M),魔法兒童藍色套裝 10% (男)
 PROPITEM_TXT_725014,The Magical Kid 10% Blue Set for male characters.,男角色使用的魔法兒童藍色套裝 10%。
@@ -16266,86 +16266,86 @@ PROPITEM_TXT_725390,Little Butterflies Brown Suit (F),小蝴蝶棕色服裝 (女
 PROPITEM_TXT_725391,Little Butterflies Brown Shoes (F),小蝴蝶棕色鞋子 (女)
 PROPITEM_TXT_725392,Little Butterflies Brown Back ring,小小蝴蝶棕色背飾
 PROPITEM_TXT_725393,Little Butterflies Brown Little butterfly,小小棕色蝴蝶
-PROPITEM_TXT_725394,Little Butterflies 10% Purple Set,小蝴蝶紫色套裝 10%
-PROPITEM_TXT_725395,Little Butterflies 10% Purple Set (M),小蝴蝶紫色套裝 10% (男)
-PROPITEM_TXT_725396,The Little Butterflies 10% Purple Set for male characters.,男角色使用的小蝴蝶紫色套裝 10%。
-PROPITEM_TXT_725397,Little Butterflies Purple Hat (M),小蝴蝶紫色帽子 (男)
-PROPITEM_TXT_725398,Little Butterflies Purple Suit (M),小蝴蝶紫色服裝 (男)
-PROPITEM_TXT_725399,Little Butterflies Purple Shoes (M),小蝴蝶紫色鞋子 (男)
-PROPITEM_TXT_725400,Little Butterflies 10% Purple Set (F),小蝴蝶紫色套裝 10% (女)
-PROPITEM_TXT_725401,The Little Butterflies 10% Purple Set for female characters.,女角色使用的小蝴蝶紫色套裝 10%。
-PROPITEM_TXT_725402,Little Butterflies Purple Hat (F),小蝴蝶紫色帽子 (女)
-PROPITEM_TXT_725403,Little Butterflies Purple Suit (F),小蝴蝶紫色服裝 (女)
-PROPITEM_TXT_725404,Little Butterflies Purple Shoes (F),小蝴蝶紫色鞋子 (女)
-PROPITEM_TXT_725405,Little Butterflies Purple Back ring,小小蝴蝶紫色背飾
-PROPITEM_TXT_725406,Little Butterflies Purple Little butterfly,小小紫色蝴蝶
-PROPITEM_TXT_725407,Little Butterflies 8% Green Set,小蝴蝶綠色套裝 8%
-PROPITEM_TXT_725408,Little Butterflies 8% Green Set (M),小蝴蝶綠色套裝 8% (男)
-PROPITEM_TXT_725409,The Little Butterflies 8% Green Set for male characters.,男角色使用的小蝴蝶綠色套裝 8%。
-PROPITEM_TXT_725410,Little Butterflies Green Hat (M),小蝴蝶綠色帽子 (男)
-PROPITEM_TXT_725411,Little Butterflies Green Suit (M),小蝴蝶綠色服裝 (男)
-PROPITEM_TXT_725412,Little Butterflies Green Shoes (M),小蝴蝶綠色鞋子 (男)
-PROPITEM_TXT_725413,Little Butterflies 8% Green Set (F),小蝴蝶綠色套裝 8% (女)
-PROPITEM_TXT_725414,The Little Butterflies 8% Green Set for female characters.,女角色使用的小蝴蝶綠色套裝 8%。
-PROPITEM_TXT_725415,Little Butterflies Green Hat (F),小蝴蝶綠色帽子 (女)
-PROPITEM_TXT_725416,Little Butterflies Green Suit (F),小蝴蝶綠色服裝 (女)
-PROPITEM_TXT_725417,Little Butterflies Green Shoes (F),小蝴蝶綠色鞋子 (女)
-PROPITEM_TXT_725418,Little Butterflies Green Back ring,小小蝴蝶綠色背飾
-PROPITEM_TXT_725419,Little Butterflies Green Little butterfly,小小綠色蝴蝶
-PROPITEM_TXT_725420,Little Butterflies 6% Pink Set,小蝴蝶粉色套裝 6%
-PROPITEM_TXT_725421,Little Butterflies 6% Pink Set (M),小蝴蝶粉色套裝 6% (男)
-PROPITEM_TXT_725422,The Little Butterflies 6% Pink Set for male characters.,男角色使用的小蝴蝶粉色套裝 6%。
-PROPITEM_TXT_725423,Little Butterflies Pink Hat (M),小蝴蝶粉色帽子 (男)
-PROPITEM_TXT_725424,Little Butterflies Pink Suit (M),小蝴蝶粉色服裝 (男)
-PROPITEM_TXT_725425,Little Butterflies Pink Shoes (M),小蝴蝶粉色鞋子 (男)
-PROPITEM_TXT_725426,Little Butterflies 6% Pink Set (F),小蝴蝶粉色套裝 6% (女)
-PROPITEM_TXT_725427,The Little Butterflies 6% Pink Set for female characters.,女角色使用的小蝴蝶粉色套裝 6%。
-PROPITEM_TXT_725428,Little Butterflies Pink Hat (F),小蝴蝶粉色帽子 (女)
-PROPITEM_TXT_725429,Little Butterflies Pink Suit (F),小蝴蝶粉色服裝 (女)
-PROPITEM_TXT_725430,Little Butterflies Pink Shoes (F),小蝴蝶粉色鞋子 (女)
-PROPITEM_TXT_725431,Little Butterflies Pink Back ring,小小蝴蝶粉紅色背飾
-PROPITEM_TXT_725432,Little Butterflies Pink Little butterfly,小小粉紅色蝴蝶
-PROPITEM_TXT_725433,Little Butterflies 4% Red Set,小蝴蝶紅色套裝 4%
-PROPITEM_TXT_725434,Little Butterflies 4% Red Set (M),小蝴蝶紅色套裝 4% (男)
-PROPITEM_TXT_725435,The Little Butterflies 4% Red Set for male characters.,男角色使用的小蝴蝶紅色套裝 4%。
-PROPITEM_TXT_725436,Little Butterflies Red Hat (M),小蝴蝶紅色帽子 (男)
-PROPITEM_TXT_725437,Little Butterflies Red Suit (M),小蝴蝶紅色服裝 (男)
-PROPITEM_TXT_725438,Little Butterflies Red Shoes (M),小蝴蝶紅色鞋子 (男)
-PROPITEM_TXT_725439,Little Butterflies 4% Red Set (F),小蝴蝶紅色套裝 4% (女)
-PROPITEM_TXT_725440,The Little Butterflies 4% Red Set for female characters.,女角色使用的小蝴蝶紅色套裝 4%。
-PROPITEM_TXT_725441,Little Butterflies Red Hat (F),小蝴蝶紅色帽子 (女)
-PROPITEM_TXT_725442,Little Butterflies Red Suit (F),小蝴蝶紅色服裝 (女)
-PROPITEM_TXT_725443,Little Butterflies Red Shoes (F),小蝴蝶紅色鞋子 (女)
-PROPITEM_TXT_725444,Little Butterflies Red Back ring,小小蝴蝶紅色背飾
-PROPITEM_TXT_725445,Little Butterflies Red Little butterfly,小小紅色蝴蝶
-PROPITEM_TXT_725446,Little Butterflies 2% White Set,小蝴蝶白色套裝 2%
-PROPITEM_TXT_725447,Little Butterflies 2% White Set (M),小蝴蝶白色套裝 2% (男)
-PROPITEM_TXT_725448,The Little Butterflies 2% White Set for male characters.,男角色使用的小蝴蝶白色套裝 2%。
-PROPITEM_TXT_725449,Little Butterflies White Hat (M),小蝴蝶白色帽子 (男)
-PROPITEM_TXT_725450,Little Butterflies White Suit (M),小蝴蝶白色服裝 (男)
-PROPITEM_TXT_725451,Little Butterflies White Shoes (M),小蝴蝶白色鞋子 (男)
-PROPITEM_TXT_725452,Little Butterflies 2% White Set (F),小蝴蝶白色套裝 2% (女)
-PROPITEM_TXT_725453,The Little Butterflies 2% White Set for female characters.,女角色使用的小蝴蝶白色套裝 2%。
-PROPITEM_TXT_725454,Little Butterflies White Hat (F),小蝴蝶白色帽子 (女)
-PROPITEM_TXT_725455,Little Butterflies White Suit (F),小蝴蝶白色服裝 (女)
-PROPITEM_TXT_725456,Little Butterflies White Shoes (F),小蝴蝶白色鞋子 (女)
-PROPITEM_TXT_725457,Little Butterflies White Back ring,小小蝴蝶白色背飾
-PROPITEM_TXT_725458,Little Butterflies White Little butterfly,小小白色蝴蝶
-PROPITEM_TXT_725459,Little Butterflies 2% Black Set,小蝴蝶黑色套裝 2%
-PROPITEM_TXT_725460,Little Butterflies 2% Black Set (M),小蝴蝶黑色套裝 2% (男)
-PROPITEM_TXT_725461,The Little Butterflies 2% Black Set for male characters.,男角色使用的小蝴蝶黑色套裝 2%。
-PROPITEM_TXT_725462,Little Butterflies Black Hat (M),小蝴蝶黑色帽子 (男)
-PROPITEM_TXT_725463,Little Butterflies Black Suit (M),小蝴蝶黑色服裝 (男)
-PROPITEM_TXT_725464,Little Butterflies Black Shoes (M),小蝴蝶黑色鞋子 (男)
-PROPITEM_TXT_725465,Little Butterflies 2% Black Set (F),小蝴蝶黑色套裝 2% (女)
-PROPITEM_TXT_725466,The Little Butterflies 2% Black Set for female characters.,女角色使用的小蝴蝶黑色套裝 2%。
-PROPITEM_TXT_725467,Little Butterflies Black Hat (F),小蝴蝶黑色帽子 (女)
-PROPITEM_TXT_725468,Little Butterflies Black Suit (F),小蝴蝶黑色服裝 (女)
-PROPITEM_TXT_725469,Little Butterflies Black Shoes (F),小蝴蝶黑色鞋子 (女)
-PROPITEM_TXT_725470,Little Butterflies Black Back ring,小小蝴蝶黑色背飾
-PROPITEM_TXT_725471,Little Butterflies Black Little butterfly,小小黑色蝴蝶
-PROPITEM_TXT_725472,Little Butterflies Costume Lucky Box,小小蝴蝶服裝幸運箱
-PROPITEM_TXT_725473,This box contains a Little Butterflies Set with Speed Bonus. You can select your gender after opening the Lucky Box.,此箱子包含附帶速度加成的小小蝴蝶套裝。開啟幸運箱後可選擇性別。
+PROPITEM_TXT_725394,Little Butterflies 10% Purple Set,小蝴蝶紫藤套裝 10%
+PROPITEM_TXT_725395,Little Butterflies 10% Purple Set (M),小蝴蝶紫藤套裝 10% (男)
+PROPITEM_TXT_725396,The Little Butterflies 10% Purple Set for male characters.,男角色使用的小蝴蝶紫藤套裝 10%。
+PROPITEM_TXT_725397,Little Butterflies Purple Hat (M),小蝴蝶紫藤帽子 (男)
+PROPITEM_TXT_725398,Little Butterflies Purple Suit (M),小蝴蝶紫藤服裝 (男)
+PROPITEM_TXT_725399,Little Butterflies Purple Shoes (M),小蝴蝶紫藤鞋子 (男)
+PROPITEM_TXT_725400,Little Butterflies 10% Purple Set (F),小蝴蝶紫藤套裝 10% (女)
+PROPITEM_TXT_725401,The Little Butterflies 10% Purple Set for female characters.,女角色使用的小蝴蝶紫藤套裝 10%。
+PROPITEM_TXT_725402,Little Butterflies Purple Hat (F),小蝴蝶紫藤帽子 (女)
+PROPITEM_TXT_725403,Little Butterflies Purple Suit (F),小蝴蝶紫藤服裝 (女)
+PROPITEM_TXT_725404,Little Butterflies Purple Shoes (F),小蝴蝶紫藤鞋子 (女)
+PROPITEM_TXT_725405,Little Butterflies Purple Back ring,小蝴蝶紫藤背飾
+PROPITEM_TXT_725406,Little Butterflies Purple Little butterfly,小蝴蝶紫藤靈蝶
+PROPITEM_TXT_725407,Little Butterflies 8% Green Set,小蝴蝶翡翠套裝 8%
+PROPITEM_TXT_725408,Little Butterflies 8% Green Set (M),小蝴蝶翡翠套裝 8% (男)
+PROPITEM_TXT_725409,The Little Butterflies 8% Green Set for male characters.,男角色使用的小蝴蝶翡翠套裝 8%。
+PROPITEM_TXT_725410,Little Butterflies Green Hat (M),小蝴蝶翡翠帽子 (男)
+PROPITEM_TXT_725411,Little Butterflies Green Suit (M),小蝴蝶翡翠服裝 (男)
+PROPITEM_TXT_725412,Little Butterflies Green Shoes (M),小蝴蝶翡翠鞋子 (男)
+PROPITEM_TXT_725413,Little Butterflies 8% Green Set (F),小蝴蝶翡翠套裝 8% (女)
+PROPITEM_TXT_725414,The Little Butterflies 8% Green Set for female characters.,女角色使用的小蝴蝶翡翠套裝 8%。
+PROPITEM_TXT_725415,Little Butterflies Green Hat (F),小蝴蝶翡翠帽子 (女)
+PROPITEM_TXT_725416,Little Butterflies Green Suit (F),小蝴蝶翡翠服裝 (女)
+PROPITEM_TXT_725417,Little Butterflies Green Shoes (F),小蝴蝶翡翠鞋子 (女)
+PROPITEM_TXT_725418,Little Butterflies Green Back ring,小蝴蝶翡翠背飾
+PROPITEM_TXT_725419,Little Butterflies Green Little butterfly,小蝴蝶翡翠靈蝶
+PROPITEM_TXT_725420,Little Butterflies 6% Pink Set,小蝴蝶櫻粉套裝 6%
+PROPITEM_TXT_725421,Little Butterflies 6% Pink Set (M),小蝴蝶櫻粉套裝 6% (男)
+PROPITEM_TXT_725422,The Little Butterflies 6% Pink Set for male characters.,男角色使用的小蝴蝶櫻粉套裝 6%。
+PROPITEM_TXT_725423,Little Butterflies Pink Hat (M),小蝴蝶櫻粉帽子 (男)
+PROPITEM_TXT_725424,Little Butterflies Pink Suit (M),小蝴蝶櫻粉服裝 (男)
+PROPITEM_TXT_725425,Little Butterflies Pink Shoes (M),小蝴蝶櫻粉鞋子 (男)
+PROPITEM_TXT_725426,Little Butterflies 6% Pink Set (F),小蝴蝶櫻粉套裝 6% (女)
+PROPITEM_TXT_725427,The Little Butterflies 6% Pink Set for female characters.,女角色使用的小蝴蝶櫻粉套裝 6%。
+PROPITEM_TXT_725428,Little Butterflies Pink Hat (F),小蝴蝶櫻粉帽子 (女)
+PROPITEM_TXT_725429,Little Butterflies Pink Suit (F),小蝴蝶櫻粉服裝 (女)
+PROPITEM_TXT_725430,Little Butterflies Pink Shoes (F),小蝴蝶櫻粉鞋子 (女)
+PROPITEM_TXT_725431,Little Butterflies Pink Back ring,小蝴蝶櫻粉背飾
+PROPITEM_TXT_725432,Little Butterflies Pink Little butterfly,小蝴蝶櫻粉靈蝶
+PROPITEM_TXT_725433,Little Butterflies 4% Red Set,小蝴蝶緋紅套裝 4%
+PROPITEM_TXT_725434,Little Butterflies 4% Red Set (M),小蝴蝶緋紅套裝 4% (男)
+PROPITEM_TXT_725435,The Little Butterflies 4% Red Set for male characters.,男角色使用的小蝴蝶緋紅套裝 4%。
+PROPITEM_TXT_725436,Little Butterflies Red Hat (M),小蝴蝶緋紅帽子 (男)
+PROPITEM_TXT_725437,Little Butterflies Red Suit (M),小蝴蝶緋紅服裝 (男)
+PROPITEM_TXT_725438,Little Butterflies Red Shoes (M),小蝴蝶緋紅鞋子 (男)
+PROPITEM_TXT_725439,Little Butterflies 4% Red Set (F),小蝴蝶緋紅套裝 4% (女)
+PROPITEM_TXT_725440,The Little Butterflies 4% Red Set for female characters.,女角色使用的小蝴蝶緋紅套裝 4%。
+PROPITEM_TXT_725441,Little Butterflies Red Hat (F),小蝴蝶緋紅帽子 (女)
+PROPITEM_TXT_725442,Little Butterflies Red Suit (F),小蝴蝶緋紅服裝 (女)
+PROPITEM_TXT_725443,Little Butterflies Red Shoes (F),小蝴蝶緋紅鞋子 (女)
+PROPITEM_TXT_725444,Little Butterflies Red Back ring,小蝴蝶緋紅背飾
+PROPITEM_TXT_725445,Little Butterflies Red Little butterfly,小蝴蝶緋紅靈蝶
+PROPITEM_TXT_725446,Little Butterflies 2% White Set,小蝴蝶月白套裝 2%
+PROPITEM_TXT_725447,Little Butterflies 2% White Set (M),小蝴蝶月白套裝 2% (男)
+PROPITEM_TXT_725448,The Little Butterflies 2% White Set for male characters.,男角色使用的小蝴蝶月白套裝 2%。
+PROPITEM_TXT_725449,Little Butterflies White Hat (M),小蝴蝶月白帽子 (男)
+PROPITEM_TXT_725450,Little Butterflies White Suit (M),小蝴蝶月白服裝 (男)
+PROPITEM_TXT_725451,Little Butterflies White Shoes (M),小蝴蝶月白鞋子 (男)
+PROPITEM_TXT_725452,Little Butterflies 2% White Set (F),小蝴蝶月白套裝 2% (女)
+PROPITEM_TXT_725453,The Little Butterflies 2% White Set for female characters.,女角色使用的小蝴蝶月白套裝 2%。
+PROPITEM_TXT_725454,Little Butterflies White Hat (F),小蝴蝶月白帽子 (女)
+PROPITEM_TXT_725455,Little Butterflies White Suit (F),小蝴蝶月白服裝 (女)
+PROPITEM_TXT_725456,Little Butterflies White Shoes (F),小蝴蝶月白鞋子 (女)
+PROPITEM_TXT_725457,Little Butterflies White Back ring,小蝴蝶月白背飾
+PROPITEM_TXT_725458,Little Butterflies White Little butterfly,小蝴蝶月白靈蝶
+PROPITEM_TXT_725459,Little Butterflies 2% Black Set,小蝴蝶夜影套裝 2%
+PROPITEM_TXT_725460,Little Butterflies 2% Black Set (M),小蝴蝶夜影套裝 2% (男)
+PROPITEM_TXT_725461,The Little Butterflies 2% Black Set for male characters.,男角色使用的小蝴蝶夜影套裝 2%。
+PROPITEM_TXT_725462,Little Butterflies Black Hat (M),小蝴蝶夜影帽子 (男)
+PROPITEM_TXT_725463,Little Butterflies Black Suit (M),小蝴蝶夜影服裝 (男)
+PROPITEM_TXT_725464,Little Butterflies Black Shoes (M),小蝴蝶夜影鞋子 (男)
+PROPITEM_TXT_725465,Little Butterflies 2% Black Set (F),小蝴蝶夜影套裝 2% (女)
+PROPITEM_TXT_725466,The Little Butterflies 2% Black Set for female characters.,女角色使用的小蝴蝶夜影套裝 2%。
+PROPITEM_TXT_725467,Little Butterflies Black Hat (F),小蝴蝶夜影帽子 (女)
+PROPITEM_TXT_725468,Little Butterflies Black Suit (F),小蝴蝶夜影服裝 (女)
+PROPITEM_TXT_725469,Little Butterflies Black Shoes (F),小蝴蝶夜影鞋子 (女)
+PROPITEM_TXT_725470,Little Butterflies Black Back ring,小蝴蝶夜影背飾
+PROPITEM_TXT_725471,Little Butterflies Black Little butterfly,小蝴蝶夜影靈蝶
+PROPITEM_TXT_725472,Little Butterflies Costume Lucky Box,小蝴蝶服裝幸運箱
+PROPITEM_TXT_725473,This box contains a Little Butterflies Set with Speed Bonus. You can select your gender after opening the Lucky Box.,此幸運箱內含一套具速度加成的小蝴蝶套裝，開啟後可選擇性別。
 PROPITEM_TXT_725474,Brown Butterflies,棕蝶翩翩
 PROPITEM_TXT_725475,"A swarm of radiant butterflies fluttering under the moonlit sky, each collecting beams of light to create an intricate, luminous quilt.",一群光芒四射的蝴蝶在月光下翩翩起舞，每隻蝴蝶都收集光束，創造出錯綜複雜的發光被子。
 PROPITEM_TXT_725476,Purple Butterflies,紫蝶翩翩
@@ -16355,12 +16355,12 @@ PROPITEM_TXT_725479,Red Butterflies,紅蝶翩翩
 PROPITEM_TXT_725480,White Butterflies,白蝶翩翩
 PROPITEM_TXT_725481,Black Butterflies,黑蝶翩翩
 PROPITEM_TXT_725482,Little Butterflies Brown Ring,小小蝴蝶棕色戒指
-PROPITEM_TXT_725483,Little Butterflies Purple Ring,小小蝴蝶紫色戒指
-PROPITEM_TXT_725484,Little Butterflies Green Ring,小小蝴蝶綠色戒指
-PROPITEM_TXT_725485,Little Butterflies Pink Ring,小小蝴蝶粉紅色戒指
-PROPITEM_TXT_725486,Little Butterflies Red Ring,小小蝴蝶紅色戒指
-PROPITEM_TXT_725487,Little Butterflies White Ring,小小蝴蝶白色戒指
-PROPITEM_TXT_725488,Little Butterflies Black Ring,小小蝴蝶黑色戒指
+PROPITEM_TXT_725483,Little Butterflies Purple Ring,小蝴蝶紫藤戒指
+PROPITEM_TXT_725484,Little Butterflies Green Ring,小蝴蝶翡翠戒指
+PROPITEM_TXT_725485,Little Butterflies Pink Ring,小蝴蝶櫻粉戒指
+PROPITEM_TXT_725486,Little Butterflies Red Ring,小蝴蝶緋紅戒指
+PROPITEM_TXT_725487,Little Butterflies White Ring,小蝴蝶月白戒指
+PROPITEM_TXT_725488,Little Butterflies Black Ring,小蝴蝶夜影戒指
 PROPITEM_TXT_725489,Overalls 10% Green Set,吊帶褲綠色套裝 10%
 PROPITEM_TXT_725490,Overalls 10% Green Set (M),吊帶褲綠色套裝 10% (男)
 PROPITEM_TXT_725491,The Overalls 10% Green Set for male characters.,男角色使用的吊帶褲綠色套裝 10%。
@@ -19303,7 +19303,7 @@ PROPITEM_TXT_726186,"A package containing 1x Scroll of Reduction A, 1x Scroll of
 PROPITEM_TXT_726187,Power Up Box,電源盒
 PROPITEM_TXT_726188,"A package containing 5x Power Scroll, 5x Potion Select Box, 5x Flask Select Box and 5x Grilled Eel. All items are also linked.",包含 5x 力量卷軸、5x 藥水選擇盒、5x 燒瓶選擇盒和 5x 蒲燒鰻魚的套裝。所有物品皆為綁定。
 PROPITEM_TXT_801191,Medieval Knight 10% Blue Set,中世紀騎士藍色套裝 10%
-PROPITEM_TXT_801192,Select which Gender you want to receive,選擇你想要的性別
+PROPITEM_TXT_801192,Select which Gender you want to receive,選擇想獲得的性別！
 PROPITEM_TXT_801193,Medieval Knight Blue Cloak,中世紀騎士藍色披風
 PROPITEM_TXT_801194,Medieval Knight Blue Hat (M),中世紀騎士藍色帽子 (男)
 PROPITEM_TXT_801195,Medieval Knight Blue Suit (M),中世紀騎士藍色服裝 (男)
@@ -19563,7 +19563,7 @@ PROPITEM_TXT_145020,This scroll makes your Private or Vendor Shop appear at the 
 PROPITEM_TXT_145021,High Pet Reroll Scroll,高階寵物重骰卷軸
 PROPITEM_TXT_145022,"Allows you to reroll the level of one pet tier, choosing whether or not to keep the result. Once you choose to reroll a tier, all other tiers will not be rerollable using a reroll scroll.",可讓你重骰寵物其中一階的等級，並選擇是否保留結果。一旦你選擇重骰某一階後，其他階級將無法再使用重骰卷軸重骰。
 PROPITEM_TXT_826202,Men In Black Set,黑衣套裝
-PROPITEM_TXT_826203,Select which Gender you want to receive,選擇你想要的性別
+PROPITEM_TXT_826203,Select which Gender you want to receive,選擇想獲得的性別！
 PROPITEM_TXT_826204,Men In Black Glasses,黑衣眼鏡
 PROPITEM_TXT_826205,Men In Black Hat (M),黑衣帽子 (男)
 PROPITEM_TXT_826206,Men In Black Suit (M),黑衣服裝 (男)
@@ -23118,120 +23118,120 @@ PROPITEM_TXT_901277,Harlequin Blaze Bumper Car Turquoise,丑角烈焰綠松石�
 PROPITEM_TXT_901278,Harlequin Blaze Bumper Car Neon,丑角烈焰碰碰車 霓虹色
 PROPITEM_TXT_901279,Harlequin Blaze Bumper Car Black,丑角烈焰黑色碰碰車
 PROPITEM_TXT_901280,"Spin, crash and dazzle the crowd in a riot of color with the Harlequin Blaze bumper car ! Maximum Speed: 64 km/h.",駕駛丑角烈焰碰碰車在繽紛色彩中旋轉、碰撞，成為全場焦點！最高速度：64 km/h。
-PROPITEM_TXT_901281,Summer Kickflip 10% Red Set,夏日踢板紅色套裝 10%
-PROPITEM_TXT_901282,Summer Kickflip Red Skateboard,夏日踢板紅色滑板
-PROPITEM_TXT_901283,Summer Kickflip Red Heart Glasses,夏日踢板紅色心形眼鏡
-PROPITEM_TXT_901284,Summer Kickflip Red Hat (M),夏日踢板紅色帽子 (男)
-PROPITEM_TXT_901285,Summer Kickflip Red Suit (M),夏日踢板紅色服裝 (男)
-PROPITEM_TXT_901286,Summer Kickflip Red Shoes (M),夏日踢板紅色鞋子 (男)
-PROPITEM_TXT_901287,Summer Kickflip 10% Red Set (M),夏日踢板紅色套裝 10% (男)
-PROPITEM_TXT_901288,The Summer Kickflip 10% Red Set for male characters.,男角色使用的夏日踢板紅色套裝 10%。
-PROPITEM_TXT_901289,Summer Kickflip Red Hat (F),夏日踢板紅色帽子 (女)
-PROPITEM_TXT_901290,Summer Kickflip Red Suit (F),夏日踢板紅色服裝 (女)
-PROPITEM_TXT_901291,Summer Kickflip Red Shoes (F),夏日踢板紅色鞋子 (女)
-PROPITEM_TXT_901292,Summer Kickflip 10% Red Set (F),夏日踢板紅色套裝 10% (女)
-PROPITEM_TXT_901293,The Summer Kickflip 10% Red Set for female characters.,女角色使用的夏日踢板紅色套裝 10%。
-PROPITEM_TXT_901294,Summer Kickflip 10% Green Set,夏日踢板綠色套裝 10%
-PROPITEM_TXT_901295,Summer Kickflip Green Skateboard,夏日踢板綠色滑板
-PROPITEM_TXT_901296,Summer Kickflip Green Heart Glasses,夏日踢板綠色心形眼鏡
-PROPITEM_TXT_901297,Summer Kickflip Green Hat (M),夏日踢板綠色帽子 (男)
-PROPITEM_TXT_901298,Summer Kickflip Green Suit (M),夏日踢板綠色服裝 (男)
-PROPITEM_TXT_901299,Summer Kickflip Green Shoes (M),夏日踢板綠色鞋子 (男)
-PROPITEM_TXT_901300,Summer Kickflip 10% Green Set (M),夏日踢板綠色套裝 10% (男)
-PROPITEM_TXT_901301,The Summer Kickflip 10% Green Set for male characters.,男角色使用的夏日踢板綠色套裝 10%。
-PROPITEM_TXT_901302,Summer Kickflip Green Hat (F),夏日踢板綠色帽子 (女)
-PROPITEM_TXT_901303,Summer Kickflip Green Suit (F),夏日踢板綠色服裝 (女)
-PROPITEM_TXT_901304,Summer Kickflip Green Shoes (F),夏日踢板綠色鞋子 (女)
-PROPITEM_TXT_901305,Summer Kickflip 10% Green Set (F),夏日踢板綠色套裝 10% (女)
-PROPITEM_TXT_901306,The Summer Kickflip 10% Green Set for female characters.,女角色使用的夏日踢板綠色套裝 10%。
-PROPITEM_TXT_901307,Summer Kickflip 8% Blue Set,夏日踢板藍色套裝 8%
-PROPITEM_TXT_901308,Summer Kickflip Blue Skateboard,夏日踢板藍色滑板
-PROPITEM_TXT_901309,Summer Kickflip Blue Heart Glasses,夏日踢板藍色心形眼鏡
-PROPITEM_TXT_901310,Summer Kickflip Blue Hat (M),夏日踢板藍色帽子 (男)
-PROPITEM_TXT_901311,Summer Kickflip Blue Suit (M),夏日踢板藍色服裝 (男)
-PROPITEM_TXT_901312,Summer Kickflip Blue Shoes (M),夏日踢板藍色鞋子 (男)
-PROPITEM_TXT_901313,Summer Kickflip 8% Blue Set (M),夏日踢板藍色套裝 8% (男)
-PROPITEM_TXT_901314,The Summer Kickflip 8% Blue Set for male characters.,男角色使用的夏日踢板藍色套裝 8%。
-PROPITEM_TXT_901315,Summer Kickflip Blue Hat (F),夏日踢板藍色帽子 (女)
-PROPITEM_TXT_901316,Summer Kickflip Blue Suit (F),夏日踢板藍色服裝 (女)
-PROPITEM_TXT_901317,Summer Kickflip Blue Shoes (F),夏日踢板藍色鞋子 (女)
-PROPITEM_TXT_901318,Summer Kickflip 8% Blue Set (F),夏日踢板藍色套裝 8% (女)
-PROPITEM_TXT_901319,The Summer Kickflip 8% Blue Set for female characters.,女角色使用的夏日踢板藍色套裝 8%。
-PROPITEM_TXT_901320,Summer Kickflip 8% Purple Set,夏日踢板紫色套裝 8%
-PROPITEM_TXT_901321,Summer Kickflip Purple Skateboard,夏日踢板紫色滑板
-PROPITEM_TXT_901322,Summer Kickflip Purple Heart Glasses,夏日踢板紫色心形眼鏡
-PROPITEM_TXT_901323,Summer Kickflip Purple Hat (M),夏日踢板紫色帽子 (男)
-PROPITEM_TXT_901324,Summer Kickflip Purple Suit (M),夏日踢板紫色服裝 (男)
-PROPITEM_TXT_901325,Summer Kickflip Purple Shoes (M),夏日踢板紫色鞋子 (男)
-PROPITEM_TXT_901326,Summer Kickflip 8% Purple Set (M),夏日踢板紫色套裝 8% (男)
-PROPITEM_TXT_901327,The Summer Kickflip 8% Purple Set for male characters.,男角色使用的夏日踢板紫色套裝 8%。
-PROPITEM_TXT_901328,Summer Kickflip Purple Hat (F),夏日踢板紫色帽子 (女)
-PROPITEM_TXT_901329,Summer Kickflip Purple Suit (F),夏日踢板紫色服裝 (女)
-PROPITEM_TXT_901330,Summer Kickflip Purple Shoes (F),夏日踢板紫色鞋子 (女)
-PROPITEM_TXT_901331,Summer Kickflip 8% Purple Set (F),夏日踢板紫色套裝 8% (女)
-PROPITEM_TXT_901332,The Summer Kickflip 8% Purple Set for female characters.,女角色使用的夏日踢板紫色套裝 8%。
-PROPITEM_TXT_901333,Summer Kickflip 6% Turquoise Set,夏日踢板綠松石色套裝 6%
-PROPITEM_TXT_901334,Summer Kickflip Turquoise Skateboard,夏日踢板綠松石色滑板
-PROPITEM_TXT_901335,Summer Kickflip Turquoise Heart Glasses,夏日踢板綠松石色心形眼鏡
-PROPITEM_TXT_901336,Summer Kickflip Turquoise Hat (M),夏日踢板綠松石色帽子 (男)
-PROPITEM_TXT_901337,Summer Kickflip Turquoise Suit (M),夏日踢板綠松石色服裝 (男)
-PROPITEM_TXT_901338,Summer Kickflip Turquoise Shoes (M),夏日踢板綠松石色鞋子 (男)
-PROPITEM_TXT_901339,Summer Kickflip 6% Turquoise Set (M),夏日踢板綠松石色套裝 6% (男)
-PROPITEM_TXT_901340,The Summer Kickflip 6% Turquoise Set for male characters.,男角色使用的夏日踢板綠松石色套裝 6%。
-PROPITEM_TXT_901341,Summer Kickflip Turquoise Hat (F),夏日踢板綠松石色帽子 (女)
-PROPITEM_TXT_901342,Summer Kickflip Turquoise Suit (F),夏日踢板綠松石色服裝 (女)
-PROPITEM_TXT_901343,Summer Kickflip Turquoise Shoes (F),夏日踢板綠松石色鞋子 (女)
-PROPITEM_TXT_901344,Summer Kickflip 6% Turquoise Set (F),夏日踢板綠松石色套裝 6% (女)
-PROPITEM_TXT_901345,The Summer Kickflip 6% Turquoise Set for female characters.,女角色使用的夏日踢板綠松石色套裝 6%。
-PROPITEM_TXT_901346,Summer Kickflip 4% Pink Set,夏日踢板粉色套裝 4%
-PROPITEM_TXT_901347,Summer Kickflip Pink Skateboard,夏日踢板粉紅色滑板
-PROPITEM_TXT_901348,Summer Kickflip Pink Heart Glasses,夏日踢板心形粉紅色眼鏡
-PROPITEM_TXT_901349,Summer Kickflip Pink Hat (M),夏日踢板粉色帽子 (男)
-PROPITEM_TXT_901350,Summer Kickflip Pink Suit (M),夏日踢板粉色服裝 (男)
-PROPITEM_TXT_901351,Summer Kickflip Pink Shoes (M),夏日踢板粉色鞋子 (男)
-PROPITEM_TXT_901352,Summer Kickflip 4% Pink Set (M),夏日踢板粉色套裝 4% (男)
-PROPITEM_TXT_901353,The Summer Kickflip 4% Pink Set for male characters.,男角色使用的夏日踢板粉色套裝 4%。
-PROPITEM_TXT_901354,Summer Kickflip Pink Hat (F),夏日踢板粉色帽子 (女)
-PROPITEM_TXT_901355,Summer Kickflip Pink Suit (F),夏日踢板粉色服裝 (女)
-PROPITEM_TXT_901356,Summer Kickflip Pink Shoes (F),夏日踢板粉色鞋子 (女)
-PROPITEM_TXT_901357,Summer Kickflip 4% Pink Set (F),夏日踢板粉色套裝 4% (女)
-PROPITEM_TXT_901358,The Summer Kickflip 4% Pink Set for female characters.,女角色使用的夏日踢板粉色套裝 4%。
-PROPITEM_TXT_901359,Summer Kickflip 2% Black Set,夏日踢板黑色套裝 2%
-PROPITEM_TXT_901360,Summer Kickflip Black Skateboard,夏日踢板黑色滑板
-PROPITEM_TXT_901361,Summer Kickflip Black Heart Glasses,夏日踢板黑色心形眼鏡
-PROPITEM_TXT_901362,Summer Kickflip Black Hat (M),夏日踢板黑色帽子 (男)
-PROPITEM_TXT_901363,Summer Kickflip Black Suit (M),夏日踢板黑色服裝 (男)
-PROPITEM_TXT_901364,Summer Kickflip Black Shoes (M),夏日踢板黑色鞋子 (男)
-PROPITEM_TXT_901365,Summer Kickflip 2% Black Set (M),夏日踢板黑色套裝 2% (男)
-PROPITEM_TXT_901366,The Summer Kickflip 2% Black Set for male characters.,男角色使用的夏日踢板黑色套裝 2%。
-PROPITEM_TXT_901367,Summer Kickflip Black Hat (F),夏日踢板黑色帽子 (女)
-PROPITEM_TXT_901368,Summer Kickflip Black Suit (F),夏日踢板黑色服裝 (女)
-PROPITEM_TXT_901369,Summer Kickflip Black Shoes (F),夏日踢板黑色鞋子 (女)
-PROPITEM_TXT_901370,Summer Kickflip 2% Black Set (F),夏日踢板黑色套裝 2% (女)
-PROPITEM_TXT_901371,The Summer Kickflip 2% Black Set for female characters.,女角色使用的夏日踢板黑色套裝 2%。
-PROPITEM_TXT_901372,Summer Kickflip 2% White Set,夏日踢板白色套裝 2%
-PROPITEM_TXT_901373,Summer Kickflip White Skateboard,夏日踢板白色滑板
-PROPITEM_TXT_901374,Summer Kickflip White Heart Glasses,夏日踢板白色心形眼鏡
-PROPITEM_TXT_901375,Summer Kickflip White Hat (M),夏日踢板白色帽子 (男)
-PROPITEM_TXT_901376,Summer Kickflip White Suit (M),夏日踢板白色服裝 (男)
-PROPITEM_TXT_901377,Summer Kickflip White Shoes (M),夏日踢板白色鞋子 (男)
-PROPITEM_TXT_901378,Summer Kickflip 2% White Set (M),夏日踢板白色套裝 2% (男)
-PROPITEM_TXT_901379,The Summer Kickflip 2% White Set for male characters.,男角色使用的夏日踢板白色套裝 2%。
-PROPITEM_TXT_901380,Summer Kickflip White Hat (F),夏日踢板白色帽子 (女)
-PROPITEM_TXT_901381,Summer Kickflip White Suit (F),夏日踢板白色服裝 (女)
-PROPITEM_TXT_901382,Summer Kickflip White Shoes (F),夏日踢板白色鞋子 (女)
-PROPITEM_TXT_901383,Summer Kickflip 2% White Set (F),夏日踢板白色套裝 2% (女)
-PROPITEM_TXT_901384,The Summer Kickflip 2% White Set for female characters.,女角色使用的夏日踢板白色套裝 2%。
+PROPITEM_TXT_901281,Summer Kickflip 10% Red Set,夏日踢板烈陽套裝 10%
+PROPITEM_TXT_901282,Summer Kickflip Red Skateboard,夏日踢板烈陽滑板
+PROPITEM_TXT_901283,Summer Kickflip Red Heart Glasses,夏日踢板烈陽心形眼鏡
+PROPITEM_TXT_901284,Summer Kickflip Red Hat (M),夏日踢板烈陽帽子 (男)
+PROPITEM_TXT_901285,Summer Kickflip Red Suit (M),夏日踢板烈陽服裝 (男)
+PROPITEM_TXT_901286,Summer Kickflip Red Shoes (M),夏日踢板烈陽鞋子 (男)
+PROPITEM_TXT_901287,Summer Kickflip 10% Red Set (M),夏日踢板烈陽套裝 10% (男)
+PROPITEM_TXT_901288,The Summer Kickflip 10% Red Set for male characters.,男角色使用的夏日踢板烈陽套裝 10%。
+PROPITEM_TXT_901289,Summer Kickflip Red Hat (F),夏日踢板烈陽帽子 (女)
+PROPITEM_TXT_901290,Summer Kickflip Red Suit (F),夏日踢板烈陽服裝 (女)
+PROPITEM_TXT_901291,Summer Kickflip Red Shoes (F),夏日踢板烈陽鞋子 (女)
+PROPITEM_TXT_901292,Summer Kickflip 10% Red Set (F),夏日踢板烈陽套裝 10% (女)
+PROPITEM_TXT_901293,The Summer Kickflip 10% Red Set for female characters.,女角色使用的夏日踢板烈陽套裝 10%。
+PROPITEM_TXT_901294,Summer Kickflip 10% Green Set,夏日踢板青浪套裝 10%
+PROPITEM_TXT_901295,Summer Kickflip Green Skateboard,夏日踢板青浪滑板
+PROPITEM_TXT_901296,Summer Kickflip Green Heart Glasses,夏日踢板青浪心形眼鏡
+PROPITEM_TXT_901297,Summer Kickflip Green Hat (M),夏日踢板青浪帽子 (男)
+PROPITEM_TXT_901298,Summer Kickflip Green Suit (M),夏日踢板青浪服裝 (男)
+PROPITEM_TXT_901299,Summer Kickflip Green Shoes (M),夏日踢板青浪鞋子 (男)
+PROPITEM_TXT_901300,Summer Kickflip 10% Green Set (M),夏日踢板青浪套裝 10% (男)
+PROPITEM_TXT_901301,The Summer Kickflip 10% Green Set for male characters.,男角色使用的夏日踢板青浪套裝 10%。
+PROPITEM_TXT_901302,Summer Kickflip Green Hat (F),夏日踢板青浪帽子 (女)
+PROPITEM_TXT_901303,Summer Kickflip Green Suit (F),夏日踢板青浪服裝 (女)
+PROPITEM_TXT_901304,Summer Kickflip Green Shoes (F),夏日踢板青浪鞋子 (女)
+PROPITEM_TXT_901305,Summer Kickflip 10% Green Set (F),夏日踢板青浪套裝 10% (女)
+PROPITEM_TXT_901306,The Summer Kickflip 10% Green Set for female characters.,女角色使用的夏日踢板青浪套裝 10%。
+PROPITEM_TXT_901307,Summer Kickflip 8% Blue Set,夏日踢板海風套裝 8%
+PROPITEM_TXT_901308,Summer Kickflip Blue Skateboard,夏日踢板海風滑板
+PROPITEM_TXT_901309,Summer Kickflip Blue Heart Glasses,夏日踢板海風心形眼鏡
+PROPITEM_TXT_901310,Summer Kickflip Blue Hat (M),夏日踢板海風帽子 (男)
+PROPITEM_TXT_901311,Summer Kickflip Blue Suit (M),夏日踢板海風服裝 (男)
+PROPITEM_TXT_901312,Summer Kickflip Blue Shoes (M),夏日踢板海風鞋子 (男)
+PROPITEM_TXT_901313,Summer Kickflip 8% Blue Set (M),夏日踢板海風套裝 8% (男)
+PROPITEM_TXT_901314,The Summer Kickflip 8% Blue Set for male characters.,男角色使用的夏日踢板海風套裝 8%。
+PROPITEM_TXT_901315,Summer Kickflip Blue Hat (F),夏日踢板海風帽子 (女)
+PROPITEM_TXT_901316,Summer Kickflip Blue Suit (F),夏日踢板海風服裝 (女)
+PROPITEM_TXT_901317,Summer Kickflip Blue Shoes (F),夏日踢板海風鞋子 (女)
+PROPITEM_TXT_901318,Summer Kickflip 8% Blue Set (F),夏日踢板海風套裝 8% (女)
+PROPITEM_TXT_901319,The Summer Kickflip 8% Blue Set for female characters.,女角色使用的夏日踢板海風套裝 8%。
+PROPITEM_TXT_901320,Summer Kickflip 8% Purple Set,夏日踢板迷夜套裝 8%
+PROPITEM_TXT_901321,Summer Kickflip Purple Skateboard,夏日踢板迷夜滑板
+PROPITEM_TXT_901322,Summer Kickflip Purple Heart Glasses,夏日踢板迷夜心形眼鏡
+PROPITEM_TXT_901323,Summer Kickflip Purple Hat (M),夏日踢板迷夜帽子 (男)
+PROPITEM_TXT_901324,Summer Kickflip Purple Suit (M),夏日踢板迷夜服裝 (男)
+PROPITEM_TXT_901325,Summer Kickflip Purple Shoes (M),夏日踢板迷夜鞋子 (男)
+PROPITEM_TXT_901326,Summer Kickflip 8% Purple Set (M),夏日踢板迷夜套裝 8% (男)
+PROPITEM_TXT_901327,The Summer Kickflip 8% Purple Set for male characters.,男角色使用的夏日踢板迷夜套裝 8%。
+PROPITEM_TXT_901328,Summer Kickflip Purple Hat (F),夏日踢板迷夜帽子 (女)
+PROPITEM_TXT_901329,Summer Kickflip Purple Suit (F),夏日踢板迷夜服裝 (女)
+PROPITEM_TXT_901330,Summer Kickflip Purple Shoes (F),夏日踢板迷夜鞋子 (女)
+PROPITEM_TXT_901331,Summer Kickflip 8% Purple Set (F),夏日踢板迷夜套裝 8% (女)
+PROPITEM_TXT_901332,The Summer Kickflip 8% Purple Set for female characters.,女角色使用的夏日踢板迷夜套裝 8%。
+PROPITEM_TXT_901333,Summer Kickflip 6% Turquoise Set,夏日踢板碧潮套裝 6%
+PROPITEM_TXT_901334,Summer Kickflip Turquoise Skateboard,夏日踢板碧潮滑板
+PROPITEM_TXT_901335,Summer Kickflip Turquoise Heart Glasses,夏日踢板碧潮心形眼鏡
+PROPITEM_TXT_901336,Summer Kickflip Turquoise Hat (M),夏日踢板碧潮帽子 (男)
+PROPITEM_TXT_901337,Summer Kickflip Turquoise Suit (M),夏日踢板碧潮服裝 (男)
+PROPITEM_TXT_901338,Summer Kickflip Turquoise Shoes (M),夏日踢板碧潮鞋子 (男)
+PROPITEM_TXT_901339,Summer Kickflip 6% Turquoise Set (M),夏日踢板碧潮套裝 6% (男)
+PROPITEM_TXT_901340,The Summer Kickflip 6% Turquoise Set for male characters.,男角色使用的夏日踢板碧潮套裝 6%。
+PROPITEM_TXT_901341,Summer Kickflip Turquoise Hat (F),夏日踢板碧潮帽子 (女)
+PROPITEM_TXT_901342,Summer Kickflip Turquoise Suit (F),夏日踢板碧潮服裝 (女)
+PROPITEM_TXT_901343,Summer Kickflip Turquoise Shoes (F),夏日踢板碧潮鞋子 (女)
+PROPITEM_TXT_901344,Summer Kickflip 6% Turquoise Set (F),夏日踢板碧潮套裝 6% (女)
+PROPITEM_TXT_901345,The Summer Kickflip 6% Turquoise Set for female characters.,女角色使用的夏日踢板碧潮套裝 6%。
+PROPITEM_TXT_901346,Summer Kickflip 4% Pink Set,夏日踢板夏櫻套裝 4%
+PROPITEM_TXT_901347,Summer Kickflip Pink Skateboard,夏日踢板夏櫻滑板
+PROPITEM_TXT_901348,Summer Kickflip Pink Heart Glasses,夏日踢板夏櫻心形眼鏡
+PROPITEM_TXT_901349,Summer Kickflip Pink Hat (M),夏日踢板夏櫻帽子 (男)
+PROPITEM_TXT_901350,Summer Kickflip Pink Suit (M),夏日踢板夏櫻服裝 (男)
+PROPITEM_TXT_901351,Summer Kickflip Pink Shoes (M),夏日踢板夏櫻鞋子 (男)
+PROPITEM_TXT_901352,Summer Kickflip 4% Pink Set (M),夏日踢板夏櫻套裝 4% (男)
+PROPITEM_TXT_901353,The Summer Kickflip 4% Pink Set for male characters.,男角色使用的夏日踢板夏櫻套裝 4%。
+PROPITEM_TXT_901354,Summer Kickflip Pink Hat (F),夏日踢板夏櫻帽子 (女)
+PROPITEM_TXT_901355,Summer Kickflip Pink Suit (F),夏日踢板夏櫻服裝 (女)
+PROPITEM_TXT_901356,Summer Kickflip Pink Shoes (F),夏日踢板夏櫻鞋子 (女)
+PROPITEM_TXT_901357,Summer Kickflip 4% Pink Set (F),夏日踢板夏櫻套裝 4% (女)
+PROPITEM_TXT_901358,The Summer Kickflip 4% Pink Set for female characters.,女角色使用的夏日踢板夏櫻套裝 4%。
+PROPITEM_TXT_901359,Summer Kickflip 2% Black Set,夏日踢板夜馳套裝 2%
+PROPITEM_TXT_901360,Summer Kickflip Black Skateboard,夏日踢板夜馳滑板
+PROPITEM_TXT_901361,Summer Kickflip Black Heart Glasses,夏日踢板夜馳心形眼鏡
+PROPITEM_TXT_901362,Summer Kickflip Black Hat (M),夏日踢板夜馳帽子 (男)
+PROPITEM_TXT_901363,Summer Kickflip Black Suit (M),夏日踢板夜馳服裝 (男)
+PROPITEM_TXT_901364,Summer Kickflip Black Shoes (M),夏日踢板夜馳鞋子 (男)
+PROPITEM_TXT_901365,Summer Kickflip 2% Black Set (M),夏日踢板夜馳套裝 2% (男)
+PROPITEM_TXT_901366,The Summer Kickflip 2% Black Set for male characters.,男角色使用的夏日踢板夜馳套裝 2%。
+PROPITEM_TXT_901367,Summer Kickflip Black Hat (F),夏日踢板夜馳帽子 (女)
+PROPITEM_TXT_901368,Summer Kickflip Black Suit (F),夏日踢板夜馳服裝 (女)
+PROPITEM_TXT_901369,Summer Kickflip Black Shoes (F),夏日踢板夜馳鞋子 (女)
+PROPITEM_TXT_901370,Summer Kickflip 2% Black Set (F),夏日踢板夜馳套裝 2% (女)
+PROPITEM_TXT_901371,The Summer Kickflip 2% Black Set for female characters.,女角色使用的夏日踢板夜馳套裝 2%。
+PROPITEM_TXT_901372,Summer Kickflip 2% White Set,夏日踢板白浪套裝 2%
+PROPITEM_TXT_901373,Summer Kickflip White Skateboard,夏日踢板白浪滑板
+PROPITEM_TXT_901374,Summer Kickflip White Heart Glasses,夏日踢板白浪心形眼鏡
+PROPITEM_TXT_901375,Summer Kickflip White Hat (M),夏日踢板白浪帽子 (男)
+PROPITEM_TXT_901376,Summer Kickflip White Suit (M),夏日踢板白浪服裝 (男)
+PROPITEM_TXT_901377,Summer Kickflip White Shoes (M),夏日踢板白浪鞋子 (男)
+PROPITEM_TXT_901378,Summer Kickflip 2% White Set (M),夏日踢板白浪套裝 2% (男)
+PROPITEM_TXT_901379,The Summer Kickflip 2% White Set for male characters.,男角色使用的夏日踢板白浪套裝 2%。
+PROPITEM_TXT_901380,Summer Kickflip White Hat (F),夏日踢板白浪帽子 (女)
+PROPITEM_TXT_901381,Summer Kickflip White Suit (F),夏日踢板白浪服裝 (女)
+PROPITEM_TXT_901382,Summer Kickflip White Shoes (F),夏日踢板白浪鞋子 (女)
+PROPITEM_TXT_901383,Summer Kickflip 2% White Set (F),夏日踢板白浪套裝 2% (女)
+PROPITEM_TXT_901384,The Summer Kickflip 2% White Set for female characters.,女角色使用的夏日踢板白浪套裝 2%。
 PROPITEM_TXT_901385,Summer Kickflip Costume Lucky Box,夏日踢板服裝幸運箱
-PROPITEM_TXT_901386,This box contains a Summer Kickflip Set with Speed Bonus. You can select your gender after opening the Lucky Box.,此箱子包含附帶速度加成的夏日踢板套裝。開啟幸運箱後可選擇性別。
-PROPITEM_TXT_901388,Summer Kickflip Skateboard Red,夏日踢板紅色滑板
-PROPITEM_TXT_901389,Summer Kickflip Skateboard Green,夏日踢板綠色滑板
-PROPITEM_TXT_901390,Summer Kickflip Skateboard Blue,夏日踢板藍色滑板
-PROPITEM_TXT_901391,Summer Kickflip Skateboard Purple,夏日踢板紫色滑板
-PROPITEM_TXT_901392,Summer Kickflip Skateboard Turquoise,夏日踢板綠松石色滑板
-PROPITEM_TXT_901393,Summer Kickflip Skateboard Pink,夏日踢板粉紅色滑板
-PROPITEM_TXT_901394,Summer Kickflip Skateboard Black,夏日踢板黑色滑板
-PROPITEM_TXT_901395,Summer Kickflip Skateboard White,夏日踢板白色滑板
+PROPITEM_TXT_901386,This box contains a Summer Kickflip Set with Speed Bonus. You can select your gender after opening the Lucky Box.,此幸運箱內含一套具速度加成的夏日踢板套裝，開啟後可選擇性別。
+PROPITEM_TXT_901388,Summer Kickflip Skateboard Red,夏日踢板烈陽滑板
+PROPITEM_TXT_901389,Summer Kickflip Skateboard Green,夏日踢板青浪滑板
+PROPITEM_TXT_901390,Summer Kickflip Skateboard Blue,夏日踢板海風滑板
+PROPITEM_TXT_901391,Summer Kickflip Skateboard Purple,夏日踢板迷夜滑板
+PROPITEM_TXT_901392,Summer Kickflip Skateboard Turquoise,夏日踢板碧潮滑板
+PROPITEM_TXT_901393,Summer Kickflip Skateboard Pink,夏日踢板夏櫻滑板
+PROPITEM_TXT_901394,Summer Kickflip Skateboard Black,夏日踢板夜馳滑板
+PROPITEM_TXT_901395,Summer Kickflip Skateboard White,夏日踢板白浪滑板
 PROPITEM_TXT_901396,"Catch the breeze and ride the heat! From the streets of Flaris to those of Darkon, this board offers smooth tricks and cooler vibes. Maximum Speed: 64 km/h.",迎著微風、乘著熱浪出發！從布拉里斯街頭一路滑到得肯，這塊滑板都能讓你使出流暢特技、保持最潮風格。最高速度：64 km/h。
 PROPITEM_TXT_901397,Fantasy Costume Select Box 1,奇幻風時裝選擇箱 1
 PROPITEM_TXT_901398,Select your favorite look from our Fantasy Costume collection.,從奇幻風時裝系列中挑選你最喜歡的造型。
@@ -23657,13 +23657,13 @@ PROPITEM_TXT_901781,Dark Prince set for Male characters,男角色使用的闇黑
 PROPITEM_TXT_901782,Dark Princess Set (F),闇黑公主套裝 (女)
 PROPITEM_TXT_901783,Dark Princess set for Female characters,女角色使用的闇黑公主套裝。
 PROPITEM_TXT_901784,Dark Scions,闇黑後裔
-PROPITEM_TXT_901785,Select which Gender you want to receive!,選擇你想要的性別！
+PROPITEM_TXT_901785,Select which Gender you want to receive!,選擇想獲得的性別！
 PROPITEM_TXT_901786,Black Wedding Set (M),黑色婚禮套裝 (男)
 PROPITEM_TXT_901787,Black Wedding set for Male characters,男角色使用的黑色婚禮套裝。
 PROPITEM_TXT_901788,Black Wedding Set (F),黑色婚禮套裝 (女)
 PROPITEM_TXT_901789,Black Wedding set for Female characters,女角色使用的黑色婚禮套裝。
 PROPITEM_TXT_901790,Black Wedding,黑色婚禮
-PROPITEM_TXT_901791,Select which Gender you want to receive!,選擇你想要的性別！
+PROPITEM_TXT_901791,Select which Gender you want to receive!,選擇想獲得的性別！
 PROPITEM_TXT_901792,2025 FWC Streamer Event Coupon 1,2025 FWC 實況主活動優惠券 1
 PROPITEM_TXT_901793,"A package containing 10x 2025 FWC PopCorn Select box, 1x Lifestyle Bag Select Box (15 day) and 3x Box of Lucky. All items are Soul-Linked.",內含 10x 2025 FWC 爆米花自選箱、1x 生活風格背包自選箱 (15 天) 與 3x 幸運箱。所有物品皆為綁定。
 PROPITEM_TXT_901794,2025 FWC Streamer Event Coupon 2,2025 FWC 實況主活動優惠券 2
@@ -24779,7 +24779,7 @@ PROPITEM_TXT_134963,Knight Equipment Set (120),騎士裝備套裝 (120)
 PROPITEM_TXT_134964,Psykeeper Equipment Set (120),念力師裝備套裝 (120)
 PROPITEM_TXT_134965,Ranger Equipment Set (120),浪人裝備套裝 (120)
 PROPITEM_TXT_134966,Ringmaster Equipment Set (120),守護者裝備套裝 (120)
-PROPITEM_TXT_134967,Select which Gender you want to receive,選擇你想要的性別
+PROPITEM_TXT_134967,Select which Gender you want to receive,選擇想獲得的性別！
 PROPITEM_TXT_134968,[Limited] Equipment Set Lucky Box,[限量] 裝備套裝幸運箱
 PROPITEM_TXT_134969,A limited Equipment lucky box. May the odds be ever in your favor!,限定裝備幸運箱。願機會永遠對你有利！
 PROPITEM_TXT_134970,[Limited] Weapon Lucky Box,[限量] 武器幸運箱
@@ -25560,7 +25560,7 @@ PROPITEM_TXT_902690,Select your favorite color for your Neo Robot Pet. All items
 PROPITEM_TXT_902691,White Stripe Bear Pet Select Box,白條紋熊寵物自選箱
 PROPITEM_TXT_902692,Select your favorite color for your White Stripe Bear. All items are Soul-Linked.,為你的白條紋熊選擇你最喜歡的顏色。所有物品皆為綁定。
 PROPITEM_TXT_902693,Hunter Set Select Box,獵人套裝自選箱
-PROPITEM_TXT_902694,Select which Gender you want to receive!,選擇你想要的性別！
+PROPITEM_TXT_902694,Select which Gender you want to receive!,選擇想獲得的性別！
 PROPITEM_TXT_902695,Potion of Blind Love,盲目愛情藥水
 PROPITEM_TXT_902696,"The power of reckless love maximizes your attack, increasing Critical Chance by 10%. Lasts for 30 minutes.",魯莽的愛的力量可以最大化你的攻擊，將暴擊率提高 10%。持續 30 分鐘。
 PROPITEM_TXT_902697,Perfume of Heart fluttering,心動香氛
@@ -26135,7 +26135,7 @@ PROPITEM_TXT_903262,Select which Pixel Rabbit Pet you want to receive!,選擇你
 PROPITEM_TXT_903263,PlayPark Community Gathering Giveaway,PlayPark 社群聚會活動贈品禮包
 PROPITEM_TXT_903264,"A package containing 5x Scroll of Amplification ES, 5x Upcut Stone, 5x Power Scroll, 10x Flask Box, 10x Potion Box, 1x Extra Bag (30 days), 1x Feed Bag (7 days), 1x Ice Crown Weapons Skin Box, 1x Casual Set Select Box, 1x Madrigal Flying Selection Box (30 days) and 1x Madrigal PickupPet Selection Box (30 days). All items are also linked.",內含 5x 經驗值加成卷軸 ES、5x 力量之石、5x 力量卷軸、10x 藥劑箱、10x 藥水箱、1x 背包擴充 (30 天)、1x 飼料袋 (7 天)、1x 冰冠武器造型箱、1x 休閒套裝自選箱、1x 瑪德利賈飛行精選箱 (30 天) 與 1x 瑪德利賈撿寵精選箱 (30 天)。所有物品皆為綁定。
 PROPITEM_TXT_903265,Casual Set Select Box,休閒套裝自選箱
-PROPITEM_TXT_903266,Select which Gender you want to receive!,選擇你想要的性別！
+PROPITEM_TXT_903266,Select which Gender you want to receive!,選擇想獲得的性別！
 PROPITEM_TXT_903267,Lucky Clover 10% Green Set,幸運四葉草綠色套裝 10%
 PROPITEM_TXT_903268,Lucky Clover Green Bag,幸運四葉草綠色包包
 PROPITEM_TXT_903269,Lucky Clover Green Beard,幸運四葉草綠色鬍子
@@ -26242,7 +26242,7 @@ PROPITEM_TXT_903369,Lucky Clover 2% Black Set (F),幸運四葉草黑色套裝 2%
 PROPITEM_TXT_903370,The Lucky Clover 2% Black Set for female characters.,女角色使用的幸運四葉草黑色套裝 2%。
 PROPITEM_TXT_903371,Lucky Clover Costume Lucky Box,幸運四葉草服裝幸運箱
 PROPITEM_TXT_903372,This box contains a Lucky Clover Set with Speed Bonus. You can select your gender after opening the Lucky Box.,此箱子包含附帶速度加成的幸運四葉草套裝。開啟幸運箱後可選擇性別。
-PROPITEM_TXT_903373,PlayPark All-Stars 2026 Door Prize,PlayPark 全明星 2026 活動門獎禮包
+PROPITEM_TXT_903373,PlayPark All-Stars 2026 Door Prize,PlayPark 全明星 2026 入場好禮
 PROPITEM_TXT_903374,"A package containing 10x Scroll of Amplification ES, 10x Upcut Stone, 10x Power Scroll, 20x Flask Box, 20x Potion Box, 1x Extra Bag (30 days), 1x Feed Bag (7 days), 1x Card Disc (7 days), 1x Scroll of PickUp Boost (7 day), 1x Meteo Bike (Yellow) (30 Days) and 1x Baby Tiger (30 Days). All items are also linked.",內含 10x 經驗值加成卷軸 ES、10x 力量之石、10x 力量卷軸、20x 藥劑箱、20x 藥水箱、1x 背包擴充 (30 天)、1x 飼料袋 (7 天)、1x 卡片儲存碟 (7 天)、1x 拾取強化卷軸 (7 天)、1x 黃焰星艦飛艇 (30 天) 與 1x 小老虎 (30 天)。所有物品皆為綁定。
 PROPITEM_TXT_903375,Lotus Blossom 10% Cyan Set,蓮華青色套裝 10%
 PROPITEM_TXT_903376,Lotus Blossom Cyan Ribbon,蓮華青色緞帶
@@ -26600,7 +26600,7 @@ PROPITEM_TXT_903690,"A package containing 3x Scroll of Velocity, 2x Elemental At
 PROPITEM_TXT_903691,FWC 2026 Mycard Promotion Box C,FWC 2026 MyCard 平台促銷活動禮盒 C 款道具
 PROPITEM_TXT_903692,"A package containing 4x Elemental Attack Stone Select Box, 5x Flask Box, 2x Power Scroll, 1x Pet Reroll Scroll, 1x Extra Bag (30 days), 4x [20~160] Amplification ES Scroll Select Box, 1x Magical Kid Red Weapon Set and 1x Fantasy Guardian 10% Red Set. All items are also linked.",內含 4x 元素攻擊石選擇箱、5x 藥水箱、2x 力量卷軸、1x 寵物重置卷軸、1x 背包擴充 (30 天)、4x [20~160] 經驗值加成卷軸 ES 選擇箱、1x 魔法兒童紅色武器套組與 1x 夢幻守護者套裝 10% 紅色。所有物品皆為綁定。
 PROPITEM_TXT_903693,Rose Pink Yukata Costume Set Select Box,玫瑰粉浴衣套裝選擇箱
-PROPITEM_TXT_903694,Select which Gender you want to receive!,選擇你想要的性別！
+PROPITEM_TXT_903694,Select which Gender you want to receive!,選擇想獲得的性別！
 PROPITEM_TXT_155827,[Event] 2026 Spring Gift Box,[活動] 2026 春季禮盒
 PROPITEM_TXT_155828,Madrigal Flying Selection Box (15 days),瑪德利賈飛行選擇箱 (15 天)
 PROPITEM_TXT_155829,2026 FWC Golden Curtana Ultimate,[2026] 榮耀‧聖裁之劍
