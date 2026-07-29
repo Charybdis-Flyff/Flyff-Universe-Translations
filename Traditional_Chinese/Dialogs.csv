@@ -880,7 +880,7 @@ NPC_001090,Would anyone like a jewel crafted or perhaps a jewelry setting create
 NPC_001091,"Hi there! I offer jewelry services to the citizens of Flarine and create and set jewels for those wishing to modify their Rare Weapons. I also remove blessings and level reductions from items, among other things!",你好呀！我為 布拉里斯鎮 的市民提供首飾服務，並為那些希望修改稀有武器的人製作和鑲嵌寶石。除其他外，我還刪除了物品的祝福和等級降低！
 NPC_001092,My name is Peach! I'm here to assist Boboku and help supplement his upgrading business. Stop by anytime!,我叫波奇！我來這裡是為了協助波哥 並幫助補充他的升級業務。隨時歡迎你來！
 NPC_001093,"Take care. Remember, for anything to do with jewels, I'm your girl!",小心。請記住，與寶石有關的任何事情，我都是你的女孩！
-NPC_001130,We're running out of time! The newly appointed lord will be here soon!,We're running out of time! The newly appointed lord will be here soon!
+NPC_001130,We're running out of time! The newly appointed lord will be here soon!,時間不多了！新任領主很快就會到任！
 NPC_001219,Attention everyone! We are looking for new Mentors. I will get you started on your way to becoming a Mentor!,大家注意！我們正在尋找新的導師。我將幫助你開始成為導師！
 NPC_001220,Come see me if you want to become a Mentor. ,如果你想成為導師，請來找我。
 NPC_001221,"It is not easy to find worthy people to walk the path of a Mentor, it isn't for everyone.",找到合適的人，走導師的道路並不容易，它並不適合所有人。
@@ -1349,36 +1349,36 @@ NPC_150201,I've spotted a security issue that needs immediate attention. Can you
 NPC_100198,Let luck do its thing.,就讓運氣決定吧。
 NPC_100199,I deal in pieces and fortune.\nCare to try your luck?,我做的是碎片與運氣的買賣。\n要試試你的手氣嗎？
 NPC_100200,Wanna test your luck?,想試試你的運氣嗎？
-NPC_150202,#b#cff8a004fThe #cfff60000Level 165 Guild Siege Application Center #cff8a004fis open! Enjoy it before your third class!#nc#nb,#b#cff8a004fThe #cfff60000Level 165 Guild Siege Application Center #cff8a004fis open! Enjoy it before your third class!#nc#nb
-NPC_150203,Good Luck!,Good Luck!
-NPC_155001,The fields are still in trouble. Stay sharp—whatever's in there isn't done yet.,The fields are still in trouble. Stay sharp—whatever's in there isn't done yet.
-NPC_155002,"O-oh! You're from the guard, r-right? I-I swear, it's not just bad farming! The mushrooms just… changed. S-something's not right, I'm telling you…","O-oh! You're from the guard, r-right? I-I swear, it's not just bad farming! The mushrooms just… changed. S-something's not right, I'm telling you…"
-NPC_155003,"So the guard finally noticed, huh. Took you long enough. If you want answers, you'd better be ready to hear them.","So the guard finally noticed, huh. Took you long enough. If you want answers, you'd better be ready to hear them."
-NPC_155004,"Fascinating, isn't it? The crops here aren't simply rotting—they're changing. Now that you're here, we should report this immediately.","Fascinating, isn't it? The crops here aren't simply rotting—they're changing. Now that you're here, we should report this immediately."
-NPC_155010,"P-Please help! The plants here... they're moving, they're alive!","P-Please help! The plants here... they're moving, they're alive!"
-NPC_155011,"I'm Sprout. I used to work on this farm... well, I guess it WAS a farm...","I'm Sprout. I used to work on this farm... well, I guess it WAS a farm..."
-NPC_155012,Please save me... I just want to get out of here...,Please save me... I just want to get out of here...
-NPC_155013,"Tch, those damn Lycan... If I get out of here alive, they'll pay...!","Tch, those damn Lycan... If I get out of here alive, they'll pay...!"
-NPC_155014,"Name's Thorn. This wasn't exactly the thing to shed blood... but now it's gotten real interesting, hasn't it.","Name's Thorn. This wasn't exactly the thing to shed blood... but now it's gotten real interesting, hasn't it."
-NPC_155015,"Damn it, there are still people trapped inside!","Damn it, there are still people trapped inside!"
-NPC_155016,You're the rescue team? Good. You'll need my observation records.,You're the rescue team? Good. You'll need my observation records.
-NPC_155017,"I'm Root. I was in charge of plant mutation management and cultivation... Well, I WAS. Now I'm investigating this incident.","I'm Root. I was in charge of plant mutation management and cultivation... Well, I WAS. Now I'm investigating this incident."
-NPC_155018,Hmm... I should document that mutation pattern...,Hmm... I should document that mutation pattern...
-NPC_155019,"This is serious… For something like this to happen inside the village…\nWe need to contain it, and fast.","This is serious… For something like this to happen inside the village…\nWe need to contain it, and fast."
-NPC_155020,Baron here. Have you found the three yet?,Baron here. Have you found the three yet?
-NPC_155021,We don’t have much time. Every delay makes things worse.,We don’t have much time. Every delay makes things worse.
-NPC_156000,P-please help me! I-I can't go back to the village like this! W-what if those things show up again? I-I won't make it on my own...,P-please help me! I-I can't go back to the village like this! W-what if those things show up again? I-I won't make it on my own...
-NPC_156001,"W-wait... you're leaving me here?! P-please, I'm begging you... I can't do this alone...","W-wait... you're leaving me here?! P-please, I'm begging you... I can't do this alone..."
-NPC_156002,Y-you did it! Th-thank you so much! I... I don't know what I would have done without you. Th-thank you...,Y-you did it! Th-thank you so much! I... I don't know what I would have done without you. Th-thank you...
-NPC_156003,You. Good. Something out there is watching us... I'm not letting it compromise this operation. Stay sharp and stay close to me.,You. Good. Something out there is watching us... I'm not letting it compromise this operation. Stay sharp and stay close to me.
-NPC_156004,"Coward! Without your help, how am I supposed to protect anyone out there? This is unacceptable!","Coward! Without your help, how am I supposed to protect anyone out there? This is unacceptable!"
-NPC_156005,Well done. You've proven your worth. That's the kind of strength we need. My thanks... and respect.,Well done. You've proven your worth. That's the kind of strength we need. My thanks... and respect.
-NPC_156006,...This is unexpected. Something beneath the soil is actively reacting to your presence. I need time to observe it. The data could be critical.,...This is unexpected. Something beneath the soil is actively reacting to your presence. I need time to observe it. The data could be critical.
-NPC_156007,"Don't slow down. If those creatures interrupt my readings, everything is compromised. I can't afford another setback.","Don't slow down. If those creatures interrupt my readings, everything is compromised. I can't afford another setback."
-NPC_156008,The readings are clear now. Your protection allowed me to gather the information we needed. Excellent work. This changes everything.,The readings are clear now. Your protection allowed me to gather the information we needed. Excellent work. This changes everything.
-NPC_156009,"Like I said, we should not stay here any longer. The activity beneath the soil is escalating faster than expected. We need to relocate now.","Like I said, we should not stay here any longer. The activity beneath the soil is escalating faster than expected. We need to relocate now."
-NPC_156010,Don't abandon me out here. The creatures are reacting to what I'm carrying. I need your cover to escape safely.,Don't abandon me out here. The creatures are reacting to what I'm carrying. I need your cover to escape safely.
-NPC_156011,You made it out. Good. The data is secure and the specimens are intact. This expedition was a success. My gratitude.,You made it out. Good. The data is secure and the specimens are intact. This expedition was a success. My gratitude.
-NPC_156012,Hehe~ Feeling brave? I can send you right back in to test yourself against Entaness again.,Hehe~ Feeling brave? I can send you right back in to test yourself against Entaness again.
-NPC_156013,Oh... alright. Come find me whenever you feel ready.,Oh... alright. Come find me whenever you feel ready.
-NPC_156014,I'm Musha. I keep watch over this place and guide adventurers who want another shot at Entaness.,I'm Musha. I keep watch over this place and guide adventurers who want another shot at Entaness.
+NPC_150202,#b#cff8a004fThe #cfff60000Level 165 Guild Siege Application Center #cff8a004fis open! Enjoy it before your third class!#nc#nb,#b#cff8a004f#cfff60000165 級公會戰申請中心#cff8a004f開放中！在完成第三次轉職前盡情參加吧！#nc#nb
+NPC_150203,Good Luck!,祝你好運！
+NPC_155001,The fields are still in trouble. Stay sharp—whatever's in there isn't done yet.,田地仍未脫離危機。保持警戒——裡面的東西還沒善罷甘休。
+NPC_155002,"O-oh! You're from the guard, r-right? I-I swear, it's not just bad farming! The mushrooms just… changed. S-something's not right, I'm telling you…",你、你是衛隊的人，對、對吧？我、我發誓，不只是耕作出了問題！那些蘑菇就這樣……變了。真、真的不對勁，我沒有騙你……
+NPC_155003,"So the guard finally noticed, huh. Took you long enough. If you want answers, you'd better be ready to hear them.",衛隊總算注意到了，是吧。你們也拖太久了。想知道答案，就先做好聽真話的準備。
+NPC_155004,"Fascinating, isn't it? The crops here aren't simply rotting—they're changing. Now that you're here, we should report this immediately.",很有意思，不是嗎？這裡的作物並非只是在腐爛——而是在變異。既然你來了，我們應該立刻回報此事。
+NPC_155010,"P-Please help! The plants here... they're moving, they're alive!",拜、拜託救救我！這裡的植物……會動，牠們是活的！
+NPC_155011,"I'm Sprout. I used to work on this farm... well, I guess it WAS a farm...",我叫斯普勞特。我以前在這座農場工作……呃，這裡「以前」的確是座農場……
+NPC_155012,Please save me... I just want to get out of here...,拜託救救我……我只想離開這裡……
+NPC_155013,"Tch, those damn Lycan... If I get out of here alive, they'll pay...!",嘖，那些該死的狼人……要是我能活著出去，絕對要牠們付出代價……！
+NPC_155014,"Name's Thorn. This wasn't exactly the thing to shed blood... but now it's gotten real interesting, hasn't it.",我叫索恩。原本還不至於為這種事流血……但現在開始變得有意思了，不是嗎？
+NPC_155015,"Damn it, there are still people trapped inside!",可惡，裡面還有人受困！
+NPC_155016,You're the rescue team? Good. You'll need my observation records.,你是救援隊的人？很好。你會需要我的觀察紀錄。
+NPC_155017,"I'm Root. I was in charge of plant mutation management and cultivation... Well, I WAS. Now I'm investigating this incident.",我是魯特，原本負責管理與培育變異植物……好吧，是「原本」。現在我正在調查這起事件。
+NPC_155018,Hmm... I should document that mutation pattern...,嗯……我應該把這種變異模式記錄下來……
+NPC_155019,"This is serious… For something like this to happen inside the village…\nWe need to contain it, and fast.",情況很嚴重……村子裡竟然發生這種事……\n我們必須立刻控制住。
+NPC_155020,Baron here. Have you found the three yet?,我是巴倫。那三個人找到了嗎？
+NPC_155021,We don’t have much time. Every delay makes things worse.,我們沒多少時間了。每耽擱一刻，情況都會更加惡化。
+NPC_156000,P-please help me! I-I can't go back to the village like this! W-what if those things show up again? I-I won't make it on my own...,拜、拜託救救我！我、我沒辦法這樣回村子！要、要是那些東西又出現怎麼辦？我、我一個人撐不下去……
+NPC_156001,"W-wait... you're leaving me here?! P-please, I'm begging you... I can't do this alone...",等、等等……你要把我丟在這裡嗎？！拜、拜託……我求求你……我一個人真的辦不到……
+NPC_156002,Y-you did it! Th-thank you so much! I... I don't know what I would have done without you. Th-thank you...,你、你成功了！真、真的非常謝謝你！我……要是沒有你，我真不知道該怎麼辦。謝、謝謝你……
+NPC_156003,You. Good. Something out there is watching us... I'm not letting it compromise this operation. Stay sharp and stay close to me.,你來了，很好。外面有東西正在監視我們……我不會讓牠妨礙這次行動。保持警戒，跟緊我。
+NPC_156004,"Coward! Without your help, how am I supposed to protect anyone out there? This is unacceptable!",膽小鬼！沒有你的幫忙，我在外面要怎麼保護其他人？真是不可接受！
+NPC_156005,Well done. You've proven your worth. That's the kind of strength we need. My thanks... and respect.,幹得好。你證明了自己的實力。這正是我們需要的力量。謝謝你……也向你致敬。
+NPC_156006,...This is unexpected. Something beneath the soil is actively reacting to your presence. I need time to observe it. The data could be critical.,……真出乎意料。土壤下的某種東西正在對你的存在產生明顯反應。我需要時間觀察，這些資料可能至關重要。
+NPC_156007,"Don't slow down. If those creatures interrupt my readings, everything is compromised. I can't afford another setback.",別慢下來。要是那些生物干擾我的讀數，一切都會前功盡棄。我不能再承受一次挫敗。
+NPC_156008,The readings are clear now. Your protection allowed me to gather the information we needed. Excellent work. This changes everything.,現在讀數很清楚了。多虧你的保護，我才能取得所需資料。做得非常好，這將改變一切。
+NPC_156009,"Like I said, we should not stay here any longer. The activity beneath the soil is escalating faster than expected. We need to relocate now.",就像我說的，我們不該再待在這裡。土壤下的活動正以超出預期的速度加劇。我們必須立刻轉移。
+NPC_156010,Don't abandon me out here. The creatures are reacting to what I'm carrying. I need your cover to escape safely.,別把我丟在這裡。那些生物正在對我攜帶的東西產生反應，我需要你掩護才能安全撤離。
+NPC_156011,You made it out. Good. The data is secure and the specimens are intact. This expedition was a success. My gratitude.,你成功出來了，很好。資料安然無恙，樣本也完好無損。這次考察很成功，謝謝你。
+NPC_156012,Hehe~ Feeling brave? I can send you right back in to test yourself against Entaness again.,呵呵～有勇氣嗎？我可以把你送回去，再次挑戰恩塔妮絲。
+NPC_156013,Oh... alright. Come find me whenever you feel ready.,喔……好吧。準備好時再來找我。
+NPC_156014,I'm Musha. I keep watch over this place and guide adventurers who want another shot at Entaness.,我是穆夏。我負責看守這裡，並引導想再次挑戰恩塔妮絲的冒險者。

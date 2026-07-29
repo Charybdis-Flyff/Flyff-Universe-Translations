@@ -1582,11 +1582,11 @@ UI_GUILDCOMBATBOARD_TITLE1,Lv.80 Guild Siege Information,Lv.80 公會戰資訊
 UI_GUILDCOMBATBOARD_TITLE2,Lv.60 Guild Siege Information,Lv.60 公會戰資訊
 UI_GUILDCOMBAT_OFFER_TITLE1,Apply for Lv.80 Guild Siege,申請 Lv.80 公會戰
 UI_GUILDCOMBAT_OFFER_TITLE2,Apply for Lv.60 Guild Siege,申請 Lv.60 公會戰
-UI_GUILDCOMBAT165_CANCEL_TITLE,Lv165 GS - Cancel Application,Lv165 GS - Cancel Application
-UI_GUILDCOMBAT165_CANCEL_MSG,Do you want to withdraw from the Level 165 Guild Siege?,Do you want to withdraw from the Level 165 Guild Siege?
-UI_GUILDCOMBAT165_JOIN_MSG,Do you join the Level 165 Guild Siege?,Do you join the Level 165 Guild Siege?
-UI_GUILDCOMBATBOARD_TITLE3,Level 165 GS Information,Level 165 GS Information
-UI_GUILDCOMBAT_OFFER_TITLE3,Apply for Level 165 GS,Apply for Level 165 GS
+UI_GUILDCOMBAT165_CANCEL_TITLE,Lv165 GS - Cancel Application,Lv.165 公會戰 - 取消申請
+UI_GUILDCOMBAT165_CANCEL_MSG,Do you want to withdraw from the Level 165 Guild Siege?,你想要退出 Lv.165 公會戰嗎？
+UI_GUILDCOMBAT165_JOIN_MSG,Do you join the Level 165 Guild Siege?,你要加入 Lv.165 公會戰嗎？
+UI_GUILDCOMBATBOARD_TITLE3,Level 165 GS Information,Lv.165 公會戰資訊
+UI_GUILDCOMBAT_OFFER_TITLE3,Apply for Level 165 GS,申請 Lv.165 公會戰
 UI_GUILDCOMBAT_OFFER_PRESENT1,Blue Chips\n- Winning Guild: 34 x number of participating guilds\n- Second Guild: 24 x number of participating guilds\n- Third Guild: 14 x number of participating guilds\n- Fourth Guild: 8 x number of participating guilds\n- Fifth Guild: 4 x number of participating guilds,藍籌碼\n- 獲勝公會：34 x 參與公會人數量\n- 第二名公會：24 x 參與公會人數量\n- 第三名公會：14 x 參與公會人數量\n- 第四名公會：8 x 參與公會人數量\n- 第五名公會：4 x 參與公會人數量
 UI_GUILDCOMBAT_OFFER_PRESENT2,Blue Chips\n- Winning Guild: 32 x number of participating guilds\n- Second Guild: 22 x number of participating guilds\n- Third Guild: 12 x number of participating guilds\n- Fourth Guild: 7 x number of participating guilds\n- Fifth Guild: 3 x number of participating guilds,藍籌碼\n- 獲勝公會：32 x 參與公會人數量\n- 第二名公會：22 x 參與公會人數量\n- 第三名公會：12 x 參與公會人數量\n- 第四名公會：7 x 參與公會人數量\n- 第五名公會：3 x 參與公會人數量
 UI_GUILDCOMBAT_STATE_TITLE1,Lv.80 Guild Siege Application Status,Lv.80 公會戰申請狀態
@@ -1597,11 +1597,11 @@ UI_GUILDCOMBAT_RESULT_TITLE1,Lv.80 Guild Siege Results,Lv.80 公會戰和成員�
 UI_GUILDCOMBAT_RESULT_TITLE2,Lv.60 Guild Siege Results,Lv.60 公會戰和成員排名
 UI_GUILDCOMBAT_RANKING_TITLE1,Lv.80 Guild Siege Player Rankings,Lv.80 公會戰成員排名
 UI_GUILDCOMBAT_RANKING_TITLE2,Lv.60 Guild Siege Player Rankings,Lv.60 公會戰成員排名
-UI_GUILDCOMBAT_OFFER_PRESENT3,Blue Chips\n- Winning Guild: 40 x number of participating guilds\n- Second Guild: 30 x number of participating guilds\n- Third Guild: 20 x number of participating guilds\n- Fourth Guild: 10 x number of participating guilds\n- Fifth Guild: 6 x number of participating guilds,Blue Chips\n- Winning Guild: 40 x number of participating guilds\n- Second Guild: 30 x number of participating guilds\n- Third Guild: 20 x number of participating guilds\n- Fourth Guild: 10 x number of participating guilds\n- Fifth Guild: 6 x number of participating guilds
-UI_GUILDCOMBAT_STATE_TITLE3,Level 165 GS Applications,Level 165 GS Applications
-UI_GUILDCOMBAT_SELECT_TITLE3,Level 165 GS Line Up,Level 165 GS Line Up
-UI_GUILDCOMBAT_RESULT_TITLE3,Level 165 Guild & Member Ranking,Level 165 Guild & Member Ranking
-UI_GUILDCOMBAT_RANKING_TITLE3,Level 165 Guild Member Ranking,Level 165 Guild Member Ranking
+UI_GUILDCOMBAT_OFFER_PRESENT3,Blue Chips\n- Winning Guild: 40 x number of participating guilds\n- Second Guild: 30 x number of participating guilds\n- Third Guild: 20 x number of participating guilds\n- Fourth Guild: 10 x number of participating guilds\n- Fifth Guild: 6 x number of participating guilds,藍色籌碼\n- 第一名公會：40 x 參加公會數\n- 第二名公會：30 x 參加公會數\n- 第三名公會：20 x 參加公會數\n- 第四名公會：10 x 參加公會數\n- 第五名公會：6 x 參加公會數
+UI_GUILDCOMBAT_STATE_TITLE3,Level 165 GS Applications,Lv.165 公會戰申請狀態
+UI_GUILDCOMBAT_SELECT_TITLE3,Level 165 GS Line Up,Lv.165 公會戰陣容
+UI_GUILDCOMBAT_RESULT_TITLE3,Level 165 Guild & Member Ranking,Lv.165 公會與成員排名
+UI_GUILDCOMBAT_RANKING_TITLE3,Level 165 Guild Member Ranking,Lv.165 公會戰成員排名
 UI_OPTION_EVENTLIGHT,Event Light,活動光源效果
 UI_LEVELREACH,Level Reach,等級達成
 UI_LEVELREACH_DESC,"Reach new levels during the event period to receive rewards! Each level has a limited number of rewards, so hurry - first come, first served!",活動期間提升等級即可獲得獎勵！每個等級的獎勵數量有限，先到先得，抓緊時間！
@@ -1732,8 +1732,8 @@ UI_TICKETCHANNELSEL,Select a Layer,選擇一層
 UI_TICKETCHANNEL,Layer,層
 UI_TICKETLEAVE,Leave Area,離開地區
 UI_TARGETITEMLEVEL,Required Target Level: %d,所需目標等級：%d
-UI_RECOMMENDEDLEVEL,Recommended Level: %s,Recommended Level: %s
-UI_RECOMMENDEDLEVEL_STATDOWN,(Stats x%.2f),(Stats x%.2f)
+UI_RECOMMENDEDLEVEL,Recommended Level: %s,建議等級：%s
+UI_RECOMMENDEDLEVEL_STATDOWN,(Stats x%.2f),(能力值 x%.2f)
 UI_DUNGEON_REQ_ITEM,Required Items:,所需物品：
 UI_DUNGEON_MAX_ENTRY_COUNT,Daily Entries: %d / %d,每日最大入場次數：%d / %d
 UI_DROP_DISTRIBUTE_TITLE,Loot Distribution,掉落物分配
@@ -2484,7 +2484,7 @@ UI_MATOURNAMENT_REGISTRATIONCOST,Registration fee:,報名費：
 UI_MATOURNAMENT_MAXPARTICIPATINGPLAYERS,Maximum players per team: ,每隊最多參賽人數：
 UI_MATOURNAMENT_REGISTEREDGUILDS,Registered guilds (%d):,已報名公會 (%d)：
 UI_MATOURNAMENT_REGISTER,Register,報名
-UI_MATOURNAMENT_INFO,"Get a chance to win great riches in the Madrigal Tournament!\nJoin individually or as a party. For party battles, you can register with a party of up to 4 players. Registration is available Monday through %s from 00:00:00 to %s.",參加瑪德利賈錦標賽，贏取豐厚獎勵！\n可單人或組隊參加。組隊戰最多可由 3 名玩家組成隊伍報名。報名時間為每週一 00:00:00 起至 %s %s 止。
+UI_MATOURNAMENT_INFO,"Get a chance to win great riches in the Madrigal Tournament!\nJoin individually or as a party. For party battles, you can register with a party of up to 4 players. Registration is available Monday through %s from 00:00:00 to %s.",參加瑪德利賈錦標賽，贏取豐厚獎勵！\n可單人或組隊參加。組隊戰最多可由 4 名玩家組成隊伍報名。報名時間為每週一 00:00:00 起至 %s %s 止。
 UI_MATOURNAMENT_REGISTEREDTEAMS,Registered teams (%d):,已報名隊伍 (%d)：
 UI_MATOURNAMENT_JOINWAR_RANDOM,Random,隨機
 UI_MATOURNAMENT_JOINWAR_TITLE,Select Entry Zone,選擇入場區域
@@ -2634,7 +2634,7 @@ UI_LIFE_RECIPEBTN,Recipes,配方
 UI_LIFE_RECIPES,Recipes,配方
 UI_LIFE_RECIPES_CATEGORY,Category,分類
 UI_LIFE_RECIPES_DETAILS,Recipe,配方
-UI_LIFE_RECIPES_GRADE,Grade,Grade
+UI_LIFE_RECIPES_GRADE,Grade,階級
 UI_LIFE_RECIPES_NOSELECTED,No recipe selected,尚未選擇配方
 UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired Ingredients:,需求精通：%d\n需求稱號：[%s]\n所需材料：
 UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Ingredients:,需求精通：%d\n所需材料：
@@ -2643,8 +2643,8 @@ UI_LIFE_PRODUCTION_SUCCESS_RATE,Success Rate,成功率
 UI_LIFE_PRODUCTION_TIME,Production Time Per Cycle,每輪製作時間
 UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],需求精通：%d\n需求稱號：[%s]
 UI_LIFE_PRODUCTION_REQUIREMENTS_NOTITLE,Required Mastery: %d,需求精通：%d
-UI_LIFE_PRODUCTION_REQ_MASTERY,Required Mastery:,Required Mastery:
-UI_LIFE_PRODUCTION_REQ_TITLE,Required Title:,Required Title:
+UI_LIFE_PRODUCTION_REQ_MASTERY,Required Mastery:,需求精通：
+UI_LIFE_PRODUCTION_REQ_TITLE,Required Title:,需求稱號：
 UI_LIFE_RECIPE_CATEGORY_0,Ingredients,材料
 UI_LIFE_RECIPE_CATEGORY_1,Drinks,飲品
 UI_LIFE_RECIPE_CATEGORY_2,Pills,藥丸
@@ -2709,7 +2709,7 @@ UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to o
 UI_LIFE_SHOP_REFRESH_TITLE,Shop Refresh,商店刷新
 UI_LIFE_WANDERING_SHOP_REFRESH_MSG,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?,要使用流浪商人刷新券來刷新商店內容嗎？
 UI_LIFE_SHOP_REFRESH_BUTTON_TOOLTIP,Use %s to refresh the shop inventory,使用 %s 刷新商店內容
-UI_LIFE_WANDERING_SHOP_TOGGLE_PRICE,Buy with %s,Buy with %s
+UI_LIFE_WANDERING_SHOP_TOGGLE_PRICE,Buy with %s,使用 %s 購買
 UI_LIFE_MASTERY_RANKING_TITLE,Mastery Rankings,精通排行榜
 UI_LIFE_MASTERY_RANKING_RANK,Rank,排名
 UI_LIFE_MASTERY_RANKING_CHARNAME,Character Name,角色名稱
@@ -2734,10 +2734,10 @@ UI_LIFE_MASTERY_UNIQUE_ORE,Rock with a unique appearance. Yields Common-Rare ore
 UI_LIFE_MASTERY_RARE_ORE,Rare rock that is difficult to find. Yields Common-Very Rare ores.,難以尋得的稀有礦石。可採得普通～極稀有礦石。
 UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary rock known to few. Yields Rare-Very Rare ores.,鮮為人知的傳說礦石。可採得稀有～極稀有礦石。
 UI_LIFE_PRODUCTION_START,Production Start,開始製作
-UI_LIFE_CRAFT_START,Start,Start
-UI_LIFE_CRAFT_STOP,Stop,Stop
-UI_LIFE_CRAFT_SEC_REDUCTION,%d sec\n(%d%% reduction applied),%d sec\n(%d%% reduction applied)
-UI_LIFE_CRAFT_RESET,Reset,Reset
+UI_LIFE_CRAFT_START,Start,開始
+UI_LIFE_CRAFT_STOP,Stop,停止
+UI_LIFE_CRAFT_SEC_REDUCTION,%d sec\n(%d%% reduction applied),%d 秒\n(已套用 %d%% 縮減)
+UI_LIFE_CRAFT_RESET,Reset,重置
 UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc",製作一旦開始便無法取消。是否繼續？\n\n#cffffc000製作時間：%s#nc
 UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc",製作一旦開始便無法取消。是否繼續？\n\n#cffffc000製作時間：%s~%s#nc
 UI_QUEST_GATHERING_MINING,Mine Ore #cffc32f07#b%d/%d#nb#nc,採礦 #cffc32f07#b%d/%d#nb#nc
@@ -3319,69 +3319,69 @@ UI_4TH_ANNIV_PASS,4th Anniversary Pass,四週年通行證
 UI_EVENT_4TH_ANNIV_FIELDBOSS,4th Anniversary Boss Instance Event,四週年首領副本活動
 UI_ACHIEVEMENT_LYCANHUNTING_TITLE,Server Hunting Carnival,全伺服器狩獵嘉年華
 UI_ACHIEVEMENT_LYCANHUNTING_DESC,Hunt monsters in the Kaillun region during the event to reach the goals for each stage! All players on the server can receive rewards every time a goal is achieved!,活動期間在凱倫地區狩獵怪物，達成各階段目標！每當達成目標時，伺服器上的所有玩家都能領取獎勵！
-UI_APP_DONATION_TIP,Donate Penya to receive server wide buffs!,Donate Penya to receive server wide buffs!
-UI_APP_LORD_TIP,Manage lord skills as the lord.,Manage lord skills as the lord.
-UI_APP_LORD_TARGETNAME,Enter the target's name,Enter the target's name
-UI_APP_LORD_INFO,Manage the skills and benefits available to you as the Lord of Madrigal! Press any of the following skills to use them.,Manage the skills and benefits available to you as the Lord of Madrigal! Press any of the following skills to use them.
-UI_DONATION_NEXTEVENT,Next Event:,Next Event:
-UI_DONATION_CURRENTEVENT,Current Event:,Current Event:
-UI_DONATION_MINDONATION,Minimum Donation:,Minimum Donation:
-UI_DONATION_GOAL,Goal,Goal
-UI_DONATION_BUFF,Buff,Buff
-UI_DONATION_DONATOR,Donator,Donator
-UI_DONATION_DONATE,Donate,Donate
-UI_DONATION_MSG,Enter the amount you want to donate for the #b%s#nb buff. Please note that donation cannot be refunded.,Enter the amount you want to donate for the #b%s#nb buff. Please note that donation cannot be refunded.
-UI_155UPDATE_PASS,1.5.5 Update Pass,1.5.5 Update Pass
-UI_BATTLEPASS_MISSION_MADRIGALTOURNAMENT,Attend Madrigal Tournament,Attend Madrigal Tournament
-UI_BATTLEPASS_MISSION_DONATE,Donate %s penya,Donate %s penya
-UI_BATTLEPASS_MISSION_SETTHEME,Apply %s Theme,Apply %s Theme
-UI_BATTLEPASS_MISSION_USEITEM2,"Use %s, %s","Use %s, %s"
-UI_BATTLEPASS_MISSION_USEITEM3,"Use %s, %s, %s","Use %s, %s, %s"
-UI_DONATION_TOTALDONATION,Total Donation:,Total Donation:
-UI_DONATION_MYDONATION,My Donation:,My Donation:
-UI_DONATION_RANKING,Donation Ranking,Donation Ranking
-UI_DONATION_CURRENTLORD,Current Lord: #b%s#nb,Current Lord: #b%s#nb
-UI_MYSTCASTLE_BATTLE_START,Would you like to start the battle?\nEntering will consume an entry attempt.,Would you like to start the battle?\nEntering will consume an entry attempt.
-UI_MYSTCASTLE_BATTLE_LEAVE,Would you like to leave the current floor?,Would you like to leave the current floor?
-UI_MYSTCASTLE_CHALLENGE_NEXT_FLOOR,Would you like to challenge the next floor?,Would you like to challenge the next floor?
-UI_MYSTCASTLE_MOVE_NEXT_FLOOR,You’ve defeated the Boss!\nMove on to the next floor!,You’ve defeated the Boss!\nMove on to the next floor!
-UI_MYSTCASTLE_MISSION_SUCCESS,You’ve defeated the Boss!,You’ve defeated the Boss!
-UI_MYSTCASTLE_MISSION_FAIL,You’ve failed!,You’ve failed!
-UI_MYSTCASTLE_FLOORS_TITLE,Mysterious Castle Floors,Mysterious Castle Floors
-UI_MYSTCASTLE_RANKING,Ranking,Ranking
+UI_APP_DONATION_TIP,Donate Penya to receive server wide buffs!,捐獻金幣，取得全伺服器增益效果！
+UI_APP_LORD_TIP,Manage lord skills as the lord.,以領主身分管理領主技能。
+UI_APP_LORD_TARGETNAME,Enter the target's name,輸入目標名稱
+UI_APP_LORD_INFO,Manage the skills and benefits available to you as the Lord of Madrigal! Press any of the following skills to use them.,管理身為瑪德利賈領主可使用的技能與福利！按下下列任一技能即可使用。
+UI_DONATION_NEXTEVENT,Next Event:,下次活動：
+UI_DONATION_CURRENTEVENT,Current Event:,目前活動：
+UI_DONATION_MINDONATION,Minimum Donation:,最低捐獻額：
+UI_DONATION_GOAL,Goal,目標
+UI_DONATION_BUFF,Buff,增益效果
+UI_DONATION_DONATOR,Donator,捐獻者
+UI_DONATION_DONATE,Donate,捐獻
+UI_DONATION_MSG,Enter the amount you want to donate for the #b%s#nb buff. Please note that donation cannot be refunded.,輸入你想為 #b%s#nb 增益效果捐獻的金額。請注意，捐獻後無法退款。
+UI_155UPDATE_PASS,1.5.5 Update Pass,1.5.5 更新通行證
+UI_BATTLEPASS_MISSION_MADRIGALTOURNAMENT,Attend Madrigal Tournament,參加瑪德利賈錦標賽
+UI_BATTLEPASS_MISSION_DONATE,Donate %s penya,捐獻 %s 金幣
+UI_BATTLEPASS_MISSION_SETTHEME,Apply %s Theme,套用 %s 主題
+UI_BATTLEPASS_MISSION_USEITEM2,"Use %s, %s",使用 %s、%s
+UI_BATTLEPASS_MISSION_USEITEM3,"Use %s, %s, %s",使用 %s、%s、%s
+UI_DONATION_TOTALDONATION,Total Donation:,總捐獻額：
+UI_DONATION_MYDONATION,My Donation:,我的捐獻額：
+UI_DONATION_RANKING,Donation Ranking,捐獻排名
+UI_DONATION_CURRENTLORD,Current Lord: #b%s#nb,目前領主：#b%s#nb
+UI_MYSTCASTLE_BATTLE_START,Would you like to start the battle?\nEntering will consume an entry attempt.,要開始戰鬥嗎？\n進入後會消耗一次挑戰機會。
+UI_MYSTCASTLE_BATTLE_LEAVE,Would you like to leave the current floor?,要離開目前樓層嗎？
+UI_MYSTCASTLE_CHALLENGE_NEXT_FLOOR,Would you like to challenge the next floor?,要挑戰下一層嗎？
+UI_MYSTCASTLE_MOVE_NEXT_FLOOR,You’ve defeated the Boss!\nMove on to the next floor!,你已擊敗首領！\n前往下一層！
+UI_MYSTCASTLE_MISSION_SUCCESS,You’ve defeated the Boss!,你已擊敗首領！
+UI_MYSTCASTLE_MISSION_FAIL,You’ve failed!,挑戰失敗！
+UI_MYSTCASTLE_FLOORS_TITLE,Mysterious Castle Floors,神秘的城堡樓層
+UI_MYSTCASTLE_RANKING,Ranking,排名
 UI_ORDINAL_SUFFIX_EXCLUDE_ENG_FRE,,
-UI_MYSTCASTLE_LIST_FLOOR,%s\nFloor,%s\nFloor
-UI_MYSTCASTLE_LIST_CLEAR,Clear,Clear
-UI_MYSTCASTLE_FLOOR_INFO_BOSS,%s Floor BOSS:\n    %s,%s Floor BOSS:\n    %s
-UI_MYSTCASTLE_FLOOR_INFO_DETAIL,Entrance: %s\nMinimum Level: %d\nClear Time: %s,Entrance: %s\nMinimum Level: %d\nClear Time: %s
-UI_MYSTCASTLE_PARTY,Party,Party
-UI_MYSTCASTLE_SOLO,Solo,Solo
-UI_MYSTCASTLE_CLEAR_REWARD,Clear Rewards,Clear Rewards
-UI_MYSTCASTLE_FREE_ENTRANCE_USED,Free Entrance Used %d/%d,Free Entrance Used %d/%d
-UI_MYSTCASTLE_BLOCK_TIME,Ranking Settlement in progress,Ranking Settlement in progress
-UI_MYSTCASTLE_RANK_OVERALL,Overall Ranking,Overall Ranking
-UI_MYSTCASTLE_RANK_JOB,Job Ranking,Job Ranking
-UI_MYSTCASTLE_RANK_OVERALL_LAST_WEEK,Overall Ranking (Last Week),Overall Ranking (Last Week)
-UI_MYSTCASTLE_RANK_JOB_LAST_WEEK,Job Ranking (Last Week),Job Ranking (Last Week)
-UI_MYSTCASTLE_MY_RANKING,My Ranking:,My Ranking:
-UI_MYSTCASTLE_MY_RANKING_NO,My Ranking: No current ranking information.,My Ranking: No current ranking information.
-UI_MYSTCASTLE_RANK_TITLE,Mysterious Castle Ranking,Mysterious Castle Ranking
-UI_MYSTCASTLE_RANK_COL_RANKING,Ranking,Ranking
-UI_MYSTCASTLE_RANK_COL_JOB,Job,Job
-UI_MYSTCASTLE_RANK_COL_NAME,Character Name,Character Name
-UI_MYSTCASTLE_RANK_COL_LEVEL,Level,Level
-UI_MYSTCASTLE_RANK_COL_FLOOR,Cleared Floors,Cleared Floors
-UI_MYSTCASTLE_RANK_COL_TIME,Clear Time,Clear Time
-UI_MYSTCASTLE_REWARD_TITLE,Mysterious Castle Rewards,Mysterious Castle Rewards
-UI_MYSTCASTLE_REWARD_COL_FLOOR,Floor,Floor
-UI_MYSTCASTLE_REWARD_COL_BOSS,Boss,Boss
-UI_MYSTCASTLE_REWARD_COL_REWARD,Reward,Reward
-UI_MYSTCASTLE_REWARD_COL_CLASS,Ranking Rewards by Class,Ranking Rewards by Class
-UI_MYSTCASTLE_REWARD_COL_COUNT,Quant,Quant
-UI_MYSTCASTLE_REWARD_RATIO,Within Top %d%%\n(Excluding above ranks),Within Top %d%%\n(Excluding above ranks)
-UI_MYSTCASTLE_REWARD_OTHERS,Others,Others
-UI_MYSTCASTLE_REWARD_CLASS_DESC,"Mysterious Box that has\nsame level as the floor\nyou currently cleared\n(If the last floor you cleared\nwas 4, you'll get Mysterious\nBox Lv2)","Mysterious Box that has\nsame level as the floor\nyou currently cleared\n(If the last floor you cleared\nwas 4, you'll get Mysterious\nBox Lv2)"
-UI_MYSTCASTLE_REWARD_TAB_FLOOR,Floor Clear Reward,Floor Clear Reward
-UI_MYSTCASTLE_REWARD_TAB_RANK,Ranking Reward,Ranking Reward
-UI_MYSTCASTLE_ENTER_FLOOR_USE_TICKET,Entering will consume a Mysterious Castle retry coupon. Do you want to continue?,Entering will consume a Mysterious Castle retry coupon. Do you want to continue?
-UI_MYSTCASTLE_TOUCH_ANYWHERE,Touch anywhere to type!,Touch anywhere to type!
+UI_MYSTCASTLE_LIST_FLOOR,%s\nFloor,%s\n樓層
+UI_MYSTCASTLE_LIST_CLEAR,Clear,已通關
+UI_MYSTCASTLE_FLOOR_INFO_BOSS,%s Floor BOSS:\n    %s,%s 樓首領：\n    %s
+UI_MYSTCASTLE_FLOOR_INFO_DETAIL,Entrance: %s\nMinimum Level: %d\nClear Time: %s,入場條件：%s\n最低等級：%d\n通關時間：%s
+UI_MYSTCASTLE_PARTY,Party,劇團
+UI_MYSTCASTLE_SOLO,Solo,單人
+UI_MYSTCASTLE_CLEAR_REWARD,Clear Rewards,通關獎勵
+UI_MYSTCASTLE_FREE_ENTRANCE_USED,Free Entrance Used %d/%d,免費入場次數 %d/%d
+UI_MYSTCASTLE_BLOCK_TIME,Ranking Settlement in progress,正在結算排名
+UI_MYSTCASTLE_RANK_OVERALL,Overall Ranking,綜合排名
+UI_MYSTCASTLE_RANK_JOB,Job Ranking,職業排名
+UI_MYSTCASTLE_RANK_OVERALL_LAST_WEEK,Overall Ranking (Last Week),綜合排名 (上週)
+UI_MYSTCASTLE_RANK_JOB_LAST_WEEK,Job Ranking (Last Week),職業排名 (上週)
+UI_MYSTCASTLE_MY_RANKING,My Ranking:,我的排名：
+UI_MYSTCASTLE_MY_RANKING_NO,My Ranking: No current ranking information.,我的排名：目前沒有排名資訊。
+UI_MYSTCASTLE_RANK_TITLE,Mysterious Castle Ranking,神秘的城堡排名
+UI_MYSTCASTLE_RANK_COL_RANKING,Ranking,排名
+UI_MYSTCASTLE_RANK_COL_JOB,Job,職業
+UI_MYSTCASTLE_RANK_COL_NAME,Character Name,角色名稱
+UI_MYSTCASTLE_RANK_COL_LEVEL,Level,等級
+UI_MYSTCASTLE_RANK_COL_FLOOR,Cleared Floors,已通關樓層
+UI_MYSTCASTLE_RANK_COL_TIME,Clear Time,通關時間
+UI_MYSTCASTLE_REWARD_TITLE,Mysterious Castle Rewards,神秘的城堡獎勵
+UI_MYSTCASTLE_REWARD_COL_FLOOR,Floor,樓層
+UI_MYSTCASTLE_REWARD_COL_BOSS,Boss,首領
+UI_MYSTCASTLE_REWARD_COL_REWARD,Reward,獎勵
+UI_MYSTCASTLE_REWARD_COL_CLASS,Ranking Rewards by Class,各職業排名獎勵
+UI_MYSTCASTLE_REWARD_COL_COUNT,Quant,數量
+UI_MYSTCASTLE_REWARD_RATIO,Within Top %d%%\n(Excluding above ranks),前 %d%% 以內\n(不含上述名次)
+UI_MYSTCASTLE_REWARD_OTHERS,Others,其他
+UI_MYSTCASTLE_REWARD_CLASS_DESC,"Mysterious Box that has\nsame level as the floor\nyou currently cleared\n(If the last floor you cleared\nwas 4, you'll get Mysterious\nBox Lv2)",可獲得等級與\n目前通關樓層相同的\n神秘箱\n(若最後通關樓層為 4 樓，\n將獲得 Lv.2\n神秘箱)
+UI_MYSTCASTLE_REWARD_TAB_FLOOR,Floor Clear Reward,樓層通關獎勵
+UI_MYSTCASTLE_REWARD_TAB_RANK,Ranking Reward,排名獎勵
+UI_MYSTCASTLE_ENTER_FLOOR_USE_TICKET,Entering will consume a Mysterious Castle retry coupon. Do you want to continue?,進入後將消耗神秘的城堡重試券。要繼續嗎？
+UI_MYSTCASTLE_TOUCH_ANYWHERE,Touch anywhere to type!,點擊任意位置開始輸入！

@@ -651,7 +651,7 @@ TEXTCLIENT_GUILDCOMBAT_ENTER,The Guild Siege is now open.,公會戰現已開啟�
 TEXTCLIENT_GUILDCOMBAT_NOT_JOIN,Please join after a while.,請稍後再加入。
 TEXTCLIENT_GUILDCOMBAT_NOT_OPEN,Preparations underway.,準備工作正在進行中。
 TEXTCLIENT_GUILDCOMBAT_NOTENTER_VAGRANT,Vagrants are not eligible for the Guild Siege. Please try again after your first job change.,見習生無法進入，請轉職後再進入場地。
-TEXTCLIENT_GUILDCOMBAT_NOTENTER_SPECIALIST,A character with third class is not eligible for Lv165 guild siege.,A character with third class is not eligible for Lv165 guild siege.
+TEXTCLIENT_GUILDCOMBAT_NOTENTER_SPECIALIST,A character with third class is not eligible for Lv165 guild siege.,已完成第三次轉職的角色無法參加 Lv.165 公會戰。
 TEXTCLIENT_GUILDCOMBAT_WELCOME,Welcome to the Guild Siege.,歡迎來到公會戰。
 TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom the camera using the [Scroll Lock] key.,你可以使用 [Scroll Lock] 鍵縮放相機。
 TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,You are the Guild Master! Defeating the Defender grants 1 bonus point.,你是公會會長！被敵方擊殺時，會給予敵方分數，請注意這一點之後，進行對戰！
@@ -888,7 +888,7 @@ TEXTCLIENT_BATTLEPASS_PAID,Thank you for purchasing the Extended %s!,感謝你�
 TEXTCLIENT_BATTLEPASS_PURCHASE_PAID,Purchase the Extended %s to receive more rewards!,購買延長 %s 可獲得更多獎勵！
 TEXTCLIENT_GUILDCOMBAT80_MAXLEVEL,Only characters level 80 or less can apply to this Lv80 Guild Siege.,只有 80 級或以下的角色才能申請本次的 Lv80 公會戰。
 TEXTCLIENT_GUILDCOMBAT60_MAXLEVEL,Only characters who did not complete the second class change can apply to this Lv60 Guild Siege.,只有未完成第二次轉職的角色才能申請本次的 Lv60 公會戰。
-TEXTCLIENT_GUILDCOMBAT165_MAXLEVEL,Only characters who did not complete the third class change can apply to this Lv165 Guild Siege.,Only characters who did not complete the third class change can apply to this Lv165 Guild Siege.
+TEXTCLIENT_GUILDCOMBAT165_MAXLEVEL,Only characters who did not complete the third class change can apply to this Lv165 Guild Siege.,只有尚未完成第三次轉職的角色可以申請 Lv.165 公會戰。
 TEXTCLIENT_GUILDCOMBAT_ENTER1,The Lv80 Guild Siege is held for this week.,本週將舉行 Lv80 公會戰。
 TEXTCLIENT_GUILDCOMBAT_ENTER2,The Lv60 Guild Siege is held for this week.,本週將舉行 Lv60 公會戰。
 TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT1,Today's Lv80 Guild Siege will not be held due to lack of participants.,因為參與人數不足，今天的 Lv.80 公會戰將取消。
@@ -1449,7 +1449,7 @@ TEXTCLIENT_FISHING_FAIL_BAIT_INDEX,Can't find bait.,找不到魚餌。
 TEXTCLIENT_LIFESKILL_NOT_LEARN,You have not learned the required skill yet.,你尚未學會所需技能。
 TEXTCLIENT_LIFEMASTERY_RANKING_REWARD_RECEIVE,You have received %s as a reward for your life mastery ranking.,你已收到生活專精排行榜獎勵：%s。
 TEXTCLIENT_LIFEMASTERY_RANKING_REWARD_FAIL,Could not send life mastery ranking reward.,無法發送生活專精排行榜獎勵。
-TEXTCLIENT_LIFESTYLE_NOGOLD,Not enough Penya.,Not enough Penya.
+TEXTCLIENT_LIFESTYLE_NOGOLD,Not enough Penya.,金幣不足。
 TEXTCLIENT_FISHING_FAIL_DIFF_POS,Fishing failed. Please move to a different spot and try again.,釣魚失敗。請移動到其他位置後再試。
 TEXTCLIENT_COUPLEHOUSING_BUYSUCCESS,You successfully setup your couple house.,你已成功佈置情侶小屋。
 TEXTCLIENT_COUPLEHOUSING_NOTOWN,You currently have no couple house yet.,你尚未擁有情侶小屋。
@@ -1555,21 +1555,21 @@ TEXTCLIENT_BOSS_RAID_DUNGEON_ENDED,The instance dungeon has ended. Please try ag
 TEXTCLIENT_BOSS_RAID_MAX_PLAYCOUNT,%s has no daily entries remaining.,%s 今日已無剩餘入場次數。
 TEXTCLIENT_BOSS_RAID_ANOTHER_DUNGEON,%s is already in another instance.,%s 已在其他副本中。
 TEXTCLIENT_MESSAGE_WARNING,Warning: '%s' is a regular player. Do not visit any website and never give out your credentials. The only official website is $WEBSITE$. Beware of scams and phishing websites.,警告：'%s' 是一般玩家。請勿造訪任何網站，也絕不要透露你的帳號密碼。唯一的官方網站是 $WEBSITE$。請提防詐騙與釣魚網站。
-TEXTCLIENT_APP_DONATION,Donation,Donation
-TEXTCLIENT_APP_LORD,Lord Skills,Lord Skills
-TEXTCLIENT_DONATION_START,Donation event %s +%d%% started!,Donation event %s +%d%% started!
-TEXTCLIENT_DONATION_END,Donation event %s +%d% ended...,Donation event %s +%d% ended...
-TEXTCLIENT_DONATION_CONFIRM,You donated %s Penya to the %s event.,You donated %s Penya to the %s event.
-TEXTCLIENT_DONATION_MAIL,Congratulations for becoming the Lord of the week!,Congratulations for becoming the Lord of the week!
-TEXTCLIENT_DONATION_NOLORD,There is no Lord this week.,There is no Lord this week.
-TEXTCLIENT_DONATION_LORD,The Lord of the week is %s. Congratulations!,The Lord of the week is %s. Congratulations!
-TEXTCLIENT_MYSTCASTLE_DATA_PENDING,Server data synchronization in progress. Please try again shortly.,Server data synchronization in progress. Please try again shortly.
-TEXTCLIENT_MYSTCASTLE_INVALID_FLOOR,Invalid floor selection. Please try again.,Invalid floor selection. Please try again.
-TEXTCLIENT_MYSTCASTLE_LEVEL_TOO_LOW,Your level is too low to enter this floor.,Your level is too low to enter this floor.
-TEXTCLIENT_MYSTCASTLE_BLOCK_TIME,Ranking settlement in progress. Please try again later.,Ranking settlement in progress. Please try again later.
-TEXTCLIENT_MYSTCASTLE_INIT_FAILED,Failed to initialize the floor. Please try again.,Failed to initialize the floor. Please try again.
-TEXTCLIENT_MYSTCASTLE_FLOOR_TICKET_REQUIRED,A Mysterious Castle Retry Coupon is required to challenge this floor.,A Mysterious Castle Retry Coupon is required to challenge this floor.
-TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD,You received a reward for clearing a new floor.,You received a reward for clearing a new floor.
-TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD_MAIL,You can't receive the reward for clearing a new floor. Check your mail.,You can't receive the reward for clearing a new floor. Check your mail.
-TEXTCLIENT_MYSTCASTLE_USE_FLOOR_TICKET_FAIL,Unable to use the Mysterious Castle Retry Coupon.,Unable to use the Mysterious Castle Retry Coupon.
-TEXTCLIENT_LORDSKILLS_NOT,Only the Lord can use this menu.,Only the Lord can use this menu.
+TEXTCLIENT_APP_DONATION,Donation,捐獻
+TEXTCLIENT_APP_LORD,Lord Skills,領主技能
+TEXTCLIENT_DONATION_START,Donation event %s +%d%% started!,捐獻活動 %s +%d%% 已開始！
+TEXTCLIENT_DONATION_END,Donation event %s +%d% ended...,捐獻活動 %s +%d% 已結束……
+TEXTCLIENT_DONATION_CONFIRM,You donated %s Penya to the %s event.,你已捐獻 %s 金幣給 %s 活動。
+TEXTCLIENT_DONATION_MAIL,Congratulations for becoming the Lord of the week!,恭喜你成為本週領主！
+TEXTCLIENT_DONATION_NOLORD,There is no Lord this week.,本週沒有領主。
+TEXTCLIENT_DONATION_LORD,The Lord of the week is %s. Congratulations!,本週領主是 %s，恭喜！
+TEXTCLIENT_MYSTCASTLE_DATA_PENDING,Server data synchronization in progress. Please try again shortly.,伺服器正在同步資料，請稍後再試。
+TEXTCLIENT_MYSTCASTLE_INVALID_FLOOR,Invalid floor selection. Please try again.,樓層選擇無效，請重試。
+TEXTCLIENT_MYSTCASTLE_LEVEL_TOO_LOW,Your level is too low to enter this floor.,你的等級太低，無法進入此樓層。
+TEXTCLIENT_MYSTCASTLE_BLOCK_TIME,Ranking settlement in progress. Please try again later.,正在結算排名，請稍後再試。
+TEXTCLIENT_MYSTCASTLE_INIT_FAILED,Failed to initialize the floor. Please try again.,樓層初始化失敗，請重試。
+TEXTCLIENT_MYSTCASTLE_FLOOR_TICKET_REQUIRED,A Mysterious Castle Retry Coupon is required to challenge this floor.,挑戰此樓層需要神秘的城堡重試券。
+TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD,You received a reward for clearing a new floor.,你已獲得首次通關新樓層的獎勵。
+TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD_MAIL,You can't receive the reward for clearing a new floor. Check your mail.,無法直接領取新樓層通關獎勵，請查看郵件。
+TEXTCLIENT_MYSTCASTLE_USE_FLOOR_TICKET_FAIL,Unable to use the Mysterious Castle Retry Coupon.,無法使用神秘的城堡重試券。
+TEXTCLIENT_LORDSKILLS_NOT,Only the Lord can use this menu.,只有領主能使用此選單。
