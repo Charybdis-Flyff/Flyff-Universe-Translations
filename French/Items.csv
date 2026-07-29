@@ -6120,7 +6120,7 @@ PROPITEM_TXT_009268,Feed Bag (30 days),Sac de Nourriture (30 jours)
 PROPITEM_TXT_009269,Does not reduce the energy of Raised pets for 1 day when used.,Sac magique permettant d'empêcher la perte d'énergie de votre familier pendant 1 jour après utilisation.
 PROPITEM_TXT_009270,Does not reduce the energy of Raised pets for 7 days when used.,Sac magique permettant d'empêcher la perte d'énergie de votre familier pendant 7 jours après utilisation.
 PROPITEM_TXT_009271,Does not reduce the energy of Raised pets for 15 days when used.,Sac magique permettant d'empêcher la perte d'énergie de votre familier pendant 15 jours après utilisation.
-PROPITEM_TXT_009272,Does not reduce the energy of Raised pets for 30 days when used.,Sac magique permettant d'empêcher la perte d'énergie de votre familier pendant 30 jours après utilisation.
+PROPITEM_TXT_009272,Does not reduce the energy of Raised pets for 30 days when used.,Sac magique empêchant la perte d'énergie de votre familier pendant sa durée d'utilisation.
 PROPITEM_TXT_010008,Scroll of Change Raised Pet Name,Parchemin de changement de nom de familier
 PROPITEM_TXT_010009,A Special Scroll used to name your summoned pet. This scroll only works on raised pets.,Donnez un nom affectueux à votre familier
 PROPITEM_TXT_009056,Scroll of Pet Revival Piece (S Class),Morceau de Parchemin de Rappel à la vie pour familier (S)
@@ -26847,7 +26847,7 @@ PROPITEM_TXT_903776,Carnival Master Blue Hands (M),Gants bleus Maître du Carnav
 PROPITEM_TXT_903777,Carnival Master 6% Blue Set (M),Set Maître du Carnaval bleu 6% (H)
 PROPITEM_TXT_903778,The Carnival Master 6% Blue Set for male characters.,Le set Maître du Carnaval bleu 6% pour personnages masculins.
 PROPITEM_TXT_903779,Carnival Master Blue Hat (F),Chapeau bleu Maître du Carnaval (F)
-PROPITEM_TXT_903780,Carnival Master Blue Suit (F),Carnival Master Blue Suit (F)
+PROPITEM_TXT_903780,Carnival Master Blue Suit (F),Costume bleu du Maître du Carnaval (F)
 PROPITEM_TXT_903781,Carnival Master Blue Shoes (F),Chaussures bleues Maître du Carnaval (F)
 PROPITEM_TXT_903782,Carnival Master Blue Hands (F),Gants bleus Maître du Carnaval (F)
 PROPITEM_TXT_903783,Carnival Master 6% Blue Set (F),Set Maître du Carnaval bleu 6% (F)
@@ -27881,7 +27881,7 @@ PROPITEM_TXT_904847,Playpark Topup Promotion - Tier 2,Promotion de recharge Play
 PROPITEM_TXT_904848,"A package containing 15x Upcut Stone, 5x Power Scroll, 1x Extra Bag (30 days) and 1x Clockworks Weapon Skin Box. All items are also linked.","Un paquet contenant 15x Upcut Stone, 5x Power Scroll, 1x Extra Bag (30 jours) et 1x Clockworks Weapon Skin Box. Tous les objets sont liés."
 PROPITEM_TXT_904849,Playpark Topup Promotion - Tier 3,Promotion de recharge PlayPark - niveau 3
 PROPITEM_TXT_904850,A package containing 1x Clockworks Servant Set (Fashion) and 1x Clock Bike (White) (Mount). All items are also linked.,Un paquet contenant 1x Clockworks Servant Set (Fashion) et 1x Clock Bike (Blanc) (monture). Tous les objets sont liés.
-PROPITEM_TXT_904851,Traditional Philippines Set Select Box,Traditional Philippines Set Select Box
+PROPITEM_TXT_904851,Traditional Philippines Set Select Box,Boîte de sélection du set traditionnel des Philippines
 PROPITEM_TXT_904852,Select which Gender you want to receive!,Choisissez le genre que vous souhaitez recevoir !
 PROPITEM_TXT_904853,MX Muppet,Mascotte Mexique
 PROPITEM_TXT_904854,BR Muppet,Mascotte Brésil
@@ -28766,8 +28766,8 @@ PROPITEM_TXT_905732,Summer Kickflip Purple Shoes (F),Chaussures Summer Kickflip 
 PROPITEM_TXT_905733,Summer Kickflip Turquoise Hat (M),Chapeau Summer Kickflip Turquoise (M)
 PROPITEM_TXT_905734,Summer Kickflip Turquoise Suit (M),Tenue Summer Kickflip Turquoise (M)
 PROPITEM_TXT_905735,Summer Kickflip Turquoise Shoes (M),Chaussures Summer Kickflip Turquoise (M)
-PROPITEM_TXT_905736,Summer Kickflip Turquoise Skateboard,Skateboard Summer Kickflip Turquoise
-PROPITEM_TXT_905737,Summer Kickflip Turquoise Heart Glasses,Summer Kickflip Turquoise Heart Glasses
+PROPITEM_TXT_905736,Summer Kickflip Turquoise Skateboard,Skateboard Summer Kickflip turquoise
+PROPITEM_TXT_905737,Summer Kickflip Turquoise Heart Glasses,Lunettes cœur Summer Kickflip turquoise
 PROPITEM_TXT_905738,Summer Kickflip Turquoise Hat (F),Chapeau Turquoise Summer Kickflip (F)
 PROPITEM_TXT_905739,Summer Kickflip Turquoise Suit (F),Tenue Turquoise Summer Kickflip (F)
 PROPITEM_TXT_905740,Summer Kickflip Turquoise Shoes (F),Chaussures Turquoise Summer Kickflip (F)
@@ -29011,7 +29011,7 @@ PROPITEM_TXT_905977,Japanese Warrior Red Shoes (M),Chaussures du Guerrier japona
 PROPITEM_TXT_905978,Japanese Warrior Red Hands (M),Gants du Guerrier japonais rouge (H)
 PROPITEM_TXT_905979,Japanese Warrior 8% Red Set (M),Ensemble Guerrier japonais rouge 8 % (H)
 PROPITEM_TXT_905980,The Japanese Warrior 8% Red Set for male characters.,L'ensemble Guerrier japonais rouge 8 % pour les personnages masculins.
-PROPITEM_TXT_905981,Japanese Warrior Red Hat (F),Japanese Warrior Red Hat (F)
+PROPITEM_TXT_905981,Japanese Warrior Red Hat (F),Chapeau rouge du guerrier japonais (F)
 PROPITEM_TXT_905982,Japanese Warrior Red Suit (F),Costume de guerrier japonais rouge (F)
 PROPITEM_TXT_905983,Japanese Warrior Red Shoes (F),Chaussures de guerrier japonais rouges (F)
 PROPITEM_TXT_905984,Japanese Warrior Red Hands (F),Gants de guerrier japonais rouges (F)
@@ -29147,26 +29147,26 @@ PROPITEM_TXT_161061,PvP Verashan Suit,Costume PvP de Verashan
 PROPITEM_TXT_161062,PvP Verashan Gauntlets,Gantelets PvP de Verashan
 PROPITEM_TXT_161063,PvP Verashan Boots,Bottes PvP de Verashan
 PROPITEM_TXT_161064,Leafloop,Boucle de liane
-PROPITEM_TXT_161065,"A tiny vine coiled in a spiral, brimming with gentle nature magic.","Une minuscule liane enroulée en spirale, débordant d'une douce magie de la nature."
+PROPITEM_TXT_161065,"A tiny vine coiled in a spiral, brimming with gentle nature magic.","Une minuscule liane enroulée en spirale, débordant d'une douce magie de la nature. [Contribution Guilde : 90]."
 PROPITEM_TXT_161066,Silent Petal,Pétale silencieux
-PROPITEM_TXT_161067,"A delicate purple petal with a subtle, whispering magical aura.","Un délicat pétale violet entouré d'une subtile aura magique semblant murmurer."
+PROPITEM_TXT_161067,"A delicate purple petal with a subtle, whispering magical aura.","Un délicat pétale violet entouré d'une subtile aura magique semblant murmurer. [Contribution Guilde : 91]."
 PROPITEM_TXT_161068,Thorny Shroom,Champignon épineux
-PROPITEM_TXT_161069,"A small red mushroom with sharp thorns, releasing tiny poisonous spores.","Un petit champignon rouge aux épines acérées, libérant de minuscules spores toxiques."
+PROPITEM_TXT_161069,"A small red mushroom with sharp thorns, releasing tiny poisonous spores.","Un petit champignon rouge aux épines acérées, libérant de minuscules spores toxiques. [Contribution Guilde : 92]." 
 PROPITEM_TXT_161070,Petal Charm,Charme de pétale
-PROPITEM_TXT_161071,A pink flower petal used since ancient times in charms and magical potions.,Un pétale de fleur rose utilisé depuis l'Antiquité dans les charmes et les potions magiques.
+PROPITEM_TXT_161071,A pink flower petal used since ancient times in charms and magical potions.,Un pétale de fleur rose utilisé depuis l'Antiquité dans les charmes et les potions magiques. [Contribution Guilde : 93].
 PROPITEM_TXT_161072,Mossy Shroom,Champignon moussu
-PROPITEM_TXT_161073,"A small mushroom covered in moss, looking a bit moldy… yuck, but still magical.","Un petit champignon couvert de mousse, ayant l'air un peu moisi… beurk, mais toujours magique."
+PROPITEM_TXT_161073,"A small mushroom covered in moss, looking a bit moldy… yuck, but still magical.","Un petit champignon couvert de mousse, ayant l'air un peu moisi… beurk, mais toujours magique. [Contribution Guilde : 94]."
 PROPITEM_TXT_161074,Mystred,Rubis mystérieux
-PROPITEM_TXT_161075,"A crimson ruby taken from the forehead of a Nightmyst, said to enhance their magical powers.","Un rubis cramoisi extrait du front d'un Belladonna, réputé pour renforcer ses pouvoirs magiques."
+PROPITEM_TXT_161075,"A crimson ruby taken from the forehead of a Nightmyst, said to enhance their magical powers.","Un rubis cramoisi extrait du front d'un Belladonna, réputé pour renforcer ses pouvoirs magiques. [Contribution Guilde : 95]."
 PROPITEM_TXT_161076,Mutated Vine Core,Noyau de liane mutée
 PROPITEM_TXT_161077,"A pulsating core of twisted vines, radiating a faint and unstable corrupt energy.","Un noyau palpitant de lianes tortueuses, irradiant une énergie corrompue faible et instable."
 PROPITEM_TXT_913710,Glow Footsteps,Pas lumineux
 PROPITEM_TXT_913711,New footstep effect,Nouvel effet de pas
 PROPITEM_TXT_913712,Sparkle Footsteps,Pas scintillants
 PROPITEM_TXT_913713,New footstep effect,Nouvel effet de pas
-PROPITEM_TXT_913714,Scroll of PProtect,Parchemin de PProtect
+PROPITEM_TXT_913714,Scroll of PProtect,Parchemin PProtect
 PROPITEM_TXT_913715,"This scroll prevents the loss of equipment in the event of upgrade or elemental attribute upgrade failure for PVP items. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process.","Ce parchemin empêche la perte de l'équipement en cas d'échec d'une amélioration ou d'une amélioration d'attribut élémentaire pour les objets JcJ. Pour l'utiliser, placez le parchemin dans la case appropriée du menu d'amélioration avant de tenter l'amélioration. Le parchemin est consommé lors de l'opération."
-PROPITEM_TXT_913716,Yellow Chips 2,Jetons jaunes 2
+PROPITEM_TXT_913716,Yellow Chips 2,Jetons jaunes II
 PROPITEM_TXT_913717,Madrigal Tournament reward (Used to buy items from Waforu).,Récompense du Tournoi de Madrigal (utilisée pour acheter des objets auprès de Charles).
 PROPITEM_TXT_913718,PvP Runthiel Armor Set (M),Ensemble d'armure JcJ de Runthiel (M)
 PROPITEM_TXT_913719,Level 180 PvP Templar Set.,Ensemble de templier JcJ de niveau 180.
@@ -29200,26 +29200,26 @@ PROPITEM_TXT_913746,PvP Virashon Armor Set (M),Ensemble d'armure JcJ de Virashon
 PROPITEM_TXT_913747,Level 180 PvP Arcanist Set.,Ensemble d'arcaniste JcJ de niveau 180.
 PROPITEM_TXT_913748,PvP Verashan Armor Set (F),Ensemble d'armure JcJ de Verashan (F)
 PROPITEM_TXT_913749,Level 180 PvP Arcanist Set.,Ensemble d'arcaniste JcJ de niveau 180.
-PROPITEM_TXT_913750,1 Hour Kebaras 2 Ticket,Ticket de Kebaras 2 d'1 heure
+PROPITEM_TXT_913750,1 Hour Kebaras 2 Ticket,Ticket de Kebaras II (1 heure) 
 PROPITEM_TXT_913751,You have unlimited access to Kebaras 2 area for 1 hour after activating this Ticket. Kebaras contains monsters from level 140 to 200.,Vous bénéficiez d'un accès illimité à la zone de Kebaras 2 pendant 1 heure après l'activation de ce ticket. Kebaras abrite des monstres de niveau 140 à 200.
-PROPITEM_TXT_913752,1 Day Kebaras 2 Ticket,Ticket de Kebaras 2 d'1 jour
+PROPITEM_TXT_913752,1 Day Kebaras 2 Ticket,Ticket de Kebaras II (1 jour)
 PROPITEM_TXT_913753,You have unlimited access to Kebaras 2 area for 1 day after activating this Ticket. Kebaras contains monsters from level 140 to 200.,Vous bénéficiez d'un accès illimité à la zone de Kebaras 2 pendant 1 jour après l'activation de ce ticket. Kebaras abrite des monstres de niveau 140 à 200.
-PROPITEM_TXT_913754,Kalgas Chip 2,Jeton de Kalgas 2
+PROPITEM_TXT_913754,Kalgas Chip 2,Jeton de Kalgas II
 PROPITEM_TXT_913755,Exchange this Kalgas chip to Waforu for wonderful rewards!,Échangez ce jeton de Kalgas auprès de Charles contre de merveilleuses récompenses !
-PROPITEM_TXT_913756,Red Chips 2,Jetons rouges 2
+PROPITEM_TXT_913756,Red Chips 2,Jetons rouges II
 PROPITEM_TXT_913757,Guild Siege reward. Used to buy items from Waforu.,Récompense de siège de guilde. Utilisée pour acheter des objets auprès de Charles.
 PROPITEM_TXT_913758,Purple Spirit Shard,Fragment d'esprit violet
-PROPITEM_TXT_913759,That's strange... It seems to be a fragment of Drifter's soul.,C'est étrange… On dirait un fragment de l'âme d'un Vagabond.
+PROPITEM_TXT_913759,That's strange... It seems to be a fragment of Drifter's soul.,C'est étrange… On dirait un fragment d'âme. [Contribution Guilde : 80].
 PROPITEM_TXT_913760,Red Spirit Shard,Fragment d'esprit rouge
-PROPITEM_TXT_913761,That's strange... It seems to be a fragment of Maiden's soul.,C'est étrange… On dirait un fragment de l'âme d'une Marden.
+PROPITEM_TXT_913761,That's strange... It seems to be a fragment of Maiden's soul.,C'est étrange… On dirait un fragment d'âme. [Contribution Guilde : 80].
 PROPITEM_TXT_913762,Orange Spirit Shard,Fragment d'esprit orange
-PROPITEM_TXT_913763,That's strange... It seems to be a fragment of Reaver's soul.,C'est étrange… On dirait un fragment de l'âme d'un Ravageur.
+PROPITEM_TXT_913763,That's strange... It seems to be a fragment of Reaver's soul.,C'est étrange… On dirait un fragment d'âme. [Contribution Guilde : 80].
 PROPITEM_TXT_913764,Blue Spirit Shard,Fragment d'esprit bleu
-PROPITEM_TXT_913765,That's strange... It seems to be a fragment of Mystica's soul.,C'est étrange… On dirait un fragment de l'âme de Mystica.
+PROPITEM_TXT_913765,That's strange... It seems to be a fragment of Mystica's soul.,C'est étrange… On dirait un fragment d'âme. [Contribution Guilde : 80].
 PROPITEM_TXT_913766,Green Spirit Shard,Fragment d'esprit vert
-PROPITEM_TXT_913767,That's strange... It seems to be a fragment of Anae's soul.,C'est étrange… On dirait un fragment de l'âme d'Anae.
+PROPITEM_TXT_913767,That's strange... It seems to be a fragment of Anae's soul.,C'est étrange… On dirait un fragment d'âme puissant. [Contribution Guilde : 80].
 PROPITEM_TXT_913768,Black Spirit Shard,Fragment d'esprit noir
-PROPITEM_TXT_913769,That's strange... It seems to be a fragment of Rifter's soul.,C'est étrange… On dirait un fragment de l'âme d'un Rifter.
+PROPITEM_TXT_913769,That's strange... It seems to be a fragment of Rifter's soul.,C'est étrange… On dirait un fragment d'âme très puissant. [Contribution Guilde : 80].
 PROPITEM_TXT_913770,Phantasmal Shield,Bouclier fantasmagorique
 PROPITEM_TXT_913771,A shield forged around a phantasmal crystal born from Entaness' nightmares. Its eerie glow is said to reveal dangers hidden beyond mortal sight.,Un bouclier forgé autour d'un cristal fantasmagorique né des cauchemars d'Entaness. Sa lueur inquiétante révélerait les dangers cachés au-delà de la vue des mortels.
 PROPITEM_TXT_913772,Book of Thorns,Livre des épines
@@ -29328,7 +29328,7 @@ PROPITEM_TXT_1902585,You can choose 1 out of 3 types of Lv.4 Mysterious Accessor
 PROPITEM_TXT_1902586,Guild Siege reward (used to buy items from Waforu).,Récompense de siège de guilde (utilisée pour acheter des objets auprès de Charles).
 PROPITEM_TXT_1902587,Blossom,Floraison
 PROPITEM_TXT_1902589,Kebaras Costume Fragment,Fragment de costume de Kebaras
-PROPITEM_TXT_1902590,Exchange these in Kebaras 2 for unique cosmetics.,Échangez-les à Kebaras 2 contre des objets cosmétiques uniques.
+PROPITEM_TXT_1902590,Exchange these in Kebaras 2 for unique cosmetics.,Échangez-les à Kebaras II contre des objets cosmétiques uniques.
 PROPITEM_TXT_1902591,Blinkwing of Mysterious Castle,Aile de téléportation du Château mystérieux
 PROPITEM_TXT_1902592,Teleport to Mysterious Castle,Se téléporter au Château mystérieux
 PROPITEM_TXT_1902593,Asmodan Red Suit (M),Costume rouge d'Asmodan (H)
@@ -29420,9 +29420,9 @@ PROPITEM_TXT_1902678,Royal Abyss Force Gem,Gemme de force des abysses royales
 PROPITEM_TXT_1902679,Royal Abyss Book,Grimoire des abysses royales
 PROPITEM_TXT_1902680,Royal  Abyss Weapon Set,Ensemble d'armes des abysses royales
 PROPITEM_TXT_1902681,Select which Royal Abyss Weapon you want to receive!,Sélectionnez l'arme des abysses royales que vous souhaitez recevoir !
-PROPITEM_TXT_1902682,Reonan Kalgas Set,Reonan Kalgas Set
-PROPITEM_TXT_1902683,Reonan Kalgas Cloak,Reonan Kalgas Cloak
-PROPITEM_TXT_1902684,Reonan Kalgas Hat (M),Reonan Kalgas Hat (M)
+PROPITEM_TXT_1902682,Reonan Kalgas Set,Set Kalgas Reonan
+PROPITEM_TXT_1902683,Reonan Kalgas Cloak,Cape Kalgas Reonan
+PROPITEM_TXT_1902684,Reonan Kalgas Hat (M),Chapeau Kalgas Reonan (M)
 PROPITEM_TXT_1902685,Reonan Kalgas Suit (M),Costume Kalgas Reonan (H)
 PROPITEM_TXT_1902686,Reonan Kalgas Shoes (M),Chaussures Kalgas Reonan (H)
 PROPITEM_TXT_1902687,Reonan Kalgas Hands (M),Gants Kalgas Reonan (H)
