@@ -1573,4 +1573,4 @@ TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD,You received a reward for clearing a new 
 TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD_MAIL,You can't receive the reward for clearing a new floor. Check your mail.,Vous ne pouvez pas recevoir la récompense pour avoir terminé un nouvel étage. Consultez votre boîte aux lettres.
 TEXTCLIENT_MYSTCASTLE_USE_FLOOR_TICKET_FAIL,Unable to use the Mysterious Castle Retry Coupon.,Impossible d'utiliser le Coupon de nouvelle tentative du Château mystérieux.
 TEXTCLIENT_LORDSKILLS_NOT,Only the Lord can use this menu.,Seul le Souverain peut utiliser ce menu.
-TEXTCLIENT_DUNGEON_ESCORT_DIED,Your escort died.,Your escort died.
+TEXTCLIENT_DUNGEON_ESCORT_DIED,Your escort died.,Votre escorte est morte.
