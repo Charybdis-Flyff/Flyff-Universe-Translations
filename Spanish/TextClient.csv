@@ -1301,7 +1301,7 @@ TEXTCLIENT_PVPMATCH_CANNOT_PARTY,You cannot make a party in a PVP Match.,You can
 TEXTCLIENT_PVPMATCH_NO_OUTWAR,You cannot use Blinkwings to escape a PVP Match.,You cannot use Blinkwings to escape a PVP Match.
 TEXTCLIENT_PVPMATCH_MANUAL_ALREADYIN,This player is already in a team.,This player is already in a team.
 TEXTCLIENT_PVPMATCH_MANUAL_NOTGM,You can only add gamemasters to the observers team.,You can only add gamemasters to the observers team.
-TEXTCLIENT_PVPMATCH_MANUAL_NOTONLINE,This character is needs to be online.,This character is needs to be online.
+TEXTCLIENT_PVPMATCH_MANUAL_NOTONLINE,This character is needs to be online.,Este personaje es necesita estar en línea.
 TEXTCLIENT_PVPMATCH_MANUAL_NOTYOURSELF,You can't invite yourself in a match.,You can't invite yourself in a match.
 TEXTCLIENT_PVPMATCH_MANUAL_NOTALLREADY,"All players are not ready, you can't start the match yet.","All players are not ready, you can't start the match yet."
 TEXTCLIENT_PVPMATCH_MANUAL_MAXPLAYERS,You can't add more than %d players in the same team!,You can't add more than %d players in the same team!

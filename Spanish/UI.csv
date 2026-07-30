@@ -1139,7 +1139,7 @@ UI_ACHIEVEMENTS_DESCRIPTION_TARGETMONSTERS,Monster(s) to kill: %s.,Monstruo(s) a
 UI_ACHIEVEMENTS_DESCRIPTION_TARGETITEMS,Item(s) to use: %s.,Objeto(s) a usar: %s.
 UI_ACHIEVEMENTS_REWARD,Reward List,Lista de Recompensas
 UI_ACHIEVEMENTS_REWARD_TITLE,Title: #b%s#nb,Título: #b%s#nb
-UI_ACHIEVEMENTS_REWARD_LEVEL,Level %d,Level %d
+UI_ACHIEVEMENTS_REWARD_LEVEL,Level %d,Nivel %d
 UI_ACHIEVEMENTS_REWARD_CLAIMED,Claimed,Reclamado
 UI_ACHIEVEMENTS_REWARD_GOLD,Penya:,Penya:
 UI_ACHIEVEMENTS_REWARD_ITEM,Item(s): %s,Objeto(s): %s
@@ -3346,7 +3346,7 @@ UI_MYSTCASTLE_BATTLE_LEAVE,Would you like to leave the current floor?,Would you 
 UI_MYSTCASTLE_CHALLENGE_NEXT_FLOOR,Would you like to challenge the next floor?,Would you like to challenge the next floor?
 UI_MYSTCASTLE_MOVE_NEXT_FLOOR,You’ve defeated the Boss!\nMove on to the next floor!,You’ve defeated the Boss!\nMove on to the next floor!
 UI_MYSTCASTLE_MISSION_SUCCESS,You’ve defeated the Boss!,You’ve defeated the Boss!
-UI_MYSTCASTLE_MISSION_FAIL,You’ve failed!,You’ve failed!
+UI_MYSTCASTLE_MISSION_FAIL,You’ve failed!,¡Has fallado!
 UI_MYSTCASTLE_FLOORS_TITLE,Mysterious Castle Floors,Mysterious Castle Floors
 UI_MYSTCASTLE_RANKING,Ranking,Ranking
 UI_ORDINAL_SUFFIX_EXCLUDE_ENG_FRE,,
@@ -3368,8 +3368,8 @@ UI_MYSTCASTLE_MY_RANKING_NO,My Ranking: No current ranking information.,My Ranki
 UI_MYSTCASTLE_RANK_TITLE,Mysterious Castle Ranking,Mysterious Castle Ranking
 UI_MYSTCASTLE_RANK_COL_RANKING,Ranking,Ranking
 UI_MYSTCASTLE_RANK_COL_JOB,Job,Job
-UI_MYSTCASTLE_RANK_COL_NAME,Character Name,Character Name
-UI_MYSTCASTLE_RANK_COL_LEVEL,Level,Level
+UI_MYSTCASTLE_RANK_COL_NAME,Character Name,Nombre del Personaje
+UI_MYSTCASTLE_RANK_COL_LEVEL,Level,Nivel
 UI_MYSTCASTLE_RANK_COL_FLOOR,Cleared Floors,Cleared Floors
 UI_MYSTCASTLE_RANK_COL_TIME,Clear Time,Clear Time
 UI_MYSTCASTLE_REWARD_TITLE,Mysterious Castle Rewards,Mysterious Castle Rewards
@@ -3379,9 +3379,9 @@ UI_MYSTCASTLE_REWARD_COL_REWARD,Reward,Reward
 UI_MYSTCASTLE_REWARD_COL_CLASS,Ranking Rewards by Class,Ranking Rewards by Class
 UI_MYSTCASTLE_REWARD_COL_COUNT,Quant,Quant
 UI_MYSTCASTLE_REWARD_RATIO,Within Top %d%%\n(Excluding above ranks),Within Top %d%%\n(Excluding above ranks)
-UI_MYSTCASTLE_REWARD_OTHERS,Others,Others
+UI_MYSTCASTLE_REWARD_OTHERS,Others,Otros
 UI_MYSTCASTLE_REWARD_CLASS_DESC,"Mysterious Box that has\nsame level as the floor\nyou currently cleared\n(If the last floor you cleared\nwas 4, you'll get Mysterious\nBox Lv2)","Mysterious Box that has\nsame level as the floor\nyou currently cleared\n(If the last floor you cleared\nwas 4, you'll get Mysterious\nBox Lv2)"
 UI_MYSTCASTLE_REWARD_TAB_FLOOR,Floor Clear Reward,Floor Clear Reward
 UI_MYSTCASTLE_REWARD_TAB_RANK,Ranking Reward,Ranking Reward
 UI_MYSTCASTLE_ENTER_FLOOR_USE_TICKET,Entering will consume a Mysterious Castle retry coupon. Do you want to continue?,Entering will consume a Mysterious Castle retry coupon. Do you want to continue?
-UI_MYSTCASTLE_TOUCH_ANYWHERE,Touch anywhere to type!,Touch anywhere to type!
+UI_MYSTCASTLE_TOUCH_ANYWHERE,Touch anywhere to type!,¡Toca cualquier lugar para escribir!
