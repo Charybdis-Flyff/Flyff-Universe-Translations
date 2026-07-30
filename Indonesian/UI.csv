@@ -1753,7 +1753,7 @@ UI_BATTLEPASS_MISSION_KILLMONSTER2_PK,Hunt %s on the PK Channel,Berburu %s di PK
 UI_BATTLEPASS_MISSION_CLEARDUNGEON,Clear Dungeon(s),Selesaikan Dungeon
 UI_BATTLEPASS_MISSION_SAFETYPIERCING,Attempt Safe Piercing,Cobalah Safe Piercing
 UI_BATTLEPASS_MISSION_SAFETYPIERCING2,Attempt Safe Piercing on %s,Coba Safe Piercing Di %s
-UI_BATTLEPASS_PIERCEWEAPON,Weapon,Weapon
+UI_BATTLEPASS_PIERCEWEAPON,Weapon,Senjata
 UI_BATTLEPASS_PIERCEARMOR,Armor,Armor
 UI_BATTLEPASS_PIERCESHIELD,Shield,Shield
 UI_DUNGEON_RANKING_RESET,Ranking Reset: #b%s#nb,Ranking Reset: #b%s#nb
@@ -3346,7 +3346,7 @@ UI_MYSTCASTLE_BATTLE_LEAVE,Would you like to leave the current floor?,Would you 
 UI_MYSTCASTLE_CHALLENGE_NEXT_FLOOR,Would you like to challenge the next floor?,Would you like to challenge the next floor?
 UI_MYSTCASTLE_MOVE_NEXT_FLOOR,You’ve defeated the Boss!\nMove on to the next floor!,You’ve defeated the Boss!\nMove on to the next floor!
 UI_MYSTCASTLE_MISSION_SUCCESS,You’ve defeated the Boss!,You’ve defeated the Boss!
-UI_MYSTCASTLE_MISSION_FAIL,You’ve failed!,You’ve failed!
+UI_MYSTCASTLE_MISSION_FAIL,You’ve failed!,Kamu telah Gagal!
 UI_MYSTCASTLE_FLOORS_TITLE,Mysterious Castle Floors,Mysterious Castle Floors
 UI_MYSTCASTLE_RANKING,Ranking,Ranking
 UI_ORDINAL_SUFFIX_EXCLUDE_ENG_FRE,,
@@ -3368,7 +3368,7 @@ UI_MYSTCASTLE_MY_RANKING_NO,My Ranking: No current ranking information.,My Ranki
 UI_MYSTCASTLE_RANK_TITLE,Mysterious Castle Ranking,Mysterious Castle Ranking
 UI_MYSTCASTLE_RANK_COL_RANKING,Ranking,Ranking
 UI_MYSTCASTLE_RANK_COL_JOB,Job,Job
-UI_MYSTCASTLE_RANK_COL_NAME,Character Name,Character Name
+UI_MYSTCASTLE_RANK_COL_NAME,Character Name,Nama Karakter
 UI_MYSTCASTLE_RANK_COL_LEVEL,Level,Level
 UI_MYSTCASTLE_RANK_COL_FLOOR,Cleared Floors,Cleared Floors
 UI_MYSTCASTLE_RANK_COL_TIME,Clear Time,Clear Time

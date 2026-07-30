@@ -867,7 +867,7 @@ TEXTCLIENT_PET_REROLL_TIER,The tier of the pet must be higher or equal.,Tier pet
 TEXTCLIENT_PET_REROLL_ALREADY,Your pet already has the maximum level possible.,Pet kamu telah mencapai level maksimum.
 TEXTCLIENT_PET_REROLL,"Your pet has got a new, higher level!",Petmu telah mendapatkan level tinggi yang baru!
 TEXTCLIENT_PET_REROLL_LOWER,"You rolled the same or a lower level, so nothing changed.","Kamu dapat level yang sama atau lebih rendah, jadi tidak ada yang berubah."
-TEXTCLIENT_PET_ENERGYFULL,The energy bar is already full.,Energi bar telah full.
+TEXTCLIENT_PET_ENERGYFULL,The energy bar is already full.,Energi bar telah penuh.
 TEXTCLIENT_PET_NOTEGG,Cannot use on egg.,Tidak bisa digunakan pada telur.
 TEXTCLIENT_PET_TRANSMUTE,Your pet has got a new appearance!,Pet kamu telah mendapatkan tampian baru!
 TEXTCLIENT_GUILDCOMBAT_REDCHIPS,%d Red Chips have been sent to your inventory or mail box.,%d Red Chips telah dikirim ke inventaris atau kotak surat Anda.
@@ -1572,4 +1572,4 @@ TEXTCLIENT_MYSTCASTLE_FLOOR_TICKET_REQUIRED,A Mysterious Castle Retry Coupon is 
 TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD,You received a reward for clearing a new floor.,You received a reward for clearing a new floor.
 TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD_MAIL,You can't receive the reward for clearing a new floor. Check your mail.,You can't receive the reward for clearing a new floor. Check your mail.
 TEXTCLIENT_MYSTCASTLE_USE_FLOOR_TICKET_FAIL,Unable to use the Mysterious Castle Retry Coupon.,Unable to use the Mysterious Castle Retry Coupon.
-TEXTCLIENT_LORDSKILLS_NOT,Only the Lord can use this menu.,Only the Lord can use this menu.
+TEXTCLIENT_LORDSKILLS_NOT,Only the Lord can use this menu.,Hanya Lord yang dapat menggunakan menu ini.
