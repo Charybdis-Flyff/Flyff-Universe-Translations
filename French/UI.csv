@@ -3387,5 +3387,5 @@ UI_MYSTCASTLE_REWARD_TAB_FLOOR,Floor Clear Reward,Récompense de complétion d'�
 UI_MYSTCASTLE_REWARD_TAB_RANK,Ranking Reward,Récompense de classement
 UI_MYSTCASTLE_ENTER_FLOOR_USE_TICKET,Entering will consume a Mysterious Castle retry coupon. Do you want to continue?,L'entrée consommera un coupon de nouvelle tentative du Château mystérieux. Voulez-vous continuer ?
 UI_MYSTCASTLE_TOUCH_ANYWHERE,Touch anywhere to type!,Touchez n'importe où pour écrire !
-UI_DUNGEON_DEFEND,Defend,Defend
-UI_DUNGEON_ESCORT,Rescue,Rescue
+UI_DUNGEON_DEFEND,Defend,Défendre
+UI_DUNGEON_ESCORT,Rescue,Sauver
