@@ -6,7 +6,7 @@ CLIENT_FAQ_INC_000003,They are out in the fields. Make sure to fight only those 
 CLIENT_FAQ_INC_000004,How can I designate a target and deselect it?,如何選定或取消目標呢？
 CLIENT_FAQ_INC_000005,"Double click a target with your mouse to attack it, click once just to target it, and click ESC to deselect it.",只要將滑鼠指著目標，點選滑鼠左鍵，就可選定目標，當目標選定後，再次點選滑鼠左鍵，即可開始攻擊。若要取消被選定的目標，可按下鍵盤的『ESC』鍵
 CLIENT_FAQ_INC_000006,How can I attack continuously?,如何進行連續攻擊？
-CLIENT_FAQ_INC_000007,Ensure that the Auto Attack setting in checked in the Option Window.,確保在選項窗口中選擇自動攻擊設定。
+CLIENT_FAQ_INC_000007,Ensure that the Auto Attack setting in checked in the Option Window.,請確認已在選項視窗中勾選「自動攻擊」設定。
 CLIENT_FAQ_INC_000008,How do you use the skills?,如何使用技能？
 CLIENT_FAQ_INC_000009,Press K for the Skills menu and drag skill icons that you want to use into the action slot on the lower right side of your screen.,按 K 進入技能選單，然後將要使用的技能圖標拖到螢幕右下方的操作欄中。
 CLIENT_FAQ_INC_000010,How do you use the skills continuously?,如何連續使用技能？
@@ -16,7 +16,7 @@ CLIENT_FAQ_INC_000013,Food and certain other items will restore your health when
 CLIENT_FAQ_INC_000014,How do I get a Job?,如何轉職？
 CLIENT_FAQ_INC_000015,"When you reach level 15, talk to Julia in Flarine to get your job transfer quests. The Mercenary and Assist quests start in Flaris, the Magician quest starts in Saint Morning, and the Acrobat quest starts in Darken.",當你達到 15 級時，與布拉里斯的朱莉亞交談以獲得你的轉職任務。勇者、神職者要到在布拉里斯開始，魔法使任務在聖音特開始，雜技師任務在得肯開始。
 CLIENT_FAQ_INC_000016,How come I do not gain anymore experience at level 15.,等級 15 級之後經驗值不會累積了。
-CLIENT_FAQ_INC_000017,"When you reach level 15 and you can't gain Exp anymore, you have to complete your 1st job transfer quest to gain Exp again. Go see the job trainer and complete the quest for the job you want when you reach level 15.",等級到了 15 級之後，就無法再獲得經驗值了，必需要去執行第 1 次『轉職任務』，在成功轉職之後才能再繼續獲得經驗值。等級 15 級之後，一定要去和想要轉的職業的教官見面，並執行任務。
+CLIENT_FAQ_INC_000017,"When you reach level 15 and you can't gain Exp anymore, you have to complete your 1st job transfer quest to gain Exp again. Go see the job trainer and complete the quest for the job you want when you reach level 15.",等級到了 15 級之後，就無法再獲得經驗值了，必須去執行第 1 次『轉職任務』，在成功轉職之後才能再繼續獲得經驗值。等級 15 級之後，一定要去和想要轉的職業的教官見面，並執行任務。
 CLIENT_FAQ_INC_000018,,
 CLIENT_FAQ_INC_000019,"In case you cannot acquire a skill, check your character level and the preceding skill to make sure you meet the requirements for that skill.",在技能學習上，必須先滿足可習得的角色等級及前置技能。所以無法習得技能時，請確定是否滿足習得條件。
 CLIENT_FAQ_INC_000020,How do I fly?,飛行
@@ -38,13 +38,13 @@ CLIENT_FAQ_INC_000035,"It means a duel between players, or PvP (Player Vs Player
 CLIENT_FAQ_INC_000036,How can I become famous?,如何提升名譽值？
 CLIENT_FAQ_INC_000037,The more you win tournament the more famous you become. If you become a high level player people will recognize you no matter where you are.,在對戰時獲得很多勝利時，名譽自然就會上升。隨著名譽的上升，可以獲得各種稱號。
 CLIENT_FAQ_INC_000038,Why are some player names red? Can I attack everyone?,什麼是惡名點數？
-CLIENT_FAQ_INC_000039,"PK and Karma increase as you kill other players. Your character will be penalized as your PK and Karma increase. A PK character's name is displayed in red. Your PK rate can be redeemed by completing a Confession quest, and your Karma lowers as you kill monsters and / or get killed.",PK 和惡名會隨著你殺死其他玩家而增加。隨著 PK 和惡名的增加，你的角色將受到懲罰。PK 角色的名字顯示為紅色。你可以通過完成懺悔任務來兌換你的 PK 率，並且你的惡名會隨著你殺死怪物和/或被殺死而降低。
+CLIENT_FAQ_INC_000039,"PK and Karma increase as you kill other players. Your character will be penalized as your PK and Karma increase. A PK character's name is displayed in red. Your PK rate can be redeemed by completing a Confession quest, and your Karma lowers as you kill monsters and / or get killed.",擊敗其他玩家會提高 PK 值與惡名；數值越高，角色受到的懲罰越重，PK 角色的名稱也會顯示為紅色。完成懺悔任務可降低 PK 值；擊敗怪物或角色遭擊敗則可降低惡名。
 CLIENT_FAQ_INC_000040,"If I encounter a bug, what can I do?",發現 BUG 要怎麼做？
 CLIENT_FAQ_INC_000041,When you encounter any bugs please inform us by posting the bug on our forums at $WEBSITE$,發現 BUG 時，請直接透過官方網站『$WEBSITE$.tw/』通報。
 CLIENT_FAQ_INC_000042,What is a guild?,何謂公會？
 CLIENT_FAQ_INC_000043,"A Guild is a community that is much larger than a Party. Many functions are available as your guild level increases such as a Guild Bank, a Guild Cloak, and 1 on 1 Guild Battle.",公會比劇團的規模更大，是由許多人所組成的組織。隨著公會的成長，能夠使用公會銀行、公會披風、公會戰、1：1 公會戰等的功能。
 CLIENT_FAQ_INC_000044,Where can we form a guild?,公會要在哪裡創呢？
-CLIENT_FAQ_INC_000045,"To make a Guild, your character's level should be 40 or higher. Once you are level 40 go talk to NPC Helena in Saint Morning and complete the guild quest she gives you.",想創立公會就要去聖音特城的 [城鎮服務處] 找 NPC 海蓮娜說話。創公會時，角色的等級必需要 40 級以上，等級到了 40 級之後，透過任務就能夠創立公會。
+CLIENT_FAQ_INC_000045,"To make a Guild, your character's level should be 40 or higher. Once you are level 40 go talk to NPC Helena in Saint Morning and complete the guild quest she gives you.",想創立公會就要去聖音特城的 [城鎮服務處] 找 NPC 海蓮娜說話。創公會時，角色的等級必須 40 級以上，等級到了 40 級之後，透過任務就能夠創立公會。
 CLIENT_FAQ_INC_000046,How about a Party?,要如何轉換成巡迴劇團？
 CLIENT_FAQ_INC_000047,You can form a party to casually join together with other players.,劇團等級升到 10 級之後，按下劇團視窗裡面的『Change』按鈕即可轉換成巡迴劇團。
 CLIENT_FAQ_INC_000048,How to invite other players?,如何邀請其他成員？

@@ -1,6 +1,6 @@
-﻿#bDonate Penya#nb to unlock #b3 hours of server-wide buffs#nb for #ball players#nb.
-Players who donate will also receive a #bslightly stronger buff#nb!
+﻿#b捐獻金幣#nb，即可為#b所有玩家#nb解鎖#b 3 小時的全伺服器增益效果#nb。
+捐獻者還會獲得#b效果略強的增益#nb！
 
-#bNote:#nb Donated #bPenya#nb will #bcarry over#nb if the #bfirst donation goal#nb is not reached.
+#b注意：#nb若未達成#b第一階段捐獻目標#nb，已#b捐獻的金幣#nb將會#b保留至下次#nb。
 
-Additionally, the #bTop Donor of the Week#nb becomes the #bServer Lord#nb and gains access to #bexclusive time-limited skills and rewards#nb. Visit the #bLord Manager in Flarine#nb for more information.
+此外，#b每週最高捐獻者#nb將成為#b伺服器領主#nb，並可使用#b專屬限時技能與獎勵#nb。詳情請洽布拉里斯的#b領主管理員#nb。

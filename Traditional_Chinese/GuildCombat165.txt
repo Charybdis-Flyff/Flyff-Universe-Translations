@@ -1,18 +1,18 @@
-﻿#b#cff0000ff* Level 165 Guild Siege#nb#nc
-Welcome to the Level 165 Guild Siege! This competition is available to players who did not complete their third class change yet.
+﻿#b#cff0000ff* 165 級公會戰#nb#nc
+歡迎參加 165 級公會戰！本競賽開放給尚未完成第三次轉職的玩家。
 
-Please ask the [Guild Siege Manager] Donaris for more information about the fight.
+戰鬥詳情請洽 [公會戰指揮] 多拿里斯。
 
-Pets cannot be summoned during this Guild Siege.
+此公會戰期間無法召喚寵物。
 
-#b#cff0000ff* Reward Blue Chips#nb#nc
-- Winning Guild: 20 x number of participating guilds
-- Second Guild: 15 x number of participating guilds
-- Third Guild: 10 x number of participating guilds
-- Fourth Guild: 5 x number of participating guilds
-- Fifth Guild: 3 x number of participating guilds
-- Sixth Guild: 2 x number of participating guilds
-- Seventh Guild: 2 x number of participating guilds
-- Eighth Guild: 2 x number of participating guilds
-- Ninth Guild: 2 x number of participating guilds
-- Tenth Guild: 2 x number of participating guilds
+#b#cff0000ff* 藍色籌碼獎勵#nb#nc
+- 第一名公會：20 × 參加公會數
+- 第二名公會：15 × 參加公會數
+- 第三名公會：10 × 參加公會數
+- 第四名公會：5 × 參加公會數
+- 第五名公會：3 × 參加公會數
+- 第六名公會：2 × 參加公會數
+- 第七名公會：2 × 參加公會數
+- 第八名公會：2 × 參加公會數
+- 第九名公會：2 × 參加公會數
+- 第十名公會：2 × 參加公會數

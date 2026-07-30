@@ -43,7 +43,7 @@ NPC_000050,"Hrrmph! I am Drian - Son of Nevil, the Patriarch of Keakoon. You peo
 NPC_000051,"This place is too dangerous for the likes of you, silly human. Go home!",科科科，總之這裡很危險，快快回去吧！
 NPC_000052,Here is the package my father left me... Hrrmph!,父親留給我的行李，就在這裡，科科科。
 NPC_000053,*Sigh* this might take a while...,唉…事情真難搞啊…
-NPC_000054,"What? A human?! Here?!? Muahahahah!!! You're either brave or not all there in the head, buddy.",哦？你…是人類吧。真有種呢！
+NPC_000054,"What? A human?! Here?!? Muahahahah!!! You're either brave or not all there in the head, buddy.",什麼？人類？！竟敢來這裡？！哇哈哈哈！朋友，你不是膽大包天，就是腦袋不太清醒。
 NPC_000055,"Ewww!! A hew-mann... Your kind is not welcome here. Get out of my sight, vermin!",切！只不過是個人類卻那麼囂張！快點給我滾！不然我讓你見識矮人拳法的厲害！
 NPC_000056,Who am I? Hah! Liked I'd consort with the likes of a human. Get lost!,真遺憾，我無意向人類介紹自己。
 NPC_000057,"Beat it, human! You're not welcome here!",沒錯！你快點回家比較好。這裡不是你們人類該來的地方。
@@ -81,15 +81,15 @@ NPC_000088,#b#cff0001ffFlying Information#nc#nb is available here! I also have #
 NPC_000089,What do you want to do?,你想要做什麼？
 NPC_000090,"Flying through the clouds high above Madrigal is my favorite dream come true. I would be flying right now, but I'm having some family trouble and I need to pay the bills!",我快要實現飛越瑪德利賈天際的夢想。…只要我的家庭沒有倒下去的話…
 NPC_000091,"My name is Almani, and I run the Station here in Darken city. I sell flying boards and brooms in addition to teaching the basics of flying.",我叫阿爾瑪尼，我在得肯經營這個航空站。我販賣飛行滑板跟掃帚，以及教授飛行的相關知識唷。
-NPC_000092,"1. First, you'll need to buy a broom or a board and be at least level 20 in order to fly. \n 2. Next, double-click the board or broom in your inventory or simply move it to a hot key to climb aboard.",1. 請先在航空站購買可以飛行的掃帚或滑版，並且至少要達到 20 級才可以飛行。\n2. 開啟物品欄，雙擊所購買的飛行器或是將其移動至快捷鍵點選即可裝備完成。
+NPC_000092,"1. First, you'll need to buy a broom or a board and be at least level 20 in order to fly. \n 2. Next, double-click the board or broom in your inventory or simply move it to a hot key to climb aboard.",1. 首先，你必須購買掃帚或飛行板，並達到至少 20 級才能飛行。\n2. 接著，在物品欄中連按兩下飛行板或掃帚，或將它移到快捷欄後使用，即可搭乘。
 NPC_000093,3. Press the Space Bar to accelerate your flying vehicle. Press the Space Bar key again while moving to stop. Think of the accelerator like a toggle button for *Go* and *Stop*.,3. 按空白鍵開始加速飛行器。移動時再次按下空白鍵就會停下。將按鍵想像為加速與停止的切換按鈕。
-NPC_000094,"4. To navigate, you can simply hold the Right Mouse Button down and angle the camera in the direction that you want to go.\n Alternatively, you can also use the W, A, S and D controls to turn.",4. 按著滑鼠右鍵就可以調整方向。\n另外使用鍵盤 W、S、A、D 也可以操作。
-NPC_000095,"5. Additionally, you can simply tap the Right Mouse Button twice to lock the camera to the mouse pointer. This allows you to navigate without holding down the right mouse button. Clicking twice again will turn off this effect.",5. 此外，你只需要點選滑鼠右鍵兩次即可將相機鎖定在滑鼠上。這允許你在不按住滑鼠右鍵的情況下導航。再次點選右鍵兩次即可關閉效果。
+NPC_000094,"4. To navigate, you can simply hold the Right Mouse Button down and angle the camera in the direction that you want to go.\n Alternatively, you can also use the W, A, S and D controls to turn.",4. 若要改變飛行方向，按住滑鼠右鍵並將鏡頭轉向想前往的位置即可。\n你也可以使用 W、A、S、D 鍵來轉向。
+NPC_000095,"5. Additionally, you can simply tap the Right Mouse Button twice to lock the camera to the mouse pointer. This allows you to navigate without holding down the right mouse button. Clicking twice again will turn off this effect.",5. 此外，連按兩下滑鼠右鍵即可將鏡頭鎖定於滑鼠游標，讓你不必持續按住右鍵也能控制方向。再次連按兩下右鍵即可解除。
 NPC_000096,6. Anyone can fly in Madrigal. You simply have to acquire a flying vehicle!\n 7. There are numerous makes and models of flying vehicles. Trying shopping around in player shops or click the Use Premium Item Shop icon next to the Start Button.,6. 任何人都可以在瑪德利賈飛行。你只需要獲得一輛飛行器。\n7. 飛行器有許多品牌跟型號。嘗試在玩家商店購物或使用商城物品商店購入。
 NPC_000097,"I hope the information I gave you was helpful. You're on your own now, aviator! See you in the clouds!",以上是基本的飛行介紹，剩下的就靠你自己了，雲端上見吧！
 NPC_000098,"1. Occasionally, you will run into some pesky masquerpets while flying. You will see a red box surrounding them.",1. 偶爾，你會在飛行中遇到討厭的魔域怪物。與怪物的達到一定的距離，怪物周圍就會顯示攻擊方格。
-NPC_000099,"2. You can target these creatures with the Left Mouse Button. If you lose sight of them while flying, a green arrow appears on the edge of the screen to indicate which direction you need to turn. ",2. 可以按下點選滑鼠左鍵來鎖定怪物。如果飛行時看不到它們，螢幕邊緣會出現綠色箭頭，會指示你需要轉向哪個方向。
-NPC_000100,"3. To attack the creature, simply get as close as you can and press the Left Mouse Button or the Insert Key.\n 4. If you want to follow the monster automatically, press the Z Key.","3. 要攻擊鎖定的怪物，只需要可能地靠近，並按下""Insert""或選滑鼠左鍵。\n4. 按下""z""則可以自動跟隨目標。"
+NPC_000099,"2. You can target these creatures with the Left Mouse Button. If you lose sight of them while flying, a green arrow appears on the edge of the screen to indicate which direction you need to turn. ",2. 按下滑鼠左鍵即可鎖定這些生物。若飛行時看不見目標，畫面邊緣會出現綠色箭頭，指出應轉向的方向。
+NPC_000100,"3. To attack the creature, simply get as close as you can and press the Left Mouse Button or the Insert Key.\n 4. If you want to follow the monster automatically, press the Z Key.",3. 若要攻擊生物，請盡量靠近目標，再按下滑鼠左鍵或 Insert 鍵。\n4. 若要自動跟隨怪物，請按下 Z 鍵。
 NPC_000101,5. Magicians and Acrobats can shoot from range while in the air. Mercenaries and Assists must rely on melee attacks. You can also use your skills!,5. 魔法師和雜技師可以在空中進行遠程攻擊。勇者和輔助角色則必須依賴近戰攻擊。你也可以使用你的技能！
 NPC_000102,"6. When you destroy a flying masquerpet, any dropped loot will be placed into your inventory automatically. If there is no room in your inventory, the loot is lost, so be careful!",6. 當你打倒飛行的魔域怪物時，任何掉落的戰利品都會自動放入你的背包中。如果你的背包中沒有空間，戰利品就會消失，所以要注意！
 NPC_000103,"7. That about covers it for your flying combat training, cadet! Just one more thing... Don't crash and burn! Hahaha, just a little pilot humor.",7. 學員，關於你的飛行戰鬥訓練，還有一件事情…不要崩潰跟太過頭！哈哈哈，這只是一點點飛行員的幽默。
@@ -109,12 +109,12 @@ NPC_000116,Hello there! How are you today!,哈囉～哈囉～有事嗎？
 NPC_000117,"Uhh, yes? If you've got something to say, say it. Otherwise leave me alone. I'm very busy securing these steel panels by tapping my foot repeatedly.",呃，怎麼了？假如你有話要說，那就快說吧。我正忙著用腳固定敲擊這些鋼板。不然就別煩我。
 NPC_000118,That's none of your business and I'll thank you to stay out of my personal affairs.,那不關你的事，還有我會感謝你不插手我私人事務！
 NPC_000119,"Alright, hope to see you soon!",好吧！希望快點見到你！～
-NPC_000120,"Oh! You're asking about the ID Card that grants access to the Trillipy room in the mines, right? You should find Andre. I heard he spends most of his time in a forest filled with many ancient trees.",啊！你是說毒甲蜈蚣的通行卡喔？你去找 [安德烈] 看看吧！
+NPC_000120,"Oh! You're asking about the ID Card that grants access to the Trillipy room in the mines, right? You should find Andre. I heard he spends most of his time in a forest filled with many ancient trees.",喔！你是在問能進入礦坑毒甲蜈蚣房間的通行卡，對吧？去找安德烈吧。聽說他大多時候都待在一座長滿古樹的森林裡。
 NPC_000121,"Hail and well met, adventurers! My name is Bolpor and I'm the best chef in town!",歡迎歡迎！冒險者！我叫艾爾夫是鎮上最棒的廚師唷！
 NPC_000122,What do you want already?! I've got things to do!,你還想要什麼？我還有事情要忙呢！
-NPC_000123,"I'm the best chef in town, you got that? Anyone that tells you different is more than welcome to discuss it with my butcher knife. There will be more than just *chicken* on a stick on my menu...",餐飲店當然是賣食物的啊？懂了吧？我還要說明這些嗎？
+NPC_000123,"I'm the best chef in town, you got that? Anyone that tells you different is more than welcome to discuss it with my butcher knife. There will be more than just *chicken* on a stick on my menu...",我是鎮上最厲害的廚師，懂了嗎？誰敢有不同意見，歡迎來和我的剁肉刀談談。到時候，菜單上的串燒可就不只有「雞肉」了……
 NPC_000124,"My name is Bolpor Centaurn, the best darn chef in Darken. I'm also the best looking. I didn't get this handsome overnight, you know.",我是在得肯經營餐飲店的艾爾夫，請多多捧場！
-NPC_000125,"See ya later, alligator! Mmm, alligator... that gives me an idea for a new dish!",請慢走！
+NPC_000125,"See ya later, alligator! Mmm, alligator... that gives me an idea for a new dish!","回頭見啦，鱷魚！嗯，鱷魚……這讓我想到一道新菜！"
 NPC_000126,"Only the bravest adventurer can hope to succeed on the path of the Knight Hero, Billaon. Are you worthy?",只有最勇敢的冒險家才有希望在騎士英雄畢雷恩的道路上取得成功，你準備好了嗎？
 NPC_000127,We must never forget the sacrifice of the Heroes. We are here to train those who wish to follow their path in hopes of a worthy successor.,世界恢復光明和平時，他們英勇的事蹟是不會被人們淡忘的！
 NPC_000128,"I am Guardian Boneper. I'm here to protect the will of Billaon, the Knight Hero, at all costs. We are seeking those who are worthy enough to follow the path of the Knight Hero.",我是守護騎士英雄畢雷恩的騎士守護者波內佩拉，我們正在尋找那些值得追隨騎士英雄之路的人。
@@ -132,33 +132,33 @@ NPC_000139,"Today, the Neverant Guild is no more. It's hierarchy was torn apart 
 NPC_000140,Check out the Dekane Mine west of here if you want. I won't step foot near there.,如果你想去的話，可以去這裡西邊的迪坎礦坑看看。我可不敢踏進那裡半步。
 NPC_000141,Chenbing's Shield Shop is open for business! The best finely-crafted nomad shields Penya can buy!,趁風的盾牌店開始營業了！金幣就可以買到最好的精心製作的遊牧盾牌！這裡是有賣上等的防具，請好好挑選！
 NPC_000142,"Well, what are you gonna do for me? Hmmm?",有什麼可以幫忙的嗎？
-NPC_000143,"We, the Khan Union, are traveling merchants. Our fine craftsmanship is well-known throughout Madrigal. So whaddya say? Interested in taking a peek at my inventory? ",卡恩商人組織有販售瑪德利賈賣最好的商品喔！！
+NPC_000143,"We, the Khan Union, are traveling merchants. Our fine craftsmanship is well-known throughout Madrigal. So whaddya say? Interested in taking a peek at my inventory? ",我們可汗聯盟是四處旅行的商人，精湛手藝在瑪德利賈遠近馳名。怎麼樣？有興趣看看我的商品嗎？
 NPC_000144,"I am Chenbing Khan and I sell the best, finely-crafted, and affordable shields you'll find anywhere in Madrigal.",你好！我是趁風！我販賣最好的、製作精良的、價格實惠的防具，你可以在瑪德利賈的任何地方找到它。
 NPC_000145,Take care! Tell your friends about us!,祝飛行愉快！
 NPC_000146,"So, have you completed that which you needed to in order to proceed?",到達目的地了嗎？還是要繼續移動呢？
 NPC_000147,What do you want?,有需要什麼嗎？
-NPC_000148,You couldn't possibly hope to understand what lies beyond this gate. I don't care how much research you've done. ,別打瞌睡！保持警戒！
-NPC_000149,Don't concern yourself with such things. Who I am is of no consequence to you. All you need to know is that I am here to protect this gate.,你說你不認識我，好歹我是看守這裡的人耶！
+NPC_000148,You couldn't possibly hope to understand what lies beyond this gate. I don't care how much research you've done. ,無論你做過多少研究，都不可能真正理解這道門後面有什麼。
+NPC_000149,Don't concern yourself with such things. Who I am is of no consequence to you. All you need to know is that I am here to protect this gate.,別操心那些事。我是誰對你並不重要，你只要知道我在這裡守護這道門就夠了。
 NPC_000150,"Farewell, strange one.",祝你好運喔~
 NPC_000151,"Hey, you there! Help me! Let me out of here right now! Argh!!!",喂！那邊有沒有人可以救救我啊！
 NPC_000152,"Oh thank Rhisis, I knew someone would come! Oh thank you, thank you, thank you! Well, what are you doing just standing around? Let me out, darn it!!",哦，謝謝黎席斯，我知道有人會來！噢，謝謝，謝謝，謝謝！好吧，你站在那裡做什麼？放我出去，可惡！！
 NPC_000153,"Me? I, Colar Devoka, am the best actor in the Pepoview Troupe! Well, I was, but now I am stuck out here and this filthy cage waiting to be eaten by those filthy Leyenas.",我？我是最棒的演技者凱樂拉啦。雖然現在是這個樣子，唉…
 NPC_000154,What?! HEY! I thought you were going to release me. I'll get you for this!,喂！怎麼就這樣走掉了啊？把我救出來再走啦！臭 XX 蛋！
 NPC_000155,Follow the teachings of Lillip and you will discover the secrets of the elements.,以黎利的智慧來改善這世界！呼~一直喊這些也挺累的~
-NPC_000156,"Hello, friend. Listen, whatever happens in this world, you must not lose hope. As long as we follow the path of the Heroes, we will persevere.",就算世界末日來臨！也不可以失去希望！
+NPC_000156,"Hello, friend. Listen, whatever happens in this world, you must not lose hope. As long as we follow the path of the Heroes, we will persevere.",你好，朋友。聽著，無論這個世界發生什麼事，都不能失去希望。只要追隨英雄們走過的道路，我們就能堅持下去。
 NPC_000157,"My name is Condram Griters and I am one of 8 priests of Lillip, the Elementor Hero. I am teaching the wisdom of Lillip to his successors. I act as a guide to those who follow the path of Lillip.",我的名字是柯登皮斯，八位研術者其中一位守祭司，研術者英雄黎利的師弟！我正在向他的繼任者傳授黎利的智慧，為那些追隨黎利的人提供指導。
 NPC_000158,"Farewell, young one. May Lillip guide and protect you.",好好運用智慧~與黎利看齊！
 NPC_000159,"Heren, your legacy will carry on and your courage will not be forgotten.",海琳！你的遺願終於實現了！
 NPC_000160,"The might of the Blade will stand against those who seek to destroy us. Heren, the Blade Hero, has left a great legacy. ",勇敢的對抗邪惡，光明的一方永遠不會屈服的！
-NPC_000161,"My name is Corel Anduril, and I am the Blade Master of Darken City. I was well known as a Blade Dancer before the war. Now, it is my duty to select those worthy of becoming a Blade and prepare them for what lies ahead.",我就是暗殺者首領，有何指教？
+NPC_000161,"My name is Corel Anduril, and I am the Blade Master of Darken City. I was well known as a Blade Dancer before the war. Now, it is my duty to select those worthy of becoming a Blade and prepare them for what lies ahead.",我是得肯城的暗殺者首領席瑞兒‧安得利爾。戰爭前，我曾以「劍舞者」聞名。如今，我的職責是選出有資格成為暗殺者的人，讓他們為前方的考驗做好準備。
 NPC_000162,"May Heren be with you, always.",願海琳與你同在！
 NPC_000163,"I honor the spirit of Offerep, the Psykeeper Hero.",念力師英雄歐布華啊~你的精神永為人們所歌頌！
 NPC_000164,"Their last battle will resonate throughout eternity. The Heroes sacrificed themselves to save all of Madrigal. We are forever in their debt. Take with you the teachings of Offerep, adventurer.",他們最後的戰鬥將永遠迴響。英雄們犧牲了自己，拯救了整個瑪德利賈。我們永遠欠他們一份恩情。帶著歐布華的教誨前行吧，冒險者。
-NPC_000165,"My name is Cylor Mesmor and I am the Psykeeper Master. I guide those wishing to become Psykeepers. I have committed many sins in the past, and through the grace of Offerep, I have been forgiven.",我就是念力師首領，有需要我幫忙的嗎？
+NPC_000165,"My name is Cylor Mesmor and I am the Psykeeper Master. I guide those wishing to become Psykeepers. I have committed many sins in the past, and through the grace of Offerep, I have been forgiven.",我是念力師首領賽樂，負責引導立志成為念力師的人。我過去曾犯下許多罪過，但在歐布華的恩典下獲得了寬恕。
 NPC_000166,Only through careful study will you learn the wisdom of the Psykeeper.,希望能像念力師那般有堅定的意志！
 NPC_000167,Madrigal's ecosystem is so strange and mysterious! I love it!,瑪德利賈的生態界非常神奇！
 NPC_000168,"The masquerpets you see here around us were once the machines used in the Erons Factory down south. However, the exposure to waste coming from the factory turned them into the monsters they are today.",你在我們周圍看到的怪物曾經是南方艾磷胚斯使用的機器。然而，接觸來自工廠的廢物使他們變成了今天的怪物。
-NPC_000169,I'm surprised you haven't heard of me. I'm Dr. Est and I research Madrigal's ecosystem. My 2 brothers and I are thrilled to learn as much as we can about Madrigal. Have you met my brothers?,我是 Dr. 法小紀，與 2 個兄弟研究瑪德利賈的相關事物。
+NPC_000169,I'm surprised you haven't heard of me. I'm Dr. Est and I research Madrigal's ecosystem. My 2 brothers and I are thrilled to learn as much as we can about Madrigal. Have you met my brothers?,你竟然沒聽過我，真令人意外。我是 Dr. 法小紀，專門研究瑪德利賈的生態。我和兩個兄弟都很熱衷於探索瑪德利賈的一切。你見過我的兄弟嗎？
 NPC_000170,"Watch yourself out there, friend. Some creatures can be quite dangerous!",小心喔！這裡的魔域怪很危險~
 NPC_000171,The will of Hynan will lead you to victory.,浪人的英雄海楠會幫你的。
 NPC_000172,This is what you must to do.,你應該要幫我…
@@ -174,13 +174,13 @@ NPC_000181,"Why do you wish to challenge Clockworks?\n1 [For Honor!][IDS_NPC_For
 NPC_000182,"Are you sure you're ready for this? Alright, successor, would you like to challenge Clockworks again?\n[Yes][IDS_NPC_Yes_Enter] / [No][IDS_NPC_No_Enter]\n\n#cffff0000All the guild members participating must be close to you to enter.#nc",你確定準備好了嗎？好吧，繼任者，想再次挑戰時空毀滅者嗎？\n[是][IDS_NPC_Yes_Enter] / [否][IDS_NPC_No_Enter]\n\n#cffff0000所有參與的公會成員必須靠近你才能進入。#nc
 NPC_000183,"You defeated Clockworks? Excellent work, successor!",實現了你的理想嗎？恭喜你喔！
 NPC_000184,"Only the honorable combatant is worthy of facing Clockworks. You are brave, successor. \nAre you ready to challenge Clockworks?\n[Yes][IDS_NPC_Yes_Enter] / [No][IDS_NPC_No_Enter]\n\n#cffff0000All the guild members participating must be close to you to enter.#nc",只有光榮的戰士才有辦法面對時空毀滅者。展現勇氣吧，英雄的繼承人。\n你準備好挑戰時空毀滅者了嗎？\n[是][IDS_NPC_Yes_Enter] / [否][IDS_NPC_No_Enter]\n\n#cffff0000所有參與的公會成員必須靠近你才能夠進入。#nc
-NPC_000185,This isn't a game you fool! Clockworks will tear you to pieces! Come back when you decide to be serious about this.,要好好珍惜這世上的一切！
-NPC_000186,"Just because? JUST BECAU... Ah, forget it. You're obviously not mature enough to handle this.",…
+NPC_000185,This isn't a game you fool! Clockworks will tear you to pieces! Come back when you decide to be serious about this.,這可不是遊戲，你這傻瓜！時空毀滅者會把你撕成碎片！等你願意認真看待這件事再回來。
+NPC_000186,"Just because? JUST BECAU... Ah, forget it. You're obviously not mature enough to handle this.",只是因為？只、只是因……啊，算了。你顯然還不夠成熟，應付不了這件事。
 NPC_000187,There are other brave souls locked in fierce combat with Clockworks at the moment. Their deaths will be swift. You must wait.,其他挑戰者已經在對戰中，所以目前無法入場喔！
 NPC_000188,"Make sure you are adequately prepared to face Clockworks. If you are not yet ready, then now is the time to prepare.",你一定要徹底覺悟，不然是無法超越他的！
-NPC_000189,"It's alright, young successor. Only the bravest of souls can hope to stand against the great Clockworks. We'll keep him imprisoned here until the right person is ready to face him.",要往後退？抱歉，我可沒注意到！
+NPC_000189,"It's alright, young successor. Only the bravest of souls can hope to stand against the great Clockworks. We'll keep him imprisoned here until the right person is ready to face him.",沒關係，年輕的繼承者。只有最勇敢的靈魂才有希望對抗強大的時空毀滅者。在真正合適的人準備面對牠以前，我們會繼續把牠囚禁在這裡。
 NPC_000190,"Roentel, Roentel, where for art thou, Roentel!?",羅瓦特需要你的力量！
-NPC_000191,"Nothing will ever change if we forget the blessings of those who sacrificed themselves to protect all of us. Those who do not learn from the past, are doomed to repeat it.",不管怎樣，絕不能忘了他們的犧牲！
+NPC_000191,"Nothing will ever change if we forget the blessings of those who sacrificed themselves to protect all of us. Those who do not learn from the past, are doomed to repeat it.",若我們忘記那些為保護眾人而犧牲者留下的恩澤，一切永遠不會改變。不從過去汲取教訓的人，注定重蹈覆轍。
 NPC_000192,"My name is Fera Jeen Condram Griters, and I am one of the 8 priests of Roentel, the Billlposter Hero. I am teaching the strength of Roentel to his future successors. Are you lost?",我的名字是費拉·吉恩，是爆咒師英雄倫特爾的 8 位守祭司之一。我正在向他未來的繼任者傳授倫特爾的力量。你迷路了嗎？
 NPC_000193,"You will find your way, and Roentel will guide you.",願羅瓦特的力量能與你同在！
 NPC_000194,The Misty Season has begun .,今年也是寶兆葡萄酒的豐收節！
@@ -188,7 +188,7 @@ NPC_000195,Have you had Beaujolais? It is the best wine in the world! It tastes 
 NPC_000196,I am Enologist Furan. I am in charge of the Madrigal Wine Society.,我叫艾魯芝特，是瑪德利賈紅酒協會的負責人。
 NPC_000197,"Here, this mysterious wine is call the Blood of the Gods. Remember that!",紅酒又稱為神仙的血，一定要記得喔。
 NPC_000198,"#b#cff8a004fCome one, come all! Everything you need for the #cfffc0000Guild Siege#nc#nb #b#cff8a004fis right here! Come and get it!#nc#nb",#b#cff8a004f來吧，大家都來吧！#cfffc0000公會戰#nc#nb #b#cff8a004f所需的一切物品都在這裡！快來看看吧！#nc#nb
-NPC_000199,*AHEM* Please make sure that you have everything you need for the Guild Siege. I'd hate for you to go in unprepared. Short fights are boring!,請準備多一點公會戰時所需要的東西喔。
+NPC_000199,*AHEM* Please make sure that you have everything you need for the Guild Siege. I'd hate for you to go in unprepared. Short fights are boring!,*清喉嚨* 請確認公會戰需要的物品都準備齊全。我可不想看到你毫無準備就進場，太快結束的戰鬥很無聊！
 NPC_000200,"Hello there! I am the Guild Siege Merchant. I'm here to sell any and all goods that our contestants require. If you need anything, just ask!",為了販賣公會戰的東西，從很遠的地方來到這裡了。
 NPC_000201,"Good luck out there, champ!",如果有好消息的話，別忘的也要告訴我喔。
 NPC_000202,"Hmmm, no. This is no good. I need more information. I wish someone could help me.",可能需要再詳細一點調查啦…嗯…如果有人可以幫我的話再好不過了。
@@ -200,8 +200,8 @@ NPC_000240,"They've gone now, but the lives saved by their sacrifice will be for
 NPC_000241,"I am known as Heedan Joe, one of the 8 Priests of Aenn, the Ringmaster hero. It is my duty to deliver the blessings of Aenn to future successors.",我是阿利安諾的師弟，提供給繼承人一切所需的資訊！我被稱為海登喬伊，是阿利安諾的 8 位祭司之一，守護者英雄。將阿利安諾的祝福傳遞給未來的繼任者是我的職責。
 NPC_000242,"Aenn will always be with you, my friend.",阿利安諾的祝福會帶給你勇氣！
 NPC_000243,"You there, do you wish to follow in the footsteps of Curenen, the Jester Hero?",操偶師英雄 [凱奈] 的繼承人啊～你已經準備好走操偶師之路了嗎？
-NPC_000244,"What you do from this point forward, is entirely up to you. Whether I help you or not, is also up to you.",所有的選擇都在你的掌握之下。
-NPC_000245,"Some people admire the Heroes, while some criticize them for their actions. However, regardless of what they did or didn't do, they saved us all and we must be thankful for that.",有些人尊敬他…有些人毀謗他…可是他幫了所有的人…
+NPC_000244,"What you do from this point forward, is entirely up to you. Whether I help you or not, is also up to you.",從現在開始要怎麼做，完全由你決定。至於我是否會幫你，也取決於你的選擇。
+NPC_000245,"Some people admire the Heroes, while some criticize them for their actions. However, regardless of what they did or didn't do, they saved us all and we must be thankful for that.",有人景仰英雄，也有人批評他們的作為。然而，無論他們做過或沒做過什麼，終究拯救了我們所有人，我們必須心懷感激。
 NPC_000246,"I am the Jester Guardian Heingard, the protector of the will of the Jester Hero, Curenen.",我是 [操偶師守護者] 海音卡蘿德，守護著操偶師英雄的意志。
 NPC_000247,May the strength of Curenen be with you always.,操偶師英雄 [凱奈] 祝福你…
 NPC_000248,*Ugh* I've got a headache the size of Madrigal!,*喔呦* 天啊~ 我頭疼到像瑪德利賈大陸一樣大！
@@ -215,18 +215,18 @@ NPC_000255,The sky wept and the earth trembled when the Heroes began the final b
 NPC_000256,"As one of the 8 Priests of Altar, I honor the Jester Hero Curenen. My duty is to protect the will of Curenen and to help successors of the Jester Hero realize their dreams.",作為祭團的 8 位守祭司之一，向操偶師英雄庫雷南致敬。我的職責是保護庫雷南的意志，幫助操偶師英雄的繼承者實現他們的夢想。
 NPC_000257,May the blessing of Curenen be with you always.,凱奈會祝福你的…
 NPC_000258,"Only the wisdom of Lillip, the Elementor Hero, can save us from certain doom.",研術者英雄黎利啊~以你的智慧來保護世界的和平！
-NPC_000259,"Eight stars stood strong against those who would seek our demise. At the very last moment, the eight stars shone as one.",光明絕不會被黑暗所吞噬！
-NPC_000260,"Hello, my name is Horison Keloan, the Elementor Master. I'm a descendant of the very first Elementor Master and my job is to help guide adventurers on the path of Lillip.",我是最初研術者首領的後裔，千萬別小看我！
+NPC_000259,"Eight stars stood strong against those who would seek our demise. At the very last moment, the eight stars shone as one.",八顆星挺身抵抗企圖毀滅我們的敵人。就在最後一刻，八顆星合而為一，綻放光芒。
+NPC_000260,"Hello, my name is Horison Keloan, the Elementor Master. I'm a descendant of the very first Elementor Master and my job is to help guide adventurers on the path of Lillip.",你好，我是研術者首領赫雷森‧凱列藍，也是第一代研術者首領的後裔。我的職責是引導冒險者踏上黎利之路。
 NPC_000261,"Remember the stars, adventurer. Remember the stars.",希望你稟持著研術者的韌性，絕對不要認輸！
 NPC_000262,"Heren, please spread your heroic presence throughout the world.",海琳！請以你的英雄力量庇佑全世界吧！
 NPC_000263,I believe the tears of Rhisis will flow from the sky to wake the Heroes in our time of need. ,我相信黎席斯的眼淚會從天而降，在我們需要幫助的時候喚醒英雄們。
 NPC_000264,"Jeperdy Soce is the name, my child. I'm one the 8 priests of Heren, the Blade Hero. I am delivering the will of Heren to his potential successors.",我是 8 位守祭司之一，暗殺者英雄海琳的師弟！我正在將海琳的遺囑傳達給他的潛在繼任者。
 NPC_000265,"May the grace of Heren shine on you, my child.",海琳會賜予你最高的祝福！
 NPC_000266,Welcome to Jinitte's Restaurant! I serve the best food in Madrigal!,你好！歡迎來到吉妮特餐廳！我提供瑪德利賈最棒的料理！
-NPC_000267,"Greetings, traveler! The Khan Union is quite well known throughout Madrigal for our high quality foods, goods, weapons, and armor. Are you in need of supplies?",這瑪德利賈做最高級的料理，你一定要試試才行。
-NPC_000268,"My name is Jinitte Khan. I, and my friends here, are all part of the Khan Union. We are traveling nomads who sell our goods to locals.",我是在艾音娜特賣食物的傑奴塔！
+NPC_000267,"Greetings, traveler! The Khan Union is quite well known throughout Madrigal for our high quality foods, goods, weapons, and armor. Are you in need of supplies?",你好，旅人！可汗聯盟以優質的食物、商品、武器與防具聞名整個瑪德利賈。你需要補給嗎？
+NPC_000268,"My name is Jinitte Khan. I, and my friends here, are all part of the Khan Union. We are traveling nomads who sell our goods to locals.",我叫傑奴塔‧可汗。我和這裡的夥伴都隸屬可汗聯盟，是四處旅行、向當地人販售商品的遊牧商人。
 NPC_000269,Welcome to Kablloc's Weapon Shop! I carry the best weapons in town!,這裡是賣最佳武器的卡布洛武器店。
-NPC_000270,"You want to know who I am? Really? Wow, not too many people care to ask who I am... Well then! I'm Kablloc Khan and I'm a nomad!",我是在艾音娜特賣武器的 [卡布洛]。
+NPC_000270,"You want to know who I am? Really? Wow, not too many people care to ask who I am... Well then! I'm Kablloc Khan and I'm a nomad!",你真的想知道我是誰？哇，很少有人會在意這個……那好吧！我是遊牧民卡布洛‧可汗！
 NPC_000271,"Do you wish to follow the Ranger Hero, Hynan? Are you ready to undergo the harsh trials to become a Hero?",你想跟隨浪人英雄海楠嗎？你準備好接受嚴酷的考驗成為英雄了嗎？
 NPC_000272,New life springs forth wherever the seeds are cast. The way to new life has been opened by the Heroes.,有他們的犧牲才有這個世界存在，授予英雄的尊稱絕對是當之無愧！
 NPC_000273,"I am the Ranger Guardian, Kailreard. It is my duty to protect the will of the Ranger Hero, Hynan.",我是浪人的守護者，我的名字是卡伊雷雅德。守護浪人英雄海楠的意志是我的職責。
@@ -235,17 +235,17 @@ NPC_000275,Only a Knight wielding the strength of Billaon will succeed.,騎士�
 NPC_000276,Shade must not be allowed to torment us and our way of life.,黑暗離去，光明再現，世界重回和平……
 NPC_000277,My name is Karandur Eope from the Eope family. I am a Knight Master and in charge of leading you to the way of the Hero. ,我的名字是來自歐佩家族的卡蘭杜，我是騎士大師，負責帶領你走向英雄之路。
 NPC_000278,May the sword of Billaon cut through those who wish to destroy us.,畢雷恩的巨劍會賜予與無比的勇氣！
-NPC_000279,This is a terrible location for my shield shop! Why can't I be closer to the mayor?!,我正在製作高級的盾…
+NPC_000279,This is a terrible location for my shield shop! Why can't I be closer to the mayor?!,這個盾牌店的位置糟透了！為什麼不能離市長近一點？！
 NPC_000280,I don't understand why we have to sell our goods over here. We hardly get any customers. Bolpor and Haven have prime locations! It's just not fair!,我製作的盾牌是在這世界裡最高級得盾牌啦！沒有一家的盾比得上我的盾牌呢～呵呵…
-NPC_000281,"Krinton's the name, and shields are my game. I make the toughest shields in town. I am following in the footsteps of Lucky, the original proprietor of this store.",我是盾牌店的老闆啦～名字叫克林特。嘿嘿…
+NPC_000281,"Krinton's the name, and shields are my game. I make the toughest shields in town. I am following in the footsteps of Lucky, the original proprietor of this store.",我叫克林特，最拿手的就是盾牌。我打造的盾牌可是全鎮最堅固的；我正追隨這間店最初的老闆 Lucky 的腳步。
 NPC_000282,"Thank you, come again! But don't expect any discounts...",下次再來喔～可是沒有打折啦！哈哈。
 NPC_000283,Mmmm I love the way my flowers smell. So pure and sweet.,哈哈哈，今天也開了很多花。
-NPC_000284,What do you think of my flower garden? I've been working on it for a very long time. It's so peaceful here that it's easy to forget all the terrible things going on in the world.,對不起喔~~我應該比你多活了 200 多年呢~你不能以貌取人啦！
+NPC_000284,What do you think of my flower garden? I've been working on it for a very long time. It's so peaceful here that it's easy to forget all the terrible things going on in the world.,你覺得我的花園怎麼樣？我花了很長時間照料它。這裡寧靜得讓人很容易忘記世上正在發生的種種惡事。
 NPC_000285,"I am the Great Magician Laola. I may look young, but I am at least 200 years older than you, my child. Never judge a person by their looks. I've had a long life, and many adventures.",我是大魔法師拉宇。我看起來或許年輕，但至少比你年長 200 歲，孩子。不要以貌取人。我的人生很長，也經歷過許多冒險。
 NPC_000286,Be careful out there. There are many dangerous creatures around.,你要小心啦！看你的前途好像並不是很順利呢。
 NPC_000287,I live for the thrill of the adventure! Woooo!,我是風雲啦～流浪的風雲～哈哈
 NPC_000288,"Hey, you there! I've got a job for you. No questions, just do it! Hahaha!",喂！這是你要做的啦！什麼？你說你為什麼要做喔？嘿嘿…沒有原因啦！反正你要做就是了。
-NPC_000289,The Arrows of the Clown Goddess will fall from the sky and dye the world red. I have foreseen it. What? You're darn right I have a defeatist attitude. Have you seen what Shade can do?,弓箭飛到天上，變成雨水從天上降下來…變成滿地紅啊！
+NPC_000289,The Arrows of the Clown Goddess will fall from the sky and dye the world red. I have foreseen it. What? You're darn right I have a defeatist attitude. Have you seen what Shade can do?,小丑女神的箭矢將從天而降，把世界染成鮮紅。我已經預見了。什麼？我當然很悲觀，你沒見識過闇影的力量嗎？
 NPC_000290,"I'm Leikyen, if you must know. We High-Dwarpets are very different from the normal Dwarpets. However, both Dwarpets and High-Dwarpets are FAR superior to humans such as yourself.",像我們這樣的高階杜爾沛跟一般的杜爾沛是不一樣的啦！你說什麼？不管怎樣還是一樣的杜爾沛？你不要給我亂講話喔！我會扁人的。
 NPC_000291,Was it something I said?,嘻嘻…你加油吧！
 NPC_000292,"Billaon, our Hero. We will follow your spirit.",騎士的英雄畢雷恩~我會永遠支持你的！
@@ -264,9 +264,9 @@ NPC_000304,They may disappear but they will be victorious And then the world wil
 NPC_000305,I am the Jester Master It is my duty to lead you to the way of the hero.,我會引導你們到操偶師之路
 NPC_000306,May the blessing of Curenen be with you always.,凱奈會祝福你的…
 NPC_000307,Welcome to the #b#cffff0000Darken Quest Office#nc#nb! Looking for work? I may have a job for you...,歡迎來到#b#cffff0000得肯委託事務所#nc#nb！正在找工作嗎？我或許有任務可以交給你…
-NPC_000308,Welcome to the Quest Office! The local citizens have issued the following quests. Please select the quest you wish to take from the list below.,你好~幫你準備的以下的任務喔~
+NPC_000308,Welcome to the Quest Office! The local citizens have issued the following quests. Please select the quest you wish to take from the list below.,歡迎來到任務中心！以下是當地居民提出的委託，請從清單中選擇想接受的任務。
 NPC_000309,"My apologies, there are no quests available for an adventurer of your talent and skill at this time. ",沒有多餘的任務可以提供給你了…下次再來吧！
-NPC_000310,My name is Luriff and I run the Quest Office in Darkon. These quests came from the local citizens and we list them here for you. Are you looking for some work?,這裡有很多的委託任務等著你呢~
+NPC_000310,My name is Luriff and I run the Quest Office in Darkon. These quests came from the local citizens and we list them here for you. Are you looking for some work?,我叫皮姬，負責經營得肯的任務中心。這些都是當地居民提出的委託，我們整理後列在這裡。你正在找工作嗎？
 NPC_000311,To throw my life into the fire of the red lotus blossom would be spectacular!,我把我的生命交給火花裡應該也不錯啦！哈哈。
 NPC_000312,Hmm.. Do you have anything to ask of me?,嗯…有什麼話要對我說嗎？
 NPC_000313,I apologize.. but this heat is just too oppressive. I need to lie down for a while. Please see me again when it is cooler.,大熱天有人跟我講話的話，我會覺得很煩耶～等天氣涼一點的時候再來找我吧！
@@ -274,8 +274,8 @@ NPC_000314,My name is Nein and refining metal is what I love to do.,我這一生
 NPC_000315,Good bye. Be careful not to succumb to the oppressive heat.,再見啦～外面太陽很大，要小心喔～
 NPC_000316,"Do you have anything to ask at #b#cffff0000Office#nc#nb?Then you should visit me, Olien.",有事要詢問#b#cffff0000事務所#nc#nb嗎？那就來找我席琳娜吧。
 NPC_000317,Is there anything you can do? Oh ho ho!,有你可以做的事嗎？哈哈
-NPC_000318,Is there something you want to know? I will probably give you the most simple answer so you may just want to think about it on your own. Okay?,想知道什麼呢？我會確實回答的，請仔細聽喔！
-NPC_000319,My name is Olien Hengart. I am in charge of managing the Office here in Darken city.,我是得肯城管理員席琳娜。
+NPC_000318,Is there something you want to know? I will probably give you the most simple answer so you may just want to think about it on your own. Okay?,有什麼想知道的嗎？我大概只會給你最簡單的答案，所以你也可以先自己想想看，好嗎？
+NPC_000319,My name is Olien Hengart. I am in charge of managing the Office here in Darken city.,我叫席琳娜‧亨加特，負責管理得肯城的城鎮服務處。
 NPC_000320,"Farewell, adventurer.",請慢走喔~
 NPC_000321,"Offerep, please strengthen this world with your strong spirit.",歐布華以無比堅韌的精神悍衛這世界！
 NPC_000322,They will lose everything they love. They will get angry. And they will stand up.,就算是失去一切，也要站起來再繼續努力！
@@ -332,8 +332,8 @@ NPC_000372,"My name is Shyniff Guardian. I am protecting the will of Offerep, th
 NPC_000373,The spirit of Offerep will strengthen your soul.,請秉持著歐布華的崇高信念，努力奮鬥下去！
 NPC_000374,Everything you want is here in the Weapon Shop of Stima!,你們想要的武器都在司提瑪武器店喔！
 NPC_000375,What would you do for me?,有什麼是我可以效勞的？
-NPC_000376,"Being a travelling salesman was too hard so I settled here. My shop is still small, but I have a good feeling about this place.",生意越來越好，開個分店，這主意不錯吧！
-NPC_000377,My name is Stima Ogonel. I travel from place to place selling weapons. Nice to meet you.,我是司提瑪，還請多多指教！
+NPC_000376,"Being a travelling salesman was too hard so I settled here. My shop is still small, but I have a good feeling about this place.",四處行商實在太辛苦，所以我在這裡落腳了。店面雖然還小，但我對這個地方很有信心。
+NPC_000377,My name is Stima Ogonel. I travel from place to place selling weapons. Nice to meet you.,我叫司提瑪‧歐格奈爾，四處旅行販售武器。很高興認識你。
 NPC_000378,It was very nice to meet you. I hope I can see you again.,下次再見囉！
 NPC_000379,Are you ready?,嫩嫩的見習生！準備好了嗎？
 NPC_000380,It is your duty!,這就是你的任務！
@@ -353,8 +353,8 @@ NPC_000398,Merry Christmas! I hope everything goes well this time!,聖誕快樂�
 NPC_000399,My name is Saint Aramy and I am one of the Santa's in the Madrigal Christmas Society. Nice to meet you,我是擔任瑪德利賈聖誕協會的聖誕老公公聖音特亞羅梅。歡迎啊~
 NPC_000400,Hey! Merry Christmas!,喔耶！聖誕快樂~
 NPC_000401,Hmm It is very hard to track Noie's Planet in the Amedus galaxy. Maybe I have to use the chaos theory.,天上的星星數都數不清，如果用混沌理論來說明，會不會比較容易了解！
-NPC_000402,"*Hmmm... carry the two, divide by zero, and subtract the square root of fourte... Wait a minute. Divide by zero? That's impossible! This would be so much easier if I had more than just this flimsy abacus.",英雄的犧牲，也讓世人全都清醒過來！
-NPC_000403,"Hi there! My name is Ata Milleniut and I am learning Astronomy from Noie, my mentor. Hey, do you think you could analyze this fractal curve?",我是諾也的師弟，興趣是研究天文學。
+NPC_000402,"*Hmmm... carry the two, divide by zero, and subtract the square root of fourte... Wait a minute. Divide by zero? That's impossible! This would be so much easier if I had more than just this flimsy abacus.",*嗯……進位二，再除以零，然後減去十四的平方根……等等，除以零？這不可能！要是我手邊不只有這把破算盤，事情就簡單多了。
+NPC_000403,"Hi there! My name is Ata Milleniut and I am learning Astronomy from Noie, my mentor. Hey, do you think you could analyze this fractal curve?",你好！我是艾塔米力諾，正在跟隨導師諾也學習天文學。對了，你能分析一下這條碎形曲線嗎？
 NPC_000404,Argh! Where was I? Distractions...,沒其他事情的話，那我去忙喔~這曲線的角度是……
 NPC_000405,Brothers! What should I do? Huh? Christmas.. Christmas will be Ruined!,兄弟們！該怎麼辦呢？嗯？如果這樣下去的話.聖誕節就…嗚嗚嗚…
 NPC_000406,I hope you have a wonderful Christmas!,祝你有個美好的聖誕節！
@@ -388,30 +388,30 @@ NPC_000433,How strange I do not remember the Happy New Year song.,啊，真是�
 NPC_000434,New year has come!,新買來的鞋子也是我的
 NPC_000435,"How strange, I do not remember the Happy New Year song.",喂…不要誤會喔，可以告訴我一下後面的歌詞嗎？
 NPC_000436,"Trust in Aenn, and your path shall be lit with the light of a thousand candles.",相信阿利安諾，你的道路將被一千支蠟燭照亮。
-NPC_000437,"The Heroes sacrificed themselves to defeat Shade, but she will one day return. We must prepare.",決定命運的時刻，終於來臨！
+NPC_000437,"The Heroes sacrificed themselves to defeat Shade, but she will one day return. We must prepare.",英雄們犧牲自己才擊敗闇影，但她總有一天會再次歸來。我們必須做好準備。
 NPC_000438,"My name is Clamb Cobonet, the Ringmaster Wise Man. I am here to preserve the legacy of Aenn, the Ringmaster Hero and to light the path for those that wish to follow in Aenn's footsteps. Have faith, young one, Aenn watches over you.",我的名字是可伯內特，守護者賢者，我來這裡是為了保護守護者英雄 阿利安諾的遺志，並為那些希望追隨阿利安諾腳步的人照亮道路。
 NPC_000439,"Follow the path of Aenn, and you will never be forgotten.",跟隨阿利安諾的道路，你將永遠不會被遺忘。
 NPC_000440,Bubble watches over all aspiring heroes. ,巴布樂守護著所有心懷抱負的英雄。
 NPC_000441,The shields of the Heroes have defended Madrigal from the wrath of Shade. We are forever grateful for their bravery and wish to preserve their memory for all time.,英雄們的盾牌曾守護瑪德利賈免受闇影之怒。我們永遠感激他們的勇氣，也希望他們的事蹟能被永久傳頌。
-NPC_000442,"My name is Cuarine Coexar and I am the Psykeeper Wise Man. I preserve the history of the Heroes and provide guidance for those wishing to follow the path Offerep, the Psykeeper Hero.",我是 [念力師賢者] 可林！
+NPC_000442,"My name is Cuarine Coexar and I am the Psykeeper Wise Man. I preserve the history of the Heroes and provide guidance for those wishing to follow the path Offerep, the Psykeeper Hero.",我是念力師賢者可林，負責保存英雄們的歷史，並引導立志追隨念力師英雄歐布華之路的人。
 NPC_000443,"Follow the path of the Heroes, and you will never lose your way.",念力師的象徵就是擁有堅強的精神信念！
 NPC_000444,A strange energy emanates from this fountain. What is it?,一樣耶~真的一模一樣耶！你真的是太厲害了！
-NPC_000445,"We lie in wait, preparing for the worst, and hoping for a future to come when the heroes will arise once more.",他們一定能會成為真正的英雄！
-NPC_000446,"My name is Cuzrill Rembright and I am the Elementor Wise Man. I preserve the history of the Heroes and provide guidance for those wishing to follow the path Lillip, the Elementor Hero.",我是 [研術者賢者] 可滋利。
+NPC_000445,"We lie in wait, preparing for the worst, and hoping for a future to come when the heroes will arise once more.",我們在此等待，為最壞的情況做好準備，也期盼英雄再次崛起的那一天到來。
+NPC_000446,"My name is Cuzrill Rembright and I am the Elementor Wise Man. I preserve the history of the Heroes and provide guidance for those wishing to follow the path Lillip, the Elementor Hero.",我是研術者賢者可滋利，負責保存英雄們的歷史，並引導立志追隨研術者英雄黎利之路的人。
 NPC_000447,"Trust in the legacy of the Heroes, adventurer. For it is all that can save us now.",充滿智慧的人一定都向黎利所看齊
 NPC_000448,Welcome to #b#cff0000ffDior Station#nc#nb! You can find #b#cffff0000flying information#nc#nb here.,歡迎來到#b#cff0000ff寶雅航空站#nc#nb！這裡提供#b#cffff0000飛行資訊#nc#nb。
 NPC_000449,"Please, if you can help me, I will be in your debt.",請好好聽我說喔！
 NPC_000450,My family has managed the Flarine Station for generations. I am proud to continue that tradition. ,我的家族世代管理布拉里斯站。我很自豪能夠延續這項傳統。
 NPC_000451,"My name is Dior Christin. I've lived in Flarine all my life and I love this place. Look at me, I can't stop bouncing! Anyway, I manage the station here so let me know if you have any questions! ",我的名字叫寶雅‧克莉絲汀。我一生都住在布拉里斯，我非常喜歡這個地方。看著我，我總是雀躍不已！無論如何，我在這經營航空站，如果你有任何問題，請告訴我！
-NPC_000452,"1. First, you'll need to buy a broom or a board and be at least level 20 in order to fly\n 2. Next, double-click the board or broom in your inventory or simply move it to a hot key to climb aboard.",1. 首先，你需要購買掃帚或滑板，且至少達到 20 級才能飛行。\n2. 接著，在物品欄中雙擊滑板或掃帚，或將其移到快捷鍵上即可搭乘。
+NPC_000452,"1. First, you'll need to buy a broom or a board and be at least level 20 in order to fly\n 2. Next, double-click the board or broom in your inventory or simply move it to a hot key to climb aboard.",1. 首先，你必須購買掃帚或飛行板，並達到至少 20 級才能飛行。\n2. 接著，在物品欄中連按兩下飛行板或掃帚，或將它移到快捷欄後使用，即可搭乘。
 NPC_000453,3. Press the Space Bar to accelerate your flying vehicle. Press the Space Bar key again while moving to stop. Think of the accelerator like a toggle button for *Go* and *Stop*.,3. 按空白鍵開始加速飛行器。移動時再次按下空白鍵就會停下。將按鍵想像為加速與停止的切換按鈕。
-NPC_000454,"4. To navigate, you can simply hold the Right Mouse Button down and angle the camera in the direction that you want to go.\n Alternatively, you can also use the W, A, S and D controls to turn.",4. 按著滑鼠右鍵就可以調整方向。\n另外使用鍵盤 W、S、A、D 也可以操作。
-NPC_000455,"5. Additionally, you can simply tap the Right Mouse Button twice to lock the camera to the mouse pointer. This allows you to navigate without holding down the right mouse button. Clicking twice again will turn off this effect.",5. 此外，你只需要點選滑鼠右鍵兩次即可將相機鎖定在滑鼠上。這允許你在不按住滑鼠右鍵的情況下導航。再次點選右鍵兩次即可關閉效果。
+NPC_000454,"4. To navigate, you can simply hold the Right Mouse Button down and angle the camera in the direction that you want to go.\n Alternatively, you can also use the W, A, S and D controls to turn.",4. 若要改變飛行方向，按住滑鼠右鍵並將鏡頭轉向想前往的位置即可。\n你也可以使用 W、A、S、D 鍵來轉向。
+NPC_000455,"5. Additionally, you can simply tap the Right Mouse Button twice to lock the camera to the mouse pointer. This allows you to navigate without holding down the right mouse button. Clicking twice again will turn off this effect.",5. 此外，連按兩下滑鼠右鍵即可將鏡頭鎖定於滑鼠游標，讓你不必持續按住右鍵也能控制方向。再次連按兩下右鍵即可解除。
 NPC_000456,6. Anyone can fly in Madrigal. You simply have to acquire a flying vehicle!\n 7. There are numerous makes and models of flying vehicles. Trying shopping around in player shops or click the Use Premium Item Shop icon next to the Start Button.,6. 任何人都可以在瑪德利賈飛行。你只需要獲得一輛飛行器。\n7. 飛行器有許多品牌跟型號。嘗試在玩家商店購物或使用商城物品商店購入。
 NPC_000457,"I hope the information I gave you was helpful. You're on your own now, aviator! See you in the clouds!",以上是基本的飛行介紹，剩下的就靠你自己了，雲端上見吧！
 NPC_000458,"1. Occasionally, you will run into some pesky masquerpets while flying. You will see a red box surrounding them.",1. 偶爾，你會在飛行中遇到討厭的魔域怪物。與怪物的達到一定的距離，怪物周圍就會顯示攻擊方格。
-NPC_000459,"2. You can target these creatures with the Left Mouse Button. If you lose sight of them while flying, a green arrow appears on the edge of the screen to indicate which direction you need to turn. ",2. 可以按下點選滑鼠左鍵來鎖定怪物。如果飛行時看不到它們，螢幕邊緣會出現綠色箭頭，會指示你需要轉向哪個方向。
-NPC_000460,"3. To attack the creature, simply get as close as you can and press the Left Mouse Button or the Insert Key.\n 4. If you want to follow the monster automatically, press the Z Key.","3. 要攻擊鎖定的怪物，只需要可能地靠近，並按下""Insert""或選滑鼠左鍵。\n4. 按下""z""則可以自動跟隨目標。"
+NPC_000459,"2. You can target these creatures with the Left Mouse Button. If you lose sight of them while flying, a green arrow appears on the edge of the screen to indicate which direction you need to turn. ",2. 按下滑鼠左鍵即可鎖定這些生物。若飛行時看不見目標，畫面邊緣會出現綠色箭頭，指出應轉向的方向。
+NPC_000460,"3. To attack the creature, simply get as close as you can and press the Left Mouse Button or the Insert Key.\n 4. If you want to follow the monster automatically, press the Z Key.",3. 若要攻擊生物，請盡量靠近目標，再按下滑鼠左鍵或 Insert 鍵。\n4. 若要自動跟隨怪物，請按下 Z 鍵。
 NPC_000461,5. Magicians and Acrobats can shoot from range while in the air. Mercenaries and Assists must rely on melee attacks. You can also use your skills!,5. 魔法師跟雜技師可以在空中遠程射擊。勇者跟神職者必須依靠近戰攻擊。你也可以使用你的技能！
 NPC_000462,"6. When you destroy a flying masquerpet, any dropped loot will be placed into your inventory automatically. If there is no room in your inventory, the loot is lost, so be careful!",6. 當你打倒飛行的魔域怪物時，任何掉落的戰利品都會自動放入你的背包中。如果你的背包中沒有空間，戰利品就會消失，所以要注意！
 NPC_000463,"7. That about covers it for your flying combat training, cadet! Just one more thing... Don't crash and burn! Hahaha, just a little pilot humor.",7. 學員，關於你的飛行戰鬥訓練，還有一件事情…不要崩潰跟太過頭！哈哈哈，這只是一點點飛行員的幽默。
@@ -420,21 +420,21 @@ NPC_000465,"Goodbye, adventurer! Feel free to stop by again if you have any ques
 NPC_000466,Why do we all have to wear the same outfit? ,沒有其他地方比這更適合我的，你說是吧！
 NPC_000467,"Rhisis created the three Clown Gods; Shade, Iblis and Bubble and bestowed each of them with a different aspect of herself. Shade, infused with the Fear and Rage of Rhisis, nearly destroy our original home, Roika.",黎席斯創造了三個小丑神；闇影、伊普里司 和 巴布樂 賦予他們每個人不同的一面。充滿黎席斯的恐懼和憤怒的陰影幾乎摧毀了我們原來的家，洛伊卡。
 NPC_000468,"I am Domek Ilujian, the Billposter Wise Man. I am here to record the history of the Billposter Hero, Roentel, and educate travelers on Madrigal's rich history.",我是 [爆咒師賢者] 德邁洛‧詹。我在這裡記錄爆咒師英雄羅瓦特的歷史，也向旅人講述瑪德利賈豐富的過往。
-NPC_000469,"Farewell, traveler. If we do not learn from our past, we are doomed to repeat it.",人因夢想而偉大……
+NPC_000469,"Farewell, traveler. If we do not learn from our past, we are doomed to repeat it.",再會了，旅行者。若不從過去汲取教訓，我們就注定會重蹈覆轍。
 NPC_000470,#b#cff8a004fCheck in here to review the weekly results of the #cfffc0000Guild Siege!#nc#nb,#b#cff8a004f可在此確認每週#cfffc0000公會戰結果！#nc#nb
 NPC_000471,Only the most cunning of guilds can hope to achieve victory in the Guild Sieges. Are you ready for the challenge?,你的勇氣與智慧，將引導你的公會走向勝利之路。
 NPC_000472,"Hello, it's very nice to meet you! I am the Rewards Manager for the Guild Siege Center. I can reward prize money, return application fees, or even show you this week's ranking for the Guild Siege.",我擔任引導公會的事項，管理付支獎金、歸還申請金、排行的相關事情。
 NPC_000473,Good luck to you! I hope I see you on the ranking charts!,希望參加對戰的每個公會，好運旺旺來。
 NPC_000474,"Madrigal's ecosystem is truly fascinating! The more you discover, the greater the mystery!",瑪德利賈的生態界越是研究越覺得神奇！
 NPC_000475,"Researching Madrigal's vast ecosystem, particularly that of the Masquerpets, is very rewarding. I get to work outdoors, and examine all of the strange creatures created by the Clown Goddess of Fear and Rage, Shade.",研究瑪德利賈廣闊的生態，尤其是假面怪物，真的非常有成就感。我能在戶外工作，觀察那些由恐懼與憤怒的小丑女神闇影所創造的奇異生物。
-NPC_000476,"My name is Dr. Estly and I am studying Madrigal's Ecosystem with my 2 brothers. Have you ever heard of Clockworks? He is the most amazing creature I have ever had the chance to study! Very, very dangerous, though.",我是 Dr. 法小林與 2 個哥哥研究瑪德利賈的生態！
+NPC_000476,"My name is Dr. Estly and I am studying Madrigal's Ecosystem with my 2 brothers. Have you ever heard of Clockworks? He is the most amazing creature I have ever had the chance to study! Very, very dangerous, though.",我是法小林博士，正和兩位兄弟一起研究瑪德利賈的生態系。你聽過時空毀滅者嗎？那是我有機會研究過最驚人的生物！不過也非常、非常危險。
 NPC_000477,"Thanks for stopping by, friend. Let me know if you ever need any information on a specific creature.",想知道魔域怪的知識，隨時來找我吧~
 NPC_000478,"Assists are way better than Mercenaries! Quiet Mustang! *chuckles* Hey you, c'mere if you want to learn about Assists!",不一定要幫助別人，首先要幫助自己，如果連自己都幫不好了，那要如何幫助其他人啊！！
 NPC_000479,"What is that crazy Mustang babbling about now... Ah, no matter. Every party needs an Assist. Any schmuck can wack a monster in the head, but we can do that AND play a support role! Do you like popularity? Than this is the job for you!",我…為了成為神職者走了很漫長的路。希望你也走這樣的路。這個才是真正成為神職者的路程。
 NPC_000480,"I am Captain Elic Eward of the Madrigal Job Training Center. If you want to become an Assist, I can help you.",我是瑪德利賈的訓練教官艾里維得。如果想成為神職者的話，請來找我，我一定會幫你成為真正的神職者。
 NPC_000481,"Remember, every party needs an Assist! Don't leave home without us!",不要忘記幫助自己這句話，加油！
 NPC_000482,Yay! I am so happy! Bubble smiles on us!,我好高興喔~巴布樂正對著我們微笑！
-NPC_000483,"I may not look like much, but I'm very powerful. I'm ready for anything! The Soldiers of Kion will prevail!",潘不大能相信陌生人，你可別見怪！
+NPC_000483,"I may not look like much, but I'm very powerful. I'm ready for anything! The Soldiers of Kion will prevail!",別看我不起眼，我可是很強的，任何挑戰都難不倒我！吉翁傭兵團必勝！
 NPC_000484,"My name is Eoners Archer and I am one of the hired soldiers of Kion. We are here to protect the citizens of Flarine, as long as the money is right. \n*wink*",我的名字是「恩內爾思」，我是凱英的僱傭兵之一。只要錢到位，我們就會在這保護所有布拉里斯的公民。\n*眨眼*
 NPC_000485,Love to Kion!!,為了傭兵團的光榮勝利！
 NPC_000486,"Welcome to Flarine! Please, enjoy your stay!",布拉里斯的市民們，一切都會順利的，一切都會順利…
@@ -460,24 +460,24 @@ NPC_000508,You are indeed foolish if you think you can go in there alone. You mu
 NPC_000509,You are not yet ready to challenge the beast within this lair. You are foolish if you think I would allow you to enter.,想要挑戰的人們，你們還沒得到挑戰的資格，去布拉里斯的挪斯布看看吧。
 NPC_000510,Travel to Northern Flarine and speak with the Novelist there. I cannot help you. ,前往北布拉里斯並與那裡的小說家交談。我幫不了你。
 NPC_000511,"No, not yet. You are not qualified to challenge this creature yet. Now please, leave in peace.",不夠啊，不夠。要向他們挑戰的能力，對你們來說還不夠啊…
-NPC_000512,"So you want to know who I am, my child? I exist... and yet, I do not exist. That is all you need to know and I will tell you no more.",我的存在對你來說並不重要……
+NPC_000512,"So you want to know who I am, my child? I exist... and yet, I do not exist. That is all you need to know and I will tell you no more.",孩子，你想知道我是誰嗎？我存在……卻又不存在。你只需要知道這些，我不會再告訴你更多。
 NPC_000513,"Farewell, brave one.",再見了！有勇氣的人們！
 NPC_000514,"Worry not, Hormes. We will not fail. ",別再抱怨啦~我們的努力可沒白費！
-NPC_000515,"It's hard to interpret the ancient texts. They are extremely old and in poor condition. What we have discerned, is that the fight for peace is far from over, and we must prepare ourselves for what's coming.",光明不會永被黑暗所籠罩……
+NPC_000515,"It's hard to interpret the ancient texts. They are extremely old and in poor condition. What we have discerned, is that the fight for peace is far from over, and we must prepare ourselves for what's coming.",這些古代文獻年代久遠、保存狀況也很差，解讀起來相當困難。目前能確定的是，爭取和平的戰鬥還遠未結束，我們必須為即將到來的一切做好準備。
 NPC_000516,"My name is Guabrill Elldoradin, the Blade Wise Man. We've all come together to guide to adventurer's such as your self on the path of the Heroes. Will you stand up for Madrigal, young one?",我是 [暗殺者賢者] 加布里。我們齊聚於此，是為了引導像你這樣的冒險者走上英雄之路。年輕人，你願意為瑪德利賈挺身而出嗎？
 NPC_000517,The Heroes will never be forgotten. Stories of their sacrifice will be told for generations to come.,英雄的偉大事蹟，任誰都無法遺忘的。
 NPC_000518,"#b#cff8a004fWelcome, competitors! The #cfff60000Guild Siege Application Center #cff8a004fis open for business!#nc#nb",#b#cff8a004f歡迎，各位競爭者！#cfff60000公會戰申請中心#cff8a004f已開放受理！#nc#nb
-NPC_000519,"If your guild has reached the point where you think you have the strength and numbers to compete against another guild, then you’re in the right place. Prove to everyone that you’re able to become a legend like Badza! ",想不想比試一下你們的勇氣與智慧呢？看誰才是最強的！
+NPC_000519,"If your guild has reached the point where you think you have the strength and numbers to compete against another guild, then you’re in the right place. Prove to everyone that you’re able to become a legend like Badza! ",若你的公會已有足夠的實力與人數，能和其他公會一較高下，那你就來對地方了。向所有人證明，你們也能成為像 Badza 一樣的傳奇！
 NPC_000520,"It's a pleasure to make your acquaintance. I am the Guild Siege Master of Flarine. Speak with me if you need general Guild Siege information, want to apply, form your party, or enter the arena.",我是布拉里斯的公會戰管理員，想了解公會戰資訊、申請、組隊或入場的話，來找我就對了。
 NPC_000521,For Glory!,為了公會的名譽，加油！
 NPC_000522,I smell human... gross!,打亂黎席斯的意志力與詛咒，要把所有的東西毀滅掉。
 NPC_000523,"We are superior to humans in all ways. You're lucky I'm even speaking to you. Now, what is it you want? Can't you see I'm busy?",我們種族比人類還要靈活呢。當然囉，雖然你們不是很想承認。但，這是事實啊~不是嗎？
 NPC_000524,"Who wants to know? You? Haha! Right, like I owe you anything at all, human. Why don't you make like a tree, and get out of here?",我要開始禁止發言了，我不喜歡人類對我產生好奇心。我絕對不會說的，知道嗎？
 NPC_000525,"Thanks for leaving, chump!",啊…好煩啊…我也該退出做這種事情了…哎呀…
-NPC_000526,"So you want to know who I am, my child? I exist... and yet, I do not exist. That is all you need to know and I will tell you no more.",我的存在對你來說並不重要……
+NPC_000526,"So you want to know who I am, my child? I exist... and yet, I do not exist. That is all you need to know and I will tell you no more.",孩子，你想知道我是誰嗎？我存在……卻又不存在。你只需要知道這些，我不會再告訴你更多。
 NPC_000527,"Shade will return, this much is certain. We can only hope to be ready for her.",不要想要認識我！我是存在 有時又不存在…
 NPC_000528,"We await the day of our impending doom. The day will come, and pass. We must stand together.",光明再現，所有的黑暗將無法遁藏！
-NPC_000529,"My name is Hormes Kudo, the Knight Wise Man. I lead those who wish to become a Knight successor, and I help to preserve the memory of the Heroes.",我手抓獨眼蝙蝠，口咬海鮮餅，腳踏幻影滑板！
+NPC_000529,"My name is Hormes Kudo, the Knight Wise Man. I lead those who wish to become a Knight successor, and I help to preserve the memory of the Heroes.",我叫霍魯美斯‧凱德，是騎士賢者。我引導有志成為騎士傳承者的人，並協助守護英雄們的記憶。
 NPC_000530,Rhisis watch over you.,黎席斯守護著你。
 NPC_000531,Draw your weapon and cut down everything that stands in your way! A Mercenary fears nothing!,把劍拿起來，砍掉眼前所有的東西！然後再前進吧！勇者啊！
 NPC_000532,"The three most important things for a successful Mercenary are instinct, courage, and level headedness. If you possess these qualities, then you have what it takes to be a Mercenary.",對勇者最重要的是慎思，正確，快速。擁有這 3 種東西時，你就可以成為真正的勇者了。
@@ -524,9 +524,9 @@ NPC_000597,"Hello, my friend. There is something I require your assistance with.
 NPC_000598,The Heroes saved us all from certain doom. We are forever grateful for their bravery. Will you follow the path of the Heroes?,他們拯救了世界，後代子孫將永遠記得！
 NPC_000599,"My name is Sage Kimel and I am here as a guide to those seeking the knowledge of the Heroes. Sage Radion is the greatest Wise Man of all of us. If you seek knowledge, go to him.",我是 8 位賢者中的其中一位，我承接大賢者拉迪溫的遺志，在這裡負責記錄英雄的歷史！
 NPC_000600,The Heroes live on through all of us.,英雄永遠存活在人民的心中！
-NPC_000601,"Hello there, traveler! This area, the plain of Bubble, was created by Bubble himself, long ago.",這裡是傳說的巴布樂平原！
+NPC_000601,"Hello there, traveler! This area, the plain of Bubble, was created by Bubble himself, long ago.",你好，旅人！這片巴布樂平原是巴布樂本人在很久以前創造的。
 NPC_000602,The earth trembled as the battle between Shade and the Heroes was fought viciously. Scars from this battle can be seen all over madrigal.,至今人們聽到那個傳說，還是會害怕不已……
-NPC_000603,"Welcome, my name is Kurmin Hersan and I watch over the Plain of Bubble. It's an amazing area filled with life. It is a powerful place that seems to fill your soul with love and euphoria.",我是負責管理巴布樂平原，歡迎你來到此地！
+NPC_000603,"Welcome, my name is Kurmin Hersan and I watch over the Plain of Bubble. It's an amazing area filled with life. It is a powerful place that seems to fill your soul with love and euphoria.",歡迎，我是守護巴布樂平原的庫魯米‧韓森。這裡充滿生命，是一片不可思議的土地；它蘊含的力量彷彿能讓靈魂充滿愛與喜悅。
 NPC_000604,"Oh man! All this shoveling, all day long! Can't I have a break?!",劍的響亮混動了天空，巨大的斧頭指向大地。所有的東西即將被奪走的象徵…
 NPC_000605,"*Langdrong grins at you*\nYou want me to say hello to you? Haha, never! I may live like you humans but I am nothing like you! So nyah!",*壞笑*\n你好啊？以為我會這樣說嘛？哈…我做的事情雖然跟人類很像，但是我跟完全不同啦！！
 NPC_000606,Me? You want to know who I am? Hahaha! What a shame the feeling isn't mutual. I am High-Dwarpet Langdrong Clo and I'm the keeper of the Mercenaries Book of Technique. Happy?,我？哈哈，真懂事啊。我很欣賞你的那個想了解我的心，嘻嘻。我是杜爾沛，名叫克羅。擔任保管勇者的東西。
@@ -538,17 +538,17 @@ NPC_000611,"Hello, welcome to Losha's Premium Foods Shop! We are here to serve t
 NPC_000612,"My name is Losha Encline. Apprentice Sotta, my little sister Loyah, and myself all live together and help to run my Food Shop. I've been told I'm the best cook in Madrigal! Care to try a Kimbap?",我的名字是洛莎恩克萊恩，索達學徒、我的妹妹蘿雅和我住在一起，幫助經營我的餐飲店。我可是瑪德利賈最好的廚師！想嚐嚐紫菜包飯嗎？
 NPC_000613,"Thank you, come again!",下次再來喔~做更好吃的東西給你吃。
 NPC_000614,Hungry? Visit my sister Losha's Food Shop! *YUM*,要不要嘗試瑪德利賈的天才廚師的美食？！
-NPC_000615,"My sister and I make a lot of super yummy food! One day, I hope to open a shop of my own, but I still have a lot to learn. Will you try some of our delicious Chicken Sticks? The secret's in the sauce!",在這餐飲店賣的東西，都是我親手做的，都很美味的喔！
-NPC_000616,"My name is Loyah Encline, and I'm a cook for my elder sister Losha's Food Shop. We're working on a new recipe for Mushpoie Stew, but I can't tell you the ingredients. It's a family secret!",我是跟我姊一起經營菈菈安餐飲店！請多多來捧場喔！
+NPC_000615,"My sister and I make a lot of super yummy food! One day, I hope to open a shop of my own, but I still have a lot to learn. Will you try some of our delicious Chicken Sticks? The secret's in the sauce!",姐姐和我會做很多超美味的料理！我希望有一天能開自己的店，不過還有很多東西要學。要不要嚐嚐我們的美味雞肉串？祕訣就在醬汁裡！
+NPC_000616,"My name is Loyah Encline, and I'm a cook for my elder sister Losha's Food Shop. We're working on a new recipe for Mushpoie Stew, but I can't tell you the ingredients. It's a family secret!",我叫樂亞‧恩克萊，是姐姐蘿夏餐飲店的廚師。我們正在研發穆斯波伊燉湯的新配方，不過材料不能告訴你，那可是家族祕方！
 NPC_000617,Bon Appetit!,謝謝你的光臨，歡迎再來！
 NPC_000618,Are you a Vagrant? Do you need weapons or armor? I've got what you need!,我販賣著所有見習生所需要的盾牌喔～
-NPC_000619,"Hello, potential customer! Thanks for stopping by! Please, feel free to look at my collection of Vagrant weapons and armor. Careful though, you touch it, you buy it!",哈哈哈～這裡有很多種商品讓你挑選～請慢慢看喔～
+NPC_000619,"Hello, potential customer! Thanks for stopping by! Please, feel free to look at my collection of Vagrant weapons and armor. Careful though, you touch it, you buy it!",你好，未來的客人！謝謝光臨，請隨意看看我收藏的初心者武器與防具。不過要小心，碰了就得買！
 NPC_000620,"My name is Luda and I run the Vagrant Store of Flarine. I opened this shop after Boboku and Boboko stopped selling Vagrant items. Now I corner the market, hahaha!",我是繼承波哥波弟見習生用品與盾牌商品，並在這裡經營見習生用品店的路達～
 NPC_000621,Be careful out there. I wouldn't want to lose a potential customer! *Chuckles*,希望你能有個難忘的冒險～
 NPC_000622,"Come one, come all! Get your supplies here! You're gonna need it!",這裡有賣很多東西喔，希望你會喜歡！
 NPC_000623,"Listen carefully, here's what I need you to do.",恩~希望多多少少能幫上忙！
 NPC_000624,"Going somewhere? You look a little unprepared, so I'd think twice about leaving Flarine without stocking up on supplies. Good thing for you, I'm here. So, whaddya need?",我弟魯尼怎麼可能跟那件事有關呢！他應該離開這裡不會再回來的！
-NPC_000625,"Who am I? I'm Lui Keraldine, of course. My friends call me Handsome Lui. Since we're not friends, why don't you just call me Lui. If you buy something from my General Store here, I *might* let you call me Handsome.",我是在布拉里斯經營雜貨店帥哥路伊，別客氣，儘管看，儘管挑！
+NPC_000625,"Who am I? I'm Lui Keraldine, of course. My friends call me Handsome Lui. Since we're not friends, why don't you just call me Lui. If you buy something from my General Store here, I *might* let you call me Handsome.",我是誰？當然是路伊‧凱拉爾丁。朋友都叫我帥哥路伊；既然我們還不是朋友，你就叫我路伊吧。要是你在我的雜貨店買點東西，我「或許」會准你叫我帥哥。
 NPC_000626,Don't forget to shop at Handsome Lui's General Shop for your adventuring needs!,下次再來喔！常客有打折喔！
 NPC_000627,"So many Vagrants, so little time!",選擇神職者之路的學徒們啊~你們即將會得到祝福的…
 NPC_000628,"Assists are masters of healing wounds in combat, enhancing abilities, and can be fierce opponents in close quarters combat. Never underestimate an Assist. ",自己立下的行為是不會消失的，要跟隨收斂與苦行，請不要對自己的收斂做出投機取巧的行為。
@@ -557,7 +557,7 @@ NPC_000630,May Bubble watch over you.,願巴布樂庇佑你。
 NPC_000631,"Are you as intrigued by magic as I am? Well, look no further! I have wands, staves, blinkwings and Magician Armor in stock now!",夢想的魔法世界！在魔力夢夢的魔法店，什麼都可以實現喔~
 NPC_000632,Please solve this mystery as soon as possible.,請儘快處理，麻煩了！
 NPC_000633,"My mentor, Mule, got himself into some trouble. I highly doubt I'll ever see him again. I've taken it upon myself to continue running his magic shop. It's the least I could do. ",我的導師，「謬」給自己惹了麻煩。我非常懷疑我是否還能再見到他。我已經擔起繼續經營他的魔法店的重任。至少這是我能做的的事情。
-NPC_000634,"My name is Marche Hordin and I run the Magic Shop here in Flarine. Teehee, I also have a crush on this hunk named Bradley! Oh um, excuse me, would you like to buy something? Please let me know if I can be of assistance.",我是在布拉里斯經營魔法店的魔力夢夢，請多多指教！
+NPC_000634,"My name is Marche Hordin and I run the Magic Shop here in Flarine. Teehee, I also have a crush on this hunk named Bradley! Oh um, excuse me, would you like to buy something? Please let me know if I can be of assistance.",我叫魔力夢夢，在布拉里斯經營魔法商店。嘻嘻，我還偷偷喜歡上一位叫 Bradley 的帥哥！啊，抱歉……你想買點東西嗎？需要幫忙儘管告訴我。
 NPC_000635,Thank you for visiting my magic shop! Be careful out there!,謝謝光臨！
 NPC_000636,The history of Madrigal... strange to say the least. I must discover the secrets!,啊…瑪德利賈的歷史…一個太奇怪了…嗯…好像有陰謀…一定有陰謀…
 NPC_000637,"Do you know anything about the history of Madrigal? No? Well I've been uncovering some fascinating information as of late. It seems that much of our history has been conveniently covered up. Interesting, huh?",你好嗎？請問你知道瑪德利賈的歷史嗎？啊？不知道喔？嗯…也對啦.身為學者的我也不太清楚。
@@ -576,15 +576,15 @@ NPC_000649,Good luck to you wherever you go. Thank you.,祝你一路順風喔~
 NPC_000650,Looks like the weather today is going to be mostly sunny with a small chance of showers!,今天的天氣是怎麼一回事呢……
 NPC_000651,"So what can you do for me, huh?",要幫忙什麼呢？
 NPC_000652,"Now that we've built this observatory, we can forecast the weather! I spent a long time building it, but it was certainly worth it. Are you interested in Astrology, young one?",我在布拉里斯天文館播報氣象，我自己相當以這工作為榮！
-NPC_000653,"That's a question I don't get asked often. Although, that may be because I don't get many visitors. My name is Noie Hedltern. I built this observatory and I manage it's day-to-day maintenance.",我是經營天文館的 [諾也]！
+NPC_000653,"That's a question I don't get asked often. Although, that may be because I don't get many visitors. My name is Noie Hedltern. I built this observatory and I manage it's day-to-day maintenance.",很少有人問我這個問題。或許是因為這裡本來就沒多少訪客吧。我叫諾也‧赫德爾頓，這座天文台是我建造的，平時也由我負責維護。
 NPC_000654,Safe travels! Stop by if you need to check on the weather!,有空再聊囉！
 NPC_000655,Welcome to Flarine!,你好啊~歡迎來到布拉里斯管理所。
 NPC_000656,"The Library is located to my right and the reception desk is to my left. You can speak with Julia for to access your bank, view ranking information, or browse your Guild Warehouse.",管理所的左邊是進行業務的地方，右邊是申請一些文件的地方喔~
 NPC_000657,"We Public Officials work directly with the mayor to better Flarine. We are here to serve you. If you have any questions, just ask!",我在協助市長的公務員，使布拉里斯發展的更好。我們公務員每天都在努力的做事，請不要忘記喔~
 NPC_000658,Thank you for visiting the Public Office. #b#cffff0000For Flarine!#nc#nb,感謝你造訪城鎮事務所。#b#cffff0000為了布拉里斯！#nc#nb
 NPC_000659,I shall cut down our enemy with one swift thrust!,可以安心了耶
-NPC_000660,"What do you want?! Can't you see I'm busy? We've got a lot of training to do! Begone, pest!",我削蘋果的技術超棒的耶！
-NPC_000661,"They call me Phoho Andere and I am one of the hired Soldiers of Kion. No one, I repeat, NO ONE is better with a blade than I am! Care to test that theory with a little wager? Hmm?",我是吉翁傭兵團員，我對自己用劍的技術相當有信心！
+NPC_000660,"What do you want?! Can't you see I'm busy? We've got a lot of training to do! Begone, pest!",你想幹什麼？！沒看到我正忙著嗎？我們還有一大堆訓練要做！快滾開，別來煩我！
+NPC_000661,"They call me Phoho Andere and I am one of the hired Soldiers of Kion. No one, I repeat, NO ONE is better with a blade than I am! Care to test that theory with a little wager? Hmm?",我叫波和‧安德烈，是吉翁僱用的士兵之一。沒有人，我再說一次，沒有人比我更會使劍！要不要下點賭注，親自驗證看看？嗯？
 NPC_000662,For Kion!,我以成為傭兵團的一份子為榮！
 NPC_000663,"Mammy, it is cold!",媽媽，我好冷喔。
 NPC_000664,"We are moving here to be with my father, but I do not like it here.",這次要跟隨爸爸搬到這裡住，但是我不是很喜歡這個地方，但是…但是…
@@ -595,7 +595,7 @@ NPC_000668,"The Great Wise Man, Radion, has decreed that we preserve the memory 
 NPC_000669,"Goodbye, brave one.",英雄的歷史將會永續下去…就像流水般永不停止…
 NPC_000670,I love my money. Can anyone else out there bathe themselves in Penya? Ha! I didn't think so!,哈哈哈，在世界上沒有比賺錢還要簡單的事情了。各位~我說的對吧！呵呵呵。
 NPC_000671,"Psha! I have no desire to talk to the poor. Leave my property now before I call the authorities! What, are you deaf? I said LEAVE! I have esteemed guests LibraX and Condulus coming over! ",哎唷，滾開啦，我怎麼可能會跟一個乞丐聊天啊。絕對不可能的啦，哈哈哈。
-NPC_000672,"I told you to leave. *Sigh* Very well, if it'll get you to leave me alone I'll tell you. My name is Rudvilhil Tailerz and my passion is collecting. Collecting rare artifacts is my obsession! Well, aside from money, of course. ",呵呵呵，我是布拉里斯的富豪蘿特泰斯，興趣是蒐集稀有的物品。
+NPC_000672,"I told you to leave. *Sigh* Very well, if it'll get you to leave me alone I'll tell you. My name is Rudvilhil Tailerz and my passion is collecting. Collecting rare artifacts is my obsession! Well, aside from money, of course. ",我叫你離開。*嘆氣* 好吧，如果告訴你就能讓我清靜，我就說。我是蘿特泰斯，熱愛收藏，對稀有文物尤其著迷！當然，除了錢以外。
 NPC_000673,What? Who doesn't like money?,只要用想的，錢就會滾進來了。呵呵呵
 NPC_000674,Soldiers! Raise the blue flag of JeongHwa! We exist for the people! We fight for the people!,士兵！高舉藍旗！我們為人民而存在！我們為人民而戰！
 NPC_000675,"The dark will be weakened wherever they step, and then new light shall shine!",英雄的出現，如同黑暗中的曙光一般。
@@ -608,19 +608,19 @@ NPC_000681,Each day has a new target! Hah!,你不相信嗎？總有一天會的�
 NPC_000682,"Something, a creature perhaps, is stirring within the Mars Mine. ",沒錯~那洞穴看起來有是怪怪的……
 NPC_000683,"Here, young one. Please pick one that you would like to do.",做你可以做到的事情吧！
 NPC_000684,"My 8 pupils and I are working feverishly to prepare Madrigal's citizens for the day that Shade returns to destroy us all. Only through the guidance and strength of the Heroes, can we hope to persevere.",我和我的 8 位門徒正全力以赴，為闇影再次回來毀滅我們的那一天，替瑪德利賈的人民做好準備。只有依靠英雄們的引導與力量，我們才有希望撐下去。
-NPC_000685,"I am known as Radion Angamel the Great Wise Man. When you've lived as long as I have, you sort of inherit the title. Nevertheless, it is our duty to use our knowledge of the Heroes to protect ourselves from impending doom.",人們都稱我為 [大賢者] 拉迪溫。或許你覺得我只是個尋常的老傢伙…
+NPC_000685,"I am known as Radion Angamel the Great Wise Man. When you've lived as long as I have, you sort of inherit the title. Nevertheless, it is our duty to use our knowledge of the Heroes to protect ourselves from impending doom.",人們稱我為大賢者拉迪溫‧安加梅爾。活得像我這麼久，這稱號也算自然落到身上了。無論如何，我們有責任運用對英雄的知識，保護自己免受迫近的災厄。
 NPC_000686,"Go with the Heroes, my child.",請慢走，有機會在多聊聊！
 NPC_000687,"I love SUSHI! I could eat it all day, every day!",想吃生魚片還是壽司呢？
-NPC_000688,"Making Sushi is a fine art, you see. You don't just boil some rice, cut up some raw fish, and wrap it in seaweed, ya' know? You have to put your heart into it. You have to LOVE it!",生魚片配辣椒醬吃超好吃的喔~
+NPC_000688,"Making Sushi is a fine art, you see. You don't just boil some rice, cut up some raw fish, and wrap it in seaweed, ya' know? You have to put your heart into it. You have to LOVE it!",做壽司可是一門精細的藝術。不是煮點飯、切些生魚，再用海苔包起來就行了，懂嗎？你得投入真心，得真正熱愛它！
 NPC_000689,"Hey there, you look a little hungry! My name is Sotta Segaku and I am the best sushi cook in al of Madrigal! Hang tight, I'll whip up some Naga Rolls just for you!",嗨你好！你看起來有點餓！我是索達，在瑪德利賈我是最厲害的壽司師傅。等一下！我幫你做些壽司吧！
 NPC_000690,You'll ever find better sushi anywhere in Madrigal!,你在瑪德利賈絕對找不到比這更棒的壽司了！
-NPC_000691,"Listen up, Soldiers of Kion! We've got a new directive from the Mayor of Flarine! It's time to train!",吉翁傭兵團集合，快！快！快！！！
+NPC_000691,"Listen up, Soldiers of Kion! We've got a new directive from the Mayor of Flarine! It's time to train!",吉翁傭兵團聽令！布拉里斯市長下達了新指示！該開始訓練了！
 NPC_000692,Are you looking for work? We can always use another hired hand here. You look like you have some skill. Show me what you got!,曾經有 8 個被人們稱為英雄的角色，在久遠的歲月中奮戰著！
 NPC_000693,"My name is Teshar Testarotsa and I'm the leader of this rag-tag bunch. I manage the house of Hero, Aenn. Have you come to join our team?",我的名字是蝶斯塔洛得，我是這些破爛的管理者。我管理著英雄阿利安諾的家。你來加入我們的團隊嗎？
 NPC_000694,"Farewell, champion! See you on the battlefield!",想成為傭兵，也不是那麼容易的！
 NPC_000695,"All I need is my hammer, Tesh! I require no training.",還不是討論這問題的時間，再說吧！
 NPC_000696,"This hammer was forged from the steel of a thousand Shuhammas! No one else is skilled or strong enough to wield it, except for me of course. You don't believe me? Try it! Hahaha!",這把錘子是用一千個槌頭機械象的鋼材鍛造而成的！除了我，沒有其他人能熟練或足夠強大來使用它。你不相信嗎？試試看！哈哈哈！
-NPC_000697,"My name is Tomba Hammer and I am a soldier of Kion. This hammer goes everywhere with me. Everywhere. I live for battle, and a little extra Penya doesn't hurt either.",想見識我的巨槌工夫嗎？
+NPC_000697,"My name is Tomba Hammer and I am a soldier of Kion. This hammer goes everywhere with me. Everywhere. I live for battle, and a little extra Penya doesn't hurt either.",我叫特巴‧漢默，是 Kion 的士兵。這把錘子不論去哪裡都跟著我，任何地方都不例外。我為戰鬥而活，當然，多賺點金幣也不壞。
 NPC_000698,Glory to Kion,為傭兵團的光榮而戰！
 NPC_000699,"~*I've, been working on the dirt pile, all the live long day!*~",看過在天空如雨般灑下的箭嗎？那就是傳說中的箭雨！
 NPC_000700,"It's rough out there, here, take this!",來！這就是你該做的事情，你沒有選擇的餘地！哇哈哈哈～
@@ -679,16 +679,16 @@ NPC_000752,"Congratulations, your are now the illustrious leader of your very ow
 NPC_000753,"Uh-oh, there seems to be a problem. Are you sure you are the party leader, have 3 party members, and have waited more than 2 days since leaving your last guild? ",哎呀，似乎有問題。你確定自己是劇團長、擁有 3 名劇團成員，且離開上一個公會已超過 2 天了嗎？
 NPC_000754,"Saint Hall is a very important structure. It is the Main Office and the symbol of Saint City. It was built long ago, and was the very first structure in our fair city. Cool, huh?",聖音特教堂是非常重要的建築。它是主要辦公處，也是聖音特的象徵。很久以前建成時，還是這座城市最早的建築呢。很厲害吧？
 NPC_000755,"You do not have 3,000,000 Penya. The tax for creating a new guild is 3,000,000 Penya. Please return to me when you have the money.","你沒有 3,000,000 金幣。建立新公會的稅金為 3,000,000 金幣。請準備好後再回來。"
-NPC_000756,My name is Helena Obette and I am the Assistant Manager of the Office of Saint City. How can I help you today?,我是聖音特城鎮服務員海蓮娜
+NPC_000756,My name is Helena Obette and I am the Assistant Manager of the Office of Saint City. How can I help you today?,我是聖音特城鎮服務處的副管理員海蓮娜‧奧貝特。今天有什麼能為你效勞的嗎？
 NPC_000757,Thanks for stopping by! Enjoy your stay in Saint City!,需要幫忙隨時來找我喔~
 NPC_000758,Such a beautiful day! It's a shame to have to work!,找到很稀有的東西了嗎？還是發現了很珍貴的東西呢？
 NPC_000759,"If you come across any rare and precious artifacts in your travels, I can take a look at it and appraise it for you. Just remember good 'ol Helgar!",有珍貴的東西嗎？可以讓我看一下嗎？什麼？不是喔？哎…好可惜喔…
-NPC_000760,"My name is Helgar and I'm a connoisseur of rare and precious artifacts. I used to be an archeologist, but then I found out that appraising artifacts for certain stinky rich people is a much better gig. It certainly pays the bills! Hahaha! ",我對稀有的東西很有興趣呢，但是，我現在是專門提供高層次的情報。
+NPC_000760,"My name is Helgar and I'm a connoisseur of rare and precious artifacts. I used to be an archeologist, but then I found out that appraising artifacts for certain stinky rich people is a much better gig. It certainly pays the bills! Hahaha! ",我叫海佳樂，是稀有珍貴文物的鑑賞家。我以前是考古學家，後來發現替某些臭有錢人鑑定文物是更好的差事，至少很能賺錢！哈哈哈！
 NPC_000761,Safe travels! Stop by if you run across any rare artifacts!,祝你一路順風喔~
 NPC_000762,Gah! An Aibatt's genetic structure is so perplexing! It's like... winged-cyclops DNA!,嘎！獨眼蝙蝠的基因結構真是令人費解！它就像…有翼獨眼巨人 DNA！
 NPC_000763,"The Madrigal Laboratory is here inside Saint Hall. It is the biggest science institute in all of Madrigal. The flying boards and brooms that we all use were developed here! Pretty cool, huh?",瑪德利賈實驗室就在聖音特教堂裡，是瑪德利賈最大的研究中心。我們使用的飛行板和飛天掃帚也都是在這裡開發的！很厲害吧？
 NPC_000764,"My name is Heltung Mondugane and I am the Chief Researcher of Project 2 here at the Madrigal Laboratory. I would show you around the lab, but we are running some Top Secret experiments at the moment.",我的名字是核騰・蒙杜根，是瑪德利賈研究所第 2 計畫的首席研究員。我很想帶你參觀研究所，但我們目前正在進行最高機密實驗。
-NPC_000765,"Ciao! Hey, if you come across any new species of Masquerpet, let me know!",祝你一路順風喔~
+NPC_000765,"Ciao! Hey, if you come across any new species of Masquerpet, let me know!",再會！嘿，要是發現任何新種的魔物，記得告訴我！
 NPC_000766,My name is Herth Emaldhan and I am a guide in Saint City.,我是聖音特城鎮服務員海斯
 NPC_000767,My name is Janne Orgriman and I am a guide in Saint City.,我是聖音特城鎮服務員傑勒
 NPC_000768,"Please find my child! Please, Please,",拜託你~幫我找一下我的孩子！！拜託…拜託…我的…孩子…嗚嗚…
@@ -704,14 +704,14 @@ NPC_000777,My name is Kimberley Prosis and I am a guide here in Saint City And J
 NPC_000778,We offer quests put out by the citizens of Saint City. These quests are for anyone who is level 27 or higher.,有很多委託任務等著你喔～27 級以上的玩家來挑戰吧～
 NPC_000779,Welcome! My name is Lancomi and I am the head of the quest center in Saint City. We collect quests from the citizens and then list them here for you.,我是聖音特委託中心的仲介人藍可美。我會從聖音特居民那裡，提供一些委託任務給冒險家們進行任務喔！
 NPC_000780,My name is Leann Hentte and I am a guide here in Saint City.,我是聖音特解說員溫蒂。
-NPC_000781,My name is Saint Pang. I am the second child of the Pang family. We have been managing the Lodelight for generations.,我是管理生命光柱的聖音特胖胖。
+NPC_000781,My name is Saint Pang. I am the second child of the Pang family. We have been managing the Lodelight for generations.,我是聖音特胖胖，胖胖家族的次子。我們家族世世代代都在管理生命光柱。
 NPC_000782,Honor the will of Rhisis! Show the anger of Rhisis! Be the curse of Rhisis!,接受黎席斯的意志吧！接受黎席斯的忿怒吧！接受黎席斯的詛咒吧！
 NPC_000783,Being a Magician requires strong spirit. You cannot be a real Magician if you do not train your spirit well.,法師需要一個強韌的精神。如果在訓練中投機取巧的話，你就沒有資格成為一個魔法師了。
 NPC_000784,I am Sergeant Lopaze Jenip of the Madrigal Job Training Center I will help you to become the best Magician.,我是瑪德利賈職業訓練中心的助教螺波提尼，我會協助你成為最出色的魔法師。
 NPC_000785,Strong spirit! This is the symbol of the Magician. Please do not forget that.,強韌的精神！這就是魔法師的象徵。
 NPC_000786,"Do you want to use great and powerful magic? Then you should visit me, Martin!",如果想經驗精采的魔法，就來找我馬丁喔~
 NPC_000787,"Here, there are lots of things to ask you Ha ha ha",很多是你可以幫助我的喔~
-NPC_000788,"I heard that Mule got into trouble In terms of magic skill, Mule was much better than me. What a pity, I think Marche is having a hard time because of the incident.",聽說謬發生了一些問題，他擁有很好的實力，真可惜~
+NPC_000788,"I heard that Mule got into trouble In terms of magic skill, Mule was much better than me. What a pity, I think Marche is having a hard time because of the incident.",聽說謬惹上了麻煩。論魔法實力，謬遠勝於我，真可惜。我想魔力夢夢也因為這起事件過得很辛苦。
 NPC_000789,My name is Martin Scornsiege and I run the Magic Shop in Saint City I am also the chairman of the Society for the Study of Magic Ha ha ha,我是在聖音特經營魔法店的馬丁，也是聖音特魔法協會會長喔。
 NPC_000790,Good bye I hope your path will be lit by magical power.,慢走喔~願魔力常伴隨你左右。
 NPC_000791,"Oh, cool! Wow! I really want to have one!",哇！好帥喔~我超想要那個的~
@@ -761,8 +761,8 @@ NPC_000834,Have at thee! Ha!,可以幫什麼忙呢？
 NPC_000835,"Our feud runs deep, Romao! You cannot have my sister!",那女生不適合你，再去找一個更好的吧！
 NPC_000836,"Parting is such sweet... Erhm, line please?",你要帶到什麼時候呢？快點跟我回去吧～
 NPC_000837,"Juliat, he doesn't want you anymore. On the bright side, you get to live!",難道你，還沒辦法決定嗎？
-NPC_000838,"I really need to finish these accounting numbers for the troupe. Man, I sure do hate math.",可以幫什麼忙呢？
-NPC_000839,"Oh, Iblis above! We have so much to do before our next performance. Will we be ready?",看～～那～美麗的山水～
+NPC_000838,"I really need to finish these accounting numbers for the troupe. Man, I sure do hate math.",我真的得把劇團的帳目算完。唉，我實在討厭數學。
+NPC_000839,"Oh, Iblis above! We have so much to do before our next performance. Will we be ready?",伊普里司在上！下次演出前還有這麼多事要做，我們來得及準備好嗎？
 NPC_000840,Where's my daughter? Has anyone seen her?,從前有一個很漂亮的女孩～～他叫小龍女～哈～
 NPC_000841,Pepoview! Pepoview! I love the cheer of the crowd after a good performance.,我的女兒小龍女啊～～以後該怎麼辦呢…她的情郎過兒竟然如此的不爭氣啊～
 NPC_000842,Would you do me a favor?,有件事情想要拜託你～請問你有空嗎？
@@ -787,21 +787,21 @@ NPC_000860,I am making the rounds in order to hear the opinions of people in Dar
 NPC_000861,I am the Mayor of Darken City.,我是得肯市長。
 NPC_000862,For Darken!,得肯萬歲！
 NPC_000863,"Hmm It seems that you are not the party leader, or you have less than 3 party members. Also, it may not have been more than 2 days since you left your old guild.",嗯…看來你不是劇團長，或劇團成員少於 3 人。另外，你離開舊公會可能還未超過 2 天。
-NPC_000864,"Are you ready to create your new guild? If you are not, please go I am very busy right now.",我很忙的~請準備好再過來吧！
+NPC_000864,"Are you ready to create your new guild? If you are not, please go I am very busy right now.",你準備好創立新公會了嗎？如果還沒準備好就先離開，我現在很忙。
 NPC_CREATEGUILD,Create Guild,創立公會
 NPC_KEEPGOING,Keep Going,繼續進行
 NPC_000868,Leave my sight if you lack the necessary skills to succeed!,還沒承接任務的人，我可幫不了你！
 NPC_000869,"Speak with the Mayor of Saint City and complete the tasks he gives you. Then, collect the Rubies of Joy, Anger, and Sorrow. \n#bRequirement:\n - Must be the leader of a party and all party members must be between level 70 and 75.",與聖音特市長交談並完成任務。然後收集喜怒哀樂寶石。\n#b 要求：\n必須劇團的團長，且所有團員都必須在 70 到 75 等之間。
 NPC_000870,"You can't do this by yourself, you fool! Come back when you find some friends",只有我一個人，什麼事情都做不到好耶~
 NPC_000871,You will need to wait before you can challenge Iblis Leanes again.,想挑戰是嗎？等我一下吧~
-NPC_000873,"I cannot help you until you bring me the Rubies of Joy, Anger and Sorrow.",先把寶物都收集到吧！
-NPC_000874,"If you bring me the rubies of Joy, Anger and Sorrow, I will allow you access to a secret tomb containing the creature Iblis Leanes.",我不會放水的，先把寶物都收集到吧！
+NPC_000873,"I cannot help you until you bring me the Rubies of Joy, Anger and Sorrow.",在你帶來喜悅、憤怒與悲傷紅寶石之前，我無法幫助你。
+NPC_000874,"If you bring me the rubies of Joy, Anger and Sorrow, I will allow you access to a secret tomb containing the creature Iblis Leanes.",只要帶來喜悅、憤怒與悲傷紅寶石，我就會讓你進入囚禁伊普里司‧里恩斯的祕密陵墓。
 NPC_000875,"Are you too afraid to confront Iblis Leanes? Very well, as you wish.",想知道未知的地區有什麼嗎？要先賣個關子才行！
 NPC_000876,"I have no interest in getting to know you, stranger. Just bring me the rubies, and I will take you to the tomb.",我要的只有喜怒哀寶物，收集好給我就可以到特別的地方去！
-NPC_000877,Iblis Leanes awaits a new challenger. Will you avenge the souls he bewitched?,再見囉~
+NPC_000877,Iblis Leanes awaits a new challenger. Will you avenge the souls he bewitched?,伊普里司‧里恩斯正等待新的挑戰者。你願意為受牠蠱惑的靈魂復仇嗎？
 NPC_000879,"Ugh, I am so BORED! Isn't there anyone out there that can make me laugh? Isn't there anything fun to do?",啊！！！好無聊喔！沒有好玩的事情嗎？我快無聊死了啦！
-NPC_000880,"If you happen across any strange keys during your travels, do you mind trying them on this lock? Thanks!",別猶豫了，趕快決定吧！
-NPC_000881,"Hey, you there! Listen, I need some entertainment. It's pretty cramped in here. Do you know any jokes? Please, anything! I'd even settle for a 'Knock-knock' joke at this point!",很有趣的東西，你試了就知道！
+NPC_000880,"If you happen across any strange keys during your travels, do you mind trying them on this lock? Thanks!",如果你在旅途中碰巧找到奇怪的鑰匙，可以拿來試試這把鎖嗎？謝謝！
+NPC_000881,"Hey, you there! Listen, I need some entertainment. It's pretty cramped in here. Do you know any jokes? Please, anything! I'd even settle for a 'Knock-knock' joke at this point!",嘿，就是你！聽著，我需要找點樂子。這裡實在太擠了。你會講笑話嗎？拜託，什麼都好！事到如今，就算只是敲門笑話我也接受！
 NPC_000882,"I am most certainly not a well-known Magician that accidentally locked himself inside of a Magic Box. Nope, that's not me, and I haven't seen anyone like that. Nope. Anywho, so an Acrobat, a Mercenary and an Aibatt walk into a bar... ",我絕對不是一個不小心把自己關在魔法盒裡的著名魔術師。不，那不是我，我也沒見過這樣的人。沒有。無論如何，雜技師、傭兵和獨眼蝙蝠走進酒吧…
 NPC_000883,"Gee, I hope there's enough air in here... Farewell!",超好玩的！下次再來喔~謝謝你啦。
 NPC_000884,I will give you a bead if you bring me sesame cake.,收集芝麻年糕可兌換晶球喔！
@@ -880,7 +880,7 @@ NPC_001090,Would anyone like a jewel crafted or perhaps a jewelry setting create
 NPC_001091,"Hi there! I offer jewelry services to the citizens of Flarine and create and set jewels for those wishing to modify their Rare Weapons. I also remove blessings and level reductions from items, among other things!",你好呀！我為 布拉里斯鎮 的市民提供首飾服務，並為那些希望修改稀有武器的人製作和鑲嵌寶石。除其他外，我還刪除了物品的祝福和等級降低！
 NPC_001092,My name is Peach! I'm here to assist Boboku and help supplement his upgrading business. Stop by anytime!,我叫波奇！我來這裡是為了協助波哥 並幫助補充他的升級業務。隨時歡迎你來！
 NPC_001093,"Take care. Remember, for anything to do with jewels, I'm your girl!",小心。請記住，與寶石有關的任何事情，我都是你的女孩！
-NPC_001130,We're running out of time! The newly appointed lord will be here soon!,We're running out of time! The newly appointed lord will be here soon!
+NPC_001130,We're running out of time! The newly appointed lord will be here soon!,時間不多了！新任領主很快就會到任！
 NPC_001219,Attention everyone! We are looking for new Mentors. I will get you started on your way to becoming a Mentor!,大家注意！我們正在尋找新的導師。我將幫助你開始成為導師！
 NPC_001220,Come see me if you want to become a Mentor. ,如果你想成為導師，請來找我。
 NPC_001221,"It is not easy to find worthy people to walk the path of a Mentor, it isn't for everyone.",找到合適的人，走導師的道路並不容易，它並不適合所有人。
@@ -956,7 +956,7 @@ NPC_100009,You are not our friend.,你不是我們的朋友。
 NPC_100010,I am the leader of the MewMew people.,我是喵喵人的領袖。
 NPC_100011,Goodbye.,再見～！
 NPC_100012,"Hi, I'm Letana.",你好，我是雷塔納
-NPC_100013,Locku has appointed me a MewMew hunter and I intend to honour him by supplying MewMew refugees with fresh game every day.,洛克任命我為喵喵獵人，我打算通過每天為喵喵難民提供新鮮的獵物來紀念他。
+NPC_100013,Locku has appointed me a MewMew hunter and I intend to honour him by supplying MewMew refugees with fresh game every day.,洛克任命我為喵喵獵人，我打算每天為喵喵難民供應新鮮獵物，以此向他致敬。
 NPC_100014,I am the hunter of the MewMew people.,我是喵喵人的獵人
 NPC_100015,Goodbye and see you soon.,再見，很快會再見的。
 NPC_100016,Ah! Life in a tent is harder than you think.,啊！帳篷裡的生活比你想像的還要難喔
@@ -997,7 +997,7 @@ NPC_100050,A traveler? In this place? Oh my.,旅行者？在這個地方？天�
 NPC_100051,Hm.,嗯
 NPC_100052,This is no place for travelers. You must leave if you value your life.,這裡不適合旅行者，你必須離開，如果你珍惜生命的話。
 NPC_100053,The name's Buur! I love crystals more than anything. I can't get enough crystals. There is no such thing as too many crystals.,名字叫布爾！我愛水晶勝過一切，我無法獲得足夠的水晶，水晶永遠都不嫌多。
-NPC_100054,I love crystals but they are so hard to come by. You can only get crystals by defeating a masquerpet here.,我喜歡水晶，但很難買到。你只能通過在這裡擊敗怪物來獲得水晶。
+NPC_100054,I love crystals but they are so hard to come by. You can only get crystals by defeating a masquerpet here.,我喜歡水晶，但水晶很難取得。只有擊敗這裡的怪物才能獲得。
 NPC_100055,You like crystals right? No way! Me too! I honestly can't believe it. We both like crystals!,你喜歡水晶對嗎？不會吧！我也是！老實說，我不敢相信。我們都喜歡水晶！
 NPC_100056,,
 NPC_100057,,
@@ -1073,7 +1073,7 @@ NPC_100126,"We will probably meet again, and I might have more items for you nex
 NPC_100127,"Hi, I am Private Leo. I got separated from my group after entering this dungeon.",嗨，我是列兵里奧。進入這座副本後，我和我的隊伍失散了。
 NPC_100128,"Thank you for saving me, I owe you one!",謝謝你救了我，這份恩情我記下了！
 NPC_100129,Let's get out of here!,我們快離開這裡吧！
-NPC_400000,Collect some #bW-Token#nb from masquerpets and I will give you nice rewards!,從魔物身上蒐集一些 #bW-Token#nb，我就會給你不錯的獎勵！
+NPC_400000,Collect some #bW-Token#nb from masquerpets and I will give you nice rewards!,從魔物身上蒐集一些#bW 代幣#nb，我就會給你不錯的獎勵！
 NPC_100130,"Upgrade Costume Boxes with Repair Hammer that drops when you hunt a monster, and get various items!",用狩獵怪物時掉落的修復鐵鎚來升級時裝盒，並獲得各種道具！
 NPC_100131,"I'm the guardian of The Wilds, a wild and savage realm. What brings you here?",我是「荒野叢境」的守護者，那是一片狂野而兇殘的領域。你來這裡做什麼？
 NPC_100132,Always another group thinking they can conquer 'The Wilds.' Let's see who comes out in one piece this time.,又來了一群自以為能征服「荒野叢境」的人。這次就看看最後有誰能完整走出去吧。
@@ -1090,7 +1090,7 @@ NPC_100142,"Hello, my name is Lousiana, and I manage this ship.",你好，我叫
 NPC_100143,"Look who we have here on the vibrant shores of Coral Island! After all these years, fresh faces like yours bring a spark of excitement to my inventor's heart. With your helping hand, I just might accelerate the pace of my ingenious projects!",瞧瞧是誰來到珊瑚島熱鬧的海岸啦！這麼多年過去，像你這樣的新面孔又讓我這顆發明家的心燃起興奮火花。有了你的幫助，我或許能加快那些奇想計畫的進度！
 NPC_100144,"Hey there! It's a thrill to have you join our little island community! I'm on the brink of something revolutionary, and I need someone as creative and ambitious as you to help me build my next groundbreaking invention. Together, we can shape the destiny of Madrigal!",嘿，歡迎加入我們這座小島社群，真令人振奮！我正站在某項革命性創舉的邊緣，需要像你這樣既有創意又有野心的人，幫我打造下一個劃時代發明。一起改寫瑪德利賈的命運吧！
 NPC_100145,"Building complex machinery is like crafting art - it takes time, patience, and vision. If you're intrigued by the world of invention and wish to collaborate in the future, know that I'll be here, ready to embark on electrifying ventures!",打造複雜機械就像創作藝術——需要時間、耐心與遠見。如果你對發明的世界感到著迷，未來也想一同合作，那就記住，我會一直在這裡，準備展開令人熱血沸騰的新冒險！
-NPC_100146,"Greetings, I'm Remi! A fervent inventor who can't resist the allure of gadgets and gizmos. Coral Island is my canvas, and I'm constantly conjuring up new marvels and tinkering with the unknown.",你好，我是 Remi！一名無法抗拒各種裝置與小玩意魅力的狂熱發明家。珊瑚島就是我的畫布，而我總是不斷創造新奇作品，探索未知、改造萬物。
+NPC_100146,"Greetings, I'm Remi! A fervent inventor who can't resist the allure of gadgets and gizmos. Coral Island is my canvas, and I'm constantly conjuring up new marvels and tinkering with the unknown.",你好，我是蕾米！我是個狂熱的發明家，完全無法抗拒各種裝置與小玩意的魅力。珊瑚島就是我的畫布，我總是不斷創造新奇事物，擺弄各種未知的東西。
 NPC_100147,"As you set forth on your adventures across this bewitching island, remember it's a realm of both beauty and peril. Be cautious, intrepid traveler, for the world of invention may be exhilarating, but Madrigal can be equally treacherous!",當你踏上這座迷人島嶼的冒險旅程時，請記住，這裡既美麗也危險。務必小心，勇敢的旅人——發明的世界或許令人興奮，但瑪德利賈同樣暗藏凶險！
 NPC_100148,"Welcome to our charming Coral Island village! I've dedicated myself to mastering the culinary arts, conjuring delectable dishes with the island's finest ingredients.",歡迎來到我們迷人的珊瑚島村莊！我一直致力於精進廚藝，使用島上最優質的食材變化出一道道美味佳餚。
 NPC_100149,"Oh, what a delight to have new and hungry souls to satiate! There's no greater joy for a chef like me than the smiles and satisfaction of full bellies.",啊，能有新的飢腸轆轆旅人上門，真是太令人開心了！對像我這樣的廚師而言，沒有什麼比看見大家吃得滿足、露出笑容更快樂的事了。
@@ -1107,7 +1107,7 @@ NPC_100159,We're deeply grateful for your kindness and support in helping our ti
 NPC_100160,"Coral Island is a treasure trove of experiences waiting to be explored. Take your sweet time, immerse yourself in the lush jungles, and set sail on the boundless seas that surround this enchanting island.",珊瑚島是一座等待探索的體驗寶庫。慢慢來吧，沉浸在茂密叢林之中，再啟航穿越環繞這座迷人島嶼的無垠海洋。
 NPC_100161,"I'm Kammie, your friendly neighborhood General Vendor. I make sure our village stays well-stocked with all the essentials our villagers and allies need to brave the wild frontiers of Coral Island.",我是卡米，你親切的雜貨商。我會確保我們的村莊始終備齊村民和盟友在珊瑚島荒野中生存所需的一切基本用品。
 NPC_100162,"Don't be a stranger, dear visitor! If there's ever anything you desire or require, do return for a visit. I'll be here with open arms and a collection of goods to make your heart flutter!",別客氣，親愛的訪客！只要你有任何想要或需要的東西，隨時都歡迎回來找我。我會張開雙手、帶著滿滿貨品，在這裡等著讓你心動！
-NPC_100163,"Hohoho, this island is a treasure trove of enigmas and formidable beasts! If you seek the keys to ultimate power, you're in the right place. The secrets are out there for the taking.",呵呵呵，這座島上充滿謎團與可怕猛獸！若你正在尋找通往 Ultimate 力量的鑰匙，那你來對地方了。那些秘密就等著人去揭開。
+NPC_100163,"Hohoho, this island is a treasure trove of enigmas and formidable beasts! If you seek the keys to ultimate power, you're in the right place. The secrets are out there for the taking.",呵呵呵，這座島上充滿謎團與可怕猛獸！若你正在尋找通往究極力量的鑰匙，那你來對地方了。那些秘密就等著人去揭開。
 NPC_100164,Your bravery is your greatest asset in the boundless adventures that Coral Island offers. May every experience on our extraordinary island be etched in your heart and memory!,在珊瑚島無邊無際的冒險中，勇氣就是你最大的資產。願你在這座非凡島嶼上的每一次經歷，都深深刻進你的心與記憶之中！
 NPC_100165,"Know that you are always welcomed with open arms in our village, no matter how far your travels take you. Return to our cozy haven whenever you wish.",無論你的旅程將你帶往多遠，請記住，我們的村莊永遠都會張開雙臂歡迎你。只要你願意，隨時都可以回到這片溫暖的避風港。
 NPC_100166,"Greetings, fellow adventurer! I'm BoBu, the mighty blacksmith of Coral Island village, and this little winged friend is Polly. Together, we forge the most potent armor for our villagers, and now, for our esteemed visitors like you!",你好啊，冒險者同伴！我是珊瑚島村莊強大的鐵匠波布，而這位長著翅膀的小夥伴叫 Polly。我們一起為村民打造最堅固的防具，如今也會為像你這樣尊貴的來訪者服務！
@@ -1117,18 +1117,18 @@ NPC_100169,"Ah, I can see you're as keen as the sharpest of blades! It's an abso
 NPC_100170,"Remember, dreams are like trees. They bear fruit only when nurtured with determination and action.",記住，夢想就像樹木，唯有以決心與行動灌溉，才能結出果實。
 NPC_100171,"Step into my workshop, my friend! I'm Talus, your weapon master at Coral Island village. I work endlessly to craft potent weapons for our village's protection and hunting needs.",踏進我的工坊吧，朋友！我是珊瑚島村莊的武器大師塔盧斯。我日夜不停地鍛造強力武器，好守護村莊並滿足狩獵所需。
 NPC_100172,"Should the need arise for weapon enhancement or if you seek the craftsmanship of a true master, don't hesitate to return. I'm here to empower you on your journey!",若你有武器強化的需求，或想尋求真正大師的工藝，千萬別客氣，儘管再回來找我。我會在這裡，為你的旅程注入力量！
-NPC_100173,"The elusive secrets of Ultimate power are concealed within the very heart of Coral Island, waiting to be unveiled.",Ultimate 力量那難以捉摸的秘密，就隱藏在珊瑚島最深處，等待被揭曉。
-NPC_100174,"Should your determination remain steady, the day may dawn when the keys to Ultimate power are yours to wield.",只要你的決心始終不動搖，總有一天，掌握 Ultimate 力量鑰匙的那個人就會是你。
+NPC_100173,"The elusive secrets of Ultimate power are concealed within the very heart of Coral Island, waiting to be unveiled.",究極力量那難以捉摸的秘密，就隱藏在珊瑚島最深處，等待被揭曉。
+NPC_100174,"Should your determination remain steady, the day may dawn when the keys to Ultimate power are yours to wield.",只要你的決心始終不動搖，總有一天，你將能親手掌握究極力量的鑰匙。
 NPC_100175,"The journey to uncover the island's arcane mysteries lies before you, should you dare to embark upon it.",揭開這座島嶼奧秘的旅程就在你眼前——只要你有膽量踏上它。
-NPC_100176,My desire is to witness the revelation of Ultimate power in those who prove themselves worthy of such extraordinary gifts.,我最大的願望，就是看見那些證明自己配得上這份非凡恩賜的人，真正覺醒 Ultimate 的力量。
-NPC_100177,"Return to my side bearing the essence of Ultima, and in exchange, I shall bestow upon you a fragment of the unfathomable Ultimate power.",帶著終極精粹的精髓回到我身邊吧；作為交換，我將賜予你一縷深不可測的 Ultimate 力量。
+NPC_100176,My desire is to witness the revelation of Ultimate power in those who prove themselves worthy of such extraordinary gifts.,我最大的願望，就是看見那些證明自己配得上這份非凡恩賜的人，真正覺醒究極力量。
+NPC_100177,"Return to my side bearing the essence of Ultima, and in exchange, I shall bestow upon you a fragment of the unfathomable Ultimate power.",帶著終極精粹回到我身邊吧；作為交換，我將賜予你一部分深不可測的究極力量。
 NPC_100178,Happy New Year~!\nMay the new year of 2024 be full of fun adventures!,新年快樂～！\n願 2024 年充滿有趣的冒險！
 NPC_100179,"Hi! I would like to ask you a favor, could you hear me out?",嗨！我想請你幫個忙，可以先聽我說嗎？
 NPC_100180,"Have you heard of the rumor? The rumor that a blacksmith made a couple ring thinking only about his beloved until he died after losing her in an accident! When lovers put on the couple's ring and think about going to their lover, they fly to their lover in an instant, which is amazing, isn't it?",你聽過那個傳聞嗎？有一位鐵匠在摯愛因意外離世後，懷著對她的思念製作了一枚情侶戒指，直到死去都未曾改變！當戀人戴上那枚情侶戒，心裡想著前往戀人身邊時，就能在一瞬間飛到對方那裡。很神奇，對吧？
 NPC_100181,Do you want to exit the dungeon?,你想離開這個副本嗎？
 NPC_100182,"Did you know that the more you polish seashells in the sea, the more beautiful they become? I once saw seashells that were very highly polished. It was so beautiful.\nI know where I can get the materials I need to polish clams. Can you get the material there and polish the shells? It's dangerous, but it might be a great vacation for you",你知道嗎？海裡的貝殼越是細心打磨，就會變得越漂亮。我曾經看過被拋磨得非常精緻的貝殼，真的美極了。\n我知道能取得拋磨蛤蜊材料的地方。你願意幫我去拿那些材料，來打磨這些貝殼嗎？雖然有點危險，但說不定也會成為你一場很棒的度假旅程。
 NPC_100183,"It's the 20th anniversary of Flyff! How are you celebrating this lovely occasion? I'm going to be reminiscing, reading up on all kinds of history...",飛飛已經 20 週年了！你準備怎麼慶祝這個美好的時刻呢？我打算好好回味，讀遍各式各樣的歷史故事……
-NPC_100184,"In order for me to give you a quest, all partners of your couple must be online!",若要讓我給你任務，你的情侶對象必須全部在線上才行！
+NPC_100184,"In order for me to give you a quest, all partners of your couple must be online!",若要讓我給你任務，你的情侶對象必須全部線上才行！
 NPC_100185,"I am Cupid, the messenger of love sent from the heavens. I've been dispatched to fill Madrigal with love. If you have someone you love, don't hesitate, confess your feelings using a ring!",我是丘比特，來自天界的愛之使者。我被派來讓瑪德利賈充滿愛意。如果你心中有愛的人，別再猶豫了，拿起戒指向對方表白吧！
 NPC_100186,"Hello there. Enjoying your life in Madrigal? If you wish to expand your horizons, come see me.",你好啊。在瑪德利賈的生活還愉快嗎？若你想拓展自己的視野，就來找我吧。
 NPC_100187,"Speaking of me, I'm a master of thousand crafts. Herbs, trees, ores, fish, anything you don't know about this world, ask me. I'll tell you all about it.",至於我嘛，我可是通曉千藝的大師。草藥、樹木、礦石、魚類——凡是你對這個世界不明白的事，都可以來問我。我會把一切都告訴你。
@@ -1204,7 +1204,7 @@ NPC_150059,"I’m Ebron, just an old man with too much spare time. Live long eno
 NPC_150060,"Time is a strange thing, isn’t it?",時間這東西，很奇妙，不是嗎？
 NPC_150061,Stock up on supplies before you leave. Better to have too much than too little.,出發前先把補給備齊。東西多一點，總比少一點好。
 NPC_150062,"I’m Liana, owner of the general store. Traveler or villager, I’ll make sure you get what you need.",我是莉安娜，雜貨店老闆。不管你是旅人還是村民，我都會確保你拿到需要的東西。
-NPC_150063,"Hand over the Penya peacefully, and no one gets hurt.",乖乖把 Penya 交出來，就不會有人受傷。
+NPC_150063,"Hand over the Penya peacefully, and no one gets hurt.",乖乖把金幣交出來，就不會有人受傷。
 NPC_150064,Look at this gemstone! It’s not just jewelry—it’s art.,看看這顆寶石！它可不只是首飾——它是藝術。
 NPC_150065,"I’m Teron. When it comes to gems, my eyes are sharper than anyone’s. I can find the perfect one for you.",我是特倫。說到寶石，我的眼光比誰都銳利。我可以替你找出最適合你的那一顆。
 NPC_150066,Jewels are art! Do you appreciate art? Train your eye—your skills might improve along with it.,寶石就是藝術！你懂得欣賞藝術嗎？磨練你的眼光吧——你的本事說不定也會一起提升。
@@ -1331,7 +1331,7 @@ NPC_150183,The nightmares are getting stronger. I need someone brave enough to h
 NPC_150184,Hunting's been tough lately. I could use help tracking down some prey.,最近狩獵不太順利。我需要有人幫我追蹤一些獵物。
 NPC_150185,Security is getting worse every day. I need someone to help me investigate a threat.,這裡的安全狀況一天比一天差。我需要有人幫我調查某個威脅。
 NPC_150186,Welcome to the #b#cffff0000Eillun Quest Office#nc#nb! Looking for work? I may have a job for you...,歡迎來到 #b#cffff0000艾爾倫任務辦公室#nc#nb！在找工作嗎？我這裡也許有份差事適合你……
-NPC_150187,Welcome to the Quest Office! The local citizens have issued the following quests. Please select the quest you wish to take from the list below.,你好~幫你準備的以下的任務喔~
+NPC_150187,Welcome to the Quest Office! The local citizens have issued the following quests. Please select the quest you wish to take from the list below.,歡迎來到任務中心！以下是當地居民提出的委託，請從清單中選擇想接受的任務。
 NPC_150188,"My apologies, there are no quests available for an adventurer of your talent and skill at this time. ",沒有多餘的任務可以提供給你了…下次再來吧！
 NPC_150189,"My name is Miorang and I am the manager of the Eillun Quest Office. When our citizens post a hunting order or another task, it is my job to find the right candidate for the job. Check back in from time to time to see if I have anything available!",我叫米奧朗，是艾爾倫任務辦公室的管理員。當居民張貼狩獵委託或其他工作時，我的職責就是替那份工作找出合適的人選。記得偶爾回來看看，也許我這裡會有新的委託！
 NPC_150190,Farewell!,祝你好運！
@@ -1349,36 +1349,36 @@ NPC_150201,I've spotted a security issue that needs immediate attention. Can you
 NPC_100198,Let luck do its thing.,就讓運氣決定吧。
 NPC_100199,I deal in pieces and fortune.\nCare to try your luck?,我做的是碎片與運氣的買賣。\n要試試你的手氣嗎？
 NPC_100200,Wanna test your luck?,想試試你的運氣嗎？
-NPC_150202,#b#cff8a004fThe #cfff60000Level 165 Guild Siege Application Center #cff8a004fis open! Enjoy it before your third class!#nc#nb,#b#cff8a004fThe #cfff60000Level 165 Guild Siege Application Center #cff8a004fis open! Enjoy it before your third class!#nc#nb
-NPC_150203,Good Luck!,Good Luck!
-NPC_155001,The fields are still in trouble. Stay sharp—whatever's in there isn't done yet.,The fields are still in trouble. Stay sharp—whatever's in there isn't done yet.
-NPC_155002,"O-oh! You're from the guard, r-right? I-I swear, it's not just bad farming! The mushrooms just… changed. S-something's not right, I'm telling you…","O-oh! You're from the guard, r-right? I-I swear, it's not just bad farming! The mushrooms just… changed. S-something's not right, I'm telling you…"
-NPC_155003,"So the guard finally noticed, huh. Took you long enough. If you want answers, you'd better be ready to hear them.","So the guard finally noticed, huh. Took you long enough. If you want answers, you'd better be ready to hear them."
-NPC_155004,"Fascinating, isn't it? The crops here aren't simply rotting—they're changing. Now that you're here, we should report this immediately.","Fascinating, isn't it? The crops here aren't simply rotting—they're changing. Now that you're here, we should report this immediately."
-NPC_155010,"P-Please help! The plants here... they're moving, they're alive!","P-Please help! The plants here... they're moving, they're alive!"
-NPC_155011,"I'm Sprout. I used to work on this farm... well, I guess it WAS a farm...","I'm Sprout. I used to work on this farm... well, I guess it WAS a farm..."
-NPC_155012,Please save me... I just want to get out of here...,Please save me... I just want to get out of here...
-NPC_155013,"Tch, those damn Lycan... If I get out of here alive, they'll pay...!","Tch, those damn Lycan... If I get out of here alive, they'll pay...!"
-NPC_155014,"Name's Thorn. This wasn't exactly the thing to shed blood... but now it's gotten real interesting, hasn't it.","Name's Thorn. This wasn't exactly the thing to shed blood... but now it's gotten real interesting, hasn't it."
-NPC_155015,"Damn it, there are still people trapped inside!","Damn it, there are still people trapped inside!"
-NPC_155016,You're the rescue team? Good. You'll need my observation records.,You're the rescue team? Good. You'll need my observation records.
-NPC_155017,"I'm Root. I was in charge of plant mutation management and cultivation... Well, I WAS. Now I'm investigating this incident.","I'm Root. I was in charge of plant mutation management and cultivation... Well, I WAS. Now I'm investigating this incident."
-NPC_155018,Hmm... I should document that mutation pattern...,Hmm... I should document that mutation pattern...
-NPC_155019,"This is serious… For something like this to happen inside the village…\nWe need to contain it, and fast.","This is serious… For something like this to happen inside the village…\nWe need to contain it, and fast."
-NPC_155020,Baron here. Have you found the three yet?,Baron here. Have you found the three yet?
-NPC_155021,We don’t have much time. Every delay makes things worse.,We don’t have much time. Every delay makes things worse.
-NPC_156000,P-please help me! I-I can't go back to the village like this! W-what if those things show up again? I-I won't make it on my own...,P-please help me! I-I can't go back to the village like this! W-what if those things show up again? I-I won't make it on my own...
-NPC_156001,"W-wait... you're leaving me here?! P-please, I'm begging you... I can't do this alone...","W-wait... you're leaving me here?! P-please, I'm begging you... I can't do this alone..."
-NPC_156002,Y-you did it! Th-thank you so much! I... I don't know what I would have done without you. Th-thank you...,Y-you did it! Th-thank you so much! I... I don't know what I would have done without you. Th-thank you...
-NPC_156003,You. Good. Something out there is watching us... I'm not letting it compromise this operation. Stay sharp and stay close to me.,You. Good. Something out there is watching us... I'm not letting it compromise this operation. Stay sharp and stay close to me.
-NPC_156004,"Coward! Without your help, how am I supposed to protect anyone out there? This is unacceptable!","Coward! Without your help, how am I supposed to protect anyone out there? This is unacceptable!"
-NPC_156005,Well done. You've proven your worth. That's the kind of strength we need. My thanks... and respect.,Well done. You've proven your worth. That's the kind of strength we need. My thanks... and respect.
-NPC_156006,...This is unexpected. Something beneath the soil is actively reacting to your presence. I need time to observe it. The data could be critical.,...This is unexpected. Something beneath the soil is actively reacting to your presence. I need time to observe it. The data could be critical.
-NPC_156007,"Don't slow down. If those creatures interrupt my readings, everything is compromised. I can't afford another setback.","Don't slow down. If those creatures interrupt my readings, everything is compromised. I can't afford another setback."
-NPC_156008,The readings are clear now. Your protection allowed me to gather the information we needed. Excellent work. This changes everything.,The readings are clear now. Your protection allowed me to gather the information we needed. Excellent work. This changes everything.
-NPC_156009,"Like I said, we should not stay here any longer. The activity beneath the soil is escalating faster than expected. We need to relocate now.","Like I said, we should not stay here any longer. The activity beneath the soil is escalating faster than expected. We need to relocate now."
-NPC_156010,Don't abandon me out here. The creatures are reacting to what I'm carrying. I need your cover to escape safely.,Don't abandon me out here. The creatures are reacting to what I'm carrying. I need your cover to escape safely.
-NPC_156011,You made it out. Good. The data is secure and the specimens are intact. This expedition was a success. My gratitude.,You made it out. Good. The data is secure and the specimens are intact. This expedition was a success. My gratitude.
-NPC_156012,Hehe~ Feeling brave? I can send you right back in to test yourself against Entaness again.,Hehe~ Feeling brave? I can send you right back in to test yourself against Entaness again.
-NPC_156013,Oh... alright. Come find me whenever you feel ready.,Oh... alright. Come find me whenever you feel ready.
-NPC_156014,I'm Musha. I keep watch over this place and guide adventurers who want another shot at Entaness.,I'm Musha. I keep watch over this place and guide adventurers who want another shot at Entaness.
+NPC_150202,#b#cff8a004fThe #cfff60000Level 165 Guild Siege Application Center #cff8a004fis open! Enjoy it before your third class!#nc#nb,#b#cff8a004f#cfff60000165 級公會戰申請中心#cff8a004f開放中！在完成第三次轉職前盡情參加吧！#nc#nb
+NPC_150203,Good Luck!,祝你好運！
+NPC_155001,The fields are still in trouble. Stay sharp—whatever's in there isn't done yet.,田地仍未脫離危機。保持警戒——裡面的東西還沒善罷甘休。
+NPC_155002,"O-oh! You're from the guard, r-right? I-I swear, it's not just bad farming! The mushrooms just… changed. S-something's not right, I'm telling you…",你、你是衛隊的人，對、對吧？我、我發誓，不只是耕作出了問題！那些蘑菇就這樣……變了。真、真的不對勁，我沒有騙你……
+NPC_155003,"So the guard finally noticed, huh. Took you long enough. If you want answers, you'd better be ready to hear them.",衛隊總算注意到了，是吧。你們也拖太久了。想知道答案，就先做好聽真話的準備。
+NPC_155004,"Fascinating, isn't it? The crops here aren't simply rotting—they're changing. Now that you're here, we should report this immediately.",很有意思，不是嗎？這裡的作物並非只是在腐爛——而是在變異。既然你來了，我們應該立刻回報此事。
+NPC_155010,"P-Please help! The plants here... they're moving, they're alive!",拜、拜託救救我！這裡的植物……會動，牠們是活的！
+NPC_155011,"I'm Sprout. I used to work on this farm... well, I guess it WAS a farm...",我叫斯普勞特。我以前在這座農場工作……呃，這裡「以前」的確是座農場……
+NPC_155012,Please save me... I just want to get out of here...,拜託救救我……我只想離開這裡……
+NPC_155013,"Tch, those damn Lycan... If I get out of here alive, they'll pay...!",嘖，那些該死的狼人……要是我能活著出去，絕對要牠們付出代價……！
+NPC_155014,"Name's Thorn. This wasn't exactly the thing to shed blood... but now it's gotten real interesting, hasn't it.",我叫索恩。原本還不至於為這種事流血……但現在開始變得有意思了，不是嗎？
+NPC_155015,"Damn it, there are still people trapped inside!",可惡，裡面還有人受困！
+NPC_155016,You're the rescue team? Good. You'll need my observation records.,你是救援隊的人？很好。你會需要我的觀察紀錄。
+NPC_155017,"I'm Root. I was in charge of plant mutation management and cultivation... Well, I WAS. Now I'm investigating this incident.",我是魯特，原本負責管理與培育變異植物……好吧，是「原本」。現在我正在調查這起事件。
+NPC_155018,Hmm... I should document that mutation pattern...,嗯……我應該把這種變異模式記錄下來……
+NPC_155019,"This is serious… For something like this to happen inside the village…\nWe need to contain it, and fast.",情況很嚴重……村子裡竟然發生這種事……\n我們必須立刻控制住。
+NPC_155020,Baron here. Have you found the three yet?,我是巴倫。那三個人找到了嗎？
+NPC_155021,We don’t have much time. Every delay makes things worse.,我們沒多少時間了。每耽擱一刻，情況都會更加惡化。
+NPC_156000,P-please help me! I-I can't go back to the village like this! W-what if those things show up again? I-I won't make it on my own...,拜、拜託救救我！我、我沒辦法這樣回村子！要、要是那些東西又出現怎麼辦？我、我一個人撐不下去……
+NPC_156001,"W-wait... you're leaving me here?! P-please, I'm begging you... I can't do this alone...",等、等等……你要把我丟在這裡嗎？！拜、拜託……我求求你……我一個人真的辦不到……
+NPC_156002,Y-you did it! Th-thank you so much! I... I don't know what I would have done without you. Th-thank you...,你、你成功了！真、真的非常謝謝你！我……要是沒有你，我真不知道該怎麼辦。謝、謝謝你……
+NPC_156003,You. Good. Something out there is watching us... I'm not letting it compromise this operation. Stay sharp and stay close to me.,你來了，很好。外面有東西正在監視我們……我不會讓牠妨礙這次行動。保持警戒，跟緊我。
+NPC_156004,"Coward! Without your help, how am I supposed to protect anyone out there? This is unacceptable!",膽小鬼！沒有你的幫忙，我在外面要怎麼保護其他人？真是不可接受！
+NPC_156005,Well done. You've proven your worth. That's the kind of strength we need. My thanks... and respect.,幹得好。你證明了自己的實力。這正是我們需要的力量。謝謝你……也向你致敬。
+NPC_156006,...This is unexpected. Something beneath the soil is actively reacting to your presence. I need time to observe it. The data could be critical.,……真出乎意料。土壤下的某種東西正在對你的存在產生明顯反應。我需要時間觀察，這些資料可能至關重要。
+NPC_156007,"Don't slow down. If those creatures interrupt my readings, everything is compromised. I can't afford another setback.",別慢下來。要是那些生物干擾我的讀數，一切都會前功盡棄。我不能再承受一次挫敗。
+NPC_156008,The readings are clear now. Your protection allowed me to gather the information we needed. Excellent work. This changes everything.,現在讀數很清楚了。多虧你的保護，我才能取得所需資料。做得非常好，這將改變一切。
+NPC_156009,"Like I said, we should not stay here any longer. The activity beneath the soil is escalating faster than expected. We need to relocate now.",就像我說的，我們不該再待在這裡。土壤下的活動正以超出預期的速度加劇。我們必須立刻轉移。
+NPC_156010,Don't abandon me out here. The creatures are reacting to what I'm carrying. I need your cover to escape safely.,別把我丟在這裡。那些生物正在對我攜帶的東西產生反應，我需要你掩護才能安全撤離。
+NPC_156011,You made it out. Good. The data is secure and the specimens are intact. This expedition was a success. My gratitude.,你成功出來了，很好。資料安然無恙，樣本也完好無損。這次考察很成功，謝謝你。
+NPC_156012,Hehe~ Feeling brave? I can send you right back in to test yourself against Entaness again.,呵呵～有勇氣嗎？我可以把你送回去，再次挑戰恩塔妮絲。
+NPC_156013,Oh... alright. Come find me whenever you feel ready.,喔……好吧。準備好時再來找我。
+NPC_156014,I'm Musha. I keep watch over this place and guide adventurers who want another shot at Entaness.,我是穆夏。我負責看守這裡，並引導想再次挑戰恩塔妮絲的冒險者。

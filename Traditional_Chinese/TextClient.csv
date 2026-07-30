@@ -70,7 +70,7 @@ TEXTCLIENT_LEVELUP,Level up! You can increase your stats in your character windo
 TEXTCLIENT_LEVELUP_CAPTION,Congratulations! Level up!,恭喜！升級啦！
 TEXTCLIENT_CHARSTATUS_APPLY_Q,Do you want to use the current Stat setup?,你想使用目前的能力值設定嗎？
 TEXTCLIENT_CHARSTATUS_FIRSTJOB,Your stat values will reset after your 1st job change.,你的能力值會在第一次轉職完成後重置。
-TEXTCLIENT_BATTLEPASS_REQUIRED,This feature is only available with the Extended Flyff Pass or Hero Quest.,此功能僅限擁有 Flyff 通行證或完成英雄任務後使用。
+TEXTCLIENT_BATTLEPASS_REQUIRED,This feature is only available with the Extended Flyff Pass or Hero Quest.,此功能僅限擁有 Flyff 延長通行證或完成英雄任務後使用。
 TEXTCLIENT_STATPAGE_COOLDOWN,You can swap stat pages in %d seconds.,你可以在 %d 秒後切換數值頁。
 TEXTCLIENT_ADMIN_STATE,Status,狀態
 TEXTCLIENT_ADMIN_NORMAL,Normal,一般
@@ -219,7 +219,7 @@ TEXTCLIENT_MSGDENYINVATE,Invitation has been refused.,對方拒絕將你加入�
 TEXTCLIENT_MSGDENY,%s is in the 'Refuse Messenger' setting.,%s 目前不接受好友邀請。
 TEXTCLIENT_MSGMAXUSER,The maximum number of players that can be registered into the messenger is 200.,可登記的好友名單為 200 人。
 TEXTCLIENT_MSGINVATECOM,%s has added you to their Messenger.,%s 已將你加入好友名單。
-TEXTCLIENT_NOTLOGIN,That player is offline.,玩家不在線上。
+TEXTCLIENT_NOTLOGIN,That player is offline.,該玩家已離線。
 TEXTCLIENT_MSGBLOCKCHR,"Failure to send message, %s is blocked.",訊息發送失敗，已被 %s 封鎖。
 TEXTCLIENT_MESSNEWNOTE,You have %d new message(s).,你收到 %d 則新留言。
 TEXTCLIENT_MESSFULLNOTE,Your message cannot be sent. The receiving inbox may be full.,對方的留言箱已滿，無法再接收留言。
@@ -290,7 +290,7 @@ TEXTCLIENT_GUILD_MEMBERLEAVE,%s has left the guild.,%s 已離開公會。
 TEXTCLIENT_COMACCEPTHAVECOM,%s is already in a guild.,%s 已經是公會成員。
 TEXTCLIENT_BATTLE_NOTGUILD,You cannot invite others to join your guild during a battle.,在戰鬥中無法邀請其他人加入公會。
 TEXTCLIENT_COMACCEPTKINGPIN,You invited %s to your guild.,已邀請 %s 加入公會。
-TEXTCLIENT_GUILDCHROFFLINE,The character you invited is offline.,邀請的角色目前不在線上。
+TEXTCLIENT_GUILDCHROFFLINE,The character you invited is offline.,受邀角色目前離線。
 TEXTCLIENT_GUILDNOTINCLUDE,You have to wait 2 days before joining another guild.,你退出公會不到 2 天，因此無法加入新公會。
 TEXTCLIENT_GUILDFAILINVITATE,%s has refused to join the guild.,%s 拒絕加入公會。
 TEXTCLIENT_COMNOEXCOM,That guild does not exist.,該公會不存在。
@@ -439,7 +439,7 @@ TEXTCLIENT_STILL_DEVELOPMENT,This functionality is still in development.,此功�
 TEXTCLIENT_ENDUSE,You may no longer use %s . That item has expired.,你無法再使用 %s，該物品已過期。
 TEXTCLIENT_DAYUSE,You can use the %s for %d days.,你可使用 %s，剩餘 %d 天。
 TEXTCLIENT_TIMEUSE,Time remaining on %s: %d days.,%s 的剩餘使用時間為 %d 天。
-TEXTCLIENT_ITEM_EXPIRED,This item has expired.,已經超過使用期限的物品。
+TEXTCLIENT_ITEM_EXPIRED,This item has expired.,此物品已過期。
 TEXTCLIENT_NOTUPGRADE,The item cannot be equipped or moved during refining.,精煉過程中，該物品無法裝備或移動。
 TEXTCLIENT_CARDRESHUFFLE_NOTAVAILABLE,Registration is not possible because the grade is not correct.,等級不符，無法註冊。
 TEXTCLIENT_ERROR_NOPIERCING,There is no space to put a card.,沒有可以放入卡片的空間。
@@ -447,7 +447,7 @@ TEXTCLIENT_PIERCINGFAIL,Piercing failed.,嗚…穿洞失敗了…
 TEXTCLIENT_PIERCINGSUCCESS,Piercing Succeeded.,恭喜！穿洞成功了！
 TEXTCLIENT_REMOVE_PIERCING_ERROR,Only suits pierced with cards can be used.,只有插入卡片的衣服才能使用。
 TEXTCLIENT_PIERCING_REMOVE_SUCCESS,Your pierced card has been removed succesfully.,你的卡片已成功被移除。
-TEXTCLIENT_NOTEQUALITEM,This item cannot be used.,無法使用在此物品上。
+TEXTCLIENT_NOTEQUALITEM,This item cannot be used.,此物品無法使用。
 TEXTCLIENT_PREMIUM_NOTUPGRADE,Premium item cannot be refined.,商城物品無法被精煉。
 TEXTCLIENT_WRONGSUPITEM,Wrong supplement item.,錯誤的物品。
 TEXTCLIENT_USE_PIERCING_MENU,You can use this item with Piercing menu at Weapon Shop.,你可以在武器店的穿洞視窗中使用此物品。
@@ -582,7 +582,7 @@ TEXTCLIENT_DUEL_NOTUSE1,Because the person is in duel.,對方正在決鬥中。
 TEXTCLIENT_GAME_EVENT_WORLD_NOTUSE,In event area,在活動區域時
 TEXTCLIENT_PRISON_WORLD_NOTUSE,In Kebaras,在卡巴拉斯
 TEXTCLIENT_SUMMON_FRIEND_MY_NOUSE,You can not use item to yourself.,你無法使用在自己身上。
-TEXTCLIENT_SUMMONFRIEND_NOUSER,%s is offline.,%s 不在線上。
+TEXTCLIENT_SUMMONFRIEND_NOUSER,%s is offline.,%s 目前離線。
 TEXTCLIENT_SUMMONFRIEND_NOTFRIEND,This player is not your friend or is blocked.,該玩家不是你的好友或已被封鎖。
 TEXTCLIENT_STATE_NOTSUMMON,You cannot summon %s,你無法召喚 %s
 TEXTCLIENT_STATE_NOTSUMMONOK,You cannot accept %s,你無法確認 %s
@@ -631,7 +631,7 @@ TEXTCLIENT_GUILDCOMBAT_ENJOY,Have a good day!,祝你有愉快的一天！
 TEXTCLIENT_GUILDCOMBAT_JOIN_OK,You have qualified to enter the Guild Siege. Please complete your lineup setup in Flarine.,你已獲得參加公會戰的資格了！請在布拉里斯中完成你的公會戰參加人員名單設定。
 TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You did not qualify for this Guild Siege. Please try again next week. After the Guild Siege ends, you may reclaim the application fee in Flarine.",你不符合本次公會戰的參賽資格，請下週再試。公會戰結束後，你可以在布拉里斯取回退還的申請費用。
 TEXTCLIENT_GUILDCOMBAT_OPEN_READY_MSG,The Guild Siege will begin soon. You will be automatically teleported to Flaris after %d seconds.,公會戰即將開始。%d 秒後，你將自動傳送至布拉里斯。
-TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,You can now enter the Guild Siege arena through Franky in Flarine.,現在可以通過布拉里斯的芙蘭基進入公會戰場。
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,You can now enter the Guild Siege arena through Franky in Flarine.,現在可以透過布拉里斯的芙蘭基進入公會戰場。
 TEXTCLIENT_GUILDCOMBAT_NOW_PLAYER_MAKEUP,You can now set up the Guild Siege lineup.,你現在可以設定公會戰參加人員名單了。
 TEXTCLIENT_GUILDCOMBAT_PLAYER_MAKEUP_FINISH,Lineup Setup Ends In,公會戰的參加者名單設定結束於
 TEXTCLIENT_GUILDCOMBAT_MAINTENANCE,Combat Starts In,公會戰即將開始，剩餘時間：
@@ -651,11 +651,11 @@ TEXTCLIENT_GUILDCOMBAT_ENTER,The Guild Siege is now open.,公會戰現已開啟�
 TEXTCLIENT_GUILDCOMBAT_NOT_JOIN,Please join after a while.,請稍後再加入。
 TEXTCLIENT_GUILDCOMBAT_NOT_OPEN,Preparations underway.,準備工作正在進行中。
 TEXTCLIENT_GUILDCOMBAT_NOTENTER_VAGRANT,Vagrants are not eligible for the Guild Siege. Please try again after your first job change.,見習生無法進入，請轉職後再進入場地。
-TEXTCLIENT_GUILDCOMBAT_NOTENTER_SPECIALIST,A character with third class is not eligible for Lv165 guild siege.,A character with third class is not eligible for Lv165 guild siege.
+TEXTCLIENT_GUILDCOMBAT_NOTENTER_SPECIALIST,A character with third class is not eligible for Lv165 guild siege.,已完成第三次轉職的角色無法參加 Lv.165 公會戰。
 TEXTCLIENT_GUILDCOMBAT_WELCOME,Welcome to the Guild Siege.,歡迎來到公會戰。
 TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom the camera using the [Scroll Lock] key.,你可以使用 [Scroll Lock] 鍵縮放相機。
-TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,You are the Guild Master! Defeating the Defender grants 1 bonus point.,你是公會會長！被敵方擊殺時，會給予敵方分數，請注意這一點之後，進行對戰！
-TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_DEFENDER,"You are the Defender! If you are defeated, the enemy gains 1 bonus point.",你是關鍵人物！被敵對擊殺時，會給予敵方分數，請注意這一點之後，進行對戰！
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,You are the Guild Master! Defeating the Defender grants 1 bonus point.,你是公會會長！擊敗關鍵人物可獲得 1 點加分。
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_DEFENDER,"You are the Defender! If you are defeated, the enemy gains 1 bonus point.",你是關鍵人物！如果你被擊敗，敵方將獲得 1 點加分。
 TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_GENERAL,Defeat your opponents for the glory of your guild! Defeating the Defender grants 1 bonus point.,為了公會的榮耀，打敗你的對手吧！擊殺關鍵人物可獲得 1 點獎勵分數。
 TEXTCLIENT_GUILDCOMBAT_MASTER_MAP,You have entered the Guild Siege combat area!,你已進入公會戰場地區！
 TEXTCLIENT_GUILDCOMBAT_MAINTENANCE2,Combat will begin after the Preparation Phase. Prepare for battle!,戰鬥將在準備階段結束後開始。準備戰鬥！
@@ -735,8 +735,8 @@ TEXTCLIENT_CARDUPGRADE_FAIL2,Card upgrade failed. %d of registered card will be 
 TEXTCLIENT_CARDRESHUFFLE_SUCCESS,You received %s.,你獲得了 %s。
 TEXTCLIENT_SOULLINKCONVERT_SUCCESS,Convert Successful!,轉換成功！
 TEXTCLIENT_GUILD_ADDSUPPM,%s increased the amount of members you can have in the guild by 5!,%s 將你公會的最大成員數量增加了 5 個！
-TEXTCLIENT_REPORT_SUCCESS,Successfully sent report.,舉報已成功送出。
-TEXTCLIENT_REPORT_WAIT,You must wait before reporting the same player.,你必須等待一段時間才能舉報同一名玩家。
+TEXTCLIENT_REPORT_SUCCESS,Successfully sent report.,檢舉已成功送出。
+TEXTCLIENT_REPORT_WAIT,You must wait before reporting the same player.,必須等待一段時間，才能再次檢舉同一名玩家。
 TEXTCLIENT_APP_ACHIEVEMENTS,Achievements,成就
 TEXTCLIENT_ACHIEVEMENT_CLAIMSUCCESS,Successfully claimed,領取成功！
 TEXTCLIENT_ACHIEVEMENT_CLAIMNOTHING,You have nothing to claim,你沒有什麼可領取的
@@ -793,7 +793,7 @@ TEXTCLIENT_APP_EXTRABAG,Inventory View,查看背包
 TEXTCLIENT_BOUNTYINPUT_NOMURDERER,Someone has to kill you in order to put a bounty.,你已經被通緝，其他玩家殺了你可以獲得賞金。
 TEXTCLIENT_BOUNTYINPUT_SUCCESS,Successfully registered bounty.,已成功註冊賞金。
 TEXTCLIENT_BOUNTYINPUT_WAIT,You must wait before registering a bounty on this player.,你必須等待一段時間才能對該玩家進行懸賞。
-TEXTCLIENT_BOUNTYPOS_OFFLINE,%s is currently offline.,%s 目前不在線上。
+TEXTCLIENT_BOUNTYPOS_OFFLINE,%s is currently offline.,%s 目前離線。
 TEXTCLIENT_INVENTORYSPACE,Your inventory space increased by %d!,你的背包空間增加了 %d！
 TEXTCLIENT_UPGRADEANNOUNCE,%s upgraded %s to %s+%d!,%s 將 %s 成功精煉至 %s+%d！
 TEXTCLIENT_UPGRADEANNOUNCE_BOUND,%s upgraded [Soul-Bound] %s to %s+%d!,%s 將 [綁定] %s 成功精煉至 %s+%d！
@@ -834,9 +834,9 @@ TEXTCLIENT_CONVERTUNIQUE_FAIL,Conversion to Unique weapon failed.,傳說之力�
 TEXTCLIENT_BOUNTY_OTHERCHANNEL,The player is currently in a different channel.,該玩家目前在其他頻道中。
 TEXTCLIENT_BOUNTY_SAFETY,The player is currently in a safety zone.,該玩家目前處於安全區。
 TEXTCLIENT_TELEPORT_NEAR,You are already very close to this place!,你已經在目的地附近了！
-TEXTCLIENT_GIANTHUNT_RANKING_MAIL,Congratulations for your rank %d in the Giant Hunt ranking!,恭喜你在 Giant 狩獵排名中排名 %d！
-TEXTCLIENT_GIANTHUNT_RANKING_MAIL1,Congratulations for reaching %d points in the Giant Hunt ranking!,恭喜你在 Giant 狩獵排名中獲得 %d 分！
-TEXTCLIENT_GIANTHUNT_RECEIVE,You received %d Giant Hunting Points (Total %d)!,你獲得了 %d 點 Giant 狩獵分數 (總計 %d)！
+TEXTCLIENT_GIANTHUNT_RANKING_MAIL,Congratulations for your rank %d in the Giant Hunt ranking!,恭喜你在巨人狩獵排名中獲得第 %d 名！
+TEXTCLIENT_GIANTHUNT_RANKING_MAIL1,Congratulations for reaching %d points in the Giant Hunt ranking!,恭喜你在巨人狩獵排名中獲得 %d 分！
+TEXTCLIENT_GIANTHUNT_RECEIVE,You received %d Giant Hunting Points (Total %d)!,你獲得了 %d 點巨人狩獵積分（總計 %d）！
 TEXTCLIENT_CASHSHOP_MAINTENANCE,You cannot purchase because the server will have a maintenance in a few seconds.,你無法購買，因為伺服器將在幾秒後進行維護。
 TEXTCLIENT_CTRLRECOVERY,You found a HP container!,你找到了一個生命容器！
 TEXTCLIENT_PURCHASE_CLAIMED,Rewards successfully claimed,獎勵已成功領取
@@ -888,7 +888,7 @@ TEXTCLIENT_BATTLEPASS_PAID,Thank you for purchasing the Extended %s!,感謝你�
 TEXTCLIENT_BATTLEPASS_PURCHASE_PAID,Purchase the Extended %s to receive more rewards!,購買延長 %s 可獲得更多獎勵！
 TEXTCLIENT_GUILDCOMBAT80_MAXLEVEL,Only characters level 80 or less can apply to this Lv80 Guild Siege.,只有 80 級或以下的角色才能申請本次的 Lv80 公會戰。
 TEXTCLIENT_GUILDCOMBAT60_MAXLEVEL,Only characters who did not complete the second class change can apply to this Lv60 Guild Siege.,只有未完成第二次轉職的角色才能申請本次的 Lv60 公會戰。
-TEXTCLIENT_GUILDCOMBAT165_MAXLEVEL,Only characters who did not complete the third class change can apply to this Lv165 Guild Siege.,Only characters who did not complete the third class change can apply to this Lv165 Guild Siege.
+TEXTCLIENT_GUILDCOMBAT165_MAXLEVEL,Only characters who did not complete the third class change can apply to this Lv165 Guild Siege.,只有尚未完成第三次轉職的角色可以申請 Lv.165 公會戰。
 TEXTCLIENT_GUILDCOMBAT_ENTER1,The Lv80 Guild Siege is held for this week.,本週將舉行 Lv80 公會戰。
 TEXTCLIENT_GUILDCOMBAT_ENTER2,The Lv60 Guild Siege is held for this week.,本週將舉行 Lv60 公會戰。
 TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT1,Today's Lv80 Guild Siege will not be held due to lack of participants.,因為參與人數不足，今天的 Lv.80 公會戰將取消。
@@ -944,7 +944,7 @@ TEXTCLIENT_GUILD_NOTFOUND,The guild %s was not found.,未找到公會 %s。
 TEXTCLIENT_GM_WARNING_MISSING,You must provide a reason.,你必須提供一個原因。
 TEXTCLIENT_GM_WARNING,You have received a warning from %s: %s,你收到來自 %s 的警告：%s。
 TEXTCLIENT_GM_WARNING_FEEDBACK,%s has been warned.,%s 已被警告。
-TEXTCLIENT_GM_WARNING_FEEDBACK2,"%s is offline, but the warning was logged anyway.",%s 不在線上，但警告訊息仍然會送出並記錄。
+TEXTCLIENT_GM_WARNING_FEEDBACK2,"%s is offline, but the warning was logged anyway.",%s 已離線，但警告仍已記錄。
 TEXTCLIENT_DUNGEON_KILL_MONSTER_TIMER,%d minute(s) remaining to kill %s,剩餘 %d 分鐘擊殺 %s
 TEXTCLIENT_DUNGEON_KILL_MONSTER_TIMER_N,%d minute(s) remaining to kill %dx %s,剩餘 %d 分鐘擊殺 %dx %s
 TEXTCLIENT_TICKETEXPIRED,Your ticket has expired! You were teleported back to Madrigal!,你的票已過期！你已被傳送回瑪德利賈！
@@ -962,7 +962,7 @@ TEXTCLIENT_CHANNELPK,You cannot teleport on a non-PK channel while using a PK ti
 TEXTCLIENT_DUNGEON_CLEARED,Dungeon cleared in %s!,耗時 %s 通關副本！
 TEXTCLIENT_DUNGEONFORCEDSPAWN,Congratulations! You killed all the %s(s)! Boss will spawn with a bonus!,恭喜！你擊殺了 %s！首領出現時將擁有額外加成！
 TEXTCLIENT_SOMEONEUSING,Another player is using this! Please wait..,其他玩家正在使用中！請稍候…
-TEXTCLIENT_NOTUSESKILL_ITEMUSE_CUMULABLE,The item %s is only cumulable if the buff is the exact same item. Current buff item %s.,只有當增益效果與物品：%s 完全相同時，才能疊加。當前增益物品：%s。
+TEXTCLIENT_NOTUSESKILL_ITEMUSE_CUMULABLE,The item %s is only cumulable if the buff is the exact same item. Current buff item %s.,只有當增益效果與物品：%s 完全相同時，才能疊加。目前增益物品：%s。
 TEXTCLIENT_COSTUMECOLLECTION_ISEVENTUSED,Costume is already used.,已完成時裝收集活動。
 TEXTCLIENT_COSTUMECOLLECTION_NOTHING,You have nothing to submit.,你目前沒有可提交的物品。
 TEXTCLIENT_APP_EVENTS,Events,活動
@@ -985,7 +985,7 @@ TEXTCLIENT_SWITCHEQUIP_SUCCESS_UPDATED,You Successfully updated preset %s!,你�
 TEXTCLIENT_SWITCHEQUIP_ERROR_COUNT,You have too many presets!,裝備配置數量已到達上限！
 TEXTCLIENT_SWITCHEQUIP_SUCCESS_ADD,You successfully created preset %s!,你已成功建立裝備配置 %s！
 TEXTCLIENT_SWITCHEQUIP_SUCCESS_DELETED,You successfully deleted preset %s!,你已成功刪除裝備配置 %s！
-TEXTCLIENT_SWITCHEQUIP_USEBATTLEPASS,This preset is only available with the Extended Flyff Pass.,此裝備配置只適用於擁有 Flyff 通行證的玩家。
+TEXTCLIENT_SWITCHEQUIP_USEBATTLEPASS,This preset is only available with the Extended Flyff Pass.,此裝備配置只適用於擁有 Flyff 延長通行證的玩家。
 TEXTCLIENT_SWITCHEQUIP_ERROR_REQUIREMENT,You cannot add %s to the preset equipment. Requirements not met.,你無法將 %s 新增至裝備配置，未滿足要求。
 TEXTCLIENT_SWITCHEQUIP_ERROR_REQUIREMENT_KEEPTIME,You first need to equip that item once before adding it to the preset equipment.,你需要先裝備一次該物品，然後才能將其新增至裝備配置。
 TEXTCLIENT_SWITCHEQUIP_USEWAIT,Please wait a little before using another switch.,請稍等再使用另一個裝備配置。
@@ -1018,7 +1018,7 @@ TEXTCLIENT_PVPCONTEST_CANNOT_FRIENDADD,You cannot add friends in the FWC PVP Con
 TEXTCLIENT_PVPCONTEST_CANNOT_PARTY,You cannot make a party in the FWC PVP Contest.,你無法在 FWC PVP 比賽中發起劇團邀請。
 TEXTCLIENT_PVPCONTEST_NO_OUTWAR,You cannot use Blinkwings to escape the FWC PVP Contest.,你無法在 FWC PVP 比賽中使用傳送卷軸。
 TEXTCLIENT_PVPCONTEST_MATCHEND_WINNER,Match has ended! Winner is %s!,比賽結束！獲勝者是 %s！
-TEXTCLIENT_PVPCONTEST_MATCHEND_NOWINNER,Match has ended! There was no winner this time!,比賽結束！這次沒有獲勝者！
+TEXTCLIENT_PVPCONTEST_MATCHEND_NOWINNER,Match has ended! There was no winner this time!,比賽結束！本次沒有勝利者！
 TEXTCLIENT_PVPCONTEST_CAPTION_WAITINGOPPONENT,Waiting for opponent.. ,等待對手…
 TEXTCLIENT_PVPCONTEST_CAPTION_PREPARE,Preparation phase. Match will start in: ,戰鬥將在準備階段結束後開始：
 TEXTCLIENT_PVPCONTEST_CAPTION_FIGHT,End combat  ,結束戰鬥
@@ -1027,8 +1027,8 @@ TEXTCLIENT_PVPCONTEST_SCHEDULES_LEADER,Only the leader can select match schedule
 TEXTCLIENT_PVPCONTEST_ALREADYPLAYEDTODAY,You already played a match today! You can't select another schedule.,你今天已經參加過一場比賽了！你不能選擇其他比賽。
 TEXTCLIENT_PVPCONTEST_CANTTELEPORT,You can't teleport in the match anymore. Match has started.,你無法在比賽中傳送。比賽已經開始。
 TEXTCLIENT_PVPCONTEST_TELEPORTNOMATCH,Teleportation is not possible since there is no match waiting for you.,因為沒有等待中的比賽，無法進行傳送。
-TEXTCLIENT_PVPCONTEST_NOOPPONENT,"No opponent joined! Match will then end, giving you the victory!",對手沒有加入比賽！比賽結束，你取得勝利！
-TEXTCLIENT_PVPCONTEST_NOOPPONENTWIN,No opponent was found for your match! We then considered your match as won!,沒有匹配到對手，你的比賽自動判定為勝利！
+TEXTCLIENT_PVPCONTEST_NOOPPONENT,"No opponent joined! Match will then end, giving you the victory!",沒有對手加入！比賽將直接結束，並判定你獲勝！
+TEXTCLIENT_PVPCONTEST_NOOPPONENTWIN,No opponent was found for your match! We then considered your match as won!,未找到你的比賽對手！系統將判定你本場獲勝！
 TEXTCLIENT_PVPCONTEST_KILLNOTIFICATION,[%s] %s killed [%s] %s!,[%s] %s 擊殺了 [%s] %s！
 TEXTCLIENT_PVPCONTEST_KILLNOTIFICATION_KILLINGSPREE_STOP,[%s] %s killed [%s] %s and stopped their killing spree!,[%s] %s 擊殺了 [%s] %s，並終結了對方的大開殺戒！
 TEXTCLIENT_PVPCONTEST_KILLNOTIFICATION_KILLINGSPREE,[%s] %s is on a killing spree!,[%s] %s 正在大開殺戒！
@@ -1118,7 +1118,7 @@ TEXTCLIENT_PLAYERHOUSING_BUYSUCCESS,You successfully setup your house.,你已成
 TEXTCLIENT_HOUSING_PACKOWNED,You already unlocked that housing pack!,你已經擁有此房屋模板了！
 TEXTCLIENT_HOUSING_PACKSUCCESS,You successfully unlocked %s!,你已成功解鎖 %s！
 TEXTCLIENT_PLAYERHOUSING_VISIT_EMPTY,There are currently no available houses to visit from your friends list.,目前你的好友清單中沒有可供參觀的小屋。
-TEXTCLIENT_PLAYERHOUSING_VISIT_OFFLINE,The owner of that house is currently offline.,小屋的主人目前不在線上。
+TEXTCLIENT_PLAYERHOUSING_VISIT_OFFLINE,The owner of that house is currently offline.,小屋主人目前離線。
 TEXTCLIENT_PLAYERHOUSING_VISIT_NOHOUSE,That player has no house to visit.,該角色沒有小屋可以參觀。
 TEXTCLIENT_HOUSEOBJECTS_RESET_NOTOWNER,Only the owner can reset the house decorations!,只有主人才能重置小屋佈置！
 TEXTCLIENT_HOUSEOBJECTS_RESET_SUCCESS,You successfully reset the house decorations.,你已成功重置房屋佈置。
@@ -1135,7 +1135,7 @@ TEXTCLIENT_GUILDHOUSING_NOTOWNER,This guild ship does not belong to your guild. 
 TEXTCLIENT_GUILDHOUSING_BID_OWNED,This guild ship already belongs to a guild. You can't place a bid on it.,這艘公會飛船已經屬於其他公會了，你無法參與競標。
 TEXTCLIENT_GUILDHOUSING_BID_WINNER,Your guild won the auction for the guild ship! You can now teleport to it using the map and right clicking on your ship. Congratulations!,你的公會成功競拍到公會飛船！現在你們可以透過地圖右鍵點選公會飛船傳送過去。恭喜！
 TEXTCLIENT_GUILDHOUSING_BID_NORIGHT,You don't have the rights to place a bid.,你沒有權限競標。
-TEXTCLIENT_GUILDHOUSING_BID_SUCCESS,Your new bid for that guild ship is now %s!,你當前對公會飛船的最新出價是 %s！
+TEXTCLIENT_GUILDHOUSING_BID_SUCCESS,Your new bid for that guild ship is now %s!,你對這艘公會飛船的新出價為 %s！
 TEXTCLIENT_GUILDHOUSING_BID_NOMONEY,You don't have enough Penya in your guild bank.,你的公會銀行裡沒有足夠的金幣。
 TEXTCLIENT_GUILDHOUSING_BID_ALREADY,You have already placed a bid on a different guild ship.,你已經對另一艘公會飛船出價了。
 TEXTCLIENT_GUILDHOUSING_BID_MIN,You have to set a minimum initial bid of %s Penya.,你必須設定最低初始出價 %s 金幣。
@@ -1198,7 +1198,7 @@ TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_SUCCESS,You successfully cancelled your 
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_STARTED,"The Artifact Battle has already started, you can't cancel your application!",神器之戰已經開始，你無法取消申請！
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOBATTLE,There is no Artifact Battle this week. Please try again next week!,本週沒有神器之戰。請下週再試！
 TEXTCLIENT_HOUSING_NPC_GUILDHOUSE,You can only place a guild ship NPC here.,你只能在公會飛船內放置公會 NPC。
-TEXTCLIENT_EVENT_COLLECTION_WRONG_ITEM,This item cannot be used.,此道具無法使用。
+TEXTCLIENT_EVENT_COLLECTION_WRONG_ITEM,This item cannot be used.,此物品無法使用。
 TEXTCLIENT_EVENT_COLLECTION_SUBMIT_SUCCESS,Successfully submitted.,提交成功。
 TEXTCLIENT_HOUSING_NPC_PLAYERHOUSE,You can only place a Personal House NPC here.,你只能在小屋內放置個人 NPC。
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_TAKEN,This artifact spawn position is already taken by another guild.,這個神器出生點已經被另一個公會佔據了。
@@ -1239,7 +1239,7 @@ TEXTCLIENT_RAINBOWRACE_REGISTERED_USER,%s has already registered for the race.,%
 TEXTCLIENT_RAINBOWRACE_INVITED_USER,%s has already received an invitation.,%s 已收到邀請。
 TEXTCLIENT_RAINBOWRACE_REGISTER_FAILED,Failed to register for the Rainbow Race.,未能成功報名參加彩虹競賽。
 TEXTCLIENT_RAINBOWRACE_CANNOT_APPLY,It's currently not possible to apply.,目前無法申請。
-TEXTCLIENT_RAINBOWRACE_INVITATION_OFFLINE,You can only invite users who are online.,你只能邀請在線上的角色。
+TEXTCLIENT_RAINBOWRACE_INVITATION_OFFLINE,You can only invite users who are online.,你只能邀請線上角色。
 TEXTCLIENT_RAINBOWRACE_INVITATION_CANCELED,The Rainbow Race team invitation has been canceled.,彩虹競賽團隊的邀請已被取消。
 TEXTCLIENT_RAINBOWRACE_INVITATION_REFUSED,%s has refused to invite.,%s 拒絕邀請。
 TEXTCLIENT_KALGASASSAULT_FAIL_MASTER,You cannot play Kalgas Assault during the master quest.,你無法在進行大師任務時加入卡爾加斯突擊。
@@ -1301,7 +1301,7 @@ TEXTCLIENT_PVPMATCH_CANNOT_PARTY,You cannot make a party in a PVP Match.,你無�
 TEXTCLIENT_PVPMATCH_NO_OUTWAR,You cannot use Blinkwings to escape a PVP Match.,你無法使用傳送卷軸逃離 PvP 對戰。
 TEXTCLIENT_PVPMATCH_MANUAL_ALREADYIN,This player is already in a team.,該玩家已經在某個隊伍中。
 TEXTCLIENT_PVPMATCH_MANUAL_NOTGM,You can only add gamemasters to the observers team.,你只能將遊戲管理員加入觀察者隊伍。
-TEXTCLIENT_PVPMATCH_MANUAL_NOTONLINE,This character is needs to be online.,該角色必須在線上。
+TEXTCLIENT_PVPMATCH_MANUAL_NOTONLINE,This character is needs to be online.,該角色必須處於線上狀態。
 TEXTCLIENT_PVPMATCH_MANUAL_NOTYOURSELF,You can't invite yourself in a match.,你無法邀請自己加入比賽。
 TEXTCLIENT_PVPMATCH_MANUAL_NOTALLREADY,"All players are not ready, you can't start the match yet.",尚有玩家未準備完成，你目前無法開始比賽。
 TEXTCLIENT_PVPMATCH_MANUAL_MAXPLAYERS,You can't add more than %d players in the same team!,同一隊伍中無法加入超過 %d 名玩家！
@@ -1322,7 +1322,7 @@ TEXTCLIENT_MATOURNAMENT_NOPARTY,You are not in a party.,你目前沒有加入劇
 TEXTCLIENT_MATOURNAMENT_NOTPARTYLEADER,You are not the party leader.,你不是劇團團長。
 TEXTCLIENT_MATOURNAMENT_INVALID_MEMBER_COUNT,Invalid number of party members.,劇團成員數量無效。
 TEXTCLIENT_MATOURNAMENT_ALREADY_REGISTERED,A party member is already registered.,有劇團成員已經報名。
-TEXTCLIENT_MATOURNAMENT_MEMBER_OFFLINE,Not all party members are online.,並非所有劇團成員都在線上。
+TEXTCLIENT_MATOURNAMENT_MEMBER_OFFLINE,Not all party members are online.,並非所有劇團成員都處於線上狀態。
 TEXTCLIENT_MATOURNAMENT_MEMBER_MINLEVEL,A party member does not meet the minimum level requirement.,有劇團成員未達最低等級要求。
 TEXTCLIENT_MATOURNAMENT_NOGOLDS,Not enough Penya.,金幣不足。
 TEXTCLIENT_MATOURNAMENT_REGISTRATIONSUCCESS,Registration successful.,報名成功。
@@ -1449,7 +1449,7 @@ TEXTCLIENT_FISHING_FAIL_BAIT_INDEX,Can't find bait.,找不到魚餌。
 TEXTCLIENT_LIFESKILL_NOT_LEARN,You have not learned the required skill yet.,你尚未學會所需技能。
 TEXTCLIENT_LIFEMASTERY_RANKING_REWARD_RECEIVE,You have received %s as a reward for your life mastery ranking.,你已收到生活專精排行榜獎勵：%s。
 TEXTCLIENT_LIFEMASTERY_RANKING_REWARD_FAIL,Could not send life mastery ranking reward.,無法發送生活專精排行榜獎勵。
-TEXTCLIENT_LIFESTYLE_NOGOLD,Not enough Penya.,Not enough Penya.
+TEXTCLIENT_LIFESTYLE_NOGOLD,Not enough Penya.,金幣不足。
 TEXTCLIENT_FISHING_FAIL_DIFF_POS,Fishing failed. Please move to a different spot and try again.,釣魚失敗。請移動到其他位置後再試。
 TEXTCLIENT_COUPLEHOUSING_BUYSUCCESS,You successfully setup your couple house.,你已成功佈置情侶小屋。
 TEXTCLIENT_COUPLEHOUSING_NOTOWN,You currently have no couple house yet.,你尚未擁有情侶小屋。
@@ -1470,7 +1470,7 @@ TEXTCLIENT_USEITEM_PVP,You cannot use this item in a PvP setting.,你無法在 P
 TEXTCLIENT_MOTION_ACTIVE,You can now use the emote %s!,你現在可以使用表情：%s！
 TEXTCLIENT_MOTION_EXPIRE,The emote %s has expired.,表情：%s 已過期。
 TEXTCLIENT_BLESSING_NOREMOVEFREE,You can't remove a Blessing of the Demon!,你無法移除惡魔契印！
-TEXTCLIENT_BATTLEPASS_REQUIRED2,This feature is only available with the Extended Flyff Pass.,此功能僅限擁有 Flyff 通行證使用。
+TEXTCLIENT_BATTLEPASS_REQUIRED2,This feature is only available with the Extended Flyff Pass.,此功能僅限擁有 Flyff 延長通行證的玩家使用。
 TEXTCLIENT_SEARCHSHOP_TPLIMIT,You already used all your daily teleports.,你已經用完每日的傳送次數了。
 TEXTCLIENT_SEARCHSHOP_CHANNEL,You cannot teleport to this shop because it is on a different channel.,你無法傳送到這家商店，因為它位於不同的頻道。
 TEXTCLIENT_HARVEST_COUNT,Harvests %d/%d,採收次數 %d/%d
@@ -1501,7 +1501,7 @@ TEXTCLIENT_NO_SPECTATE_POWER,You do not have permission to spectate.,你沒有�
 TEXTCLIENT_START_SPECTATE,You are now spectating %s.,你正在觀戰：%s。
 UI_TOOLTIP_PICKUP_RANGE,Pickup boost range,提升拾取範圍
 TEXTCLIENT_INVALIDORIGIN,Server refused the connection. Please make sure you are accessing from the official game page.,伺服器拒絕連線，請確保你是從官方遊戲頁面訪問。
-TEXTCLIENT_GATHERING_EVE_PICKAXE,[Event] Chroma Pickaxe,[活動] Chroma 十字鎬
+TEXTCLIENT_GATHERING_EVE_PICKAXE,[Event] Chroma Pickaxe,[活動] 彩耀十字鎬
 TEXTCLIENT_APP_SHADER_DEBUG,Shader Debug,著色器除錯
 TEXTCLIENT_APP_ACCOUNT,Account,帳號
 TEXTCLIENT_NOT_ENOUGH_ITEM2,You need %d %s.,你需要 %d %s。
@@ -1532,7 +1532,7 @@ TEXTCLIENT_ADD_ATTRIBUTE_SUCCESS,Item has been upgraded.,物品已升級。
 TEXTCLIENT_ADD_ATTRIBUTE_INVALID,This item is not upgradeable.,此物品不可升級。
 TEXTCLIENT_REQSKILLSTACKS,You do not have the required skill stacks to use this skill.,你沒有足夠的技能層數來使用此技能。
 TEXTCLIENT_MAX_TRAPS,You cannot place another one of these traps yet.,你目前無法再放置另一個相同的陷阱。
-TEXTCLIENT_TRAP_RANGE,You cannot place a trap here.,你無法在這裡設置陷阱。
+TEXTCLIENT_TRAP_RANGE,You cannot place a trap here.,你無法在這裡放置陷阱。
 TEXTCLIENT_TRAP_TOOL,You do not have enough Trap Tool.,你的陷阱數量不足。
 TEXTCLIENT_ENCHANT_SAME_JEWEL_FAILED,Equipping the same jewel failed.,嗚…裝備相同類型的寶石失敗了…
 TEXTCLIENT_JEWELSYNTHESIS_NO,You do not have enough jewel or Penya for synthesis.,你沒有足夠的寶石或金幣進行合成。
@@ -1555,21 +1555,21 @@ TEXTCLIENT_BOSS_RAID_DUNGEON_ENDED,The instance dungeon has ended. Please try ag
 TEXTCLIENT_BOSS_RAID_MAX_PLAYCOUNT,%s has no daily entries remaining.,%s 今日已無剩餘入場次數。
 TEXTCLIENT_BOSS_RAID_ANOTHER_DUNGEON,%s is already in another instance.,%s 已在其他副本中。
 TEXTCLIENT_MESSAGE_WARNING,Warning: '%s' is a regular player. Do not visit any website and never give out your credentials. The only official website is $WEBSITE$. Beware of scams and phishing websites.,警告：'%s' 是一般玩家。請勿造訪任何網站，也絕不要透露你的帳號密碼。唯一的官方網站是 $WEBSITE$。請提防詐騙與釣魚網站。
-TEXTCLIENT_APP_DONATION,Donation,Donation
-TEXTCLIENT_APP_LORD,Lord Skills,Lord Skills
-TEXTCLIENT_DONATION_START,Donation event %s +%d%% started!,Donation event %s +%d%% started!
-TEXTCLIENT_DONATION_END,Donation event %s +%d% ended...,Donation event %s +%d% ended...
-TEXTCLIENT_DONATION_CONFIRM,You donated %s Penya to the %s event.,You donated %s Penya to the %s event.
-TEXTCLIENT_DONATION_MAIL,Congratulations for becoming the Lord of the week!,Congratulations for becoming the Lord of the week!
-TEXTCLIENT_DONATION_NOLORD,There is no Lord this week.,There is no Lord this week.
-TEXTCLIENT_DONATION_LORD,The Lord of the week is %s. Congratulations!,The Lord of the week is %s. Congratulations!
-TEXTCLIENT_MYSTCASTLE_DATA_PENDING,Server data synchronization in progress. Please try again shortly.,Server data synchronization in progress. Please try again shortly.
-TEXTCLIENT_MYSTCASTLE_INVALID_FLOOR,Invalid floor selection. Please try again.,Invalid floor selection. Please try again.
-TEXTCLIENT_MYSTCASTLE_LEVEL_TOO_LOW,Your level is too low to enter this floor.,Your level is too low to enter this floor.
-TEXTCLIENT_MYSTCASTLE_BLOCK_TIME,Ranking settlement in progress. Please try again later.,Ranking settlement in progress. Please try again later.
-TEXTCLIENT_MYSTCASTLE_INIT_FAILED,Failed to initialize the floor. Please try again.,Failed to initialize the floor. Please try again.
-TEXTCLIENT_MYSTCASTLE_FLOOR_TICKET_REQUIRED,A Mysterious Castle Retry Coupon is required to challenge this floor.,A Mysterious Castle Retry Coupon is required to challenge this floor.
-TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD,You received a reward for clearing a new floor.,You received a reward for clearing a new floor.
-TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD_MAIL,You can't receive the reward for clearing a new floor. Check your mail.,You can't receive the reward for clearing a new floor. Check your mail.
-TEXTCLIENT_MYSTCASTLE_USE_FLOOR_TICKET_FAIL,Unable to use the Mysterious Castle Retry Coupon.,Unable to use the Mysterious Castle Retry Coupon.
-TEXTCLIENT_LORDSKILLS_NOT,Only the Lord can use this menu.,Only the Lord can use this menu.
+TEXTCLIENT_APP_DONATION,Donation,捐獻
+TEXTCLIENT_APP_LORD,Lord Skills,領主技能
+TEXTCLIENT_DONATION_START,Donation event %s +%d%% started!,捐獻活動 %s +%d%% 已開始！
+TEXTCLIENT_DONATION_END,Donation event %s +%d% ended...,捐獻活動 %s +%d% 已結束……
+TEXTCLIENT_DONATION_CONFIRM,You donated %s Penya to the %s event.,你已捐獻 %s 金幣給 %s 活動。
+TEXTCLIENT_DONATION_MAIL,Congratulations for becoming the Lord of the week!,恭喜你成為本週領主！
+TEXTCLIENT_DONATION_NOLORD,There is no Lord this week.,本週沒有領主。
+TEXTCLIENT_DONATION_LORD,The Lord of the week is %s. Congratulations!,本週領主是 %s，恭喜！
+TEXTCLIENT_MYSTCASTLE_DATA_PENDING,Server data synchronization in progress. Please try again shortly.,伺服器正在同步資料，請稍後再試。
+TEXTCLIENT_MYSTCASTLE_INVALID_FLOOR,Invalid floor selection. Please try again.,樓層選擇無效，請重試。
+TEXTCLIENT_MYSTCASTLE_LEVEL_TOO_LOW,Your level is too low to enter this floor.,你的等級太低，無法進入此樓層。
+TEXTCLIENT_MYSTCASTLE_BLOCK_TIME,Ranking settlement in progress. Please try again later.,正在結算排名，請稍後再試。
+TEXTCLIENT_MYSTCASTLE_INIT_FAILED,Failed to initialize the floor. Please try again.,樓層初始化失敗，請重試。
+TEXTCLIENT_MYSTCASTLE_FLOOR_TICKET_REQUIRED,A Mysterious Castle Retry Coupon is required to challenge this floor.,挑戰此樓層需要神秘的城堡重試券。
+TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD,You received a reward for clearing a new floor.,你已獲得首次通關新樓層的獎勵。
+TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD_MAIL,You can't receive the reward for clearing a new floor. Check your mail.,無法直接領取新樓層通關獎勵，請查看郵件。
+TEXTCLIENT_MYSTCASTLE_USE_FLOOR_TICKET_FAIL,Unable to use the Mysterious Castle Retry Coupon.,無法使用神秘的城堡重試券。
+TEXTCLIENT_LORDSKILLS_NOT,Only the Lord can use this menu.,只有領主能使用此選單。
