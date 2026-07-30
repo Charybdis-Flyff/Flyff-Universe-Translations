@@ -3346,7 +3346,7 @@ UI_MYSTCASTLE_BATTLE_LEAVE,Would you like to leave the current floor?,Would you 
 UI_MYSTCASTLE_CHALLENGE_NEXT_FLOOR,Would you like to challenge the next floor?,Would you like to challenge the next floor?
 UI_MYSTCASTLE_MOVE_NEXT_FLOOR,You’ve defeated the Boss!\nMove on to the next floor!,You’ve defeated the Boss!\nMove on to the next floor!
 UI_MYSTCASTLE_MISSION_SUCCESS,You’ve defeated the Boss!,You’ve defeated the Boss!
-UI_MYSTCASTLE_MISSION_FAIL,You’ve failed!,Kamu telah Gagal!
+UI_MYSTCASTLE_MISSION_FAIL,You’ve failed!,Kamu telah gagal!
 UI_MYSTCASTLE_FLOORS_TITLE,Mysterious Castle Floors,Mysterious Castle Floors
 UI_MYSTCASTLE_RANKING,Ranking,Ranking
 UI_ORDINAL_SUFFIX_EXCLUDE_ENG_FRE,,
