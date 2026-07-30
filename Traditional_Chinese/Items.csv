@@ -26746,7 +26746,7 @@ PROPITEM_TXT_135163,4th Anniversary Lucky Box III,四週年幸運箱 III
 PROPITEM_TXT_135164,4th Anniversary Lucky Box IV,四週年幸運箱 IV
 PROPITEM_TXT_135165,A box with a gift for our fourth anniversary. Open it to see what's inside.,裝有四週年禮物的箱子。打開看看裡面有什麼吧。
 PROPITEM_TXT_135166,Feed Bag (3 day),飼料袋 (3 天)
-PROPITEM_TXT_135167,Does not reduce the energy of Raised pets for 3 day when used.,使用時 3 天內不會減少飼養寵物的能量。
+PROPITEM_TXT_135167,Does not reduce the energy of Raised pets for 3 days when used.,使用時 3 天內不會減少飼養寵物的能量。
 PROPITEM_TXT_135168,Party Toy Sword,派對玩具劍
 PROPITEM_TXT_135169,Party Toy Axe,派對玩具斧
 PROPITEM_TXT_135170,Party Toy Big Sword,派對玩具巨劍
@@ -28801,6 +28801,33 @@ PROPITEM_TXT_905767,Guild Pride Costume Select Box 2,公會榮耀服裝選擇箱
 PROPITEM_TXT_905768,Select your favorite fashion !,選擇你最喜愛的造型！
 PROPITEM_TXT_905769,FWC Guild Spotlight Compensation box,FWC 公會焦點補償箱
 PROPITEM_TXT_905770,"A package containing 1x Friendly Baby Kargo, 3x Power Scroll, 1x Feed Bag (3days), 1x Bank Extra Bag (3 Days), 3x Scroll of Amplification ES, 3x Flask Box and 3x Activition.",禮包內含 1x 可愛卡勒古先生、3x 力量卷軸、1x 飼料袋 (3 天)、1x 銀行背包擴充 (3 天)、3x 經驗值加成卷軸 ES、3x 藥瓶箱與 3x 無限技能卷軸。
+PROPITEM_TXT_135267,2026 Summer Vacance Ocean Blue Set,2026 Summer Vacance Ocean Blue Set
+PROPITEM_TXT_135268,2026 Summer Vacance Ocean Blue Set (M),2026 Summer Vacance Ocean Blue Set (M)
+PROPITEM_TXT_135269,The 2026 Summer Vacance Ocean Blue Set for male characters.,The 2026 Summer Vacance Ocean Blue Set for male characters.
+PROPITEM_TXT_135270,2026 Summer Vacance Ocean Blue Set (F),2026 Summer Vacance Ocean Blue Set (F)
+PROPITEM_TXT_135271,The 2026 Summer Vacance Ocean Blue Set for female characters.,The 2026 Summer Vacance Ocean Blue Set for female characters.
+PROPITEM_TXT_135272,2026 Summer Vacance Ocean Blue 10% Set,2026 Summer Vacance Ocean Blue 10% Set
+PROPITEM_TXT_135273,2026 Summer Vacance Ocean Blue 10% Set (M),2026 Summer Vacance Ocean Blue 10% Set (M)
+PROPITEM_TXT_135274,The 2026 Summer Vacance Ocean Blue 10% Set for male characters.,The 2026 Summer Vacance Ocean Blue 10% Set for male characters.
+PROPITEM_TXT_135275,2026 Summer Vacance Ocean Blue 10% Set (F),2026 Summer Vacance Ocean Blue 10% Set (F)
+PROPITEM_TXT_135276,The 2026 Summer Vacance Ocean Blue 10% Set for female characters.,The 2026 Summer Vacance Ocean Blue 10% Set for female characters.
+PROPITEM_TXT_135277,2026 Summer Vacance Ocean Blue Hat (M),2026 Summer Vacance Ocean Blue Hat (M)
+PROPITEM_TXT_135278,2026 Summer Vacance Ocean Blue Suit (M),2026 Summer Vacance Ocean Blue Suit (M)
+PROPITEM_TXT_135279,2026 Summer Vacance Ocean Blue Shoes (M),2026 Summer Vacance Ocean Blue Shoes (M)
+PROPITEM_TXT_135280,2026 Summer Vacance Ocean Blue Hat (F),2026 Summer Vacance Ocean Blue Hat (F)
+PROPITEM_TXT_135281,2026 Summer Vacance Ocean Blue Suit (F),2026 Summer Vacance Ocean Blue Suit (F)
+PROPITEM_TXT_135282,2026 Summer Vacance Ocean Blue Shoes (F),2026 Summer Vacance Ocean Blue Shoes (F)
+PROPITEM_TXT_135284,2026 Summer Vacance Ocean Blue 5% Suit (M),2026 Summer Vacance Ocean Blue 5% Suit (M)
+PROPITEM_TXT_135285,2026 Summer Vacance Ocean Blue 5% Shoes (M),2026 Summer Vacance Ocean Blue 5% Shoes (M)
+PROPITEM_TXT_135286,2026 Summer Vacance Ocean Blue 5% Suit (F),2026 Summer Vacance Ocean Blue 5% Suit (F)
+PROPITEM_TXT_135287,2026 Summer Vacance Ocean Blue 5% Shoes (F),2026 Summer Vacance Ocean Blue 5% Shoes (F)
+PROPITEM_TXT_135288,Vacance Ocean Blue Surf Board,Vacance Ocean Blue Surf Board
+PROPITEM_TXT_135289,Vacance Sandy Beige Surf Board,Vacance Sandy Beige Surf Board
+PROPITEM_TXT_135290,Vacance Palm Green Surf Board,Vacance Palm Green Surf Board
+PROPITEM_TXT_135291,Vacance Sunshine Yellow Surf Board,Vacance Sunshine Yellow Surf Board
+PROPITEM_TXT_135292,Vacance Deep Blue Surf Board,Vacance Deep Blue Surf Board
+PROPITEM_TXT_135293,Vacance Coral Pink Surf Board,Vacance Coral Pink Surf Board
+PROPITEM_TXT_135294,Ocean Blue Axolotl,Ocean Blue Axolotl
 PROPITEM_TXT_905771,Swimsuit 2026 10% Cyan Set,2026 泳裝碧潮套裝 10%
 PROPITEM_TXT_905772,Swimsuit 2026 Cyan Hat (M),2026 泳裝碧潮帽子 (男)
 PROPITEM_TXT_905773,Swimsuit 2026 Cyan Suit (M),2026 泳裝碧潮服裝 (男)
@@ -29559,3 +29586,5 @@ PROPITEM_TXT_1902817,Veiled Wardens Yellow Shield,秘幕守衛黃色盾牌
 PROPITEM_TXT_1902818,Veiled Wardens Red Shield,秘幕守衛紅色盾牌
 PROPITEM_TXT_1902819,Veiled Wardens Orange Shield,秘幕守衛橙色盾牌
 PROPITEM_TXT_1902820,Veiled Wardens Beige Shield,秘幕守衛米色盾牌
+PROPITEM_TXT_1902821,Baron's Daily Reward,Baron's Daily Reward
+PROPITEM_TXT_1902822,Old Baron's Daily Reward,Old Baron's Daily Reward

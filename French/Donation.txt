@@ -1,4 +1,4 @@
-#bFaites un don de Penya#nb pour débloquer #b3 heures de bonus à l'échelle du serveur#nb pour #btous les joueurs#nb.
+﻿#bFaites un don de Penya#nb pour débloquer #b3 heures de bonus à l'échelle du serveur#nb pour #btous les joueurs#nb.
 Les joueurs qui font un don recevront également un #bbonus légèrement plus puissant#nb !
 
 #bRemarque :#nb Les #bPenya#nb donnés #bseront reportés#nb si le #bpremier objectif de donation#nb n'est pas atteint.

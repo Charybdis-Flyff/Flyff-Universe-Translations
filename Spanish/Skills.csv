@@ -728,8 +728,8 @@ PROPSKILL_TXT_140097,Nearby Shot,Disparo a distancia
 PROPSKILL_TXT_140098,Increased damage for auto attacks when you more than 5m from your target.,Aumenta el daño de los ataques automáticos cuando estás a más de 5 m de tu objetivo.
 PROPSKILL_TXT_140099,Feeble Arms,Brazos débiles
 PROPSKILL_TXT_140100,Monsters take less damages from you but have higher drop rates.,"Los monstruos reciben menos daño de ti, pero tienen mayores probabilidades de soltar objetos."
-PROPSKILL_TXT_150142,Four Strikes,Cuatro golpes
-PROPSKILL_TXT_150143,"Your auto attacks apply stacks, which pop at 4 stacks to deal extra damage.","Tus ataques automáticos aplican acumulaciones, que explotan al llegar a 4 para infligir daño adicional."
+PROPSKILL_TXT_150142,Five Strikes,Cuatro golpes
+PROPSKILL_TXT_150143,"Your auto attacks apply stacks, which pop at 5 stacks to deal extra damage.","Tus ataques automáticos aplican acumulaciones, que explotan al llegar a 4 para infligir daño adicional."
 PROPSKILL_TXT_150144,Auto Attack Stacks,Acumulaciones de ataque automático
 PROPSKILL_TXT_150145,Execution of Justice,Ejecución de la justicia
 PROPSKILL_TXT_150146,"Leap forward, knocking nearby enemies towards you and reducing their movement speed.","Salta hacia adelante, atrayendo a los enemigos cercanos hacia ti y reduciendo su velocidad de movimiento."
@@ -937,7 +937,7 @@ PROPSKILL_TXT_150391,Paralyzed,Paralizado
 PROPSKILL_TXT_150392,"You are sleeping, and will be awaken once you take damage.",Estás dormido y despertarás al recibir daño.
 PROPSKILL_TXT_150393,"You are paralyzed, physical damage is increased and magical damage is decreased.","Estás paralizado, el daño físico aumenta y el daño mágico disminuye."
 PROPSKILL_TXT_150394,Shocked,Electrocutado
-PROPSKILL_TXT_150395,You are shocked and receive extra electric damage.,Estás electrocutado y recibes daño eléctrico adicional.
+PROPSKILL_TXT_150395,You are shocked and all elemental resistances are reduced by 10%.,Estás electrocutado y recibes daño eléctrico adicional.
 PROPSKILL_TXT_150396,Raging Storm,Tormenta furiosa
 PROPSKILL_TXT_150397,Zephyr's Grace,Gracia de Zephyr
 PROPSKILL_TXT_150398,Gain shields when you use Gale or Gust.,Obtienes escudos al usar Vendaval o Ráfaga.
@@ -1080,9 +1080,9 @@ PROPSKILL_TXT_150543,Stolen health is increased.,La vida robada aumenta.
 PROPSKILL_TXT_150544,"Conjure a gale of wind around yourself, increasing your movement speed and hurting nearby enemies. While in gale, hits have a chance to apply Suffocate stacks. If a target reaches 5 Suffocate stacks, they are stunned, slept, or paralyzed, at random.","Invoca un vendaval a tu alrededor, aumentando tu velocidad de movimiento y dañando a los enemigos cercanos. Mientras está activo, los golpes tienen probabilidad de aplicar acumulaciones de asfixia. Si un objetivo alcanza 5 acumulaciones, queda aturdido, dormido o paralizado aleatoriamente."
 PROPSKILL_TXT_150545,Suffocate stack chance is increased.,Aumenta la probabilidad de acumulaciones de asfixia.
 PROPSKILL_TXT_150546,"You are suffocating. Once you reach 5 stacks, you will be slept, stunned, or paralyzed at random.","Estás asfixiándote. Al alcanzar 5 acumulaciones, quedarás dormido, aturdido o paralizado aleatoriamente."
-PROPSKILL_TXT_150547,"Call upon a ball of lightning towards your target, which will chain to nearby enemies. Has a chance to Shock enemies hit. If the ball hits a shocked target, it will always do maximum damage.","Invoca una esfera de rayo hacia tu objetivo que encadena a enemigos cercanos. Tiene probabilidad de electrocutar. Si golpea a un objetivo electrocutado, siempre inflige daño máximo."
+PROPSKILL_TXT_150547,"Call upon a ball of lightning towards your target, which will chain to nearby enemies. Has a chance to Shock enemies hit, reducing all elemental resistances by 10%. If the ball hits a shocked target, it will always do maximum damage.","Invoca una esfera de rayo hacia tu objetivo que encadena a enemigos cercanos. Tiene probabilidad de electrocutar. Si golpea a un objetivo electrocutado, siempre inflige daño máximo."
 PROPSKILL_TXT_150548,Shock chance is increased.,Aumenta la probabilidad de electrocutar.
-PROPSKILL_TXT_150549,"Casts storm clouds over a targeted area, periodically striking nearby enemies with lightning. Lightning strikes always inflict Shock. Strikes against Shocked targets deal maximum damage.","Invoca nubes de tormenta sobre un área, golpeando periódicamente a los enemigos cercanos con rayos. Los rayos siempre aplican electrocutado. Golpear a objetivos electrocutados inflige daño máximo."
+PROPSKILL_TXT_150549,"Casts storm clouds over a targeted area, periodically striking nearby enemies with lightning. Lightning strikes always inflict Shock, reducing all elemental resistances by 10%. Strikes against Shocked targets deal maximum damage.","Invoca nubes de tormenta sobre un área, golpeando periódicamente a los enemigos cercanos con rayos. Los rayos siempre aplican electrocutado. Golpear a objetivos electrocutados inflige daño máximo."
 PROPSKILL_TXT_150550,Strike interval is shorter.,El intervalo de impacto es menor.
 PROPSKILL_TXT_150551,"Disrupt the ground, summoning a stone pillar which hurts enemies and lowers their movement speed. After the duration of the pillar, it explodes, dealing extra damage to nearby enemies.","Perturba el suelo, invocando un pilar de piedra que daña a los enemigos y reduce su velocidad de movimiento. Al finalizar su duración, explota, infligiendo daño adicional."
 PROPSKILL_TXT_150552,"Create a swamp at the selected area, slowing movement speed and dealing damage. Enemies in the swamp cannot use movement skills.","Crea un pantano en el área seleccionada, ralentizando y dañando. Los enemigos dentro no pueden usar habilidades de movimiento."

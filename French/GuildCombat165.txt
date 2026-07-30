@@ -1,4 +1,4 @@
-#b#cff0000ff* Siège de guilde niveau 165#nb#nc
+﻿#b#cff0000ff* Siège de guilde niveau 165#nb#nc
 Bienvenue au Siège de guilde niveau 165 ! Cette compétition est accessible aux joueurs qui n'ont pas encore effectué leur troisième changement de classe.
 
 Veuillez vous adresser au [Gestionnaire du Siège de guilde] Donaris pour plus d'informations concernant le combat.

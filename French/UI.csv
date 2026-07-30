@@ -694,6 +694,8 @@ UI_UPGRADE_MATERIAL,Power Dice/Card,Dés Puissance/Carte
 UI_UPGRADE_PROTECTSCROLL,SProtect,Sprotect
 UI_ULTIMATE_UPGRADE_PROTECTSCROLL,XProtect,Xprotect Ultime
 UI_PVP_UPGRADE_PROTECTSCROLL,PProtect,PProtect
+UI_PVP_ULT_UPGRADE_PROTECTSCROLL,PProtect / XProtect,PProtect / XProtect
+UI_PVP_NORMAL_UPGRADE_PROTECTSCROLL,PProtect / SProtect,PProtect / SProtect
 UI_ULTIMATE_UPGRADE_MATERIAL,Sunstone,Orichalque
 UI_UPGRADE_CHANCESCROLL,SFusion,Parchemin Sfusion
 UI_UPGRADE_DEGRADE,"If upgrading fails, the item's upgrade level will decrease, but the item will not be destroyed.",Le niveau d'attribut diminuera en cas d'échec. Vous ne perdrez pas l'objet.
@@ -3385,3 +3387,5 @@ UI_MYSTCASTLE_REWARD_TAB_FLOOR,Floor Clear Reward,Récompense de complétion d'�
 UI_MYSTCASTLE_REWARD_TAB_RANK,Ranking Reward,Récompense de classement
 UI_MYSTCASTLE_ENTER_FLOOR_USE_TICKET,Entering will consume a Mysterious Castle retry coupon. Do you want to continue?,L'entrée consommera un coupon de nouvelle tentative du Château mystérieux. Voulez-vous continuer ?
 UI_MYSTCASTLE_TOUCH_ANYWHERE,Touch anywhere to type!,Touchez n'importe où pour écrire !
+UI_DUNGEON_DEFEND,Defend,Defend
+UI_DUNGEON_ESCORT,Rescue,Rescue
