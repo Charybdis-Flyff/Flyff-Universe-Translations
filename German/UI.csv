@@ -1734,7 +1734,7 @@ UI_TICKETCHANNELSEL,Select a Layer,Ebene auswählen
 UI_TICKETCHANNEL,Layer,Ebene
 UI_TICKETLEAVE,Leave Area,Gebiet verlassen
 UI_TARGETITEMLEVEL,Required Target Level: %d,Erforderliches Ziel-Level: %d
-UI_RECOMMENDEDLEVEL,Recommended Level: %s,Recommended Level: %s
+UI_RECOMMENDEDLEVEL,Recommended Level: %s,Empfohlenes Level: %s
 UI_RECOMMENDEDLEVEL_STATDOWN,(Stats x%.2f),(Stats x%.2f)
 UI_DUNGEON_REQ_ITEM,Required Items:,Benötigte Gegenstände:
 UI_DUNGEON_MAX_ENTRY_COUNT,Daily Entries: %d / %d,Max Eintritt pro Tag: %d / %d
@@ -2641,19 +2641,19 @@ UI_LIFE_RECIPES_NOSELECTED,No recipe selected,Kein Rezept ausgewählt
 UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired Ingredients:,Required Mastery: %d\nRequired Title: [%s]\nRequired Ingredients:
 UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Ingredients:,Required Mastery: %d\nRequired Ingredients:
 UI_LIFE_PRODUCTION_TITLE,Production,Produktion
-UI_LIFE_PRODUCTION_SUCCESS_RATE,Success Rate,Success Rate
+UI_LIFE_PRODUCTION_SUCCESS_RATE,Success Rate,Erfolgschance
 UI_LIFE_PRODUCTION_TIME,Production Time Per Cycle,Production Time Per Cycle
-UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],Required Mastery: %d\nRequired Title: [%s]
-UI_LIFE_PRODUCTION_REQUIREMENTS_NOTITLE,Required Mastery: %d,Required Mastery: %d
-UI_LIFE_PRODUCTION_REQ_MASTERY,Required Mastery:,Required Mastery:
-UI_LIFE_PRODUCTION_REQ_TITLE,Required Title:,Required Title:
-UI_LIFE_RECIPE_CATEGORY_0,Ingredients,Zutat
-UI_LIFE_RECIPE_CATEGORY_1,Drinks,Trinken
-UI_LIFE_RECIPE_CATEGORY_2,Pills,Pills
+UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],Erforderliche Mastery: %d\nErforderlicher Titel: [%s]
+UI_LIFE_PRODUCTION_REQUIREMENTS_NOTITLE,Required Mastery: %d,Erforderliche Mastery: %d
+UI_LIFE_PRODUCTION_REQ_MASTERY,Required Mastery:,Erforderliche Mastery:
+UI_LIFE_PRODUCTION_REQ_TITLE,Required Title:,Erforderlicher Titel:
+UI_LIFE_RECIPE_CATEGORY_0,Ingredients,Zutaten
+UI_LIFE_RECIPE_CATEGORY_1,Drinks,Getränke
+UI_LIFE_RECIPE_CATEGORY_2,Pills,Pillen
 UI_ALL,All,Alle
 UI_LIFE_PRODUCTION_INFORMATION,"Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made.","Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made."
 UI_LIFE_PRODUCTION_PROGRESS_INFORMATION,Production is currently in progress.,Production is currently in progress.
-UI_LIFE_PRODUCTION_PROGRESS_REMAINING,Remaining Time,Remaining Time
+UI_LIFE_PRODUCTION_PROGRESS_REMAINING,Remaining Time,Verbleibende Zeit
 UI_LIFE_PRODUCTION_DUTAION_REDUCTION,Duration is reduced.,Duration is reduced.
 UI_LIFE_MASTERY_ORDINALY_HERB,Common herb found throughout the world. Yields Common herbs.,Common herb found throughout the world. Yields Common herbs.
 UI_LIFE_MASTERY_REGULAR_HERB,Common herb with a typical appearance. Yields Common-Uncommon herbs.,Common herb with a typical appearance. Yields Common-Uncommon herbs.
@@ -2661,17 +2661,17 @@ UI_LIFE_MASTERY_ORDINALY_TREE,Tree commonly found throughout the world. Yields C
 UI_LIFE_MASTERY_REGULAR_TREE,Tree with a typical appearance. Yields Common-Uncommon logs.,Tree with a typical appearance. Yields Common-Uncommon logs.
 UI_LIFE_MASTERY_ORDINALY_ORE,Rock commonly found throughout the world. Yields Common ores.,Rock commonly found throughout the world. Yields Common ores.
 UI_LIFE_MASTERY_REGULAR_ORE,Rock with a typical appearance. Yields Common-Uncommon ores.,Rock with a typical appearance. Yields Common-Uncommon ores.
-UI_PRODUCTION_INGREDIENT,Ingredients,Ingredients
+UI_PRODUCTION_INGREDIENT,Ingredients,Zutaten
 UI_PRODUCTION_FOOD,Food,Nahrung
 UI_PRODUCTION_BUFF,Buffs,Buffs
-UI_PRODUCTION_DRINK,Drinks,Drinks
-UI_PRODUCTION_REFRESHER,Refreshers,Refreshers
-UI_PRODUCTION_PILL,Pills,Pills
+UI_PRODUCTION_DRINK,Drinks,Getränke
+UI_PRODUCTION_REFRESHER,Refreshers,Refresher
+UI_PRODUCTION_PILL,Pills,Pillen
 UI_PRODUCTION_FURNITURE,Furniture,Furniture
 UI_PRODUCTION_ACCESSORY,Accessories,Accessories
 UI_PRODUCTION_COUPLERING,Couple Ring,Couple Ring
-UI_TOOLTIP_PRODUCTION_CREATOR,Creator: %s,Creator: %s
-UI_TOOLTIP_PRODUCTION_QUALITY,Quality: %s,Quality: %s
+UI_TOOLTIP_PRODUCTION_CREATOR,Creator: %s,Hersteller: %s
+UI_TOOLTIP_PRODUCTION_QUALITY,Quality: %s,Qualität: %s
 UI_TOOLTIP_BUFF_STACKABLE,Stackable: %dx,Stackable: %dx
 UI_TOOLTIP_TOOL_DURABILITY,Durability: %d/%d,Durability: %d/%d
 UI_TOOLTIP_PRODUCTION_GRADE_D,D,D
@@ -2739,7 +2739,7 @@ UI_LIFE_PRODUCTION_START,Production Start,Produktionsstart
 UI_LIFE_CRAFT_START,Start,Start
 UI_LIFE_CRAFT_STOP,Stop,Stop
 UI_LIFE_CRAFT_SEC_REDUCTION,%d sec\n(%d%% reduction applied),%d sec\n(%d%% reduction applied)
-UI_LIFE_CRAFT_RESET,Reset,Reset
+UI_LIFE_CRAFT_RESET,Reset,Zurücksetzen
 UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc","Sobald die Produktion begonnen hat, kann sie nicht mehr abgebrochen werden. Fortfahren?\n\n#cffffc000Produktionszeit: %s#nc"
 UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc","Sobald die Produktion begonnen hat, kann sie nicht mehr abgebrochen werden. Fortfahren?\n\n#cffffc000Produktionszeit: %s~%s#nc"
 UI_QUEST_GATHERING_MINING,Mine Ore #cffc32f07#b%d/%d#nb#nc,Mine Ore #cffc32f07#b%d/%d#nb#nc
@@ -3321,35 +3321,35 @@ UI_4TH_ANNIV_PASS,4th Anniversary Pass,4th Anniversary Pass
 UI_EVENT_4TH_ANNIV_FIELDBOSS,4th Anniversary Boss Instance Event,4th Anniversary Boss Instance Event
 UI_ACHIEVEMENT_LYCANHUNTING_TITLE,Server Hunting Carnival,Server Hunting Carnival
 UI_ACHIEVEMENT_LYCANHUNTING_DESC,Hunt monsters in the Kaillun region during the event to reach the goals for each stage! All players on the server can receive rewards every time a goal is achieved!,Hunt monsters in the Kaillun region during the event to reach the goals for each stage! All players on the server can receive rewards every time a goal is achieved!
-UI_APP_DONATION_TIP,Donate Penya to receive server wide buffs!,Donate Penya to receive server wide buffs!
+UI_APP_DONATION_TIP,Donate Penya to receive server wide buffs!,Spende Penya für serverweite Buffs!
 UI_APP_LORD_TIP,Manage lord skills as the lord.,Manage lord skills as the lord.
-UI_APP_LORD_TARGETNAME,Enter the target's name,Enter the target's name
+UI_APP_LORD_TARGETNAME,Enter the target's name,Gib den Zielnamen ein
 UI_APP_LORD_INFO,Manage the skills and benefits available to you as the Lord of Madrigal! Press any of the following skills to use them.,Manage the skills and benefits available to you as the Lord of Madrigal! Press any of the following skills to use them.
-UI_DONATION_NEXTEVENT,Next Event:,Next Event:
-UI_DONATION_CURRENTEVENT,Current Event:,Current Event:
-UI_DONATION_MINDONATION,Minimum Donation:,Minimum Donation:
-UI_DONATION_GOAL,Goal,Goal
+UI_DONATION_NEXTEVENT,Next Event:,Nächstes Event:
+UI_DONATION_CURRENTEVENT,Current Event:,Derzeitiges Event:
+UI_DONATION_MINDONATION,Minimum Donation:,Mindestspende:
+UI_DONATION_GOAL,Goal,Ziel
 UI_DONATION_BUFF,Buff,Buff
-UI_DONATION_DONATOR,Donator,Donator
-UI_DONATION_DONATE,Donate,Donate
+UI_DONATION_DONATOR,Donator,Spender
+UI_DONATION_DONATE,Donate,Spenden
 UI_DONATION_MSG,Enter the amount you want to donate for the #b%s#nb buff. Please note that donation cannot be refunded.,Enter the amount you want to donate for the #b%s#nb buff. Please note that donation cannot be refunded.
 UI_155UPDATE_PASS,1.5.5 Update Pass,1.5.5 Update Pass
 UI_BATTLEPASS_MISSION_MADRIGALTOURNAMENT,Attend Madrigal Tournament,Attend Madrigal Tournament
-UI_BATTLEPASS_MISSION_DONATE,Donate %s penya,Donate %s penya
+UI_BATTLEPASS_MISSION_DONATE,Donate %s penya,Spende %s Penya
 UI_BATTLEPASS_MISSION_SETTHEME,Apply %s Theme,Apply %s Theme
 UI_BATTLEPASS_MISSION_USEITEM2,"Use %s, %s","Use %s, %s"
 UI_BATTLEPASS_MISSION_USEITEM3,"Use %s, %s, %s","Use %s, %s, %s"
-UI_DONATION_TOTALDONATION,Total Donation:,Total Donation:
-UI_DONATION_MYDONATION,My Donation:,My Donation:
-UI_DONATION_RANKING,Donation Ranking,Donation Ranking
-UI_DONATION_CURRENTLORD,Current Lord: #b%s#nb,Current Lord: #b%s#nb
+UI_DONATION_TOTALDONATION,Total Donation:,Gesamtspende:
+UI_DONATION_MYDONATION,My Donation:,Meine Spende:
+UI_DONATION_RANKING,Donation Ranking,Spendenranking
+UI_DONATION_CURRENTLORD,Current Lord: #b%s#nb,Derzeitiger Lord: #b%s#nb
 UI_MYSTCASTLE_BATTLE_START,Would you like to start the battle?\nEntering will consume an entry attempt.,Would you like to start the battle?\nEntering will consume an entry attempt.
-UI_MYSTCASTLE_BATTLE_LEAVE,Would you like to leave the current floor?,Would you like to leave the current floor?
-UI_MYSTCASTLE_CHALLENGE_NEXT_FLOOR,Would you like to challenge the next floor?,Would you like to challenge the next floor?
+UI_MYSTCASTLE_BATTLE_LEAVE,Would you like to leave the current floor?,Möchtest du die derzeitige Ebene verlassen?
+UI_MYSTCASTLE_CHALLENGE_NEXT_FLOOR,Would you like to challenge the next floor?,Möchtest du dich der nächsten Ebene stellen?
 UI_MYSTCASTLE_MOVE_NEXT_FLOOR,You’ve defeated the Boss!\nMove on to the next floor!,You’ve defeated the Boss!\nMove on to the next floor!
-UI_MYSTCASTLE_MISSION_SUCCESS,You’ve defeated the Boss!,You’ve defeated the Boss!
+UI_MYSTCASTLE_MISSION_SUCCESS,You’ve defeated the Boss!,Du hast den Boss besiegt!
 UI_MYSTCASTLE_MISSION_FAIL,You’ve failed!,You’ve failed!
-UI_MYSTCASTLE_FLOORS_TITLE,Mysterious Castle Floors,Mysterious Castle Floors
+UI_MYSTCASTLE_FLOORS_TITLE,Mysterious Castle Floors,Ebenen des Mysteriösen Schlosses
 UI_MYSTCASTLE_RANKING,Ranking,Ranking
 UI_ORDINAL_SUFFIX_EXCLUDE_ENG_FRE,,
 UI_MYSTCASTLE_LIST_FLOOR,%s\nFloor,%s\nFloor
@@ -3365,27 +3365,27 @@ UI_MYSTCASTLE_RANK_OVERALL,Overall Ranking,Overall Ranking
 UI_MYSTCASTLE_RANK_JOB,Job Ranking,Job Ranking
 UI_MYSTCASTLE_RANK_OVERALL_LAST_WEEK,Overall Ranking (Last Week),Overall Ranking (Last Week)
 UI_MYSTCASTLE_RANK_JOB_LAST_WEEK,Job Ranking (Last Week),Job Ranking (Last Week)
-UI_MYSTCASTLE_MY_RANKING,My Ranking:,My Ranking:
+UI_MYSTCASTLE_MY_RANKING,My Ranking:,Mein Ranking:
 UI_MYSTCASTLE_MY_RANKING_NO,My Ranking: No current ranking information.,My Ranking: No current ranking information.
-UI_MYSTCASTLE_RANK_TITLE,Mysterious Castle Ranking,Mysterious Castle Ranking
+UI_MYSTCASTLE_RANK_TITLE,Mysterious Castle Ranking,Mysteriöses Schloss – Ranking
 UI_MYSTCASTLE_RANK_COL_RANKING,Ranking,Ranking
 UI_MYSTCASTLE_RANK_COL_JOB,Job,Job
-UI_MYSTCASTLE_RANK_COL_NAME,Character Name,Character Name
+UI_MYSTCASTLE_RANK_COL_NAME,Character Name,Charakter Name
 UI_MYSTCASTLE_RANK_COL_LEVEL,Level,Level
-UI_MYSTCASTLE_RANK_COL_FLOOR,Cleared Floors,Cleared Floors
-UI_MYSTCASTLE_RANK_COL_TIME,Clear Time,Clear Time
-UI_MYSTCASTLE_REWARD_TITLE,Mysterious Castle Rewards,Mysterious Castle Rewards
-UI_MYSTCASTLE_REWARD_COL_FLOOR,Floor,Floor
+UI_MYSTCASTLE_RANK_COL_FLOOR,Cleared Floors,Abgeschlossene Ebenen
+UI_MYSTCASTLE_RANK_COL_TIME,Clear Time,Abschluss Zeit
+UI_MYSTCASTLE_REWARD_TITLE,Mysterious Castle Rewards,Mysteriöses Schloss - Belohnungen
+UI_MYSTCASTLE_REWARD_COL_FLOOR,Floor,Ebene
 UI_MYSTCASTLE_REWARD_COL_BOSS,Boss,Boss
-UI_MYSTCASTLE_REWARD_COL_REWARD,Reward,Reward
-UI_MYSTCASTLE_REWARD_COL_CLASS,Ranking Rewards by Class,Ranking Rewards by Class
+UI_MYSTCASTLE_REWARD_COL_REWARD,Reward,Belohnung
+UI_MYSTCASTLE_REWARD_COL_CLASS,Ranking Rewards by Class,Ranking Belohnungen nach Klasse
 UI_MYSTCASTLE_REWARD_COL_COUNT,Quant,Quant
 UI_MYSTCASTLE_REWARD_RATIO,Within Top %d%%\n(Excluding above ranks),Within Top %d%%\n(Excluding above ranks)
-UI_MYSTCASTLE_REWARD_OTHERS,Others,Others
+UI_MYSTCASTLE_REWARD_OTHERS,Others,Andere
 UI_MYSTCASTLE_REWARD_CLASS_DESC,"Mysterious Box that has\nsame level as the floor\nyou currently cleared\n(If the last floor you cleared\nwas 4, you'll get Mysterious\nBox Lv2)","Mysterious Box that has\nsame level as the floor\nyou currently cleared\n(If the last floor you cleared\nwas 4, you'll get Mysterious\nBox Lv2)"
-UI_MYSTCASTLE_REWARD_TAB_FLOOR,Floor Clear Reward,Floor Clear Reward
-UI_MYSTCASTLE_REWARD_TAB_RANK,Ranking Reward,Ranking Reward
+UI_MYSTCASTLE_REWARD_TAB_FLOOR,Floor Clear Reward,Ebenen Abschluss Belohnung
+UI_MYSTCASTLE_REWARD_TAB_RANK,Ranking Reward,Ranking Belohnung
 UI_MYSTCASTLE_ENTER_FLOOR_USE_TICKET,Entering will consume a Mysterious Castle retry coupon. Do you want to continue?,Entering will consume a Mysterious Castle retry coupon. Do you want to continue?
 UI_MYSTCASTLE_TOUCH_ANYWHERE,Touch anywhere to type!,Touch anywhere to type!
-UI_DUNGEON_DEFEND,Defend,Defend
-UI_DUNGEON_ESCORT,Rescue,Rescue
+UI_DUNGEON_DEFEND,Defend,Verteidige
+UI_DUNGEON_ESCORT,Rescue,Rette

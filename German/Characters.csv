@@ -115,10 +115,10 @@ CHARACTER_INC_000410,Kazen,Kazen
 CHARACTER_INC_000412,Andre,Andre
 CHARACTER_INC_000414,Nein,Shin
 CHARACTER_INC_000418,Banker Pang,Bank Pang
-CHARACTER_INC_000420,Guild Siege Merchant,Gildenkrieg Händler
+CHARACTER_INC_000420,Guild Siege Merchant,Gildenkampf Händler
 CHARACTER_INC_000430,Furan,Furan
-CHARACTER_INC_000434,[Guild Siege Manager] Frankie,[Gildenkrieg Verwalter] Frankie
-CHARACTER_INC_000436,[Guild Siege Manager] Donaris,[Gildenkrieg Verwalterin] Donaris
+CHARACTER_INC_000434,[Guild Siege Manager] Frankie,[Gildenkampf Verwalter] Frankie
+CHARACTER_INC_000436,[Guild Siege Manager] Donaris,[Gildenkampf Verwalterin] Donaris
 CHARACTER_INC_000438,[Santa] Buruto,[Weihnachtsmann] Buruto
 CHARACTER_INC_000440,[Santa] Aramy,[Weihnachtsmann] Aramy
 CHARACTER_INC_000442,[Santa] Atto,[Weihnachtsmann] Atto
@@ -254,8 +254,8 @@ CHARACTER_INC_100020,Mysterious Robed Girl,Geheimnisvolle Nonne
 CHARACTER_INC_000697,[Chip Merchant] Waforu,[Red Chip Händler] Wafor
 CHARACTER_INC_100021,Azria Pang,Azria Pang
 CHARACTER_INC_001260,Lifeguard Jennifer,Strandmeisterin Jennifer
-CHARACTER_INC_100022,[Lv80 Guild Siege Manager] Atlas,[Lv80 Gildenkrieg Manager] Atlas
-CHARACTER_INC_100023,[Lv60 Guild Siege Manager] Olivia,[Lv60 Gildenkrieg Manager] Olivia
+CHARACTER_INC_100022,[Lv80 Guild Siege Manager] Atlas,[Lv80 Gildenkampf Verwalter] Atlas
+CHARACTER_INC_100023,[Lv60 Guild Siege Manager] Olivia,[Lv60 Gildenkampf Verwalter] Olivia
 CHARACTER_INC_100024,Polar Bear,Baby Polar Bear
 CHARACTER_INC_100025,Fu Lion King,Fu Lion King
 CHARACTER_INC_100026,Cupid,Amor
@@ -430,7 +430,7 @@ CHARACTER_INC_150051,Cheirang,Cheirang
 CHARACTER_INC_150052,[Village Chief] Huntrang,[Dorfvorsteher] Huntran
 CHARACTER_INC_150053,[Arena Manager] Aerin,[Arena Manager] Aerin
 CHARACTER_INC_150100,[Event] Getcha,[Event] Getcha
-CHARACTER_INC_150054,[Lv165 Guild Siege Manager] Prune,[Lv165 Guild Siege Manager] Prune
+CHARACTER_INC_150054,[Lv165 Guild Siege Manager] Prune,[Lv165 Gildenkampf Verwalterin] Prune
 CHARACTER_INC_155001,[Captain] Baron,[Captain] Baron
 CHARACTER_INC_155002,[Eillun Farmer] Sprout,[Eillun Farmer] Sprout
 CHARACTER_INC_155003,[Eillun Farmer] Thorn,[Eillun Farmer] Thorn

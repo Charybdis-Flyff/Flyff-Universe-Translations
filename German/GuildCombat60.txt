@@ -1,18 +1,16 @@
-﻿#b#cff0000ff* Level 60 Guild Siege#nb#nc
-Welcome to the Level 60 Guild Siege! This competition is available to players who did not complete their second class change yet.
+﻿#b#cff0000ff Level 60 Gildenkampf #nb#nc
+Willkommen zum Level 60 Gildenkampf!
+Dieser Gildenkampf ist für Spieler, die den 2. Jobwechsel noch nicht durchgeführt haben.
 
-Please ask the [Guild Siege Manager] Donaris for more information about the fight.
+Bitte rede mit [Gildenkampf Manager] Donaris für mehr Informationen.
 
-Pets cannot be summoned during this Guild Siege.
+#bPets können während des Gildenkampfes nicht genutzt werden.#nb
 
-#b#cff0000ff* Reward Blue Chips#nb#nc
-- Winning Guild: 16 x number of participating guilds
-- Second Guild: 11 x number of participating guilds
-- Third Guild: 6 x number of participating guilds
-- Fourth Guild: 4 x number of participating guilds
-- Fifth Guild: 2 x number of participating guilds
-- Sixth Guild: 1 x number of participating guilds
-- Seventh Guild: 1 x number of participating guilds
-- Eighth Guild: 1 x number of participating guilds
-- Ninth Guild: 1 x number of participating guilds
-- Tenth Guild: 1 x number of participating guilds
+#b#cff0000ff Blue Chip Belohnungen #nb#nc
+※ Belohnungen sind abhängig von der Platzierung und der Anzahl der teilnehmenden Gilden.
+  - 1. Gilde: 16 x Anzahl der teilnehmenden Gilden
+  - 2. Gilde: 11 x Anzahl der teilnehmenden Gilden
+  - 3. Gilde: 6 x Anzahl der teilnehmenden Gilden
+  - 4. Gilde: 4 x Anzahl der teilnehmenden Gilden
+  - 5. Gilde: 2 x Anzahl der teilnehmenden Gilden
+  - 6.–10. Gilde: 1 x Anzahl der teilnehmenden Gilden

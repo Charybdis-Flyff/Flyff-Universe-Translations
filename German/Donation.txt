@@ -1,6 +1,6 @@
-﻿#bDonate Penya#nb to unlock #b3 hours of server-wide buffs#nb for #ball players#nb.
-Players who donate will also receive a #bslightly stronger buff#nb!
+﻿#bSpende Penya,#nb um #b3 Stunden Serverweite Buffs#nb für #balle Spieler freizuschalten#nb.
+Spieler, die spenden, erhalten einen #bleicht stärkeren Buff#nb!
 
-#bNote:#nb Donated #bPenya#nb will #bcarry over#nb if the #bfirst donation goal#nb is not reached.
+#bBeachte:#nb Gespendetes #bPenya#nb wird zum nächsten Ziel #bübertragen#nb, wenn das #b1. Spenden Ziel#nb nicht erreicht wird.
 
-Additionally, the #bTop Donor of the Week#nb becomes the #bServer Lord#nb and gains access to #bexclusive time-limited skills and rewards#nb. Visit the #bLord Manager in Flarine#nb for more information.
+Zusätzlich wird der #bTop-Spender der Woche#nb der #bServer Lord#nb und erhält Zugriff auf #bexklusive zeitlich begrenzte Skills und Belohnungen#nb. Besuche den #bLord Manager in Flaris#nb für mehr Informationen.

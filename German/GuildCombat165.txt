@@ -1,18 +1,15 @@
-﻿#b#cff0000ff* Level 165 Guild Siege#nb#nc
-Welcome to the Level 165 Guild Siege! This competition is available to players who did not complete their third class change yet.
+﻿#b#cff0000ff Level 165 Gildenkampf#nb#nc
+Willkommen zum Level 165 Gildenkampf! Dieser Gildenkampf ist für Spieler, die den 3. Jobwechsel noch nicht durchgeführt haben.
 
-Please ask the [Guild Siege Manager] Donaris for more information about the fight.
+Bitte rede mit [Gildenkampf Manager] Donaris für mehr Informationen.
 
-Pets cannot be summoned during this Guild Siege.
+#bPets können während des Gildenkampfes nicht genutzt werden.#nb
 
-#b#cff0000ff* Reward Blue Chips#nb#nc
-- Winning Guild: 20 x number of participating guilds
-- Second Guild: 15 x number of participating guilds
-- Third Guild: 10 x number of participating guilds
-- Fourth Guild: 5 x number of participating guilds
-- Fifth Guild: 3 x number of participating guilds
-- Sixth Guild: 2 x number of participating guilds
-- Seventh Guild: 2 x number of participating guilds
-- Eighth Guild: 2 x number of participating guilds
-- Ninth Guild: 2 x number of participating guilds
-- Tenth Guild: 2 x number of participating guilds
+#b#cff0000ff Blue Chip Belohnungen #nb#nc
+※ Belohnungen sind abhängig von der Platzierung und der Anzahl der teilnehmenden Gilden.
+  - 1. Gilde: 20 x Anzahl der teilnehmenden Gilden
+  - 2. Gilde: 15 x Anzahl der teilnehmenden Gilden
+  - 3. Gilde: 10 x Anzahl der teilnehmenden Gilden
+  - 4. Gilde: 5 x Anzahl der teilnehmenden Gilden
+  - 5. Gilde: 3 x Anzahl der teilnehmenden Gilden
+  - 6.-10. Gilde: 2 x Anzahl der teilnehmenden Gilden
