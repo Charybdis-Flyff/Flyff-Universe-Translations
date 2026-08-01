@@ -693,9 +693,9 @@ UI_UPGRADE_ITEM,Item,物品
 UI_UPGRADE_MATERIAL,Power Dice/Card,能量骰子/卡片
 UI_UPGRADE_PROTECTSCROLL,SProtect,精煉防爆卷軸
 UI_ULTIMATE_UPGRADE_PROTECTSCROLL,XProtect,究極精煉防爆卷軸
-UI_PVP_UPGRADE_PROTECTSCROLL,PProtect,PProtect
-UI_PVP_ULT_UPGRADE_PROTECTSCROLL,PProtect / XProtect,PProtect / 究極精煉防爆卷軸
-UI_PVP_NORMAL_UPGRADE_PROTECTSCROLL,PProtect / SProtect,PProtect / 精煉防爆卷軸
+UI_PVP_UPGRADE_PROTECTSCROLL,PProtect,對戰精煉防爆卷軸
+UI_PVP_ULT_UPGRADE_PROTECTSCROLL,PProtect / XProtect,對戰精煉防爆卷軸 / 究極精煉防爆卷軸
+UI_PVP_NORMAL_UPGRADE_PROTECTSCROLL,PProtect / SProtect,對戰精煉防爆卷軸 / 精煉防爆卷軸
 UI_ULTIMATE_UPGRADE_MATERIAL,Sunstone,太陽石
 UI_UPGRADE_CHANCESCROLL,SFusion,精煉卷軸
 UI_UPGRADE_DEGRADE,"If upgrading fails, the item's upgrade level will decrease, but the item will not be destroyed.",精煉失敗時精煉等級會降低，但是物品不會消失。

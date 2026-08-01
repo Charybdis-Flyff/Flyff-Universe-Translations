@@ -14284,7 +14284,7 @@ PROPITEM_TXT_131424,"Instant respawn item that can be used only once when partic
 PROPITEM_TXT_131425,Kalgas Gold Coin,卡爾加斯金幣
 PROPITEM_TXT_131426,"Instant respawn item that can be used unlimited number of times when participating in Kalgas Assault When used, will be immediately respawned at the starting point without wait time.",瞬逝復活道具，參與「卡爾加斯突襲」時可無限次使用。使用後將在起點立即復活，無等待時間。
 PROPITEM_TXT_131427,Kalgas Chip,卡爾加斯籌碼
-PROPITEM_TXT_131428,Exchange this Old Kalgas chip to Waforu for wonderful rewards!,將舊卡爾加斯籌碼交給 [戰鬥商人] 華弗，兌換豐厚獎勵！
+PROPITEM_TXT_131428,Exchange this Old Kalgas chip to Waforu for wonderful rewards!,將舊卡爾加斯籌碼交給 [戰鬥商人] 瓦普勒，兌換豐厚獎勵！
 PROPITEM_TXT_722673,Valentine 2024 10% Red Set,2024 情人節熾戀套裝 10%
 PROPITEM_TXT_722674,Valentine 2024 10% Red Set (M),2024 情人節熾戀套裝 10% (男)
 PROPITEM_TXT_722675,The Valentine 2024 10% Red Set for male characters.,男角色使用的 2024 情人節熾戀套裝 10%。
@@ -29191,7 +29191,7 @@ PROPITEM_TXT_913710,Glow Footsteps,發光腳步
 PROPITEM_TXT_913711,New footstep effect,全新的腳步特效。
 PROPITEM_TXT_913712,Sparkle Footsteps,閃耀腳步
 PROPITEM_TXT_913713,New footstep effect,全新的腳步特效。
-PROPITEM_TXT_913714,Scroll of PProtect,PProtect 卷軸
+PROPITEM_TXT_913714,Scroll of PProtect,對戰精煉防爆卷軸
 PROPITEM_TXT_913715,"This scroll prevents the loss of equipment in the event of upgrade or elemental attribute upgrade failure for PVP items. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process.",此卷軸可防止 PvP 道具在精煉或元素屬性精煉失敗時消失。使用時，請先將卷軸放入精煉選單中的指定欄位，再嘗試精煉。卷軸會在過程中消耗。
 PROPITEM_TXT_913716,Yellow Chips 2,黃色籌碼 2
 PROPITEM_TXT_913717,Madrigal Tournament reward (Used to buy items from Waforu).,瑪德利賈錦標賽獎勵 (可向瓦普勒購買道具)。
