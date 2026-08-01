@@ -3332,60 +3332,60 @@ UI_DONATION_GOAL,Goal,Ziel
 UI_DONATION_BUFF,Buff,Buff
 UI_DONATION_DONATOR,Donator,Spender
 UI_DONATION_DONATE,Donate,Spenden
-UI_DONATION_MSG,Enter the amount you want to donate for the #b%s#nb buff. Please note that donation cannot be refunded.,Enter the amount you want to donate for the #b%s#nb buff. Please note that donation cannot be refunded.
+UI_DONATION_MSG,Enter the amount you want to donate for the #b%s#nb buff. Please note that donation cannot be refunded.,"Gib den Betrag ein, den du für den Buff #b%s#nb spenden möchtest. Beachte, dass Spenden nicht erstattet werden können."
 UI_155UPDATE_PASS,1.5.5 Update Pass,1.5.5 Update Pass
-UI_BATTLEPASS_MISSION_MADRIGALTOURNAMENT,Attend Madrigal Tournament,Attend Madrigal Tournament
+UI_BATTLEPASS_MISSION_MADRIGALTOURNAMENT,Attend Madrigal Tournament,Am Madrigal Tournament teilnehmen
 UI_BATTLEPASS_MISSION_DONATE,Donate %s penya,Spende %s Penya
-UI_BATTLEPASS_MISSION_SETTHEME,Apply %s Theme,Apply %s Theme
-UI_BATTLEPASS_MISSION_USEITEM2,"Use %s, %s","Use %s, %s"
-UI_BATTLEPASS_MISSION_USEITEM3,"Use %s, %s, %s","Use %s, %s, %s"
+UI_BATTLEPASS_MISSION_SETTHEME,Apply %s Theme,Theme %s anwenden
+UI_BATTLEPASS_MISSION_USEITEM2,"Use %s, %s","%s, %s benutzen"
+UI_BATTLEPASS_MISSION_USEITEM3,"Use %s, %s, %s","%s, %s, %s benutzen"
 UI_DONATION_TOTALDONATION,Total Donation:,Gesamtspende:
 UI_DONATION_MYDONATION,My Donation:,Meine Spende:
 UI_DONATION_RANKING,Donation Ranking,Spendenranking
 UI_DONATION_CURRENTLORD,Current Lord: #b%s#nb,Derzeitiger Lord: #b%s#nb
-UI_MYSTCASTLE_BATTLE_START,Would you like to start the battle?\nEntering will consume an entry attempt.,Would you like to start the battle?\nEntering will consume an entry attempt.
+UI_MYSTCASTLE_BATTLE_START,Would you like to start the battle?\nEntering will consume an entry attempt.,Möchtest du den Kampf beginnen?\nDas Betreten verbraucht einen Eintritt.
 UI_MYSTCASTLE_BATTLE_LEAVE,Would you like to leave the current floor?,Möchtest du die derzeitige Ebene verlassen?
 UI_MYSTCASTLE_CHALLENGE_NEXT_FLOOR,Would you like to challenge the next floor?,Möchtest du dich der nächsten Ebene stellen?
-UI_MYSTCASTLE_MOVE_NEXT_FLOOR,You’ve defeated the Boss!\nMove on to the next floor!,You’ve defeated the Boss!\nMove on to the next floor!
+UI_MYSTCASTLE_MOVE_NEXT_FLOOR,You’ve defeated the Boss!\nMove on to the next floor!,Du hast den Boss besiegt!\nWeiter zur nächsten Ebene!
 UI_MYSTCASTLE_MISSION_SUCCESS,You’ve defeated the Boss!,Du hast den Boss besiegt!
-UI_MYSTCASTLE_MISSION_FAIL,You’ve failed!,You’ve failed!
+UI_MYSTCASTLE_MISSION_FAIL,You’ve failed!,Du hast versagt!
 UI_MYSTCASTLE_FLOORS_TITLE,Mysterious Castle Floors,Ebenen des Mysteriösen Schlosses
 UI_MYSTCASTLE_RANKING,Ranking,Ranking
 UI_ORDINAL_SUFFIX_EXCLUDE_ENG_FRE,,
-UI_MYSTCASTLE_LIST_FLOOR,%s\nFloor,%s\nFloor
-UI_MYSTCASTLE_LIST_CLEAR,Clear,Clear
-UI_MYSTCASTLE_FLOOR_INFO_BOSS,%s Floor BOSS:\n    %s,%s Floor BOSS:\n    %s
-UI_MYSTCASTLE_FLOOR_INFO_DETAIL,Entrance: %s\nMinimum Level: %d\nClear Time: %s,Entrance: %s\nMinimum Level: %d\nClear Time: %s
+UI_MYSTCASTLE_LIST_FLOOR,%s\nFloor,%s\nEbene
+UI_MYSTCASTLE_LIST_CLEAR,Clear,Abgeschlossen
+UI_MYSTCASTLE_FLOOR_INFO_BOSS,%s Floor BOSS:\n    %s,%s Ebene BOSS:\n    %s
+UI_MYSTCASTLE_FLOOR_INFO_DETAIL,Entrance: %s\nMinimum Level: %d\nClear Time: %s,Eintritt: %s\nMindestlevel: %d\nAbschlusszeit: %s
 UI_MYSTCASTLE_PARTY,Party,Party
 UI_MYSTCASTLE_SOLO,Solo,Solo
-UI_MYSTCASTLE_CLEAR_REWARD,Clear Rewards,Clear Rewards
-UI_MYSTCASTLE_FREE_ENTRANCE_USED,Free Entrance Used %d/%d,Free Entrance Used %d/%d
-UI_MYSTCASTLE_BLOCK_TIME,Ranking Settlement in progress,Ranking Settlement in progress
-UI_MYSTCASTLE_RANK_OVERALL,Overall Ranking,Overall Ranking
-UI_MYSTCASTLE_RANK_JOB,Job Ranking,Job Ranking
-UI_MYSTCASTLE_RANK_OVERALL_LAST_WEEK,Overall Ranking (Last Week),Overall Ranking (Last Week)
-UI_MYSTCASTLE_RANK_JOB_LAST_WEEK,Job Ranking (Last Week),Job Ranking (Last Week)
+UI_MYSTCASTLE_CLEAR_REWARD,Clear Rewards,Abschlussbelohnungen
+UI_MYSTCASTLE_FREE_ENTRANCE_USED,Free Entrance Used %d/%d,Freie Eintritte genutzt %d/%d
+UI_MYSTCASTLE_BLOCK_TIME,Ranking Settlement in progress,Ranking-Auswertung läuft
+UI_MYSTCASTLE_RANK_OVERALL,Overall Ranking,Gesamtranking
+UI_MYSTCASTLE_RANK_JOB,Job Ranking,Job-Ranking
+UI_MYSTCASTLE_RANK_OVERALL_LAST_WEEK,Overall Ranking (Last Week),Gesamtranking (letzte Woche)
+UI_MYSTCASTLE_RANK_JOB_LAST_WEEK,Job Ranking (Last Week),Job-Ranking (letzte Woche)
 UI_MYSTCASTLE_MY_RANKING,My Ranking:,Mein Ranking:
-UI_MYSTCASTLE_MY_RANKING_NO,My Ranking: No current ranking information.,My Ranking: No current ranking information.
+UI_MYSTCASTLE_MY_RANKING_NO,My Ranking: No current ranking information.,Mein Ranking: Keine aktuellen Ranking-Daten vorhanden.
 UI_MYSTCASTLE_RANK_TITLE,Mysterious Castle Ranking,Mysteriöses Schloss – Ranking
 UI_MYSTCASTLE_RANK_COL_RANKING,Ranking,Ranking
 UI_MYSTCASTLE_RANK_COL_JOB,Job,Job
-UI_MYSTCASTLE_RANK_COL_NAME,Character Name,Charakter Name
+UI_MYSTCASTLE_RANK_COL_NAME,Character Name,Charaktername
 UI_MYSTCASTLE_RANK_COL_LEVEL,Level,Level
 UI_MYSTCASTLE_RANK_COL_FLOOR,Cleared Floors,Abgeschlossene Ebenen
-UI_MYSTCASTLE_RANK_COL_TIME,Clear Time,Abschluss Zeit
-UI_MYSTCASTLE_REWARD_TITLE,Mysterious Castle Rewards,Mysteriöses Schloss - Belohnungen
+UI_MYSTCASTLE_RANK_COL_TIME,Clear Time,Abschlusszeit
+UI_MYSTCASTLE_REWARD_TITLE,Mysterious Castle Rewards,Mysteriöses Schloss – Belohnungen
 UI_MYSTCASTLE_REWARD_COL_FLOOR,Floor,Ebene
 UI_MYSTCASTLE_REWARD_COL_BOSS,Boss,Boss
 UI_MYSTCASTLE_REWARD_COL_REWARD,Reward,Belohnung
-UI_MYSTCASTLE_REWARD_COL_CLASS,Ranking Rewards by Class,Ranking Belohnungen nach Klasse
-UI_MYSTCASTLE_REWARD_COL_COUNT,Quant,Quant
-UI_MYSTCASTLE_REWARD_RATIO,Within Top %d%%\n(Excluding above ranks),Within Top %d%%\n(Excluding above ranks)
+UI_MYSTCASTLE_REWARD_COL_CLASS,Ranking Rewards by Class,Ranking-Belohnungen nach Klasse
+UI_MYSTCASTLE_REWARD_COL_COUNT,Quant,Anz.
+UI_MYSTCASTLE_REWARD_RATIO,Within Top %d%%\n(Excluding above ranks),Unter den besten %d%%\n(ohne die höheren Ränge)
 UI_MYSTCASTLE_REWARD_OTHERS,Others,Andere
-UI_MYSTCASTLE_REWARD_CLASS_DESC,"Mysterious Box that has\nsame level as the floor\nyou currently cleared\n(If the last floor you cleared\nwas 4, you'll get Mysterious\nBox Lv2)","Mysterious Box that has\nsame level as the floor\nyou currently cleared\n(If the last floor you cleared\nwas 4, you'll get Mysterious\nBox Lv2)"
-UI_MYSTCASTLE_REWARD_TAB_FLOOR,Floor Clear Reward,Ebenen Abschluss Belohnung
-UI_MYSTCASTLE_REWARD_TAB_RANK,Ranking Reward,Ranking Belohnung
-UI_MYSTCASTLE_ENTER_FLOOR_USE_TICKET,Entering will consume a Mysterious Castle retry coupon. Do you want to continue?,Entering will consume a Mysterious Castle retry coupon. Do you want to continue?
-UI_MYSTCASTLE_TOUCH_ANYWHERE,Touch anywhere to type!,Touch anywhere to type!
+UI_MYSTCASTLE_REWARD_CLASS_DESC,"Mysterious Box that has\nsame level as the floor\nyou currently cleared\n(If the last floor you cleared\nwas 4, you'll get Mysterious\nBox Lv2)","Mysterious Box mit derselben\nStufe wie die Ebene, die du\nzuletzt abgeschlossen hast\n(War die letzte Ebene 4,\nerhältst du Mysterious\nBox Lv2)"
+UI_MYSTCASTLE_REWARD_TAB_FLOOR,Floor Clear Reward,Ebenen-Abschlussbelohnung
+UI_MYSTCASTLE_REWARD_TAB_RANK,Ranking Reward,Ranking-Belohnung
+UI_MYSTCASTLE_ENTER_FLOOR_USE_TICKET,Entering will consume a Mysterious Castle retry coupon. Do you want to continue?,Das Betreten verbraucht einen Mysteriöses-Schloss-Wiederholungscoupon. Möchtest du fortfahren?
+UI_MYSTCASTLE_TOUCH_ANYWHERE,Touch anywhere to type!,"Tippe irgendwo hin, um zu schreiben!"
 UI_DUNGEON_DEFEND,Defend,Verteidige
 UI_DUNGEON_ESCORT,Rescue,Rette
