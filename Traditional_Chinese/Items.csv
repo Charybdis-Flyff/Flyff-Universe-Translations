@@ -12170,25 +12170,25 @@ PROPITEM_TXT_222144,Bank Extra Bag (1 Hour),銀行背包擴充 (1 小時)
 PROPITEM_TXT_222145,Expands the bank space limit by 24 items for current character. You can only use 1 at the same time. Lasts 1 Hour.,將目前角色的銀行空間限制擴大 24 項。同一時間只能使用 1 個。持續 1 小時。
 PROPITEM_TXT_222146,Bank Extra Bag,銀行背包擴充
 PROPITEM_TXT_222147,Expands the bank space limit by 24 items for current character. You can only use 1 at the same time.,將目前角色的銀行空間限制擴大 24 項。同一時間只能使用 1 個。
-PROPITEM_TXT_011432,Lusaka's Sword,盧薩卡之劍
-PROPITEM_TXT_011434,Lusaka's Axe,盧薩卡之斧
+PROPITEM_TXT_011432,Lusaka's Sword,盧薩卡戰劍
+PROPITEM_TXT_011434,Lusaka's Axe,盧薩卡戰斧
 PROPITEM_TXT_011436,Lusaka's Heavy Sword,盧薩卡巨劍
 PROPITEM_TXT_011438,Lusaka's Heavy Axe,盧薩卡巨斧
 PROPITEM_TXT_011440,Lusaka's Fist,盧薩卡拳套
 PROPITEM_TXT_011442,Lusaka's Stick,盧薩卡法棒
 PROPITEM_TXT_011444,Lusaka's Wand,盧薩卡魔杖
 PROPITEM_TXT_011446,Lusaka's Staff,盧薩卡法杖
-PROPITEM_TXT_011448,Lusaka's Bow,盧薩卡之弓
+PROPITEM_TXT_011448,Lusaka's Bow,盧薩卡戰弓
 PROPITEM_TXT_011450,Lusaka's Yo-Yo,盧薩卡溜刃
-PROPITEM_TXT_011452,Lusaka's Crystal Sword,盧薩卡水晶劍
-PROPITEM_TXT_011454,Lusaka's Crystal Axe,盧薩卡水晶斧
+PROPITEM_TXT_011452,Lusaka's Crystal Sword,盧薩卡水晶戰劍
+PROPITEM_TXT_011454,Lusaka's Crystal Axe,盧薩卡水晶戰斧
 PROPITEM_TXT_011456,Lusaka's Heavy Crystal Sword,盧薩卡水晶巨劍
 PROPITEM_TXT_011458,Lusaka's Heavy Crystal Axe,盧薩卡水晶巨斧
 PROPITEM_TXT_011460,Lusaka's Crystal Fist,盧薩卡水晶拳套
 PROPITEM_TXT_011462,Lusaka's Crystal Stick,盧薩卡水晶法棒
 PROPITEM_TXT_011464,Lusaka's Crystal Wand,盧薩卡水晶魔杖
 PROPITEM_TXT_011466,Lusaka's Crystal Staff,盧薩卡水晶法杖
-PROPITEM_TXT_011468,Lusaka's Crystal Bow,盧薩卡水晶弓
+PROPITEM_TXT_011468,Lusaka's Crystal Bow,盧薩卡水晶戰弓
 PROPITEM_TXT_011470,Lusaka's Crystal Yo-Yo,盧薩卡水晶溜刃
 PROPITEM_TXT_011471,An exquisitely crafted weapon found in The Wilds. It hums with power.,在荒野叢境發現的精緻鍛造武器，工藝非凡。它低聲鳴動，蘊藏著強大的力量。
 PROPITEM_TXT_014606,Coral Cutlass,珊瑚潮刃
@@ -12421,8 +12421,8 @@ PROPITEM_TXT_019462,Coral Shield,珊瑚之盾
 PROPITEM_TXT_019463,Mossy Coral Shield,苔生珊瑚之盾
 PROPITEM_TXT_019464,Destroyed Coral Shield,破碎的珊瑚之盾
 PROPITEM_TXT_019465,This shield has been damaged beyond repair.,此盾已嚴重損壞，無法修復。
-PROPITEM_TXT_019466,Lusaka's Shield,盧薩卡之盾
-PROPITEM_TXT_019467,Lusaka's Crystal Shield,盧薩卡水晶盾
+PROPITEM_TXT_019466,Lusaka's Shield,盧薩卡戰盾
+PROPITEM_TXT_019467,Lusaka's Crystal Shield,盧薩卡水晶戰盾
 PROPITEM_TXT_019468,An exquisitely crafted shield found in The Wilds. It hums with power.,一面精緻打造的盾牌，發現於荒野叢境之地，散發著強大的能量。
 PROPITEM_TXT_150000,Lightning Strike,雷霆之怒
 PROPITEM_TXT_150001,"Call a lightning strike upon the person ahead of you in points, slowing them down by 20% for 10 seconds.",對積分榜上位於你前方的玩家召喚一道雷擊，使其 10 秒內緩速 20%。
@@ -15536,12 +15536,12 @@ PROPITEM_TXT_724687,FWC Golden Reine Helmet,榮耀‧雷恩頭盔
 PROPITEM_TXT_724688,FWC Golden Reine Suit,榮耀‧雷恩套裝
 PROPITEM_TXT_724689,FWC Golden Reine Gauntlets,榮耀‧雷恩護手
 PROPITEM_TXT_724690,FWC Golden Reine Boots,榮耀‧雷恩戰靴
-PROPITEM_TXT_724691,FWC Golden Lusaka's Crystal Axe,榮耀‧盧薩卡水晶斧
-PROPITEM_TXT_724692,FWC Golden Lusaka's Crystal Bow,榮耀‧盧薩卡水晶弓
-PROPITEM_TXT_724693,FWC Golden Lusaka's Crystal Fist,榮耀‧盧薩卡水晶拳
+PROPITEM_TXT_724691,FWC Golden Lusaka's Crystal Axe,榮耀‧盧薩卡水晶戰斧
+PROPITEM_TXT_724692,FWC Golden Lusaka's Crystal Bow,榮耀‧盧薩卡水晶戰弓
+PROPITEM_TXT_724693,FWC Golden Lusaka's Crystal Fist,榮耀‧盧薩卡水晶拳套
 PROPITEM_TXT_724694,FWC Golden Lusaka's Crystal Staff,榮耀‧盧薩卡水晶法杖
 PROPITEM_TXT_724695,FWC Golden Lusaka's Crystal Stick,榮耀‧盧薩卡水晶法棒
-PROPITEM_TXT_724696,FWC Golden Lusaka's Crystal Sword,榮耀‧盧薩卡水晶劍
+PROPITEM_TXT_724696,FWC Golden Lusaka's Crystal Sword,榮耀‧盧薩卡水晶戰劍
 PROPITEM_TXT_724697,FWC Golden Lusaka's Heavy Crystal Axe,榮耀‧盧薩卡水晶巨斧
 PROPITEM_TXT_724698,FWC Golden Lusaka's Heavy Crystal Sword,榮耀‧盧薩卡水晶巨劍
 PROPITEM_TXT_724699,FWC Golden Lusaka's Crystal Wand,榮耀‧盧薩卡水晶魔杖
@@ -21816,12 +21816,12 @@ PROPITEM_TXT_828288,Easter Rabbit 2025 2% Rainbow Set (F),2025 復活節兔兔�
 PROPITEM_TXT_828289,The Easter Rabbit 2025 2% Rainbow Set for female characters.,女角色使用的 2025 復活節兔兔彩虹色套裝 2%。
 PROPITEM_TXT_828290,Easter Rabbit 2025 Costume Lucky Box,2025 復活兔服裝幸運箱
 PROPITEM_TXT_828291,This box contains a Easter Rabbit 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,此箱子包含附帶速度加成的 2025 復活兔套裝。開啟幸運箱後可選擇性別。
-PROPITEM_TXT_900000,2025 FWC Golden Lusaka's Crystal Axe,[2025] 榮耀‧盧薩卡水晶斧
-PROPITEM_TXT_900001,2025 FWC Golden Lusaka's Crystal Bow,[2025] 榮耀‧盧薩卡水晶弓
+PROPITEM_TXT_900000,2025 FWC Golden Lusaka's Crystal Axe,[2025] 榮耀‧盧薩卡水晶戰斧
+PROPITEM_TXT_900001,2025 FWC Golden Lusaka's Crystal Bow,[2025] 榮耀‧盧薩卡水晶戰弓
 PROPITEM_TXT_900002,2025 FWC Golden Lusaka's Crystal Fist,[2025] 榮耀‧盧薩卡水晶拳套
 PROPITEM_TXT_900003,2025 FWC Golden Lusaka's Crystal Staff,[2025] 榮耀‧盧薩卡水晶法杖
 PROPITEM_TXT_900004,2025 FWC Golden Lusaka's Crystal Stick,[2025] 榮耀‧盧薩卡水晶法棒
-PROPITEM_TXT_900005,2025 FWC Golden Lusaka's Crystal Sword,[2025] 榮耀‧盧薩卡水晶劍
+PROPITEM_TXT_900005,2025 FWC Golden Lusaka's Crystal Sword,[2025] 榮耀‧盧薩卡水晶戰劍
 PROPITEM_TXT_900006,2025 FWC Golden Lusaka's Heavy Crystal Axe,[2025] 榮耀‧盧薩卡水晶巨斧
 PROPITEM_TXT_900007,2025 FWC Golden Lusaka's Heavy Crystal Sword,[2025] 榮耀‧盧薩卡水晶巨劍
 PROPITEM_TXT_900008,2025 FWC Golden Lusaka's Crystal Wand,[2025] 榮耀‧盧薩卡水晶魔杖
@@ -24032,19 +24032,19 @@ PROPITEM_TXT_134870,The 2025 FWC Flame Bilari Costume Set for female characters.
 PROPITEM_TXT_134871,2025 FWC Flame Bileire Costume Set (M),[2025] 烈焰比雷爾時裝套裝 (男)
 PROPITEM_TXT_134872,The 2025 FWC Flame Bileire Costume Set for male characters.,男角色使用的 [2025] FWC 烈焰比雷爾時裝套裝。
 PROPITEM_TXT_134873,FWC Red Wings,FWC 紅翅膀
-PROPITEM_TXT_134874,2025 FWC Flame Lusaka Sword,[2025] 烈焰盧薩卡之劍
-PROPITEM_TXT_134875,2025 FWC Flame Lusaka Axe,[2025] 烈焰盧薩卡之斧
-PROPITEM_TXT_134876,2025 FWC Flame Lusaka Big Sword,[2025] 烈焰盧薩卡巨劍
-PROPITEM_TXT_134877,2025 FWC Flame Lusaka Big Axe,[2025] 烈焰盧薩卡大斧
-PROPITEM_TXT_134878,2025 FWC Flame Lusaka Stick,[2025] 烈焰盧薩卡法棒
-PROPITEM_TXT_134879,2025 FWC Flame Lusaka Knuckle,[2025] 烈焰盧薩卡拳套
-PROPITEM_TXT_134880,2025 FWC Flame Lusaka Bow,[2025] 烈焰盧薩卡之弓
-PROPITEM_TXT_134881,2025 FWC Flame Lusaka Yo-Yo,[2025] 烈焰盧薩卡溜溜球
-PROPITEM_TXT_134882,2025 FWC Flame Lusaka Staff,[2025] 烈焰盧薩卡法杖
-PROPITEM_TXT_134883,2025 FWC Flame Lusaka Wand,[2025] 烈焰盧薩卡魔杖
-PROPITEM_TXT_134884,2025 FWC Flame Lusaka Shield,[2025] 烈焰盧薩卡之盾
-PROPITEM_TXT_134885,2025 FWC Flame Lusaka Weapon Select Box,[2025] 烈焰盧薩卡武器選擇盒
-PROPITEM_TXT_134886,This box contains the 2025 FWC Flame Lusaka Weapons.,此盒子包含 [2025] 烈焰盧薩卡武器。
+PROPITEM_TXT_134874,2025 FWC Flame Lusaka Sword,[2025] 烈焰‧盧薩卡戰劍
+PROPITEM_TXT_134875,2025 FWC Flame Lusaka Axe,[2025] 烈焰‧盧薩卡戰斧
+PROPITEM_TXT_134876,2025 FWC Flame Lusaka Big Sword,[2025] 烈焰‧盧薩卡巨劍
+PROPITEM_TXT_134877,2025 FWC Flame Lusaka Big Axe,[2025] 烈焰‧盧薩卡巨斧
+PROPITEM_TXT_134878,2025 FWC Flame Lusaka Stick,[2025] 烈焰‧盧薩卡法棒
+PROPITEM_TXT_134879,2025 FWC Flame Lusaka Knuckle,[2025] 烈焰‧盧薩卡拳套
+PROPITEM_TXT_134880,2025 FWC Flame Lusaka Bow,[2025] 烈焰‧盧薩卡戰弓
+PROPITEM_TXT_134881,2025 FWC Flame Lusaka Yo-Yo,[2025] 烈焰‧盧薩卡溜刃
+PROPITEM_TXT_134882,2025 FWC Flame Lusaka Staff,[2025] 烈焰‧盧薩卡法杖
+PROPITEM_TXT_134883,2025 FWC Flame Lusaka Wand,[2025] 烈焰‧盧薩卡魔杖
+PROPITEM_TXT_134884,2025 FWC Flame Lusaka Shield,[2025] 烈焰‧盧薩卡戰盾
+PROPITEM_TXT_134885,2025 FWC Flame Lusaka Weapon Select Box,[2025] 烈焰‧盧薩卡武器選擇箱
+PROPITEM_TXT_134886,This box contains the 2025 FWC Flame Lusaka Weapons.,此箱內含 [2025] 烈焰‧盧薩卡系列武器。
 PROPITEM_TXT_155000,Blinkwing of Eillun,艾爾倫村翅膀
 PROPITEM_TXT_155001,Teleport to Eillun,傳送到艾爾倫村
 PROPITEM_TXT_155002,Fragment of ???,？？？的碎片
