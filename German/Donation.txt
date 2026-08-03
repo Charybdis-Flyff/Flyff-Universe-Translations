@@ -1,6 +1,6 @@
 ﻿#bSpende Penya,#nb um #b3 Stunden Serverweite Buffs#nb für #balle Spieler freizuschalten#nb.
 Spieler, die spenden, erhalten einen #bleicht stärkeren Buff#nb!
 
-#bBeachte:#nb Gespendetes #bPenya#nb wird zum nächsten Ziel #bübertragen#nb, wenn das #b1. Spenden Ziel#nb nicht erreicht wird.
+#bBeachte:#nb Gespendetes #bPenya#nb wird zum nächsten Ziel #bübertragen#nb, wenn das #b1. Spendenziel#nb nicht erreicht wird.
 
 Zusätzlich wird der #bTop-Spender der Woche#nb der #bServer Lord#nb und erhält Zugriff auf #bexklusive zeitlich begrenzte Skills und Belohnungen#nb. Besuche den #bLord Manager in Flaris#nb für mehr Informationen.
