@@ -728,8 +728,8 @@ PROPSKILL_TXT_140097,Nearby Shot,Tir rapproché
 PROPSKILL_TXT_140098,Increased damage for auto attacks when you more than 5m from your target.,Augmente les dégâts des attaques automatiques quand tu es à plus de 5 m de ta cible.
 PROPSKILL_TXT_140099,Feeble Arms,Bras faibles
 PROPSKILL_TXT_140100,Monsters take less damages from you but have higher drop rates.,Les monstres subissent moins de dégâts de toi mais ont des taux de loot plus élevés.
-PROPSKILL_TXT_150142,Five Strikes,Quatre frappes
-PROPSKILL_TXT_150143,"Your auto attacks apply stacks, which pop at 5 stacks to deal extra damage.","Tes attaques automatiques appliquent des accumulations, qui explosent à 4 accumulations pour infliger des dégâts supplémentaires."
+PROPSKILL_TXT_150142,Five Strikes,Cinq frappes
+PROPSKILL_TXT_150143,"Your auto attacks apply stacks, which pop at 5 stacks to deal extra damage.","Tes attaques automatiques appliquent des accumulations, qui explosent à 5 accumulations pour infliger des dégâts supplémentaires."
 PROPSKILL_TXT_150144,Auto Attack Stacks,Accumulations d'attaques automatiques
 PROPSKILL_TXT_150145,Execution of Justice,Exécution de la justice
 PROPSKILL_TXT_150146,"Leap forward, knocking nearby enemies towards you and reducing their movement speed.","Saute en avant, repoussant les ennemis proches vers toi et réduisant leur vitesse de déplacement."
