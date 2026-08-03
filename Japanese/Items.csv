@@ -16992,7 +16992,7 @@ PROPITEM_TXT_726043,Persian Warrior Black Hands (F),ペルシャの戦士ブラ�
 PROPITEM_TXT_726044,Persian Warrior Black Cloak,ペルシャの戦士ブラックマント
 PROPITEM_TXT_726045,Persian Warrior Black Mask,ペルシャの戦士ブラックマスク
 PROPITEM_TXT_726046,Persian Warrior Costume Lucky Box,ペルシャの戦士コスチュームラッキーボックス
-PROPITEM_TXT_726047,This box contains a Persian Warrior Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Persian Warrior Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_726047,This box contains a Persian Warrior Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのペルシャの戦士セットが含まれています。ラッキーボックスを開いた後、性別を選択できます。
 PROPITEM_TXT_726048,Red Persian Magic Carpet,Red Persian Magic Carpet
 PROPITEM_TXT_726050,Green Persian Magic Carpet,Green Persian Magic Carpet
 PROPITEM_TXT_726052,Purple Persian Magic Carpet,Purple Persian Magic Carpet
@@ -17020,31 +17020,31 @@ PROPITEM_TXT_726074,Oceanic Wand,Oceanic Wand
 PROPITEM_TXT_726075,Charlie Hunter Blue Set,チャーリーハンターブルーセット
 PROPITEM_TXT_726076,Charlie Hunter Blue Set (M),チャーリーハンターブルーセット(M)
 PROPITEM_TXT_726077,The Charlie Hunter Blue Set for male characters.,男性キャラクター用のチャーリーハンターブルーセット
-PROPITEM_TXT_726078,Charlie Hunter Blue Hat (M),Charlie Hunter Blue Hat (M)
-PROPITEM_TXT_726079,Charlie Hunter Blue Suit (M),Charlie Hunter Blue Suit (M)
-PROPITEM_TXT_726080,Charlie Hunter Blue Shoes (M),Charlie Hunter Blue Shoes (M)
-PROPITEM_TXT_726081,Charlie Hunter Blue Hands (M),Charlie Hunter Blue Hands (M)
+PROPITEM_TXT_726078,Charlie Hunter Blue Hat (M),チャーリーハンター・ブルーハット (M)
+PROPITEM_TXT_726079,Charlie Hunter Blue Suit (M),チャーリーハンター・ブルースーツ (M)
+PROPITEM_TXT_726080,Charlie Hunter Blue Shoes (M),チャーリーハンター・ブルーシューズ (M)
+PROPITEM_TXT_726081,Charlie Hunter Blue Hands (M),チャーリーハンター・ブルーグローブ (M)
 PROPITEM_TXT_726082,Charlie Hunter Blue Set (F),チャーリーハンターブルーセット(F)
 PROPITEM_TXT_726083,The Charlie Hunter Blue Set for female characters.,女性キャラクター用のチャーリーハンターブルーセット
-PROPITEM_TXT_726084,Charlie Hunter Blue Hat (F),Charlie Hunter Blue Hat (F)
-PROPITEM_TXT_726085,Charlie Hunter Blue Suit (F),Charlie Hunter Blue Suit (F)
-PROPITEM_TXT_726086,Charlie Hunter Blue Shoes (F),Charlie Hunter Blue Shoes (F)
-PROPITEM_TXT_726087,Charlie Hunter Blue Hands (F),Charlie Hunter Blue Hands (F)
+PROPITEM_TXT_726084,Charlie Hunter Blue Hat (F),チャーリーハンター・ブルーハット (F)
+PROPITEM_TXT_726085,Charlie Hunter Blue Suit (F),チャーリーハンター・ブルースーツ (F)
+PROPITEM_TXT_726086,Charlie Hunter Blue Shoes (F),チャーリーハンター・ブルーシューズ (F)
+PROPITEM_TXT_726087,Charlie Hunter Blue Hands (F),チャーリーハンター・ブルーグローブ (F)
 PROPITEM_TXT_726088,Charlie Hunter Blue Backpack,Charlie Hunter Blue Backpack
 PROPITEM_TXT_726089,Charlie Hunter Blue Mask,Charlie Hunter Blue Mask
 PROPITEM_TXT_726090,Charlie Hunter Gray Set,チャーリーハンターグレーセット
 PROPITEM_TXT_726091,Charlie Hunter Gray Set (M),チャーリーハンターグレーセット(M)
 PROPITEM_TXT_726092,The Charlie Hunter Gray Set for male characters.,男性キャラクター用のチャーリーハンターグレーセット
-PROPITEM_TXT_726093,Charlie Hunter Gray Hat (M),Charlie Hunter Gray Hat (M)
-PROPITEM_TXT_726094,Charlie Hunter Gray Suit (M),Charlie Hunter Gray Suit (M)
-PROPITEM_TXT_726095,Charlie Hunter Gray Shoes (M),Charlie Hunter Gray Shoes (M)
-PROPITEM_TXT_726096,Charlie Hunter Gray Hands (M),Charlie Hunter Gray Hands (M)
+PROPITEM_TXT_726093,Charlie Hunter Gray Hat (M),チャーリーハンター・グレーハット(M)
+PROPITEM_TXT_726094,Charlie Hunter Gray Suit (M),チャーリーハンター・グレースーツ(M)
+PROPITEM_TXT_726095,Charlie Hunter Gray Shoes (M),チャーリーハンター・グレーシューズ(M)
+PROPITEM_TXT_726096,Charlie Hunter Gray Hands (M),チャーリーハンター・グレーグローブ(M)
 PROPITEM_TXT_726097,Charlie Hunter Gray Set (F),チャーリーハンターグレーセット(F)
 PROPITEM_TXT_726098,The Charlie Hunter Gray Set for female characters.,女性キャラクター用のチャーリーハンターグレーセット
-PROPITEM_TXT_726099,Charlie Hunter Gray Hat (F),Charlie Hunter Gray Hat (F)
-PROPITEM_TXT_726100,Charlie Hunter Gray Suit (F),Charlie Hunter Gray Suit (F)
-PROPITEM_TXT_726101,Charlie Hunter Gray Shoes (F),Charlie Hunter Gray Shoes (F)
-PROPITEM_TXT_726102,Charlie Hunter Gray Hands (F),Charlie Hunter Gray Hands (F)
+PROPITEM_TXT_726099,Charlie Hunter Gray Hat (F),チャーリーハンター・グレーハット(F)
+PROPITEM_TXT_726100,Charlie Hunter Gray Suit (F),チャーリーハンター・グレースーツ(F)
+PROPITEM_TXT_726101,Charlie Hunter Gray Shoes (F),チャーリーハンター・グレーシューズ(F)
+PROPITEM_TXT_726102,Charlie Hunter Gray Hands (F),チャーリーハンター・グレーグローブ(F)
 PROPITEM_TXT_726103,Charlie Hunter Gray Backpack,Charlie Hunter Gray Backpack
 PROPITEM_TXT_726104,Charlie Hunter Gray Mask,Charlie Hunter Gray Mask
 PROPITEM_TXT_726107,Persian Warrior 10% Blue Set,ペルシャの戦士 10%ブルーセット
@@ -19070,17 +19070,17 @@ PROPITEM_TXT_726152,[Event] Halloween Gift Box,[Event] Halloween Gift Box
 PROPITEM_TXT_726153,First reward for Halloween Pumpkin Hunt!\nYou can earn 2 Halloween Balloons Box and 1 Mr. Pumpkin Vendor Shop.,First reward for Halloween Pumpkin Hunt!\nYou can earn 2 Halloween Balloons Box and 1 Mr. Pumpkin Vendor Shop.
 PROPITEM_TXT_726154,2024 Wizard Hair (M),2024 Wizard Hair (M)
 PROPITEM_TXT_726155,2024 Wizard hair for Male characters,男性キャラクター用の2024ウィザードヘア
-PROPITEM_TXT_726156,2024 Wizard Suit (M),2024 Wizard Suit (M)
+PROPITEM_TXT_726156,2024 Wizard Suit (M),2024ウィザードスーツ(M)
 PROPITEM_TXT_726157,2024 Wizard suit for Male characters,男性キャラクター用の2024ウィザードスーツ
-PROPITEM_TXT_726158,2024 Wizard Shoes (M),2024 Wizard Shoes (M)
+PROPITEM_TXT_726158,2024 Wizard Shoes (M),2024ウィザードシューズ(M)
 PROPITEM_TXT_726159,2024 Wizard shoes for Male characters,男性キャラクター用の2024ウィザードシューズ
 PROPITEM_TXT_726160,2024 Wizard Gloves (M),2024 Wizard Gloves (M)
 PROPITEM_TXT_726161,2024 Wizard gloves for Male characters,男性キャラクター用の2024ウィザードグローブ
-PROPITEM_TXT_726162,2024 Witch Hat (F),2024 Witch Hat (F)
+PROPITEM_TXT_726162,2024 Witch Hat (F),2024ウィッチハット(F)
 PROPITEM_TXT_726163,2024 Witch hat for Male characters,男性キャラクター用の2024ウィッチハット
-PROPITEM_TXT_726164,2024 Witch Suit (F),2024 Witch Suit (F)
+PROPITEM_TXT_726164,2024 Witch Suit (F),2024ウィッチスーツ(F)
 PROPITEM_TXT_726165,2024 Witch suit for Female characters,女性キャラクター用の2024ウィッチスーツ
-PROPITEM_TXT_726166,2024 Witch Shoes (F),2024 Witch Shoes (F)
+PROPITEM_TXT_726166,2024 Witch Shoes (F),2024ウィッチシューズ(F)
 PROPITEM_TXT_726167,2024 Witch shoes for Female characters,女性キャラクター用の2024ウィッチシューズ
 PROPITEM_TXT_726168,2024 Witch Gloves (F),2024 Witch Gloves (F)
 PROPITEM_TXT_726169,2024 Witch gloves for Female characters,女性キャラクター用の2024ウィッチグローブ
@@ -19198,7 +19198,7 @@ PROPITEM_TXT_801086,Wickedstein White Shoes (F),ウィケッドシュタイン�
 PROPITEM_TXT_801087,Wickedstein 2% White Set (F),ウィケッドシュタイン 2%ホワイトセット(F)
 PROPITEM_TXT_801088,The Wickedstein 2% White Set for female character.,女性キャラクター用のウィケッドシュタイン 2%ホワイトセット
 PROPITEM_TXT_801089,Wickedstein Costume Lucky Box,ウィケッドシュタインコスチュームラッキーボックス
-PROPITEM_TXT_801090,This box contains a Wickedstein Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Wickedstein Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_801090,This box contains a Wickedstein Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのウィケッドスタインセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_801091,Necromancer 10% Cyan Set,ネクロマンサー 10%シアンセット
 PROPITEM_TXT_801093,Necromancer Cyan Cloak,ネクロマンサーシアンマント
 PROPITEM_TXT_801094,Necromancer Cyan Mask,ネクロマンサーシアンマスク
@@ -19297,7 +19297,7 @@ PROPITEM_TXT_801186,Purple Gloomie,Purple Gloomie
 PROPITEM_TXT_801187,Red Gloomie,Red Gloomie
 PROPITEM_TXT_801188,Gray Gloomie,Gray Gloomie
 PROPITEM_TXT_801189,Necromancer Costume Lucky Box,ネクロマンサーコスチュームラッキーボックス
-PROPITEM_TXT_801190,This box contains a Necromancer Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Necromancer Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_801190,This box contains a Necromancer Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのネクロマンサーセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_726185,Item Change Package,Item Change Package
 PROPITEM_TXT_726186,"A package containing 1x Scroll of Reduction A, 1x Scroll of Reduction B and 1x Item Transy B. All items are also linked.",装備レベル減少の巻物Ax1、装備レベル減少の巻物Bx1、FMチェンジャー(レッド/B)x1が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_726187,Power Up Box,Power Up Box
@@ -19395,14 +19395,14 @@ PROPITEM_TXT_801280,Green Medieval Horse,Green Medieval Horse
 PROPITEM_TXT_801281,Red Medieval Horse,Red Medieval Horse
 PROPITEM_TXT_801282,Black Medieval Horse,Black Medieval Horse
 PROPITEM_TXT_801283,Medieval Knight Costume Lucky Box,中世の騎士コスチュームラッキーボックス
-PROPITEM_TXT_801284,This box contains a Medieval Knight Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Medieval Knight Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_801284,This box contains a Medieval Knight Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの中世の騎士セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_726189,2024 Thanksgiving Smelting Scroll Package,2024 Thanksgiving Smelting Scroll Package
 PROPITEM_TXT_726190,"A package containing 30x Scroll of GProtect, 30x Scroll of SProtect and 30x Scroll of AProtect. All items are also linked.",鍛冶屋の心得・ソケット作成編x30、鍛冶屋の心得・精錬編x30、鍛冶屋の心得・アクセサリー編x30が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_726191,2024 Thanksgiving Turkey Box,2024 Thanksgiving Turkey Box
 PROPITEM_TXT_726192,"A package containing 3x Turkey Box, 3x Potion Select Box and 3x Flask Select Box. All items are also linked.",ターキーボックスx3、ポーションセレクトボックスx3、フラスコセレクトボックスx3が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_726193,2024 Thanksgiving Buff Package,2024 Thanksgiving Buff Package
 PROPITEM_TXT_726194,"A package containing 10x Upcut Stone, 10x Vital Drink X or Refresher Hold, 10x Activation and 1x Thanksgiving Day Buff Select Box. All items are also linked.",パワーストーンx10、スタミナドリンクX または 魔力ドリンクゴールドx10、アクティビションx10、感謝祭バフセレクトボックスx1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_726195,2024 Black Friday Costume Lucky Box,2024 Black Friday Costume Lucky Box
+PROPITEM_TXT_726195,2024 Black Friday Costume Lucky Box,2024ブラックフライデーコスチュームラッキーボックス
 PROPITEM_TXT_726196,2024 Thanksgiving Ultimate Package,2024 Thanksgiving Ultimate Package
 PROPITEM_TXT_726197,"A package containing 1x Scroll of Ultimate Bonus, 5x Scroll of Ultimate Power, 10x Scroll of XProtect, 5x Advanced Mana Stone, 5x Mana Stone and 10x Cutting Knife. All items are also linked.",アルティメットボーナスの巻物x1、究極の力の巻物x5、鍛冶屋の心得・アルティマx10、アドバンスド・マナストーンx5、マナストーンx5、カッティングナイフx10が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_801285,Turkeylicious 10% Red Set,ターキーリシャス 10%レッドセット
@@ -19490,7 +19490,7 @@ PROPITEM_TXT_801366,Turkeylicious Black Hands (F),ターキーリシャスブラ
 PROPITEM_TXT_801367,Turkeylicious 2% Black Set (F),ターキーリシャス 2%ブラックセット(F)
 PROPITEM_TXT_801368,The Turkeylicious 2% Black Set for female characters.,女性キャラクター用のターキーリシャス 2%ブラックセット
 PROPITEM_TXT_801369,Turkeylicious Costume Lucky Box,ターキーリシャスコスチュームラッキーボックス
-PROPITEM_TXT_801370,This box contains a Turkeylicious Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Turkeylicious Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_801370,This box contains a Turkeylicious Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのターキーリシャスセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_726300,[Event] 2024 Thanksgiving Gift Box,[Event] 2024 Thanksgiving Gift Box
 PROPITEM_TXT_726301,"A Thanksgiving gift from the Mayor to show his appreciation. When used, a random gift of 1 type can be obtained.","A Thanksgiving gift from the Mayor to show his appreciation. When used, a random gift of 1 type can be obtained."
 PROPITEM_TXT_726302,[Event] Turkey,[Event] Turkey
@@ -19565,16 +19565,16 @@ PROPITEM_TXT_145022,"Allows you to reroll the level of one pet tier, choosing wh
 PROPITEM_TXT_826202,Men In Black Set,メン・イン・ブラックセット
 PROPITEM_TXT_826203,Select which Gender you want to receive,Select which Gender you want to receive
 PROPITEM_TXT_826204,Men In Black Glasses,Men In Black Glasses
-PROPITEM_TXT_826205,Men In Black Hat (M),Men In Black Hat (M)
-PROPITEM_TXT_826206,Men In Black Suit (M),Men In Black Suit (M)
-PROPITEM_TXT_826207,Men In Black Shoes (M),Men In Black Shoes (M)
+PROPITEM_TXT_826205,Men In Black Hat (M),メン・イン・ブラックハット(M)
+PROPITEM_TXT_826206,Men In Black Suit (M),メン・イン・ブラックスーツ(M)
+PROPITEM_TXT_826207,Men In Black Shoes (M),メン・イン・ブラックシューズ(M)
 PROPITEM_TXT_826208,Men In Black Set (M),メン・イン・ブラックセット(M)
-PROPITEM_TXT_826209,The Men In Black Set for male character.,The Men In Black Set for male character.
-PROPITEM_TXT_826210,Men In Black Hat (F),Men In Black Hat (F)
-PROPITEM_TXT_826211,Men In Black Suit (F),Men In Black Suit (F)
-PROPITEM_TXT_826212,Men In Black Shoes (F),Men In Black Shoes (F)
+PROPITEM_TXT_826209,The Men In Black Set for male character.,男性キャラクター用のメン・イン・ブラックセット
+PROPITEM_TXT_826210,Men In Black Hat (F),メン・イン・ブラックハット(F)
+PROPITEM_TXT_826211,Men In Black Suit (F),メン・イン・ブラックスーツ(F)
+PROPITEM_TXT_826212,Men In Black Shoes (F),メン・イン・ブラックシューズ(F)
 PROPITEM_TXT_826213,Men In Black Set (F),メン・イン・ブラックセット(F)
-PROPITEM_TXT_826214,The Men In Black Set for female character.,The Men In Black Set for female character.
+PROPITEM_TXT_826214,The Men In Black Set for female character.,女性キャラクター用のメン・イン・ブラックセット
 PROPITEM_TXT_144023,[Event] Fish D,[Event] Fish D
 PROPITEM_TXT_144024,[Event] Fish that you can obtain when using the [Event] Bait. Bring it back to Mr.Kang to exchange for various items.,[Event] Fish that you can obtain when using the [Event] Bait. Bring it back to Mr.Kang to exchange for various items.
 PROPITEM_TXT_144025,[Event] Fish C,[Event] Fish C
@@ -19626,17 +19626,17 @@ PROPITEM_TXT_201027,White Fishball Box,White Fishball Box
 PROPITEM_TXT_201028,You can obtain 1 type of D to A+ grade White colored Fishball by random.,You can obtain 1 type of D to A+ grade White colored Fishball by random.
 PROPITEM_TXT_201029,Nightmare Set,ナイトメアセット
 PROPITEM_TXT_201030,Nightmare Set (M),ナイトメアセット(M)
-PROPITEM_TXT_201031,The Nightmare Set for male character.,The Nightmare Set for male character.
+PROPITEM_TXT_201031,The Nightmare Set for male character.,男性キャラクター用のナイトメアセット
 PROPITEM_TXT_201032,Nightmare Set (F),ナイトメアセット(F)
-PROPITEM_TXT_201033,The Nightmare Set for female character.,The Nightmare Set for female character.
-PROPITEM_TXT_201034,Nightmare Hat (M),Nightmare Hat (M)
-PROPITEM_TXT_201035,Nightmare Suit (M),Nightmare Suit (M)
-PROPITEM_TXT_201036,Nightmare Shoes (M),Nightmare Shoes (M)
-PROPITEM_TXT_201037,Nightmare Hands (M),Nightmare Hands (M)
-PROPITEM_TXT_201038,Nightmare Hat (F),Nightmare Hat (F)
-PROPITEM_TXT_201039,Nightmare Suit (F),Nightmare Suit (F)
-PROPITEM_TXT_201040,Nightmare Shoes (F),Nightmare Shoes (F)
-PROPITEM_TXT_201041,Nightmare Hands (F),Nightmare Hands (F)
+PROPITEM_TXT_201033,The Nightmare Set for female character.,女性キャラクター用のナイトメアセット
+PROPITEM_TXT_201034,Nightmare Hat (M),ナイトメアハット(M)
+PROPITEM_TXT_201035,Nightmare Suit (M),ナイトメアスーツ(M)
+PROPITEM_TXT_201036,Nightmare Shoes (M),ナイトメアシューズ(M)
+PROPITEM_TXT_201037,Nightmare Hands (M),ナイトメアグローブ(M)
+PROPITEM_TXT_201038,Nightmare Hat (F),ナイトメアハット(F)
+PROPITEM_TXT_201039,Nightmare Suit (F),ナイトメアスーツ(F)
+PROPITEM_TXT_201040,Nightmare Shoes (F),ナイトメアシューズ(F)
+PROPITEM_TXT_201041,Nightmare Hands (F),ナイトメアグローブ(F)
 PROPITEM_TXT_201042,Nightmare Wing,Nightmare Wing
 PROPITEM_TXT_826215,Eastern Warrior Gold Sword,東洋の戦士ゴールドソード
 PROPITEM_TXT_826216,Eastern Warrior Gold Axe,東洋の戦士ゴールドアクス
@@ -19748,16 +19748,16 @@ PROPITEM_TXT_144017,Scroll of Pet Inventory (Couple House),ペットインベン
 PROPITEM_TXT_144018,Using this scroll will increase your maximum couple house pet inventory slots by 1!,Using this scroll will increase your maximum couple house pet inventory slots by 1!
 PROPITEM_TXT_826320,Dark Dragon Set,ダークドラゴンセット
 PROPITEM_TXT_826321,Hero Cloak,Hero Cloak
-PROPITEM_TXT_826322,Dark Dragon Hat (M),Dark Dragon Hat (M)
-PROPITEM_TXT_826323,Dark Dragon Suit (M),Dark Dragon Suit (M)
-PROPITEM_TXT_826324,Dark Dragon Shoes (M),Dark Dragon Shoes (M)
-PROPITEM_TXT_826325,Dark Dragon Hands (M),Dark Dragon Hands (M)
+PROPITEM_TXT_826322,Dark Dragon Hat (M),ダークドラゴンハット(M)
+PROPITEM_TXT_826323,Dark Dragon Suit (M),ダークドラゴンスーツ(M)
+PROPITEM_TXT_826324,Dark Dragon Shoes (M),ダークドラゴンシューズ(M)
+PROPITEM_TXT_826325,Dark Dragon Hands (M),ダークドラゴングローブ(M)
 PROPITEM_TXT_826326,Dark Dragon Set (M),ダークドラゴンセット(M)
 PROPITEM_TXT_826327,The Dark Dragon Set for male characters.,男性キャラクター用のダークドラゴンセット
-PROPITEM_TXT_826328,Dark Dragon Hat (F),Dark Dragon Hat (F)
-PROPITEM_TXT_826329,Dark Dragon Suit (F),Dark Dragon Suit (F)
-PROPITEM_TXT_826330,Dark Dragon Shoes (F),Dark Dragon Shoes (F)
-PROPITEM_TXT_826331,Dark Dragon Hands (F),Dark Dragon Hands (F)
+PROPITEM_TXT_826328,Dark Dragon Hat (F),ダークドラゴンハット(F)
+PROPITEM_TXT_826329,Dark Dragon Suit (F),ダークドラゴンスーツ(F)
+PROPITEM_TXT_826330,Dark Dragon Shoes (F),ダークドラゴンシューズ(F)
+PROPITEM_TXT_826331,Dark Dragon Hands (F),ダークドラゴングローブ(F)
 PROPITEM_TXT_826332,Dark Dragon Set (F),ダークドラゴンセット(F)
 PROPITEM_TXT_826333,The Dark Dragon Set for female characters.,女性キャラクター用のダークドラゴンセット
 PROPITEM_TXT_826334,A special cloak for players who completed the last hero quest.,A special cloak for players who completed the last hero quest.
@@ -19823,7 +19823,7 @@ PROPITEM_TXT_201091,Kalgas' Fury Wand,Kalgas' Fury Wand
 PROPITEM_TXT_201092,Kalgas' Fury Shield,Kalgas' Fury Shield
 PROPITEM_TXT_201093,Kalgas' Fury Weapon Set,カルガスの怒りウェポンセット
 PROPITEM_TXT_201094,Select which Kalgas' Fury Weapon you want to receive!,Select which Kalgas' Fury Weapon you want to receive!
-PROPITEM_TXT_201095,Kalgas' Fury Suit (M),Kalgas' Fury Suit (M)
+PROPITEM_TXT_201095,Kalgas' Fury Suit (M),カルガスフューリー・スーツ(M)
 PROPITEM_TXT_201096,Kalgas' Fury Helmet (M),Kalgas' Fury Helmet (M)
 PROPITEM_TXT_201097,Kalgas' Fury Gauntlets (M),Kalgas' Fury Gauntlets (M)
 PROPITEM_TXT_201098,Kalgas' Fury Boots (M),Kalgas' Fury Boots (M)
@@ -19831,7 +19831,7 @@ PROPITEM_TXT_201099,Kalgas' Fury Mask (M),Kalgas' Fury Mask (M)
 PROPITEM_TXT_201100,Kalgas' Fury Wing (M),Kalgas' Fury Wing (M)
 PROPITEM_TXT_201101,Kalgas' Fury Set (M),カルガスの怒りセット(M)
 PROPITEM_TXT_201102,The Kalgas' Fury Set for male characters.,男性キャラクター用のカルガスの怒りセット
-PROPITEM_TXT_201103,Kalgas' Fury Suit (F),Kalgas' Fury Suit (F)
+PROPITEM_TXT_201103,Kalgas' Fury Suit (F),カルガスフューリー・スーツ(F)
 PROPITEM_TXT_201104,Kalgas' Fury Helmet (F),Kalgas' Fury Helmet (F)
 PROPITEM_TXT_201105,Kalgas' Fury Gauntlets (F),Kalgas' Fury Gauntlets (F)
 PROPITEM_TXT_201106,Kalgas' Fury Boots (F),Kalgas' Fury Boots (F)
@@ -19949,81 +19949,81 @@ PROPITEM_TXT_826410,Xmas 2024 White Edition Black Shoes (F),Xmas 2024 ホワイ�
 PROPITEM_TXT_826411,Xmas 2024 White Edition 2% Black Set (F),Xmas 2024 ホワイトエディション 2%ブラックセット(F)
 PROPITEM_TXT_826412,The Xmas 2024 White Edition 2% Black Set for female characters.,女性キャラクター用のXmas 2024 ホワイトエディション 2%ブラックセット
 PROPITEM_TXT_826413,Xmas 2024 White Edition Costume Lucky Box,Xmas 2024 ホワイトエディションコスチュームラッキーボックス
-PROPITEM_TXT_826414,This box contains a Xmas 2024 White Edition Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Xmas 2024 White Edition Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_826414,This box contains a Xmas 2024 White Edition Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのクリスマス2024ホワイトエディションセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_826415,Dark Christmas Adventurer Red Set,ダーククリスマスアドベンチャーレッドセット
 PROPITEM_TXT_826416,Dark Christmas Adventurer Red Wings,Dark Christmas Adventurer Red Wings
-PROPITEM_TXT_826417,Dark Christmas Adventurer Red Hat (M),Dark Christmas Adventurer Red Hat (M)
-PROPITEM_TXT_826418,Dark Christmas Adventurer Red Suit (M),Dark Christmas Adventurer Red Suit (M)
-PROPITEM_TXT_826419,Dark Christmas Adventurer Red Shoes (M),Dark Christmas Adventurer Red Shoes (M)
+PROPITEM_TXT_826417,Dark Christmas Adventurer Red Hat (M),ダーククリスマスアドベンチャーレッドハット(M)
+PROPITEM_TXT_826418,Dark Christmas Adventurer Red Suit (M),ダーククリスマスアドベンチャーレッドスーツ(M)
+PROPITEM_TXT_826419,Dark Christmas Adventurer Red Shoes (M),ダーククリスマスアドベンチャーレッドシューズ(M)
 PROPITEM_TXT_826420,Dark Christmas Adventurer Red Set (M),ダーククリスマスアドベンチャーレッドセット(M)
 PROPITEM_TXT_826421,The Dark Christmas Adventurer Red Set for male characters.,男性キャラクター用のダーククリスマスアドベンチャーレッドセット
-PROPITEM_TXT_826422,Dark Christmas Adventurer Red Hat (F),Dark Christmas Adventurer Red Hat (F)
-PROPITEM_TXT_826423,Dark Christmas Adventurer Red Suit (F),Dark Christmas Adventurer Red Suit (F)
-PROPITEM_TXT_826424,Dark Christmas Adventurer Red Shoes (F),Dark Christmas Adventurer Red Shoes (F)
+PROPITEM_TXT_826422,Dark Christmas Adventurer Red Hat (F),ダーククリスマスアドベンチャーレッドハット(F)
+PROPITEM_TXT_826423,Dark Christmas Adventurer Red Suit (F),ダーククリスマスアドベンチャーレッドスーツ(F)
+PROPITEM_TXT_826424,Dark Christmas Adventurer Red Shoes (F),ダーククリスマスアドベンチャーレッドシューズ(F)
 PROPITEM_TXT_826425,Dark Christmas Adventurer Red Set (F),ダーククリスマスアドベンチャーレッドセット(F)
 PROPITEM_TXT_826426,The Dark Christmas Adventurer Red Set for female characters.,女性キャラクター用のダーククリスマスアドベンチャーレッドセット
 PROPITEM_TXT_826427,Dark Christmas Adventurer Blue Set,ダーククリスマスアドベンチャーブルーセット
 PROPITEM_TXT_826428,Dark Christmas Adventurer Blue Wings,Dark Christmas Adventurer Blue Wings
-PROPITEM_TXT_826429,Dark Christmas Adventurer Blue Hat (M),Dark Christmas Adventurer Blue Hat (M)
-PROPITEM_TXT_826430,Dark Christmas Adventurer Blue Suit (M),Dark Christmas Adventurer Blue Suit (M)
-PROPITEM_TXT_826431,Dark Christmas Adventurer Blue Shoes (M),Dark Christmas Adventurer Blue Shoes (M)
+PROPITEM_TXT_826429,Dark Christmas Adventurer Blue Hat (M),ダーククリスマスアドベンチャーブルーハット(M)
+PROPITEM_TXT_826430,Dark Christmas Adventurer Blue Suit (M),ダーククリスマスアドベンチャーブルースーツ(M)
+PROPITEM_TXT_826431,Dark Christmas Adventurer Blue Shoes (M),ダーククリスマスアドベンチャーブルーシューズ(M)
 PROPITEM_TXT_826432,Dark Christmas Adventurer Blue Set (M),ダーククリスマスアドベンチャーブルーセット(M)
 PROPITEM_TXT_826433,The Dark Christmas Adventurer Blue Set for male characters.,男性キャラクター用のダーククリスマスアドベンチャーブルーセット
-PROPITEM_TXT_826434,Dark Christmas Adventurer Blue Hat (F),Dark Christmas Adventurer Blue Hat (F)
-PROPITEM_TXT_826435,Dark Christmas Adventurer Blue Suit (F),Dark Christmas Adventurer Blue Suit (F)
-PROPITEM_TXT_826436,Dark Christmas Adventurer Blue Shoes (F),Dark Christmas Adventurer Blue Shoes (F)
+PROPITEM_TXT_826434,Dark Christmas Adventurer Blue Hat (F),ダーククリスマスアドベンチャーブルーハット(F)
+PROPITEM_TXT_826435,Dark Christmas Adventurer Blue Suit (F),ダーククリスマスアドベンチャーブルースーツ(F)
+PROPITEM_TXT_826436,Dark Christmas Adventurer Blue Shoes (F),ダーククリスマスアドベンチャーブルーシューズ(F)
 PROPITEM_TXT_826437,Dark Christmas Adventurer Blue Set (F),ダーククリスマスアドベンチャーブルーセット(F)
 PROPITEM_TXT_826438,The Dark Christmas Adventurer Blue Set for female characters.,女性キャラクター用のダーククリスマスアドベンチャーブルーセット
 PROPITEM_TXT_826439,Dark Christmas Adventurer Pink Set,ダーククリスマスアドベンチャーピンクセット
 PROPITEM_TXT_826440,Dark Christmas Adventurer Pink Wings,Dark Christmas Adventurer Pink Wings
-PROPITEM_TXT_826441,Dark Christmas Adventurer Pink Hat (M),Dark Christmas Adventurer Pink Hat (M)
-PROPITEM_TXT_826442,Dark Christmas Adventurer Pink Suit (M),Dark Christmas Adventurer Pink Suit (M)
-PROPITEM_TXT_826443,Dark Christmas Adventurer Pink Shoes (M),Dark Christmas Adventurer Pink Shoes (M)
+PROPITEM_TXT_826441,Dark Christmas Adventurer Pink Hat (M),ダーククリスマスアドベンチャーピンクハット(M)
+PROPITEM_TXT_826442,Dark Christmas Adventurer Pink Suit (M),ダーククリスマスアドベンチャーピンクスーツ(M)
+PROPITEM_TXT_826443,Dark Christmas Adventurer Pink Shoes (M),ダーククリスマスアドベンチャーピンクシューズ(M)
 PROPITEM_TXT_826444,Dark Christmas Adventurer Pink Set (M),ダーククリスマスアドベンチャーピンクセット(M)
 PROPITEM_TXT_826445,The Dark Christmas Adventurer Pink Set for male characters.,男性キャラクター用のダーククリスマスアドベンチャーピンクセット
-PROPITEM_TXT_826446,Dark Christmas Adventurer Pink Hat (F),Dark Christmas Adventurer Pink Hat (F)
-PROPITEM_TXT_826447,Dark Christmas Adventurer Pink Suit (F),Dark Christmas Adventurer Pink Suit (F)
-PROPITEM_TXT_826448,Dark Christmas Adventurer Pink Shoes (F),Dark Christmas Adventurer Pink Shoes (F)
+PROPITEM_TXT_826446,Dark Christmas Adventurer Pink Hat (F),ダーククリスマスアドベンチャーピンクハット(F)
+PROPITEM_TXT_826447,Dark Christmas Adventurer Pink Suit (F),ダーククリスマスアドベンチャーピンクスーツ(F)
+PROPITEM_TXT_826448,Dark Christmas Adventurer Pink Shoes (F),ダーククリスマスアドベンチャーピンクシューズ(F)
 PROPITEM_TXT_826449,Dark Christmas Adventurer Pink Set (F),ダーククリスマスアドベンチャーピンクセット(F)
 PROPITEM_TXT_826450,The Dark Christmas Adventurer Pink Set for female characters.,女性キャラクター用のダーククリスマスアドベンチャーピンクセット
 PROPITEM_TXT_826451,Dark Christmas Adventurer Purple Set,ダーククリスマスアドベンチャーパープルセット
 PROPITEM_TXT_826452,Dark Christmas Adventurer Purple Wings,Dark Christmas Adventurer Purple Wings
-PROPITEM_TXT_826453,Dark Christmas Adventurer Purple Hat (M),Dark Christmas Adventurer Purple Hat (M)
-PROPITEM_TXT_826454,Dark Christmas Adventurer Purple Suit (M),Dark Christmas Adventurer Purple Suit (M)
-PROPITEM_TXT_826455,Dark Christmas Adventurer Purple Shoes (M),Dark Christmas Adventurer Purple Shoes (M)
+PROPITEM_TXT_826453,Dark Christmas Adventurer Purple Hat (M),ダーククリスマスアドベンチャーパープルハット(M)
+PROPITEM_TXT_826454,Dark Christmas Adventurer Purple Suit (M),ダーククリスマスアドベンチャーパープルスーツ(M)
+PROPITEM_TXT_826455,Dark Christmas Adventurer Purple Shoes (M),ダーククリスマスアドベンチャーパープルシューズ(M)
 PROPITEM_TXT_826456,Dark Christmas Adventurer Purple Set (M),ダーククリスマスアドベンチャーパープルセット(M)
 PROPITEM_TXT_826457,The Dark Christmas Adventurer Purple Set for male characters.,男性キャラクター用のダーククリスマスアドベンチャーパープルセット
-PROPITEM_TXT_826458,Dark Christmas Adventurer Purple Hat (F),Dark Christmas Adventurer Purple Hat (F)
-PROPITEM_TXT_826459,Dark Christmas Adventurer Purple Suit (F),Dark Christmas Adventurer Purple Suit (F)
-PROPITEM_TXT_826460,Dark Christmas Adventurer Purple Shoes (F),Dark Christmas Adventurer Purple Shoes (F)
+PROPITEM_TXT_826458,Dark Christmas Adventurer Purple Hat (F),ダーククリスマスアドベンチャーパープルハット(F)
+PROPITEM_TXT_826459,Dark Christmas Adventurer Purple Suit (F),ダーククリスマスアドベンチャーパープルスーツ(F)
+PROPITEM_TXT_826460,Dark Christmas Adventurer Purple Shoes (F),ダーククリスマスアドベンチャーパープルシューズ(F)
 PROPITEM_TXT_826461,Dark Christmas Adventurer Purple Set (F),ダーククリスマスアドベンチャーパープルセット(F)
 PROPITEM_TXT_826462,The Dark Christmas Adventurer Purple Set for female characters.,女性キャラクター用のダーククリスマスアドベンチャーパープルセット
 PROPITEM_TXT_826463,Dark Christmas Adventurer Green Set,ダーククリスマスアドベンチャーグリーンセット
 PROPITEM_TXT_826464,Dark Christmas Adventurer Green Wings,Dark Christmas Adventurer Green Wings
-PROPITEM_TXT_826465,Dark Christmas Adventurer Green Hat (M),Dark Christmas Adventurer Green Hat (M)
-PROPITEM_TXT_826466,Dark Christmas Adventurer Green Suit (M),Dark Christmas Adventurer Green Suit (M)
-PROPITEM_TXT_826467,Dark Christmas Adventurer Green Shoes (M),Dark Christmas Adventurer Green Shoes (M)
+PROPITEM_TXT_826465,Dark Christmas Adventurer Green Hat (M),ダーククリスマスアドベンチャーグリーンハット(M)
+PROPITEM_TXT_826466,Dark Christmas Adventurer Green Suit (M),ダーククリスマスアドベンチャーグリーンスーツ(M)
+PROPITEM_TXT_826467,Dark Christmas Adventurer Green Shoes (M),ダーククリスマスアドベンチャーグリーンシューズ(M)
 PROPITEM_TXT_826468,Dark Christmas Adventurer Green Set (M),ダーククリスマスアドベンチャーグリーンセット(M)
 PROPITEM_TXT_826469,The Dark Christmas Adventurer Green Set for male characters.,男性キャラクター用のダーククリスマスアドベンチャーグリーンセット
-PROPITEM_TXT_826470,Dark Christmas Adventurer Green Hat (F),Dark Christmas Adventurer Green Hat (F)
-PROPITEM_TXT_826471,Dark Christmas Adventurer Green Suit (F),Dark Christmas Adventurer Green Suit (F)
-PROPITEM_TXT_826472,Dark Christmas Adventurer Green Shoes (F),Dark Christmas Adventurer Green Shoes (F)
+PROPITEM_TXT_826470,Dark Christmas Adventurer Green Hat (F),ダーククリスマスアドベンチャーグリーンハット(F)
+PROPITEM_TXT_826471,Dark Christmas Adventurer Green Suit (F),ダーククリスマスアドベンチャーグリーンスーツ(F)
+PROPITEM_TXT_826472,Dark Christmas Adventurer Green Shoes (F),ダーククリスマスアドベンチャーグリーンシューズ(F)
 PROPITEM_TXT_826473,Dark Christmas Adventurer Green Set (F),ダーククリスマスアドベンチャーグリーンセット(F)
 PROPITEM_TXT_826474,The Dark Christmas Adventurer Green Set for female characters.,女性キャラクター用のダーククリスマスアドベンチャーグリーンセット
 PROPITEM_TXT_826475,Dark Christmas Adventurer Black Set,ダーククリスマスアドベンチャーブラックセット
 PROPITEM_TXT_826476,Dark Christmas Adventurer Black Wings,Dark Christmas Adventurer Black Wings
-PROPITEM_TXT_826477,Dark Christmas Adventurer Black Hat (M),Dark Christmas Adventurer Black Hat (M)
-PROPITEM_TXT_826478,Dark Christmas Adventurer Black Suit (M),Dark Christmas Adventurer Black Suit (M)
-PROPITEM_TXT_826479,Dark Christmas Adventurer Black Shoes (M),Dark Christmas Adventurer Black Shoes (M)
+PROPITEM_TXT_826477,Dark Christmas Adventurer Black Hat (M),ダーククリスマスアドベンチャーブラックハット(M)
+PROPITEM_TXT_826478,Dark Christmas Adventurer Black Suit (M),ダーククリスマスアドベンチャーブラックスーツ(M)
+PROPITEM_TXT_826479,Dark Christmas Adventurer Black Shoes (M),ダーククリスマスアドベンチャーブラックシューズ(M)
 PROPITEM_TXT_826480,Dark Christmas Adventurer Black Set (M),ダーククリスマスアドベンチャーブラックセット(M)
 PROPITEM_TXT_826481,The Dark Christmas Adventurer Black Set for male characters.,男性キャラクター用のダーククリスマスアドベンチャーブラックセット
-PROPITEM_TXT_826482,Dark Christmas Adventurer Black Hat (F),Dark Christmas Adventurer Black Hat (F)
-PROPITEM_TXT_826483,Dark Christmas Adventurer Black Suit (F),Dark Christmas Adventurer Black Suit (F)
-PROPITEM_TXT_826484,Dark Christmas Adventurer Black Shoes (F),Dark Christmas Adventurer Black Shoes (F)
+PROPITEM_TXT_826482,Dark Christmas Adventurer Black Hat (F),ダーククリスマスアドベンチャーブラックハット(F)
+PROPITEM_TXT_826483,Dark Christmas Adventurer Black Suit (F),ダーククリスマスアドベンチャーブラックスーツ(F)
+PROPITEM_TXT_826484,Dark Christmas Adventurer Black Shoes (F),ダーククリスマスアドベンチャーブラックシューズ(F)
 PROPITEM_TXT_826485,Dark Christmas Adventurer Black Set (F),ダーククリスマスアドベンチャーブラックセット(F)
 PROPITEM_TXT_826486,The Dark Christmas Adventurer Black Set for female characters.,女性キャラクター用のダーククリスマスアドベンチャーブラックセット
-PROPITEM_TXT_826487,Dark Christmas Adventurer Costume Lucky Box,Dark Christmas Adventurer Costume Lucky Box
-PROPITEM_TXT_826488,This box contains a Dark Christmas Adventurer Set. You can select your gender after opening the Lucky Box.,This box contains a Dark Christmas Adventurer Set. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_826487,Dark Christmas Adventurer Costume Lucky Box,ダーククリスマスアドベンチャーコスチュームラッキーボックス
+PROPITEM_TXT_826488,This box contains a Dark Christmas Adventurer Set. You can select your gender after opening the Lucky Box.,このボックスには、ダーククリスマスアドベンチャーセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_826489,Xmas 2024 Beard,Xmas 2024 Beard
 PROPITEM_TXT_826490,Xmas 2024 Beard & Red Sunglasses,Xmas 2024 Beard & Red Sunglasses
 PROPITEM_TXT_826491,Xmas 2024 Beard & Blue Sunglasses,Xmas 2024 Beard & Blue Sunglasses
@@ -20061,18 +20061,18 @@ PROPITEM_TXT_201123,2025 New Year Hanbok 10% Set (M),2025年正月韓服10%セ�
 PROPITEM_TXT_201124,The 2025 New Year Hanbok 10% Set for male characters.,男性キャラクター用の2025年正月韓服10%セット
 PROPITEM_TXT_201125,2025 New Year Hanbok 10% Set (F),2025年正月韓服10%セット(F)
 PROPITEM_TXT_201126,The 2025 New Year Hanbok 10% Set for female characters.,女性キャラクター用の2025年正月韓服10%セット
-PROPITEM_TXT_201127,2025 New Year Hanbok Hat (M),2025 New Year Hanbok Hat (M)
+PROPITEM_TXT_201127,2025 New Year Hanbok Hat (M),2025年正月韓服ハット(M)
 PROPITEM_TXT_201128,2025 New Year Hanbok (M),2025 New Year Hanbok (M)
-PROPITEM_TXT_201129,2025 New Year Hanbok Shoes (M),2025 New Year Hanbok Shoes (M)
+PROPITEM_TXT_201129,2025 New Year Hanbok Shoes (M),2025年正月韓服シューズ(M)
 PROPITEM_TXT_201130,2025 New Year Hanbok Gloves (M),2025 New Year Hanbok Gloves (M)
-PROPITEM_TXT_201131,2025 New Year Hanbok Hat (F),2025 New Year Hanbok Hat (F)
+PROPITEM_TXT_201131,2025 New Year Hanbok Hat (F),2025年正月韓服ハット(F)
 PROPITEM_TXT_201132,2025 New Year Hanbok (F),2025 New Year Hanbok (F)
-PROPITEM_TXT_201133,2025 New Year Hanbok Shoes (F),2025 New Year Hanbok Shoes (F)
+PROPITEM_TXT_201133,2025 New Year Hanbok Shoes (F),2025年正月韓服シューズ(F)
 PROPITEM_TXT_201134,2025 New Year Hanbok Gloves (F),2025 New Year Hanbok Gloves (F)
 PROPITEM_TXT_201135,2025 New Year Hanbok 5% (M),2025 New Year Hanbok 5% (M)
-PROPITEM_TXT_201136,2025 New Year Hanbok 5% Shoes (M),2025 New Year Hanbok 5% Shoes (M)
+PROPITEM_TXT_201136,2025 New Year Hanbok 5% Shoes (M),2025年正月韓服5%シューズ(M)
 PROPITEM_TXT_201137,2025 New Year Hanbok 5% (F),2025 New Year Hanbok 5% (F)
-PROPITEM_TXT_201138,2025 New Year Hanbok 5% Shoes (F),2025 New Year Hanbok 5% Shoes (F)
+PROPITEM_TXT_201138,2025 New Year Hanbok 5% Shoes (F),2025年正月韓服5%シューズ(F)
 PROPITEM_TXT_826516,Christmas Star 10% Red Set,クリスマスター 10%レッドセット
 PROPITEM_TXT_826517,Christmas Star Red Cloak,クリスマスターレッドマント
 PROPITEM_TXT_826518,Christmas Star Red Mustache,クリスマスターレッドマスタッシュ
@@ -20171,22 +20171,22 @@ PROPITEM_TXT_826610,Orange Christmas Gingy,Orange Christmas Gingy
 PROPITEM_TXT_826611,Purple Christmas Gingy,Purple Christmas Gingy
 PROPITEM_TXT_826612,Blue Christmas Gingy,Blue Christmas Gingy
 PROPITEM_TXT_826613,Christmas Star Costume Lucky Box,クリスマスターコスチュームラッキーボックス
-PROPITEM_TXT_826614,This box contains a Christmas Star Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Christmas Star Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_826614,This box contains a Christmas Star Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのクリスマススターセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_826615,Halldress Set,ホールドレスセット
-PROPITEM_TXT_826616,Halldress Hat (M),Halldress Hat (M)
-PROPITEM_TXT_826617,Halldress Suit (M),Halldress Suit (M)
-PROPITEM_TXT_826618,Halldress Shoes (M),Halldress Shoes (M)
-PROPITEM_TXT_826619,Halldress Hands (M),Halldress Hands (M)
+PROPITEM_TXT_826616,Halldress Hat (M),ホールドレスハット(M)
+PROPITEM_TXT_826617,Halldress Suit (M),ホールドレススーツ(M)
+PROPITEM_TXT_826618,Halldress Shoes (M),ホールドレスシューズ(M)
+PROPITEM_TXT_826619,Halldress Hands (M),ホールドレスグローブ(M)
 PROPITEM_TXT_826620,Halldress Set (M),ホールドレスセット(M)
 PROPITEM_TXT_826621,The Halldress  Set for male characters.,男性キャラクター用のホールドレスセット
-PROPITEM_TXT_826622,Halldress Hat (F),Halldress Hat (F)
-PROPITEM_TXT_826623,Halldress Suit (F),Halldress Suit (F)
-PROPITEM_TXT_826624,Halldress Shoes (F),Halldress Shoes (F)
-PROPITEM_TXT_826625,Halldress Hands (F),Halldress Hands (F)
+PROPITEM_TXT_826622,Halldress Hat (F),ホールドレスハット(F)
+PROPITEM_TXT_826623,Halldress Suit (F),ホールドレススーツ(F)
+PROPITEM_TXT_826624,Halldress Shoes (F),ホールドレスシューズ(F)
+PROPITEM_TXT_826625,Halldress Hands (F),ホールドレスグローブ(F)
 PROPITEM_TXT_826626,Halldress Set (F),ホールドレスセット(F)
 PROPITEM_TXT_826627,The Halldress  Set for female characters.,女性キャラクター用のホールドレスセット
-PROPITEM_TXT_826628,Halldress Costume Lucky Box,Halldress Costume Lucky Box
-PROPITEM_TXT_826629,This box contains a Halldress Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Halldress Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_826628,Halldress Costume Lucky Box,ホールドレスコスチュームラッキーボックス
+PROPITEM_TXT_826629,This box contains a Halldress Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのホールドレスセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_826630,Dark Christmas Adventurer Red Sunglasses,Dark Christmas Adventurer Red Sunglasses
 PROPITEM_TXT_826631,Dark Christmas Adventurer Beard & Red Sunglasses,Dark Christmas Adventurer Beard & Red Sunglasses
 PROPITEM_TXT_826632,Dark Christmas Adventurer Beard & Red Sunglasses,Dark Christmas Adventurer Beard & Red Sunglasses
@@ -20318,7 +20318,7 @@ PROPITEM_TXT_826765,Northern Warrior White Hands (F),北方の戦士ホワイト
 PROPITEM_TXT_826766,Northern Warrior 2% White Set (F),北方の戦士 2%ホワイトセット(F)
 PROPITEM_TXT_826767,The Northern Warrior 2% White Set for female characters.,女性キャラクター用の北方の戦士 2%ホワイトセット
 PROPITEM_TXT_826768,Northern Warrior Costume Lucky Box,北方の戦士コスチュームラッキーボックス
-PROPITEM_TXT_826769,This box contains a Northern Warrior Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Northern Warrior Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_826769,This box contains a Northern Warrior Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのノーザンウォリアーセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_826770,Red Northern Dragon,Red Northern Dragon
 PROPITEM_TXT_826771,Purple Northern Dragon,Purple Northern Dragon
 PROPITEM_TXT_826772,Ice Northern Dragon,Ice Northern Dragon
@@ -20403,7 +20403,7 @@ PROPITEM_TXT_826850,Snake Samurai White Shoes (F),スネークサムライホワ
 PROPITEM_TXT_826851,Snake Samurai 2% White Set (F),スネークサムライ 2%ホワイトセット(F)
 PROPITEM_TXT_826852,The Snake Samurai 2% White Set for female characters.,女性キャラクター用のスネークサムライ 2%ホワイトセット
 PROPITEM_TXT_826853,Snake Samurai Costume Lucky Box,スネークサムライコスチュームラッキーボックス
-PROPITEM_TXT_826854,This box contains a Snake Samurai Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Snake Samurai Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_826854,This box contains a Snake Samurai Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのスネークサムライセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_201139,[Event] 2025 Spring Gift Box,[Event] 2025 Spring Gift Box
 PROPITEM_TXT_201140,A box full of spring energy.\nYou can obtain 1 random gift when you use it.,A box full of spring energy.\nYou can obtain 1 random gift when you use it.
 PROPITEM_TXT_826855,Lunar ES Scroll Select Pack,旧正月戦神の巻物ES選択パック
@@ -20598,7 +20598,7 @@ PROPITEM_TXT_827188,Red Little Snaky,Red Little Snaky
 PROPITEM_TXT_827189,Emerald Little Snaky,Emerald Little Snaky
 PROPITEM_TXT_827190,Black Little Snaky,Black Little Snaky
 PROPITEM_TXT_827191,Snakyjamas Costume Lucky Box,スネーキーパジャマコスチュームラッキーボックス
-PROPITEM_TXT_827192,This box contains a Snakyjamas Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Snakyjamas Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_827192,This box contains a Snakyjamas Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのスネーキーパジャマセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_827193,Lucky Neko Sword,Lucky Neko Sword
 PROPITEM_TXT_827194,Lucky Neko Axe,Lucky Neko Axe
 PROPITEM_TXT_827195,Lucky Neko Big Sword,Lucky Neko Big Sword
@@ -20756,7 +20756,7 @@ PROPITEM_TXT_827346,Red Frostpaw,Red Frostpaw
 PROPITEM_TXT_827347,White Frostpaw,White Frostpaw
 PROPITEM_TXT_827348,Black Frostpaw,Black Frostpaw
 PROPITEM_TXT_827349,Luxury Winter Costume Lucky Box,ラグジュアリーウィンターコスチュームラッキーボックス
-PROPITEM_TXT_827350,This box contains a Luxury Winter Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Luxury Winter Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_827350,This box contains a Luxury Winter Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのラグジュアリーウィンターセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_827351,Neon Valentines 10% Pink Set,ネオンバレンタイン 10%ピンクセット
 PROPITEM_TXT_827352,Neon Valentines Pink Backpack,ネオンバレンタインピンクバックパック
 PROPITEM_TXT_827353,Neon Valentines Pink Glasses,ネオンバレンタインピンクメガネ
@@ -20878,7 +20878,7 @@ PROPITEM_TXT_827468,Neon Valentines White Hands (F),ネオンバレンタイン�
 PROPITEM_TXT_827469,Neon Valentines 2% White Set (F),ネオンバレンタイン 2%ホワイトセット(F)
 PROPITEM_TXT_827470,The Neon Valentines 2% White Set for female characters.,女性キャラクター用のネオンバレンタイン 2%ホワイトセット
 PROPITEM_TXT_827471,Neon Valentines Costume Lucky Box,ネオンバレンタインコスチュームラッキーボックス
-PROPITEM_TXT_827472,This box contains a Neon Valentines Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Neon Valentines Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_827472,This box contains a Neon Valentines Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのネオンバレンタインセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_201141,[Event] Supplies,[Event] Supplies
 PROPITEM_TXT_201142,"A supply package you have retrieved from a monster. Take it to the Mayor. If you don't give it to Mayor and open it yourself, you may get some good ingredients.","A supply package you have retrieved from a monster. Take it to the Mayor. If you don't give it to Mayor and open it yourself, you may get some good ingredients."
 PROPITEM_TXT_201143,Tier A Production Material Box,Tier A Production Material Box
@@ -20983,7 +20983,7 @@ PROPITEM_TXT_827561,Green Roaryen,Green Roaryen
 PROPITEM_TXT_827562,White Roaryen,White Roaryen
 PROPITEM_TXT_827563,Black Roaryen,Black Roaryen
 PROPITEM_TXT_827564,Hanbok 2025 Costume Lucky Box,韓服2025コスチュームラッキーボックス
-PROPITEM_TXT_827565,This box contains a Hanbok 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Hanbok 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_827565,This box contains a Hanbok 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの韓服2025セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_827566,Neon Valentines Black Housing Pack,ネオンバレンタインブラックハウジングパック
 PROPITEM_TXT_827567,Neon Valentines Black Lamp Single Pack,ネオンバレンタインブラックランプシングルパック
 PROPITEM_TXT_827568,Neon Valentines Black Desk Single Pack,ネオンバレンタインブラックデスクシングルパック
@@ -21174,7 +21174,7 @@ PROPITEM_TXT_827671,Spring Picnic Gray Shoes (F),春のピクニックグレー�
 PROPITEM_TXT_827672,Spring Picnic 2% Gray Set (F),春のピクニック 2%グレーセット(F)
 PROPITEM_TXT_827673,The Spring Picnic 2% Gray Set for female characters.,女性キャラクター用の春のピクニック 2%グレーセット
 PROPITEM_TXT_827674,Spring Picnic Costume Lucky Box,春のピクニックコスチュームラッキーボックス
-PROPITEM_TXT_827675,This box contains a Spring Picnic Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Spring Picnic Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_827675,This box contains a Spring Picnic Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの春のピクニックセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_827676,Spring Buff Pack,Spring Buff Pack
 PROPITEM_TXT_827677,"A package containing 5x Spring Buff Lucky Box, 5x Scroll of Amplification ES, 5x Flask Box and 5x Vital Drink X or Refresher. All items are also linked.",スプリングバフラッキーボックスx5、戦神の巻物ESx5、秘薬ボックスx5、スタミナドリンクXまたは魔力ドリンクゴールドx5が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_827678,Spring Buff Lucky Box,Spring Buff Lucky Box
@@ -21268,7 +21268,7 @@ PROPITEM_TXT_827765,Pastel Fashion Gray Shoes (F),パステルファッション
 PROPITEM_TXT_827766,Pastel Fashion 2% Gray Set (F),パステルファッション 2%グレーセット(F)
 PROPITEM_TXT_827767,The Pastel Fashion 2% Gray Set for female characters.,女性キャラクター用のパステルファッション 2%グレーセット
 PROPITEM_TXT_827768,Pastel Fashion Costume Lucky Box,パステルファッションコスチュームラッキーボックス
-PROPITEM_TXT_827769,This box contains a Pastel Fashion Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Pastel Fashion Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_827769,This box contains a Pastel Fashion Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのパステルファッションセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_827770,Scroll of Pickup Range (30 days),Scroll of Pickup Range (30 days)
 PROPITEM_TXT_827771,Pet's pickup range is increased by 100% for 30 days,Pet's pickup range is increased by 100% for 30 days
 PROPITEM_TXT_827772,Scroll of PickUp Range (15 days),Scroll of PickUp Range (15 days)
@@ -21458,7 +21458,7 @@ PROPITEM_TXT_827930,Ruby Yukata White Shoes (F),ルビー浴衣ホワイトシ�
 PROPITEM_TXT_827931,Ruby Yukata 2% White Set (F),ルビー浴衣 2%ホワイトセット(F)
 PROPITEM_TXT_827932,The Ruby Yukata 2% White Set for female characters.,女性キャラクター用のルビー浴衣 2%ホワイトセット
 PROPITEM_TXT_827933,Ruby Yukata Costume Lucky Box,ルビー浴衣コスチュームラッキーボックス
-PROPITEM_TXT_827934,This box contains a Ruby Yukata Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Ruby Yukata Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_827934,This box contains a Ruby Yukata Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのルビー浴衣セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_827935,Cyberpunk 2025 10% Pink Set,サイバーパンク2025 10%ピンクセット
 PROPITEM_TXT_827936,Cyberpunk 2025 Pink Skateboard,サイバーパンク2025ピンクスケートボード
 PROPITEM_TXT_827937,Cyberpunk 2025 Pink Mask,サイバーパンク2025ピンクマスク
@@ -21550,7 +21550,7 @@ PROPITEM_TXT_828022,Cyberpunk 2025 White Hands (F),サイバーパンク2025ホ�
 PROPITEM_TXT_828023,Cyberpunk 2025 2% White Set (F),サイバーパンク2025 2%ホワイトセット(F)
 PROPITEM_TXT_828024,The Cyberpunk 2025 2% White Set for female characters.,女性キャラクター用のサイバーパンク2025 2%ホワイトセット
 PROPITEM_TXT_828025,Cyberpunk 2025 Costume Lucky Box,サイバーパンク2025コスチュームラッキーボックス
-PROPITEM_TXT_828026,This box contains a Cyberpunk 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Cyberpunk 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_828026,This box contains a Cyberpunk 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのサイバーパンク2025セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_828027,Pink 2025 Cyberpunk Bike,Pink 2025 Cyberpunk Bike
 PROPITEM_TXT_828028,Cruise through neon-lit streets in style! Futuristic speed meets bold elegance! Maximum Speed: 64 km/h.,Cruise through neon-lit streets in style! Futuristic speed meets bold elegance! Maximum Speed: 64 km/h.
 PROPITEM_TXT_828029,Green 2025 Cyberpunk Bike,Green 2025 Cyberpunk Bike
@@ -21589,14 +21589,14 @@ PROPITEM_TXT_828061,This cute Crystal Demon Lord manages a Personal Shop for you
 PROPITEM_TXT_828062,Enchanted Shaman Vendor Shop,Enchanted Shaman Vendor Shop
 PROPITEM_TXT_828063,This cute Enchanted Shaman manages a Personal Shop for you! Double click to close the Shop. You get the item back when the Shop is closed. (7 Days),This cute Enchanted Shaman manages a Personal Shop for you! Double click to close the Shop. You get the item back when the Shop is closed. (7 Days)
 PROPITEM_TXT_828064,Yukata 2025 Set,浴衣2025セット
-PROPITEM_TXT_828065,Yukata 2025 Hat (M),Yukata 2025 Hat (M)
-PROPITEM_TXT_828066,Yukata 2025 Suit (M),Yukata 2025 Suit (M)
-PROPITEM_TXT_828067,Yukata 2025 Hands (M),Yukata 2025 Hands (M)
+PROPITEM_TXT_828065,Yukata 2025 Hat (M),浴衣2025ハット(M)
+PROPITEM_TXT_828066,Yukata 2025 Suit (M),浴衣2025スーツ(M)
+PROPITEM_TXT_828067,Yukata 2025 Hands (M),浴衣2025グローブ(M)
 PROPITEM_TXT_828068,Yukata 2025 Set (M),浴衣2025セット(M)
 PROPITEM_TXT_828069,The Yukata 2025 Set for male characters.,男性キャラクター用の浴衣2025セット
-PROPITEM_TXT_828070,Yukata 2025 Hat (F),Yukata 2025 Hat (F)
-PROPITEM_TXT_828071,Yukata 2025 Suit (F),Yukata 2025 Suit (F)
-PROPITEM_TXT_828072,Yukata 2025 Hands (F),Yukata 2025 Hands (F)
+PROPITEM_TXT_828070,Yukata 2025 Hat (F),浴衣2025ハット(F)
+PROPITEM_TXT_828071,Yukata 2025 Suit (F),浴衣2025スーツ(F)
+PROPITEM_TXT_828072,Yukata 2025 Hands (F),浴衣2025グローブ(F)
 PROPITEM_TXT_828073,Yukata 2025 Set (F),浴衣2025セット(F)
 PROPITEM_TXT_828074,The Yukata 2025 Set for female characters.,女性キャラクター用の浴衣2025セット
 PROPITEM_TXT_828075,Pastel Housing Pack,Pastel Housing Pack
@@ -21715,7 +21715,7 @@ PROPITEM_TXT_828187,Modern Alien Rainbow Shoes (F),女性キャラクター用�
 PROPITEM_TXT_828188,Modern Alien 2% Rainbow Set (F),女性キャラクター用のモダンエイリアン 2%レインボーセット
 PROPITEM_TXT_828189,The Modern Alien 2% Rainbow Set for female characters.,女性キャラクター用のモダンエイリアン 2%レインボーセット
 PROPITEM_TXT_828190,Modern Alien Costume Lucky Box,モダンエイリアンコスチュームラッキーボックス
-PROPITEM_TXT_828191,This box contains a Modern Alien Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Modern Alien Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_828191,This box contains a Modern Alien Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのモダンエイリアンセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_828192,Blue Fairie Wings Package,Blue Fairie Wings Package
 PROPITEM_TXT_828193,A package containing 1x Blue Fairie Wings and 1x Nitro Booster (7 Days). All items are also linked.,スノーフェアリーの翼x1、ニトロブースター(7日間)x1が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_828194,Easter Rabbit 2025 10% Pink Set,イースターラビット2025 10%ピンクセット
@@ -21815,7 +21815,7 @@ PROPITEM_TXT_828287,Easter Rabbit 2025 Rainbow Shoes (F),女性キャラクタ�
 PROPITEM_TXT_828288,Easter Rabbit 2025 2% Rainbow Set (F),女性キャラクター用のイースターラビット2025 2%レインボーセット
 PROPITEM_TXT_828289,The Easter Rabbit 2025 2% Rainbow Set for female characters.,女性キャラクター用のイースターラビット2025 2%レインボーセット
 PROPITEM_TXT_828290,Easter Rabbit 2025 Costume Lucky Box,イースターラビット2025コスチュームラッキーボックス
-PROPITEM_TXT_828291,This box contains a Easter Rabbit 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Easter Rabbit 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_828291,This box contains a Easter Rabbit 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのイースターラビット2025セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_900000,2025 FWC Golden Lusaka's Crystal Axe,2025 FWC Golden Lusaka's Crystal Axe
 PROPITEM_TXT_900001,2025 FWC Golden Lusaka's Crystal Bow,2025 FWC Golden Lusaka's Crystal Bow
 PROPITEM_TXT_900002,2025 FWC Golden Lusaka's Crystal Fist,2025 FWC Golden Lusaka's Crystal Fist
@@ -21911,13 +21911,13 @@ PROPITEM_TXT_134758,I am PANG! Set for male characters.,男性キャラクター
 PROPITEM_TXT_134759,I am PANG! (F),I am PANG! (F)
 PROPITEM_TXT_134760,I am PANG! Set for female characters.,女性キャラクター用のアイム・パン！セット
 PROPITEM_TXT_134761,I am PANG! Cap (M),I am PANG! Cap (M)
-PROPITEM_TXT_134762,I am PANG! Suit (M),I am PANG! Suit (M)
-PROPITEM_TXT_134763,I am PANG! Shoes (M),I am PANG! Shoes (M)
-PROPITEM_TXT_134764,I am PANG! Hands (M),I am PANG! Hands (M)
+PROPITEM_TXT_134762,I am PANG! Suit (M),アイアムパン！スーツ(M)
+PROPITEM_TXT_134763,I am PANG! Shoes (M),アイアムパン！シューズ(M)
+PROPITEM_TXT_134764,I am PANG! Hands (M),アイアムパン！グローブ(M)
 PROPITEM_TXT_134765,I am PANG! Cap (F),I am PANG! Cap (F)
-PROPITEM_TXT_134766,I am PANG! Suit (F),I am PANG! Suit (F)
-PROPITEM_TXT_134767,I am PANG! Shoes (F),I am PANG! Shoes (F)
-PROPITEM_TXT_134768,I am PANG! Hands (F),I am PANG! Hands (F)
+PROPITEM_TXT_134766,I am PANG! Suit (F),アイアムパン！スーツ(F)
+PROPITEM_TXT_134767,I am PANG! Shoes (F),アイアムパン！シューズ(F)
+PROPITEM_TXT_134768,I am PANG! Hands (F),アイアムパン！グローブ(F)
 PROPITEM_TXT_134769,"Item needed to upgrade 3rd Anniversary Egg.\nIf you fail, you can drop or destroy it, so be careful.","Item needed to upgrade 3rd Anniversary Egg.\nIf you fail, you can drop or destroy it, so be careful."
 PROPITEM_TXT_134770,"To upgrade to the next level, you will need a 3rd Anniversary Egg Upgrade Ticket.\nIf you don't want to upgrade anymore, open it.","To upgrade to the next level, you will need a 3rd Anniversary Egg Upgrade Ticket.\nIf you don't want to upgrade anymore, open it."
 PROPITEM_TXT_134771,Congratulations You've reached the highest level. Break the eggs and get your rewards.,Congratulations You've reached the highest level. Break the eggs and get your rewards.
@@ -22019,7 +22019,7 @@ PROPITEM_TXT_900104,Orange Guardian Easter Bunny,Orange Guardian Easter Bunny
 PROPITEM_TXT_900105,Purple Guardian Easter Bunny,Purple Guardian Easter Bunny
 PROPITEM_TXT_900106,Dark Guardian Easter Bunny,Dark Guardian Easter Bunny
 PROPITEM_TXT_900107,Easter Bunny 2025 Costume Lucky Box,イースターバニー2025コスチュームラッキーボックス
-PROPITEM_TXT_900108,This box contains a Easter Bunny 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Easter Bunny 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_900108,This box contains a Easter Bunny 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのイースターバニー2025セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_900109,PlayPark Door Prize Reward,PlayPark Door Prize Reward
 PROPITEM_TXT_900110,"A package containing 15x Upcut Stone, 3x Smelting Scroll Box, 1x Power Scroll, 1x Scroll of Amplification ES, 1x Extra Bag (30 Days), 1x Grilled Eel and 5x Flask Box. All items are also linked.",パワーストーンx15、精錬編の巻物ボックスx3、豪傑のスクロール(B)x1、戦神の巻物ESx1、魔法の携帯バッグ(30日)x1、グリルド・イールx1、秘薬ボックスx5が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_900111,PlayPark Tournament Reward,PlayPark Tournament Reward
@@ -22129,7 +22129,7 @@ PROPITEM_TXT_900214,Fantasy Guardian Black Shoes (F),ファンタジーガーデ
 PROPITEM_TXT_900215,Fantasy Guardian 2% Black Set (F),ファンタジーガーディアン 2%ブラックセット(F)
 PROPITEM_TXT_900216,The Fantasy Guardian 2% Black Set for female characters.,女性キャラクター用のファンタジーガーディアン 2%ブラックセット
 PROPITEM_TXT_900217,Fantasy Guardian Costume Lucky Box,ファンタジーガーディアンコスチュームラッキーボックス
-PROPITEM_TXT_900218,This box contains a Fantasy Guardian Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Fantasy Guardian Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_900218,This box contains a Fantasy Guardian Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのファンタジーガーディアンセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_900219,3rd Anniversary Mecha 10% White Set,3周年メカ 10%ホワイトセット
 PROPITEM_TXT_900220,3rd Anniversary Mecha White Wings Cloak,3周年メカホワイトウィングマント
 PROPITEM_TXT_900221,3rd Anniversary Mecha White Hat (M),3周年メカホワイトハット(M)
@@ -22215,7 +22215,7 @@ PROPITEM_TXT_900300,3rd Anniversary Mecha Black Hands (F),3周年メカブラッ
 PROPITEM_TXT_900301,3rd Anniversary Mecha 2% Black Set (F),3周年メカ 2%ブラックセット(F)
 PROPITEM_TXT_900302,The 3rd Anniversary Mecha 2% Black Set for female characters.,女性キャラクター用の3周年メカ 2%ブラックセット
 PROPITEM_TXT_900303,3rd Anniversary Mecha Costume Lucky Box,3周年メカコスチュームラッキーボックス
-PROPITEM_TXT_900304,This box contains a 3rd Anniversary Mecha Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a 3rd Anniversary Mecha Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_900304,This box contains a 3rd Anniversary Mecha Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの3周年メカセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_900305,3rd Anniversary Mecha White Wings,3周年メカホワイトウィング
 PROPITEM_TXT_900306,3rd Anniversary Mecha Purple Wings,3周年メカパープルウィング
 PROPITEM_TXT_900307,3rd Anniversary Mecha Green Wings,3周年メカグリーンウィング
@@ -22363,7 +22363,7 @@ PROPITEM_TXT_900450,Lavender Pawsy,Lavender Pawsy
 PROPITEM_TXT_900451,Pink Pawsy,Pink Pawsy
 PROPITEM_TXT_900452,Gray Pawsy,Gray Pawsy
 PROPITEM_TXT_900453,Botanist Musician Costume Lucky Box,ボタニストミュージシャンコスチュームラッキーボックス
-PROPITEM_TXT_900454,This box contains a Botanist Musician Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Botanist Musician Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_900454,This box contains a Botanist Musician Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのボタニストミュージシャンセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_900455,Pang's Upgrade Package A,Pang's Upgrade Package A
 PROPITEM_TXT_900456,"A package containing 20x Scroll of SProtect, 10x Power Dice 10 and 10x Power Dice 12. All items are also linked.",鍛冶屋の心得・精錬編x20、パワーダイス [10D](S)x10、パワーダイス [12D](精)x10が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_900457,Pang's Upgrade Package B,Pang's Upgrade Package B
@@ -22547,7 +22547,7 @@ PROPITEM_TXT_900708,Obsidian Flame Black Hands (F),オブシディアンフレ�
 PROPITEM_TXT_900709,Obsidian Flame 2% Black Set (F),オブシディアンフレイム 2%ブラックセット(F)
 PROPITEM_TXT_900710,The Obsidian Flame 2% Black Set for female characters.,女性キャラクター用のオブシディアンフレイム 2%ブラックセット
 PROPITEM_TXT_900711,Obsidian Flame Costume Lucky Box,オブシディアンフレイムコスチュームラッキーボックス
-PROPITEM_TXT_900712,This box contains a Obsidian Flame Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Obsidian Flame Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_900712,This box contains a Obsidian Flame Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのオブシディアンフレイムセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_134772,[Event] Experiment Material Box,[Event] Experiment Material Box
 PROPITEM_TXT_134773,"A Box with full of materials required for an experiment. Take it to the Mayor. If you don't give it to Mayor and open it yourself, you may get some good ingredients.","A Box with full of materials required for an experiment. Take it to the Mayor. If you don't give it to Mayor and open it yourself, you may get some good ingredients."
 PROPITEM_TXT_900713,Obsidian Flame Orange Sword,オブシディアンフレイムオレンジソード
@@ -22755,12 +22755,12 @@ PROPITEM_TXT_900914,Forest Spirit Black Hands (F),森の精霊ブラックグロ
 PROPITEM_TXT_900915,Forest Spirit 2% Black Set (F),森の精霊 2%ブラックセット(F)
 PROPITEM_TXT_900916,The Forest Spirit 2% Black Set for female characters.,女性キャラクター用の森の精霊 2%ブラックセット
 PROPITEM_TXT_900917,Forest Spirit Costume Lucky Box,森の精霊コスチュームラッキーボックス
-PROPITEM_TXT_900918,This box contains a Forest Spirit Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Forest Spirit Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_900918,This box contains a Forest Spirit Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの森の精霊セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_900919,Green Thornhart,Green Thornhart
 PROPITEM_TXT_900920,Blue Thornhart,Blue Thornhart
 PROPITEM_TXT_900921,Pink Thornhart,Pink Thornhart
 PROPITEM_TXT_900922,"Raise your antlers and charge through the wild! With noble grace and thunderous strides, Thornhart carries you through the ancient woods in majestic silence. Maximum Speed: 64 km/h.","Raise your antlers and charge through the wild! With noble grace and thunderous strides, Thornhart carries you through the ancient woods in majestic silence. Maximum Speed: 64 km/h."
-PROPITEM_TXT_900923,Summer Costume Select Box 1,Summer Costume Select Box 1
+PROPITEM_TXT_900923,Summer Costume Select Box 1,サマーコスチュームセレクトボックス1
 PROPITEM_TXT_900924,Select which Costume you want to receive.,Select which Costume you want to receive.
 PROPITEM_TXT_900925,Flower Faerie Set (F),フラワーフェアリーセット(F)
 PROPITEM_TXT_900926,The Flower Faerie Set for female characters.,女性キャラクター用のフラワーフェアリーセット
@@ -22768,7 +22768,7 @@ PROPITEM_TXT_900927,Beginner's Package B,Beginner's Package B
 PROPITEM_TXT_900928,"A package containing 5x Scroll of Amplification ES, 1x Beginner's Pickup Pet Box (30 days), 1x Beginner's Flying Box (30 days), 1x Extra Bag (30 days), 5x Vital Drink X or Refresher Hold, 5x Torch of Raon and 5x Power Scroll. All items are also linked.",戦神の巻物EXx5、ビギナーズピックアップペットボックス(30日)x1、ビギナーズフライングボックス(30日間)x1、魔法の携帯バッグ(30日)x1、スタミナドリンクXまたは魔力ドリンクゴールドx5、ラオンの松明x5、豪傑のスクロール(B)x5が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_900929,Expert's Upgrade Package A,Expert's Upgrade Package A
 PROPITEM_TXT_900930,"A package containing 10x Scroll of AProtect, 10x Scroll of SProtect, 10x Scroll of GProtect, 10x Scroll of EProtect, 5x Charged Power Scroll and 5x Scroll of Amplification ES. All items are also linked.",鍛冶屋の心得・アクセサリー編x10、鍛冶屋の心得・精錬編x10、鍛冶屋の心得・ソケット作成編x10、カード破壊防止の巻物x10、豪傑のスクロール(A)x5、戦神の巻物ESx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_900931,School Life Costume Select Box 1,School Life Costume Select Box 1
+PROPITEM_TXT_900931,School Life Costume Select Box 1,スクールライフコスチュームセレクトボックス1
 PROPITEM_TXT_900932,Select which Costume you want to receive.,Select which Costume you want to receive.
 PROPITEM_TXT_900933,Forest Faerie Set (F),フォレストフェアリーセット(F)
 PROPITEM_TXT_900934,The Forest Faerie Set for female characters.,女性キャラクター用のフォレストフェアリーセット
@@ -22880,7 +22880,7 @@ PROPITEM_TXT_901039,Pink Breezy,Pink Breezy
 PROPITEM_TXT_901040,White Breezy,White Breezy
 PROPITEM_TXT_901041,Black Breezy,Black Breezy
 PROPITEM_TXT_901042,2025 Swimsuit Costume Lucky Box,2025スイムウェアコスチュームラッキーボックス
-PROPITEM_TXT_901043,This box contains a 2025 Swimsuit Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a 2025 Swimsuit Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_901043,This box contains a 2025 Swimsuit Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの2025スイムウェアセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_901044,Aqua Splash 10% Emerald Set,アクアスプラッシュ 10%エメラルドセット
 PROPITEM_TXT_901045,Aqua Splash Emerald Rescue board,アクアスプラッシュエメラルドレスキューボード
 PROPITEM_TXT_901046,Aqua Splash Emerald Sunglasses,アクアスプラッシュエメラルドサングラス
@@ -22986,7 +22986,7 @@ PROPITEM_TXT_901145,Aqua Splash Black Shoes (F),アクアスプラッシュブ�
 PROPITEM_TXT_901146,Aqua Splash 2% Black Set (F),アクアスプラッシュ 2%ブラックセット(F)
 PROPITEM_TXT_901147,The Aqua Splash 2% Black Set for female characters.,女性キャラクター用のアクアスプラッシュ 2%ブラックセット
 PROPITEM_TXT_901148,Aqua Splash Costume Lucky Box,アクアスプラッシュコスチュームラッキーボックス
-PROPITEM_TXT_901149,This box contains a Aqua Splash Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Aqua Splash Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_901149,This box contains a Aqua Splash Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのアクアスプラッシュセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_901150,Harlequin Blaze 10% Red Set,ハーレクインブレイズ 10%レッドセット
 PROPITEM_TXT_901151,Harlequin Blaze Red Toy,ハーレクインブレイズレッドトイ
 PROPITEM_TXT_901152,Harlequin Blaze Red Mask,ハーレクインブレイズレッドマスク
@@ -23108,7 +23108,7 @@ PROPITEM_TXT_901267,Harlequin Blaze Black Hands (F),ハーレクインブレイ�
 PROPITEM_TXT_901268,Harlequin Blaze 2% Black Set (F),ハーレクインブレイズ 2%ブラックセット(F)
 PROPITEM_TXT_901269,The Harlequin Blaze 2% Black Set for female characters.,女性キャラクター用のハーレクインブレイズ 2%ブラックセット
 PROPITEM_TXT_901270,Harlequin Blaze Costume Lucky Box,ハーレクインブレイズコスチュームラッキーボックス
-PROPITEM_TXT_901271,This box contains a Harlequin Blaze Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Harlequin Blaze Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_901271,This box contains a Harlequin Blaze Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのハーレクインブレイズセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_901272,Harlequin Blaze Bumper Car Red,ハーレクインブレイズレッドバンパーカー
 PROPITEM_TXT_901273,Harlequin Blaze Bumper Car Blue,ハーレクインブレイズブルーバンパーカー
 PROPITEM_TXT_901274,Harlequin Blaze Bumper Car Green,ハーレクインブレイズグリーンバンパーカー
@@ -23223,7 +23223,7 @@ PROPITEM_TXT_901382,Summer Kickflip White Shoes (F),サマーキックフリッ�
 PROPITEM_TXT_901383,Summer Kickflip 2% White Set (F),サマーキックフリップ 2%ホワイトセット(F)
 PROPITEM_TXT_901384,The Summer Kickflip 2% White Set for female characters.,女性キャラクター用のサマーキックフリップ 2%ホワイトセット
 PROPITEM_TXT_901385,Summer Kickflip Costume Lucky Box,サマーキックフリップコスチュームラッキーボックス
-PROPITEM_TXT_901386,This box contains a Summer Kickflip Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Summer Kickflip Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_901386,This box contains a Summer Kickflip Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのサマーキックフリップセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_901388,Summer Kickflip Skateboard Red,サマーキックフリップレッドスケートボード
 PROPITEM_TXT_901389,Summer Kickflip Skateboard Green,サマーキックフリップグリーンスケートボード
 PROPITEM_TXT_901390,Summer Kickflip Skateboard Blue,サマーキックフリップブルースケートボード
@@ -23233,7 +23233,7 @@ PROPITEM_TXT_901393,Summer Kickflip Skateboard Pink,サマーキックフリッ�
 PROPITEM_TXT_901394,Summer Kickflip Skateboard Black,サマーキックフリップブラックスケートボード
 PROPITEM_TXT_901395,Summer Kickflip Skateboard White,サマーキックフリップホワイトスケートボード
 PROPITEM_TXT_901396,"Catch the breeze and ride the heat! From the streets of Flaris to those of Darkon, this board offers smooth tricks and cooler vibes. Maximum Speed: 64 km/h.","Catch the breeze and ride the heat! From the streets of Flaris to those of Darkon, this board offers smooth tricks and cooler vibes. Maximum Speed: 64 km/h."
-PROPITEM_TXT_901397,Fantasy Costume Select Box 1,Fantasy Costume Select Box 1
+PROPITEM_TXT_901397,Fantasy Costume Select Box 1,ファンタジーコスチュームセレクトボックス1
 PROPITEM_TXT_901398,Select your favorite look from our Fantasy Costume collection.,Select your favorite look from our Fantasy Costume collection.
 PROPITEM_TXT_901399,Balloon Select Box (6h),Balloon Select Box (6h)
 PROPITEM_TXT_901400,"Select the perfect balloons for your needs, balloon duration 6 hours.","Select the perfect balloons for your needs, balloon duration 6 hours."
@@ -23343,12 +23343,12 @@ PROPITEM_TXT_901495,Green Pawsh,Green Pawsh
 PROPITEM_TXT_901496,Navy Pawsh,Navy Pawsh
 PROPITEM_TXT_901497,Red Pawsh,Red Pawsh
 PROPITEM_TXT_901498,Nobility Costume Lucky Box,貴族コスチュームラッキーボックス
-PROPITEM_TXT_901499,This box contains a Nobility Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Nobility Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_901500,Cute Costume Select Box 1,Cute Costume Select Box 1
+PROPITEM_TXT_901499,This box contains a Nobility Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの貴族セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
+PROPITEM_TXT_901500,Cute Costume Select Box 1,キュートコスチュームセレクトボックス1
 PROPITEM_TXT_901501,Select which Costume you want to receive,受け取りたいコスチュームを選択してください
 PROPITEM_TXT_901502,Summer Smelting Scroll Package,夏の製錬スクロールパッケージ
 PROPITEM_TXT_901503,A package containing 20x Scroll of SProtect and 5x Scroll of Weapon Bonus. All items are also linked.,鍛冶屋の心得・精錬編x20、武器ボーナスの巻物x5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_901504,Animal Costume Select Box 1,Animal Costume Select Box 1
+PROPITEM_TXT_901504,Animal Costume Select Box 1,アニマルコスチュームセレクトボックス1
 PROPITEM_TXT_901505,Select which Costume you want to receive,受け取りたいコスチュームを選択してください
 PROPITEM_TXT_901506,Autumn Buff Lucky Box,Autumn Buff Lucky Box
 PROPITEM_TXT_901507,"This box contains a random Maple buff, which can be one of the following: Red Maple, Blue Maple, White Maple, or Green Maple.","This box contains a random Maple buff, which can be one of the following: Red Maple, Blue Maple, White Maple, or Green Maple."
@@ -23462,7 +23462,7 @@ PROPITEM_TXT_901586,Purple Marshall,Purple Marshall
 PROPITEM_TXT_901587,Red Marshall,Red Marshall
 PROPITEM_TXT_901588,Neon Marshall,Neon Marshall
 PROPITEM_TXT_901589,Firefighter 2025 Costume Lucky Box,消防士2025コスチュームラッキーボックス
-PROPITEM_TXT_901590,This box contains a Firefighter 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Firefighter 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_901590,This box contains a Firefighter 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの消防士2025セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_901591,Firefighter 2025 Orange Hands (M),消防士2025オレンジグローブ(M)
 PROPITEM_TXT_901592,Firefighter 2025 Orange Hands (F),消防士2025オレンジグローブ(F)
 PROPITEM_TXT_901593,Firefighter 2025 Green Hands (M),消防士2025グリーングローブ(M)
@@ -23481,13 +23481,13 @@ PROPITEM_TXT_901605,"Third completion reward for Roll your Lucky Dice!\nYou can 
 PROPITEM_TXT_901606,"Fourth completion reward for Roll your Lucky Dice!\nYou can earn 5 Upcut Stone, 5 Power Scroll, 5 FWC Special combo, and 5 Scrolls of Return.","Fourth completion reward for Roll your Lucky Dice!\nYou can earn 5 Upcut Stone, 5 Power Scroll, 5 FWC Special combo, and 5 Scrolls of Return."
 PROPITEM_TXT_901607,[Event] Shop Advertisement Random Box,[Event] Shop Advertisement Random Box
 PROPITEM_TXT_901608,This box contains Shop Advertisement item.\nOpen it to see what's inside.,This box contains Shop Advertisement item.\nOpen it to see what's inside.
-PROPITEM_TXT_901609,Sci-Fi Costume Select Box 1,Sci-Fi Costume Select Box 1
+PROPITEM_TXT_901609,Sci-Fi Costume Select Box 1,SFコスチュームセレクトボックス1
 PROPITEM_TXT_901610,Select which Costume you want to receive,受け取りたいコスチュームを選択してください
 PROPITEM_TXT_901611,Space Engineer Bike Select Box,Space Engineer Bike Select Box
 PROPITEM_TXT_901612,Select which Bike you want to receive,Select which Bike you want to receive
 PROPITEM_TXT_901613,Flying Froggy Select Box,Flying Froggy Select Box
 PROPITEM_TXT_901614,Select which Pet you want to receive,Select which Pet you want to receive
-PROPITEM_TXT_901615,Halloween Costume Select Box 1,Halloween Costume Select Box 1
+PROPITEM_TXT_901615,Halloween Costume Select Box 1,ハロウィンコスチュームセレクトボックス1
 PROPITEM_TXT_901616,Select which Costume you want to receive,受け取りたいコスチュームを選択してください
 PROPITEM_TXT_901617,2025 FWC Cheer up Box,2025 FWC Cheer up Box
 PROPITEM_TXT_901618,A package containing 5x 2025 FWC PopCorn Select box and 5x Scroll of Amplification ES. All items are Soul-Linked.,2025 FWCポップコーンセレクトボックスx5、戦神の巻物ESx5が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
@@ -23604,7 +23604,7 @@ PROPITEM_TXT_901728,Aero Streetwear White Shoes (F),エアロストリートウ�
 PROPITEM_TXT_901729,Aero Streetwear 2% White Set (F),エアロストリートウェア 2%ホワイトセット(F)
 PROPITEM_TXT_901730,The Aero Streetwear 2% White Set for female characters.,女性キャラクター用のエアロストリートウェア 2%ホワイトセット
 PROPITEM_TXT_901731,Aero Streetwear Costume Lucky Box,エアロストリートウェアコスチュームラッキーボックス
-PROPITEM_TXT_901732,This box contains a Aero Streetwear Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Aero Streetwear Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_901732,This box contains a Aero Streetwear Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのエアロストリートウェアセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_901733,Special Casual Hat (F),スペシャルカジュアルハット(F)
 PROPITEM_TXT_901734,Special Casual Hat for Female Characters.,スペシャルカジュアルハット(女の子用)。
 PROPITEM_TXT_901735,Special Casual Suit (F),スペシャルカジュアルスーツ(F)
@@ -23642,15 +23642,15 @@ PROPITEM_TXT_901766,2025 FWC Grand Final Online Coupon 3,2025 FWC Grand Final On
 PROPITEM_TXT_901767,"A package containing 2x Scroll of SProtect, 2x Scroll of AProtect, 1x Scroll of GProtect and 1x Scroll of EProtect. All items are Soul-Linked. ",鍛冶屋の心得・精錬編x2、鍛冶屋の心得・アクセサリー編x2、鍛冶屋の心得・ソケット作成編x1、カード破壊防止の巻物x1が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
 PROPITEM_TXT_901768,2025 FWC VIP Premium Box,2025 FWC VIP Premium Box
 PROPITEM_TXT_901769,"A package containing 40x FWC Special combo, 1x 2025 Premium Costume Select Box 1 and 2025 Premium Costume Select Box 2. All items are Soul-Linked. ",FWCスペシャルコンボx40、2025プレミアムコスチュームセレクトボックス1x1、2025プレミアムコスチュームセレクトボックス2が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_901770,2025 Premium Costume Select Box 1,2025 Premium Costume Select Box 1
+PROPITEM_TXT_901770,2025 Premium Costume Select Box 1,2025プレミアムコスチュームセレクトボックス1
 PROPITEM_TXT_901771,Select your favorite costume between Spy Set and Dark Scions Set. All items are Soul-Linked.,Select your favorite costume between Spy Set and Dark Scions Set. All items are Soul-Linked.
 PROPITEM_TXT_901772,2025 FWC VIP Gold Box,2025 FWC VIP Gold Box
 PROPITEM_TXT_901773,A package containing 20x FWC Special combo and 1x 2025 Gold Costume Select Box. All items are Soul-Linked.,FWCスペシャルコンボx20、2025ゴールドコスチュームセレクトボックスx1が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_901774,2025 Gold Costume Select Box,2025 Gold Costume Select Box
+PROPITEM_TXT_901774,2025 Gold Costume Select Box,2025ゴールドコスチュームセレクトボックス
 PROPITEM_TXT_901775,"Select your favorite costume between Spy Set, Dark Scions Set, Warlord Set and Black Wedding Set. All items are Soul-Linked. ","Select your favorite costume between Spy Set, Dark Scions Set, Warlord Set and Black Wedding Set. All items are Soul-Linked. "
 PROPITEM_TXT_901776,2025 FWC Welcome Box,2025 FWC Welcome Box
 PROPITEM_TXT_901777,A package containing 10x FWC Special combo and 3x Box of Lucky. All items are Soul-Linked.,FWCスペシャルコンボx10、ラッキーボックスx3が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_901778,2025 Premium Costume Select Box 2,2025 Premium Costume Select Box 2
+PROPITEM_TXT_901778,2025 Premium Costume Select Box 2,2025プレミアムコスチュームセレクトボックス2
 PROPITEM_TXT_901779,Select your favorite costume between Warlord Set and Black Wedding Set. All items are Soul-Linked.,ワーロードセットとブラックウェディングセットからお好きなコスチュームを選んでください。全てのアイテムはプレイヤーに帰属されています。
 PROPITEM_TXT_901780,Dark Prince Set (M),闇の王子セット(M)
 PROPITEM_TXT_901781,Dark Prince set for Male characters,男性キャラクター用の闇の王子セット
@@ -23670,7 +23670,7 @@ PROPITEM_TXT_901794,2025 FWC Streamer Event Coupon 2,2025 FWC Streamer Event Cou
 PROPITEM_TXT_901795,"A package containing 1x Lifestyle Bag Select Box (15 day), 2x Balloon Select Box (6h) and 10x FWC Snack Select Box. All items are Soul-Linked.",ライフスタイルバッグセレクトボックス(15日)x1、バルーンセレクトボックス(6時間)x2、FWCスナックセレクトボックスx10が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
 PROPITEM_TXT_901796,2025 FWC Streamer Event Coupon 3,2025 FWC Streamer Event Coupon 3
 PROPITEM_TXT_901797,"A package containing 3x Cotton Candy Box, 1x Bonus Playtime Coupon, 1x Aura Selection Box (15 Days) and 5x FWC Special combo. All items are Soul-Linked.",綿菓子箱x3、追加参加クーポンx1、オーラセレクションボックス(15日）x1、FWCスペシャルコンボx5が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_901798,Myth Costume Select Box 1,Myth Costume Select Box 1
+PROPITEM_TXT_901798,Myth Costume Select Box 1,神話コスチュームセレクトボックス1
 PROPITEM_TXT_901799,"Select your favorite Myth costume between Little Butterflies Set, Shadow Hunter Set and Snake Samurai Set. All items are Soul-Linked.",リトルバタフライセット、シャドウハンターセット、スネークサムライセットの中からお好きな神話コスチュームを選んでください。全てのアイテムはプレイヤーに帰属されています。
 PROPITEM_TXT_901800,Butterflies Pet select box,Butterflies Pet select box
 PROPITEM_TXT_901801,"Select your favorite Pet between Brown Butterflies, Purple Butterflies, Green Butterflies, Pink Butterflies, Red Butterflies, White Butterflies and Black Butterflies. All items are Soul-Linked.","Select your favorite Pet between Brown Butterflies, Purple Butterflies, Green Butterflies, Pink Butterflies, Red Butterflies, White Butterflies and Black Butterflies. All items are Soul-Linked."
@@ -23788,7 +23788,7 @@ PROPITEM_TXT_901912,Blue Strawy Jack,Blue Strawy Jack
 PROPITEM_TXT_901913,Black Strawy Jack,Black Strawy Jack
 PROPITEM_TXT_901914,White Strawy Jack,White Strawy Jack
 PROPITEM_TXT_901915,Knotty Scarecrow Costume Lucky Box,いたずらかかしコスチュームラッキーボックス
-PROPITEM_TXT_901916,This box contains a Knotty Scarecrow Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Knotty Scarecrow Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_901916,This box contains a Knotty Scarecrow Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのいたずらかかしセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_901917,Knotty Scarecrow Brown Cloak,いたずらかかしブラウンマント
 PROPITEM_TXT_901918,Knotty Scarecrow Maroon Cloak,いたずらかかしマルーンマント
 PROPITEM_TXT_901919,Knotty Scarecrow Green Cloak,いたずらかかしグリーンマント
@@ -23910,7 +23910,7 @@ PROPITEM_TXT_902034,Sewn Demon White Hands (F),縫い目の悪魔ホワイトグ
 PROPITEM_TXT_902035,Sewn Demon 2% White Set (F),縫い目の悪魔 2%ホワイトセット(F)
 PROPITEM_TXT_902036,The Sewn Demon 2% White Set for female characters.,女性キャラクター用の縫い目の悪魔 2%ホワイトセット
 PROPITEM_TXT_902037,Sewn Demon Costume Lucky Box,縫い目の悪魔コスチュームラッキーボックス
-PROPITEM_TXT_902038,This box contains a Sewn Demon Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Sewn Demon Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_902038,This box contains a Sewn Demon Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの縫い目の悪魔セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_902039,Spellbat 10% Orange Set,スペルバット 10%オレンジセット
 PROPITEM_TXT_902040,Spellbat Orange Wings,スペルバットオレンジウィング
 PROPITEM_TXT_902041,Spellbat Orange Lollipop,スペルバットオレンジペロペロキャンディ
@@ -24002,7 +24002,7 @@ PROPITEM_TXT_902126,Spellbat Black Hands (F),スペルバットブラックグ�
 PROPITEM_TXT_902127,Spellbat 2% Black Set (F),スペルバット 2%ブラックセット(F)
 PROPITEM_TXT_902128,The Spellbat 2% Black Set for female characters.,女性キャラクター用のスペルバット 2%ブラックセット
 PROPITEM_TXT_902129,Spellbat Costume Lucky Box,スペルバットコスチュームラッキーボックス
-PROPITEM_TXT_902130,This box contains a Spellbat Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Spellbat Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_902130,This box contains a Spellbat Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのスペルバットセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_902131,Orange Spelly,Orange Spelly
 PROPITEM_TXT_902132,Blue Spelly,Blue Spelly
 PROPITEM_TXT_902133,Purple Spelly,Purple Spelly
@@ -24013,7 +24013,7 @@ PROPITEM_TXT_134851,Longwing Vendor Shop,Longwing Vendor Shop
 PROPITEM_TXT_134852,This cute Enchanted Longwing manages a Personal Shop for you! Double click to close the Shop. You get the item back when the Shop is closed. (7 Days),This cute Enchanted Longwing manages a Personal Shop for you! Double click to close the Shop. You get the item back when the Shop is closed. (7 Days)
 PROPITEM_TXT_134853,2025 FWC Flame Bilari Helmet (F),2025 FWC Flame Bilari Helmet (F)
 PROPITEM_TXT_134854,,
-PROPITEM_TXT_134855,2025 FWC Flame Bilari Suit (F),2025 FWC Flame Bilari Suit (F)
+PROPITEM_TXT_134855,2025 FWC Flame Bilari Suit (F),2025 FWCフレイム・ビラリ スーツ(F)
 PROPITEM_TXT_134856,,
 PROPITEM_TXT_134857,2025 FWC Flame Bilari Gauntlet (F),2025 FWC Flame Bilari Gauntlet (F)
 PROPITEM_TXT_134858,,
@@ -24021,7 +24021,7 @@ PROPITEM_TXT_134859,2025 FWC Flame Bilari Boots (F),2025 FWC Flame Bilari Boots 
 PROPITEM_TXT_134860,,
 PROPITEM_TXT_134861,2025 FWC Flame Bileire Helmet (M),2025 FWC Flame Bileire Helmet (M)
 PROPITEM_TXT_134862,,
-PROPITEM_TXT_134863,2025 FWC Flame Bileire Suit (M),2025 FWC Flame Bileire Suit (M)
+PROPITEM_TXT_134863,2025 FWC Flame Bileire Suit (M),2025 FWCフレイム・ビレイア スーツ(M)
 PROPITEM_TXT_134864,,
 PROPITEM_TXT_134865,2025 FWC Flame Bileire Gauntlet (M),2025 FWC Flame Bileire Gauntlet (M)
 PROPITEM_TXT_134866,,
@@ -24610,30 +24610,30 @@ PROPITEM_TXT_155561,Scroll of Ultimate Bonus II,Scroll of Ultimate Bonus II
 PROPITEM_TXT_155562,Resets the random stats and values of special options applied to the Ultimate Weapon.,Resets the random stats and values of special options applied to the Ultimate Weapon.
 PROPITEM_TXT_155563,FWC 2025 Bloody Death Messenger’s Set (Winners),FWC 2025 Bloody Death Messenger’s Set (Winners)
 PROPITEM_TXT_155564,FWC 2025 Bloody Death Messenger’s Scroll,FWC 2025 Bloody Death Messenger’s Scroll
-PROPITEM_TXT_155565,FWC 2025 Bloody Death Messenger’s Hat (M),FWC 2025 Bloody Death Messenger’s Hat (M)
-PROPITEM_TXT_155566,FWC 2025 Bloody Death Messenger’s Suit (M),FWC 2025 Bloody Death Messenger’s Suit (M)
-PROPITEM_TXT_155567,FWC 2025 Bloody Death Messenger’s Shoes (M),FWC 2025 Bloody Death Messenger’s Shoes (M)
-PROPITEM_TXT_155568,FWC 2025 Bloody Death Messenger’s Hands (M),FWC 2025 Bloody Death Messenger’s Hands (M)
+PROPITEM_TXT_155565,FWC 2025 Bloody Death Messenger’s Hat (M),FWC2025ブラッディー・デスメッセンジャーハット(M)
+PROPITEM_TXT_155566,FWC 2025 Bloody Death Messenger’s Suit (M),FWC2025ブラッディー・デスメッセンジャースーツ(M)
+PROPITEM_TXT_155567,FWC 2025 Bloody Death Messenger’s Shoes (M),FWC2025ブラッディー・デスメッセンジャーシューズ(M)
+PROPITEM_TXT_155568,FWC 2025 Bloody Death Messenger’s Hands (M),FWC2025ブラッディー・デスメッセンジャーグローブ(M)
 PROPITEM_TXT_155569,FWC 2025 Bloody Death Messenger’s Set (M),FWC2025ブラッディー・デスメッセンジャーセット(M)
 PROPITEM_TXT_155570,The FWC 2025 Bloody Death Messenger’s Set for male characters.,男性キャラクター用のFWC2025ブラッディー・デスメッセンジャーセット
-PROPITEM_TXT_155571,FWC 2025 Bloody Death Messenger’s Hat (F),FWC 2025 Bloody Death Messenger’s Hat (F)
-PROPITEM_TXT_155572,FWC 2025 Bloody Death Messenger’s Suit (F),FWC 2025 Bloody Death Messenger’s Suit (F)
-PROPITEM_TXT_155573,FWC 2025 Bloody Death Messenger’s Shoes (F),FWC 2025 Bloody Death Messenger’s Shoes (F)
-PROPITEM_TXT_155574,FWC 2025 Bloody Death Messenger’s Hands (F),FWC 2025 Bloody Death Messenger’s Hands (F)
+PROPITEM_TXT_155571,FWC 2025 Bloody Death Messenger’s Hat (F),FWC2025ブラッディー・デスメッセンジャーハット(F)
+PROPITEM_TXT_155572,FWC 2025 Bloody Death Messenger’s Suit (F),FWC2025ブラッディー・デスメッセンジャースーツ(F)
+PROPITEM_TXT_155573,FWC 2025 Bloody Death Messenger’s Shoes (F),FWC2025ブラッディー・デスメッセンジャーシューズ(F)
+PROPITEM_TXT_155574,FWC 2025 Bloody Death Messenger’s Hands (F),FWC2025ブラッディー・デスメッセンジャーグローブ(F)
 PROPITEM_TXT_155575,FWC 2025 Bloody Death Messenger’s Set (F),FWC2025ブラッディー・デスメッセンジャーセット(F)
 PROPITEM_TXT_155576,The FWC 2025 Bloody Death Messenger’s Set for female characters.,女性キャラクター用のFWC2025ブラッディー・デスメッセンジャーセット
 PROPITEM_TXT_155577,FWC 2025 Golden Death Messenger’s Set (Finalists),FWC 2025 Golden Death Messenger’s Set (Finalists)
 PROPITEM_TXT_155578,FWC 2025 Golden Death Messenger’s Scroll,FWC 2025 Golden Death Messenger’s Scroll
-PROPITEM_TXT_155579,FWC 2025 Golden Death Messenger’s Hat (M),FWC 2025 Golden Death Messenger’s Hat (M)
-PROPITEM_TXT_155580,FWC 2025 Golden Death Messenger’s Suit (M),FWC 2025 Golden Death Messenger’s Suit (M)
-PROPITEM_TXT_155581,FWC 2025 Golden Death Messenger’s Shoes (M),FWC 2025 Golden Death Messenger’s Shoes (M)
-PROPITEM_TXT_155582,FWC 2025 Golden Death Messenger’s Hands (M),FWC 2025 Golden Death Messenger’s Hands (M)
+PROPITEM_TXT_155579,FWC 2025 Golden Death Messenger’s Hat (M),FWC2025ゴールデン・デスメッセンジャーハット(M)
+PROPITEM_TXT_155580,FWC 2025 Golden Death Messenger’s Suit (M),FWC2025ゴールデン・デスメッセンジャースーツ(M)
+PROPITEM_TXT_155581,FWC 2025 Golden Death Messenger’s Shoes (M),FWC2025ゴールデン・デスメッセンジャーシューズ(M)
+PROPITEM_TXT_155582,FWC 2025 Golden Death Messenger’s Hands (M),FWC2025ゴールデン・デスメッセンジャーグローブ(M)
 PROPITEM_TXT_155583,FWC 2025 Golden Death Messenger’s Set (M),FWC2025ゴールデン・デスメッセンジャーセット(M)
 PROPITEM_TXT_155584,The FWC 2025 Golden Death Messenger’s Set for male characters.,男性キャラクター用のFWC2025ゴールデン・デスメッセンジャーセット
-PROPITEM_TXT_155585,FWC 2025 Golden Death Messenger’s Hat (F),FWC 2025 Golden Death Messenger’s Hat (F)
-PROPITEM_TXT_155586,FWC 2025 Golden Death Messenger’s Suit (F),FWC 2025 Golden Death Messenger’s Suit (F)
-PROPITEM_TXT_155587,FWC 2025 Golden Death Messenger’s Shoes (F),FWC 2025 Golden Death Messenger’s Shoes (F)
-PROPITEM_TXT_155588,FWC 2025 Golden Death Messenger’s Hands (F),FWC 2025 Golden Death Messenger’s Hands (F)
+PROPITEM_TXT_155585,FWC 2025 Golden Death Messenger’s Hat (F),FWC2025ゴールデン・デスメッセンジャーハット(F)
+PROPITEM_TXT_155586,FWC 2025 Golden Death Messenger’s Suit (F),FWC2025ゴールデン・デスメッセンジャースーツ(F)
+PROPITEM_TXT_155587,FWC 2025 Golden Death Messenger’s Shoes (F),FWC2025ゴールデン・デスメッセンジャーシューズ(F)
+PROPITEM_TXT_155588,FWC 2025 Golden Death Messenger’s Hands (F),FWC2025ゴールデン・デスメッセンジャーグローブ(F)
 PROPITEM_TXT_155589,FWC 2025 Golden Death Messenger’s Set (F),FWC2025ゴールデン・デスメッセンジャーセット(F)
 PROPITEM_TXT_155590,The FWC 2025 Golden Death Messenger’s Set for female characters.,女性キャラクター用のFWC2025ゴールデン・デスメッセンジャーセット
 PROPITEM_TXT_155591,FWC 2025 Golden Tiger,FWC 2025 Golden Tiger
@@ -24825,7 +24825,7 @@ PROPITEM_TXT_155629,2025 Thanksgiving Turkey Box Package,2025 Thanksgiving Turke
 PROPITEM_TXT_155630,"A package containing 3x Turkey Box, 3x Potion Box and 3x Flask Box. All items are Soul-Linked.",ターキーボックスx3、ポーションボックスx3、秘薬ボックスx3が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
 PROPITEM_TXT_155631,2025 Thanksgiving Power Box,2025 Thanksgiving Power Box
 PROPITEM_TXT_155632,"A package containing 5x Power Scroll, 5x Potion Box, 5x Flask Box and 5x Grilled Eel. All items are Soul-Linked.",豪傑のスクロール(B)x5、ポーションボックスx5、秘薬ボックスx5、グリルド・イールx5が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_155633,Warriors Costume Select Box 1,Warriors Costume Select Box 1
+PROPITEM_TXT_155633,Warriors Costume Select Box 1,ウォリアーズコスチューム選択ボックス1
 PROPITEM_TXT_155634,Select which Warriors costume you want to receive!,Select which Warriors costume you want to receive!
 PROPITEM_TXT_155635,Medieval Horse Pet select box,Medieval Horse Pet select box
 PROPITEM_TXT_155636,Select which Medieval Horse Pet you want to receive!,Select which Medieval Horse Pet you want to receive!
@@ -24844,7 +24844,7 @@ PROPITEM_TXT_155648,[Soul-Linked] 2025 Mycard Promotion Box B,[Soul-Linked] 2025
 PROPITEM_TXT_155649,"A package containing 10x Grilled Eel, 3x Power Scroll, 10x Flask Box and 1x Blue Snowboarder Set. All items are Soul-Linked.",グリルド・イールx10、豪傑のスクロール(B)x3、秘薬ボックスx10、ブルースノーボーダーセットx1が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
 PROPITEM_TXT_155650,[Soul-Linked] 2025 Mycard Promotion Box C,[Soul-Linked] 2025 Mycard Promotion Box C
 PROPITEM_TXT_155651,"A package containing 10x Scroll of Amplification ES, 10x Power Scroll, 10x Balloon Select Box(6h), 1x Extra Bag (30 days), 10x Scroll of SProtect and 1x Winter Casual 10% Black Set. All items are Soul-Linked.",戦神の巻物ESx10、豪傑のスクロール(B)x10、バルーンセレクトボックス(6時間)x10、魔法の携帯バッグ(30日)x1、鍛冶屋の心得・精錬編x10、ウィンターカジュアル10%ブラックセットx1が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_155652,Winter Costume Select Box 1,Winter Costume Select Box 1
+PROPITEM_TXT_155652,Winter Costume Select Box 1,ウィンターコスチューム選択ボックス1
 PROPITEM_TXT_155653,Select which Winter Costume you want to receive!,Select which Winter Costume you want to receive!
 PROPITEM_TXT_155654,Winter Pixie Pet select box,Winter Pixie Pet select box
 PROPITEM_TXT_155655,Select your favorite Winter Pixie Pet!,Select your favorite Winter Pixie Pet!
@@ -24990,7 +24990,7 @@ PROPITEM_TXT_902195,A crystallized fragment of the death god's essence. It pulse
 PROPITEM_TXT_135020,"Increase the rate at which Party Exp is gained by 50% and enhances Party Skills, negating their distance limitations. Allows Party Skills to be stacked, combining their duration, but not effect. Your party will get twice the number of points when reaching a new level. Works when the party leader has it activated. (Lasts 3 days from activation, even if logged off)","Increase the rate at which Party Exp is gained by 50% and enhances Party Skills, negating their distance limitations. Allows Party Skills to be stacked, combining their duration, but not effect. Your party will get twice the number of points when reaching a new level. Works when the party leader has it activated. (Lasts 3 days from activation, even if logged off)"
 PROPITEM_TXT_135021,Pet's pickup range is increased by 100% for 3 days,Pet's pickup range is increased by 100% for 3 days
 PROPITEM_TXT_135022,A package containing a random costume in celebration of Black Friday! You can only receive one random item.,ブラックフライデーを記念したランダムコスチュームが含まれたパッケージ！ランダムアイテムを1つだけ受け取れます。
-PROPITEM_TXT_135023,2025 Black Friday Costume Lucky Box,2025 Black Friday Costume Lucky Box
+PROPITEM_TXT_135023,2025 Black Friday Costume Lucky Box,2025ブラックフライデーコスチュームラッキーボックス
 PROPITEM_TXT_135024,A package containing various items in celebration of v1.5 update! You can only receive one random item.,v1.5アップデートを記念した様々なアイテムが含まれたパッケージ！ランダムアイテムを1つだけ受け取れます。
 PROPITEM_TXT_902196,Thanksgiving 2025 10% Blue Set,感謝祭2025 10%ブルーセット
 PROPITEM_TXT_902197,Thanksgiving 2025 Blue Flower,感謝祭2025ブルーフラワー
@@ -25090,7 +25090,7 @@ PROPITEM_TXT_902290,Pink 2025 Thanksgiving Turkey,Pink 2025 Thanksgiving Turkey
 PROPITEM_TXT_902291,Black 2025 Thanksgiving Turkey,Black 2025 Thanksgiving Turkey
 PROPITEM_TXT_902292,White 2025 Thanksgiving Turkey,White 2025 Thanksgiving Turkey
 PROPITEM_TXT_902293,Thanksgiving 2025 Costume Lucky Box,感謝祭2025コスチュームラッキーボックス
-PROPITEM_TXT_902294,This box contains a Thanksgiving 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Thanksgiving 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_902294,This box contains a Thanksgiving 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの感謝祭2025セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_902295,Power Rudolph Package,Power Rudolph Package
 PROPITEM_TXT_902296,"A package containing 1x Rudolph Set, 1x Rudolph Weapon Skin Box and 3x Power Scroll. All items are also linked.",トナカイセットx1、ルドルフ武器スキンボックスx1、豪傑のスクロール(B)x3が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_902297,Christmas Sweets Box,Christmas Sweets Box
@@ -25116,12 +25116,12 @@ PROPITEM_TXT_135032,The Dark Christmas Adventurer Dark Gold Set for male charact
 PROPITEM_TXT_135033,Dark Christmas Adventurer Dark Gold Set (F),ダーククリスマスアドベンチャーダークゴールドセット(F)
 PROPITEM_TXT_135034,The Dark Christmas Adventurer Dark Gold Set for female characters.,女性キャラクター用のダーククリスマスアドベンチャーダークゴールドセット
 PROPITEM_TXT_135035,Dark Christmas Adventurer Dark Gold Wings,Dark Christmas Adventurer Dark Gold Wings
-PROPITEM_TXT_135036,Dark Christmas Adventurer Dark Gold Hat (M),Dark Christmas Adventurer Dark Gold Hat (M)
-PROPITEM_TXT_135037,Dark Christmas Adventurer Dark Gold Suit (M),Dark Christmas Adventurer Dark Gold Suit (M)
-PROPITEM_TXT_135038,Dark Christmas Adventurer Dark Gold Shoes (M),Dark Christmas Adventurer Dark Gold Shoes (M)
-PROPITEM_TXT_135039,Dark Christmas Adventurer Dark Gold Hat (F),Dark Christmas Adventurer Dark Gold Hat (F)
-PROPITEM_TXT_135040,Dark Christmas Adventurer Dark Gold Suit (F),Dark Christmas Adventurer Dark Gold Suit (F)
-PROPITEM_TXT_135041,Dark Christmas Adventurer Dark Gold Shoes (F),Dark Christmas Adventurer Dark Gold Shoes (F)
+PROPITEM_TXT_135036,Dark Christmas Adventurer Dark Gold Hat (M),ダーククリスマスアドベンチャーダークゴールドハット(M)
+PROPITEM_TXT_135037,Dark Christmas Adventurer Dark Gold Suit (M),ダーククリスマスアドベンチャーダークゴールドスーツ(M)
+PROPITEM_TXT_135038,Dark Christmas Adventurer Dark Gold Shoes (M),ダーククリスマスアドベンチャーダークゴールドシューズ(M)
+PROPITEM_TXT_135039,Dark Christmas Adventurer Dark Gold Hat (F),ダーククリスマスアドベンチャーダークゴールドハット(F)
+PROPITEM_TXT_135040,Dark Christmas Adventurer Dark Gold Suit (F),ダーククリスマスアドベンチャーダークゴールドスーツ(F)
+PROPITEM_TXT_135041,Dark Christmas Adventurer Dark Gold Shoes (F),ダーククリスマスアドベンチャーダークゴールドシューズ(F)
 PROPITEM_TXT_135042,2026 New year Lucky Box,2026 New year Lucky Box
 PROPITEM_TXT_135043,A Lucky Box filled with good luck for the 2026 new year!\nYou'll get 1 random item from a variety of different items,A Lucky Box filled with good luck for the 2026 new year!\nYou'll get 1 random item from a variety of different items
 PROPITEM_TXT_135044,2026 Rice Cake Soup Select Box,2026 Rice Cake Soup Select Box
@@ -25262,7 +25262,7 @@ PROPITEM_TXT_902398,2025 Christmas Red Hands (F),2025クリスマスレッドグ
 PROPITEM_TXT_902399,2025 Christmas 2% Red Set (F),2025クリスマス 2%レッドセット(F)
 PROPITEM_TXT_902400,The 2025 Christmas 2% Red Set for female characters.,女性キャラクター用の2025クリスマス 2%レッドセット
 PROPITEM_TXT_902401,2025 Christmas Costume Lucky Box,2025クリスマスコスチュームラッキーボックス
-PROPITEM_TXT_902402,This box contains a 2025 Christmas Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a 2025 Christmas Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_902402,This box contains a 2025 Christmas Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの2025クリスマスセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_902403,2025 Christmas Sleigh Blue,2025クリスマスブルーそり
 PROPITEM_TXT_902404,2025 Christmas Sleigh Red,2025クリスマスレッドそり
 PROPITEM_TXT_902405,2025 Christmas Sleigh Black,2025クリスマスブラックそり
@@ -25385,7 +25385,7 @@ PROPITEM_TXT_902521,Snow Masquerade Black Hands (F),雪の仮面舞踏会ブラ�
 PROPITEM_TXT_902522,Snow Masquerade 2% Black Set (F),雪の仮面舞踏会 2%ブラックセット(F)
 PROPITEM_TXT_902523,The Snow Masquerade 2% Black Set for female characters.,女性キャラクター用の雪の仮面舞踏会 2%ブラックセット
 PROPITEM_TXT_902524,Snow Masquerade Costume Lucky Box,雪の仮面舞踏会コスチュームラッキーボックス
-PROPITEM_TXT_902525,This box contains a Snow Masquerade Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Snow Masquerade Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_902525,This box contains a Snow Masquerade Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの雪の仮面舞踏会セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_902526,Winter Hunting Pack,Winter Hunting Pack
 PROPITEM_TXT_902527,"A package containing 3x Activation, 3x Vital Drink X or Refresher Hold, 3x Scroll of Velocity, 3x Upcut Stone, 3x Def-Upcut Stone and 3x Power Scroll. All items are also linked.",アクティビションx3、スタミナドリンクX または 魔力ドリンクゴールドx3、神風の巻物x3、パワーストーンx3、ディフェンスストーンx3、豪傑のスクロール(B)x3が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_902528,Winter Ultimate Bonus Package A,Winter Ultimate Bonus Package A
@@ -25402,7 +25402,7 @@ PROPITEM_TXT_902538,Glory Wings Package,Glory Wings Package
 PROPITEM_TXT_902539,A package containing 1x Glory Wings Select Box and 1x Nitro Booster (15 Days). All items are also linked.,グローリーウィングセレクトボックスx1、ニトロブースター(15日)x1が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_902540,Glory Wings Select Box,Glory Wings Select Box
 PROPITEM_TXT_902541,Select your favorite color for your Glory Wings!,Select your favorite color for your Glory Wings!
-PROPITEM_TXT_902542,Myth Costume Select Box 2,Myth Costume Select Box 2
+PROPITEM_TXT_902542,Myth Costume Select Box 2,神話コスチュームセレクトボックス2
 PROPITEM_TXT_902543,"Select your favorite Myth costume between Oni Set, Banana Hero Set and Cacti Set. All items are Soul-Linked.",鬼セット、バナナヒーローセット、サボテンセットの中からお好きな神話コスチュームを選んでください。全てのアイテムはプレイヤーに帰属されています。
 PROPITEM_TXT_902544,Floating Oni Select Box,Floating Oni Select Box
 PROPITEM_TXT_902545,Choose your favorite color for your Floating Oni!,Choose your favorite color for your Floating Oni!
@@ -25511,18 +25511,18 @@ PROPITEM_TXT_902647,Blue Shiki Paws,Blue Shiki Paws
 PROPITEM_TXT_902648,White Shiki Paws,White Shiki Paws
 PROPITEM_TXT_902649,Black Shiki Paws,Black Shiki Paws
 PROPITEM_TXT_902650,Onmyoji 2026 Costume Lucky Box,陰陽師2026コスチュームラッキーボックス
-PROPITEM_TXT_902651,This box contains a Onmyoji 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Onmyoji 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_902651,This box contains a Onmyoji 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの陰陽師2026セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_902652,Noble Jockey Red Costume Set,ノーブルジョッキーレッドコスチュームセット
-PROPITEM_TXT_902653,Noble Jockey Red Hat (M),Noble Jockey Red Hat (M)
-PROPITEM_TXT_902654,Noble Jockey Red Suit (M),Noble Jockey Red Suit (M)
-PROPITEM_TXT_902655,Noble Jockey Red Hands (M),Noble Jockey Red Hands (M)
-PROPITEM_TXT_902656,Noble Jockey Red Shoes (M),Noble Jockey Red Shoes (M)
+PROPITEM_TXT_902653,Noble Jockey Red Hat (M),ノーブルジョッキーレッドハット(M)
+PROPITEM_TXT_902654,Noble Jockey Red Suit (M),ノーブルジョッキーレッドスーツ(M)
+PROPITEM_TXT_902655,Noble Jockey Red Hands (M),ノーブルジョッキーレッドグローブ(M)
+PROPITEM_TXT_902656,Noble Jockey Red Shoes (M),ノーブルジョッキーレッドシューズ(M)
 PROPITEM_TXT_902657,Noble Jockey Red Glasses,Noble Jockey Red Glasses
 PROPITEM_TXT_902658,Noble Jockey Red Costume Set (M),ノーブルジョッキーレッドコスチュームセット(M)
-PROPITEM_TXT_902659,Noble Jockey Red Hat (F),Noble Jockey Red Hat (F)
-PROPITEM_TXT_902660,Noble Jockey Red Suit (F),Noble Jockey Red Suit (F)
-PROPITEM_TXT_902661,Noble Jockey Red Hands (F),Noble Jockey Red Hands (F)
-PROPITEM_TXT_902662,Noble Jockey Red Shoes (F),Noble Jockey Red Shoes (F)
+PROPITEM_TXT_902659,Noble Jockey Red Hat (F),ノーブルジョッキーレッドハット(F)
+PROPITEM_TXT_902660,Noble Jockey Red Suit (F),ノーブルジョッキーレッドスーツ(F)
+PROPITEM_TXT_902661,Noble Jockey Red Hands (F),ノーブルジョッキーレッドグローブ(F)
+PROPITEM_TXT_902662,Noble Jockey Red Shoes (F),ノーブルジョッキーレッドシューズ(F)
 PROPITEM_TXT_902664,Noble Jockey Red Costume Set (F),ノーブルジョッキーレッドコスチュームセット(F)
 PROPITEM_TXT_902665,The Noble Jockey Red Set for male characters.,男性キャラクター用のノーブルジョッキーレッドセット
 PROPITEM_TXT_902666,The Noble Jockey Red Set for female characters.,女性キャラクター用のノーブルジョッキーレッドセット
@@ -25553,7 +25553,7 @@ PROPITEM_TXT_902683,Lunar Hanbok Costume Box (F),Lunar Hanbok Costume Box (F)
 PROPITEM_TXT_902684,A package containing 1x Hanbok (F) and 5x Hot Ddukguk.,韓服(F)x1、トック(お雑煮)x5が含まれたパッケージ。
 PROPITEM_TXT_902685,Valentine's Ultimate Package,Valentine's Ultimate Package
 PROPITEM_TXT_902686,"A package containing 5x Scroll of Ultimate Bonus Select Box, 3x Scroll of Weapon Bonus(Job) Select box and 5x Chocolate Select Box. All items are also linked.",アルティメットボーナスの巻物セレクトボックスx5、武器ボーナス（職業）の巻物セレクトボックスx3、チョコレートセレクトボックスx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_902687,POP Costume Select Box 1,POP Costume Select Box 1
+PROPITEM_TXT_902687,POP Costume Select Box 1,POPコスチュームセレクトボックス1
 PROPITEM_TXT_902688,"Select your favorite POP costume between Neo, White Stripes, Glitch Pop and Disco Set. All items are Soul-Linked.","Select your favorite POP costume between Neo, White Stripes, Glitch Pop and Disco Set. All items are Soul-Linked."
 PROPITEM_TXT_902689,Neo Robot Pet Select Box,Neo Robot Pet Select Box
 PROPITEM_TXT_902690,Select your favorite color for your Neo Robot Pet. All items are Soul-Linked.,Select your favorite color for your Neo Robot Pet. All items are Soul-Linked.
@@ -25677,7 +25677,7 @@ PROPITEM_TXT_902807,Button Mark Black Shoes (F),ボタンマークブラック�
 PROPITEM_TXT_902808,Button Mark 2% Black Set (F),ボタンマーク 2%ブラックセット(F)
 PROPITEM_TXT_902809,The Button Mark 2% Black Set for female characters.,女性キャラクター用のボタンマーク 2%ブラックセット
 PROPITEM_TXT_902810,Button Mark Costume Lucky Box,ボタンマークコスチュームラッキーボックス
-PROPITEM_TXT_902811,This box contains a Button Mark Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Button Mark Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_902811,This box contains a Button Mark Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのボタンマークセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_135096,Yetti's Precious Box,Yetti's Precious Box
 PROPITEM_TXT_135097,Reconnaissance Set Select Box,Reconnaissance Set Select Box
 PROPITEM_TXT_135098,[20~190] Amplification ES Scroll Select Box,[20~190]戦神の巻物ES選択ボックス
@@ -25772,7 +25772,7 @@ PROPITEM_TXT_902899,Heart Punk Red Hands (F),ハートパンクレッドグロ�
 PROPITEM_TXT_902900,Heart Punk 2% Red Set (F),ハートパンク 2%レッドセット(F)
 PROPITEM_TXT_902901,The Heart Punk 2% Red Set for female characters.,女性キャラクター用のハートパンク 2%レッドセット
 PROPITEM_TXT_902902,Heart Punk Costume Lucky Box,ハートパンクコスチュームラッキーボックス
-PROPITEM_TXT_902903,This box contains a Heart Punk Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Heart Punk Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_902903,This box contains a Heart Punk Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのハートパンクセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_902904,Heart Punk Luxury Car Pink,ハートパンクピンクラグジュアリーカー
 PROPITEM_TXT_902905,"Cruise in elegance and romance with the Heart Punk Luxury Car Pink, a dazzling luxury vehicle wrapped in iconic pink style. Maximum Speed: 64 km/h.","Cruise in elegance and romance with the Heart Punk Luxury Car Pink, a dazzling luxury vehicle wrapped in iconic pink style. Maximum Speed: 64 km/h."
 PROPITEM_TXT_902906,Heart Punk Luxury Car Yellow,ハートパンクイエローラグジュアリーカー
@@ -25884,7 +25884,7 @@ PROPITEM_TXT_903011,Oni-Style Kimono Black Shoes (F),鬼柄着物ブラックシ
 PROPITEM_TXT_903012,Oni-Style Kimono 2% Black Set (F),鬼柄着物 2%ブラックセット(F)
 PROPITEM_TXT_903013,The Oni-Style Kimono 2% Black Set for female characters.,女性キャラクター用の鬼柄着物 2%ブラックセット
 PROPITEM_TXT_903014,Oni-Style Kimono Costume Lucky Box,鬼柄着物コスチュームラッキーボックス
-PROPITEM_TXT_903015,This box contains a Oni-Style Kimono Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Oni-Style Kimono Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_903015,This box contains a Oni-Style Kimono Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの鬼柄着物セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_903016,2026 Valentine 10% Red Set,2026バレンタイン 10%レッドセット
 PROPITEM_TXT_903017,2026 Valentine Red Cloak,2026バレンタインレッドマント
 PROPITEM_TXT_903018,2026 Valentine Red Glasses,2026バレンタインレッドメガネ
@@ -25990,7 +25990,7 @@ PROPITEM_TXT_903117,2026 Valentine Brown Shoes (F),2026バレンタインブラ�
 PROPITEM_TXT_903118,2026 Valentine 2% Brown Set (F),2026バレンタイン 2%ブラウンセット(F)
 PROPITEM_TXT_903119,The 2026 Valentine 2% Brown Set for female characters.,女性キャラクター用の2026バレンタイン 2%ブラウンセット
 PROPITEM_TXT_903120,2026 Valentine Costume Lucky Box,2026バレンタインコスチュームラッキーボックス
-PROPITEM_TXT_903121,This box contains a 2026 Valentine Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a 2026 Valentine Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_903121,This box contains a 2026 Valentine Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの2026バレンタインセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_903122,2026 Lunar New Year Coupon,2026 Lunar New Year Coupon
 PROPITEM_TXT_903123,"A package containing 5x Server Shout, 5x Channel Shout, 1x Transy, 1x Item Transy B, 26x Sulnal Bomb, 1x Trans Random Box, 1x Flyffer's Flying Select Box (15 days) and 2026 Rice Cake Soup Select Box. All items are also linked.",サーバーシャウトx5、チャンネルシャウトx5、トランシーx1、FMチェンジャー(レッド/B)x1、スルナルボムx26、トランスランダムボックスx1、フリファーズフライングセレクトボックス(15日)x1、2026お雑煮セレクトボックスが含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_903124,Flyffer's Flying Select Box (15 days),Flyffer's Flying Select Box (15 days)
@@ -26241,7 +26241,7 @@ PROPITEM_TXT_903368,Lucky Clover Black Shoes (F),ラッキークローバーブ�
 PROPITEM_TXT_903369,Lucky Clover 2% Black Set (F),ラッキークローバー 2%ブラックセット(F)
 PROPITEM_TXT_903370,The Lucky Clover 2% Black Set for female characters.,女性キャラクター用のラッキークローバー 2%ブラックセット
 PROPITEM_TXT_903371,Lucky Clover Costume Lucky Box,ラッキークローバーコスチュームラッキーボックス
-PROPITEM_TXT_903372,This box contains a Lucky Clover Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Lucky Clover Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_903372,This box contains a Lucky Clover Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのラッキークローバーセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_903373,PlayPark All-Stars 2026 Door Prize,PlayPark All-Stars 2026 Door Prize
 PROPITEM_TXT_903374,"A package containing 10x Scroll of Amplification ES, 10x Upcut Stone, 10x Power Scroll, 20x Flask Box, 20x Potion Box, 1x Extra Bag (30 days), 1x Feed Bag (7 days), 1x Card Disc (7 days), 1x Scroll of PickUp Boost (7 day), 1x Meteo Bike (Yellow) (30 Days) and 1x Baby Tiger (30 Days). All items are also linked.",戦神の巻物ESx10、パワーストーンx10、豪傑のスクロール(B)x10、秘薬ボックスx20、ポーションボックスx20、魔法の携帯バッグ(30日)x1、フィードバッグ(7日)x1、カードディスク(7日)x1、ピックアップブーストスクロール(7日)x1、メテオバイク(イエロー)(30日)x1、ベビータイガー(30日)x1が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_903375,Lotus Blossom 10% Cyan Set,蓮の花 10%シアンセット
@@ -26335,7 +26335,7 @@ PROPITEM_TXT_903462,Lotus Blossom Black Hands (F),蓮の花ブラックグロー
 PROPITEM_TXT_903463,Lotus Blossom 2% Black Set (F),蓮の花 2%ブラックセット(F)
 PROPITEM_TXT_903464,The Lotus Blossom 2% Black Set for female characters.,女性キャラクター用の蓮の花 2%ブラックセット
 PROPITEM_TXT_903465,Lotus Blossom Costume Lucky Box,蓮の花コスチュームラッキーボックス
-PROPITEM_TXT_903466,This box contains a Lotus Blossom Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Lotus Blossom Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_903466,This box contains a Lotus Blossom Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの蓮の花セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_903467,Lotus Blossom Gold Skyblade ,蓮の花ゴールドスカイブレード
 PROPITEM_TXT_903468,Lotus Blossom Silver Skyblade,蓮の花シルバースカイブレード
 PROPITEM_TXT_903469,Lotus Blossom Black Skyblade,蓮の花ブラックスカイブレード
@@ -26498,7 +26498,7 @@ PROPITEM_TXT_903588,Street Bunny Black Hands (F),ストリートバニーブラ�
 PROPITEM_TXT_903589,Street Bunny 2% Black Set (F),ストリートバニー 2%ブラックセット(F)
 PROPITEM_TXT_903590,The Street Bunny 2% Black Set for female characters.,女性キャラクター用のストリートバニー 2%ブラックセット
 PROPITEM_TXT_903591,Street Bunny Costume Lucky Box,ストリートバニーコスチュームラッキーボックス
-PROPITEM_TXT_903592,This box contains a Street Bunny Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Street Bunny Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_903592,This box contains a Street Bunny Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのストリートバニーセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_903593,Idol 2026 10% Blue Set,アイドル2026 10%ブルーセット
 PROPITEM_TXT_903594,Idol 2026 Blue Headset,アイドル2026ブルーヘッドセット
 PROPITEM_TXT_903595,Idol 2026 Blue Hat (M),アイドル2026ブルーハット(M)
@@ -26584,7 +26584,7 @@ PROPITEM_TXT_903674,Idol 2026 White Hands (F),アイドル2026ホワイトグロ
 PROPITEM_TXT_903675,Idol 2026 2% White Set (F),アイドル2026 2%ホワイトセット(F)
 PROPITEM_TXT_903676,The Idol 2026 2% White Set for female characters.,女性キャラクター用のアイドル2026 2%ホワイトセット
 PROPITEM_TXT_903677,Idol 2026 Costume Lucky Box,アイドル2026コスチュームラッキーボックス
-PROPITEM_TXT_903678,This box contains a Idol 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Idol 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_903678,This box contains a Idol 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのアイドル2026セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_903679,Yellow Nala,Yellow Nala
 PROPITEM_TXT_903680,White Nala,White Nala
 PROPITEM_TXT_903681,Blue Nala,Blue Nala
@@ -26684,7 +26684,7 @@ PROPITEM_TXT_903697,FWC Hunter's Pack,FWC Hunter's Pack
 PROPITEM_TXT_903698,"A package containing 5x Scroll of Amplification ES, 5x Power Scroll, 5x Flask Box and 2x Grilled Eel. All items are also linked.",戦神の巻物ESx5、豪傑のスクロール(B)x5、秘薬ボックスx5、グリルド・イールx2が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_903699,Hyper Pickup Pet Package (15 Days),Hyper Pickup Pet Package (15 Days)
 PROPITEM_TXT_903700,"A package containing 1x Madrigal PickupPet Selection Box (15 days), 1x Scroll of PickUp Boost (15 days) and 1x Scroll of PickUp Range (15 Days). All items are also linked.",マドリガルピックアップペットセレクションボックス(15日)x1、ピックアップブーストスクロール（15日）x1、ピックアップ範囲スクロール(15日)x1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_903701,School Life Costume Select Box 3,School Life Costume Select Box 3
+PROPITEM_TXT_903701,School Life Costume Select Box 3,スクールライフコスチュームセレクトボックス3
 PROPITEM_TXT_903702,Select your favorite School Life Costume,Select your favorite School Life Costume
 PROPITEM_TXT_903703,Japanese Piggy Pet Select Box,Japanese Piggy Pet Select Box
 PROPITEM_TXT_903704,Select your favorite Japanese Piggy Pet,Select your favorite Japanese Piggy Pet
@@ -26765,16 +26765,16 @@ PROPITEM_TXT_135182,Select which Party Toy Weapon you want to receive!,Select wh
 PROPITEM_TXT_135183,Neigh-Sayer Set,ネイセイヤーセット
 PROPITEM_TXT_135184,Neigh-Sayer Set (M),ネイセイヤーセット(M)
 PROPITEM_TXT_135185,The Neigh-Sayer Set for male characters.,男性キャラクター用のネイセイヤーセット
-PROPITEM_TXT_135186,Neigh-Sayer Hat (M),Neigh-Sayer Hat (M)
-PROPITEM_TXT_135187,Neigh-Sayer Suit (M),Neigh-Sayer Suit (M)
-PROPITEM_TXT_135188,Neigh-Sayer Shoes (M),Neigh-Sayer Shoes (M)
-PROPITEM_TXT_135189,Neigh-Sayer Hands (M),Neigh-Sayer Hands (M)
+PROPITEM_TXT_135186,Neigh-Sayer Hat (M),ネイセイヤーハット(M)
+PROPITEM_TXT_135187,Neigh-Sayer Suit (M),ネイセイヤースーツ(M)
+PROPITEM_TXT_135188,Neigh-Sayer Shoes (M),ネイセイヤーシューズ(M)
+PROPITEM_TXT_135189,Neigh-Sayer Hands (M),ネイセイヤーグローブ(M)
 PROPITEM_TXT_135190,Neigh-Sayer Set (F),ネイセイヤーセット(F)
 PROPITEM_TXT_135191,The Neigh-Sayer Set for female characters.,女性キャラクター用のネイセイヤーセット
-PROPITEM_TXT_135192,Neigh-Sayer Hat (F),Neigh-Sayer Hat (F)
-PROPITEM_TXT_135193,Neigh-Sayer Suit (F),Neigh-Sayer Suit (F)
-PROPITEM_TXT_135194,Neigh-Sayer Shoes (F),Neigh-Sayer Shoes (F)
-PROPITEM_TXT_135195,Neigh-Sayer Hands (F),Neigh-Sayer Hands (F)
+PROPITEM_TXT_135192,Neigh-Sayer Hat (F),ネイセイヤーハット(F)
+PROPITEM_TXT_135193,Neigh-Sayer Suit (F),ネイセイヤースーツ(F)
+PROPITEM_TXT_135194,Neigh-Sayer Shoes (F),ネイセイヤーシューズ(F)
+PROPITEM_TXT_135195,Neigh-Sayer Hands (F),ネイセイヤーグローブ(F)
 PROPITEM_TXT_135196,Red HorseHead Broom,Red HorseHead Broom
 PROPITEM_TXT_135197,Vroom,Vroom
 PROPITEM_TXT_903710,Carnival Master 10% Red Set,カーニバルマスター 10%レッドセット
@@ -26898,7 +26898,7 @@ PROPITEM_TXT_903827,Carnival Master Black Hands (F),カーニバルマスター�
 PROPITEM_TXT_903828,Carnival Master 2% Black Set (F),カーニバルマスター 2%ブラックセット(F)
 PROPITEM_TXT_903829,The Carnival Master 2% Black Set for female characters.,女性キャラクター用のカーニバルマスター 2%ブラックセット
 PROPITEM_TXT_903830,Carnival Master Costume Lucky Box,カーニバルマスターコスチュームラッキーボックス
-PROPITEM_TXT_903831,This box contains a Carnival Master Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Carnival Master Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_903831,This box contains a Carnival Master Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのカーニバルマスターセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_903832,Carnival Master Rabbit Red Mask,カーニバルマスターラビットレッドマスク
 PROPITEM_TXT_903833,Carnival Master Rabbit Orange Mask,カーニバルマスターラビットオレンジマスク
 PROPITEM_TXT_903834,Carnival Master Rabbit Green Mask,カーニバルマスターラビットグリーンマスク
@@ -27012,7 +27012,7 @@ PROPITEM_TXT_903941,Cyan Pawzer,Cyan Pawzer
 PROPITEM_TXT_903942,Red Pawzer,Red Pawzer
 PROPITEM_TXT_903943,Dark Pawzer,Dark Pawzer
 PROPITEM_TXT_903944,Military 2026 Costume Lucky Box,ミリタリー2026コスチュームラッキーボックス
-PROPITEM_TXT_903945,This box contains a Military 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Military 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_903945,This box contains a Military 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのミリタリー2026セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_903946,4th Anniversary Appreciation Coupon,4th Anniversary Appreciation Coupon
 PROPITEM_TXT_903947,"A package containing 3x Scroll of Amplification ES, 1x Power Scroll, 1x Scroll of Resurrection, 1x Balloon Select Box (6h) and 5x Cracker Box. All items are also linked.",戦神の巻物ESx3、豪傑のスクロール(B)x1、復活の巻物x1、バルーンセレクトボックス(6時間)x1、クラッカーボックスx5が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_903948,4th Anniversary Ultimate Bonus Package A,4th Anniversary Ultimate Bonus Package A
@@ -27143,7 +27143,7 @@ PROPITEM_TXT_904072,Celestial Phoenix Gold Shoes (F),セレスティアルフェ
 PROPITEM_TXT_904073,Celestial Phoenix 2% Gold Set (F),セレスティアルフェニックス 2%ゴールドセット(F)
 PROPITEM_TXT_904074,The Celestial Phoenix 2% Gold Set for female characters.,女性キャラクター用のセレスティアルフェニックス 2%ゴールドセット
 PROPITEM_TXT_904075,Celestial Phoenix Costume Lucky Box,セレスティアルフェニックスコスチュームラッキーボックス
-PROPITEM_TXT_904076,This box contains a Celestial Phoenix Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Celestial Phoenix Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_904076,This box contains a Celestial Phoenix Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのセレスティアルフェニックスセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_904077,Orange Fawkes,Orange Fawkes
 PROPITEM_TXT_904078,Purple Fawkes,Purple Fawkes
 PROPITEM_TXT_904079,Green Fawkes,Green Fawkes
@@ -27203,7 +27203,7 @@ PROPITEM_TXT_135245,Madrigal Special Box,Madrigal Special Box
 PROPITEM_TXT_135246,"A package containing 1x Madrigal PickupPet Selection Box (15 days), 1x Flarine Flying Selection Box (15 days), 2x Scroll of Amplification ES and 1x Flask Box. All items are also linked.",マドリガルピックアップペットセレクションボックス(15日)x1、フラリスフライングセレクションボックス(15日)x1、戦神の巻物ESx2、秘薬ボックスx1が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_135247,Flarine Flying Selection Box (15 days),Flarine Flying Selection Box (15 days)
 PROPITEM_TXT_135248,Select your favorite Flarine flying machine !,Select your favorite Flarine flying machine !
-PROPITEM_TXT_135249,2026 Costume Lucky Box,2026 Costume Lucky Box
+PROPITEM_TXT_135249,2026 Costume Lucky Box,2026コスチュームラッキーボックス
 PROPITEM_TXT_135250,Good luck Adventurer !,Good luck Adventurer !
 PROPITEM_TXT_904176,US Muppet,US Muppet
 PROPITEM_TXT_904177,A cheerful little mascot. It faithfully follows its master and collects loot along the way.,A cheerful little mascot. It faithfully follows its master and collects loot along the way.
@@ -27913,17 +27913,17 @@ PROPITEM_TXT_904879,AI Yukata Select Box,AI Yukata Select Box
 PROPITEM_TXT_904880,Select which set you want to receive!,Select which set you want to receive!
 PROPITEM_TXT_904881,Neo Select Box,Neo Select Box
 PROPITEM_TXT_904882,Select which set you want to receive!,Select which set you want to receive!
-PROPITEM_TXT_904883,Menhera Kei Costume Select Box,Menhera Kei Costume Select Box
+PROPITEM_TXT_904883,Menhera Kei Costume Select Box,ヤンデレ系コスチュームセレクトボックス
 PROPITEM_TXT_904884,Select which set you want to receive!,Select which set you want to receive!
 PROPITEM_TXT_904885,Little Butterflies Costume Select Box,リトルバタフライコスチュームセレクトボックス
 PROPITEM_TXT_904886,Select which set you want to receive!,Select which set you want to receive!
-PROPITEM_TXT_904887,Steampunk Wizard Costume Select Box,Steampunk Wizard Costume Select Box
+PROPITEM_TXT_904887,Steampunk Wizard Costume Select Box,スチームパンクウィザードコスチュームセレクトボックス
 PROPITEM_TXT_904888,Select which set you want to receive!,Select which set you want to receive!
-PROPITEM_TXT_904889,Spring Qipao Costume Select Box,Spring Qipao Costume Select Box
+PROPITEM_TXT_904889,Spring Qipao Costume Select Box,春の旗袍コスチュームセレクトボックス
 PROPITEM_TXT_904890,Select which set you want to receive!,Select which set you want to receive!
-PROPITEM_TXT_904891,Valentine 2024 Costume Select Box,Valentine 2024 Costume Select Box
+PROPITEM_TXT_904891,Valentine 2024 Costume Select Box,バレンタイン2024コスチュームセレクトボックス
 PROPITEM_TXT_904892,Select which set you want to receive!,Select which set you want to receive!
-PROPITEM_TXT_904893,Gummy Bear Costume Select Box,Gummy Bear Costume Select Box
+PROPITEM_TXT_904893,Gummy Bear Costume Select Box,グミベアコスチュームセレクトボックス
 PROPITEM_TXT_904894,Select which set you want to receive!,Select which set you want to receive!
 PROPITEM_TXT_904895,Japanese Uniform Black Set,和風制服ブラックセット
 PROPITEM_TXT_904896,Select which Gender you want to receive!,Select which Gender you want to receive!
@@ -28795,9 +28795,9 @@ PROPITEM_TXT_905761,Summer Kickflip White Heart Glasses,サマーキックフリ
 PROPITEM_TXT_905762,Summer Kickflip White Hat (F),サマーキックフリップホワイトハット(F)
 PROPITEM_TXT_905763,Summer Kickflip White Suit (F),サマーキックフリップホワイトスーツ(F)
 PROPITEM_TXT_905764,Summer Kickflip White Shoes (F),サマーキックフリップホワイトシューズ(F)
-PROPITEM_TXT_905765,Guild Pride Costume Select Box 1,Guild Pride Costume Select Box 1
+PROPITEM_TXT_905765,Guild Pride Costume Select Box 1,ギルドプライドコスチュームセレクトボックス1
 PROPITEM_TXT_905766,Select your favorite fashion !,Select your favorite fashion !
-PROPITEM_TXT_905767,Guild Pride Costume Select Box 2,Guild Pride Costume Select Box 2
+PROPITEM_TXT_905767,Guild Pride Costume Select Box 2,ギルドプライドコスチュームセレクトボックス2
 PROPITEM_TXT_905768,Select your favorite fashion !,Select your favorite fashion !
 PROPITEM_TXT_905769,FWC Guild Spotlight Compensation box,FWC Guild Spotlight Compensation box
 PROPITEM_TXT_905770,"A package containing 1x Friendly Baby Kargo, 3x Power Scroll, 1x Feed Bag (3days), 1x Bank Extra Bag (3 Days), 3x Scroll of Amplification ES, 3x Flask Box and 3x Activition.",キュートなベビーカルゴx1、豪傑のスクロール(B)x3、フィードバッグ(3日)x1、銀行エキストラバッグ(3日)x1、戦神の巻物ESx3、秘薬ボックスx3、アクティビションx3が含まれたパッケージ。
@@ -28907,7 +28907,7 @@ PROPITEM_TXT_905846,Swimsuit 2026 White Hands (F),スイムウェア2026ホワ�
 PROPITEM_TXT_905847,Swimsuit 2026 2% White Set (F),スイムウェア2026 2%ホワイトセット(F)
 PROPITEM_TXT_905848,The Swimsuit 2026 2% White Set for female characters.,女性キャラクター用のスイムウェア2026 2%ホワイトセット
 PROPITEM_TXT_905849,Swimsuit 2026 Costume Lucky Box,スイムウェア2026コスチュームラッキーボックス
-PROPITEM_TXT_905850,This box contains a Swimsuit 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Swimsuit 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_905850,This box contains a Swimsuit 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのスイムウェア2026セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_905851,Blue Runewhale,Blue Runewhale
 PROPITEM_TXT_905852,Gold Runewhale,Gold Runewhale
 PROPITEM_TXT_905853,Dark Runewhale,Dark Runewhale
@@ -29011,7 +29011,7 @@ PROPITEM_TXT_905950,Japanese Street Punk Red Hands (F),和風ストリートパ�
 PROPITEM_TXT_905951,Japanese Street Punk 2% Red Set (F),和風ストリートパンク 2%レッドセット(F)
 PROPITEM_TXT_905952,The Japanese Street Punk 2% Red Set for female characters.,女性キャラクター用の和風ストリートパンク 2%レッドセット
 PROPITEM_TXT_905953,Japanese Street Punk Costume Lucky Box,和風ストリートパンクコスチュームラッキーボックス
-PROPITEM_TXT_905954,This box contains a Japanese Street Punk Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Japanese Street Punk Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_905954,This box contains a Japanese Street Punk Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの和風ストリートパンクセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_905955,Violet Japanese Street Punk Bike,Violet Japanese Street Punk Bike
 PROPITEM_TXT_905956,Red Japanese Street Punk Bike,Red Japanese Street Punk Bike
 PROPITEM_TXT_905957,Green Japanese Street Punk Bike,Green Japanese Street Punk Bike
@@ -29108,7 +29108,7 @@ PROPITEM_TXT_906047,Violet Pocket Shinobi,Violet Pocket Shinobi
 PROPITEM_TXT_906048,Forest Pocket Shinobi,Forest Pocket Shinobi
 PROPITEM_TXT_906049,White Pocket Shinobi,White Pocket Shinobi
 PROPITEM_TXT_906050,Japanese Warrior Costume Lucky Box,和風武者コスチュームラッキーボックス
-PROPITEM_TXT_906051,This box contains a Japanese Warrior Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Japanese Warrior Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_906051,This box contains a Japanese Warrior Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの和風武者セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_161000,Primordial Runthiel Helmet,プリモーディアルランティエルヘルメット
 PROPITEM_TXT_161001,Primordial Runthiel Suit,プリモーディアルランティエルスーツ
 PROPITEM_TXT_161002,Primordial Runthiel Gauntlets,プリモーディアルランティエルガントレット
@@ -29358,14 +29358,14 @@ PROPITEM_TXT_1902589,Kebaras Costume Fragment,Kebaras Costume Fragment
 PROPITEM_TXT_1902590,Exchange these in Kebaras 2 for unique cosmetics.,Exchange these in Kebaras 2 for unique cosmetics.
 PROPITEM_TXT_1902591,Blinkwing of Mysterious Castle,Blinkwing of Mysterious Castle
 PROPITEM_TXT_1902592,Teleport to Mysterious Castle,Teleport to Mysterious Castle
-PROPITEM_TXT_1902593,Asmodan Red Suit (M),Asmodan Red Suit (M)
+PROPITEM_TXT_1902593,Asmodan Red Suit (M),アスモダンレッド・スーツ(M)
 PROPITEM_TXT_1902594,Asmodan Red Head (M),Asmodan Red Head (M)
-PROPITEM_TXT_1902595,Asmodan Red Hands (M),Asmodan Red Hands (M)
-PROPITEM_TXT_1902596,Asmodan Red Shoes (M),Asmodan Red Shoes (M)
-PROPITEM_TXT_1902597,Asmodan Red Suit (F),Asmodan Red Suit (F)
+PROPITEM_TXT_1902595,Asmodan Red Hands (M),アスモダンレッド・ハンズ(M)
+PROPITEM_TXT_1902596,Asmodan Red Shoes (M),アスモダンレッド・シューズ(M)
+PROPITEM_TXT_1902597,Asmodan Red Suit (F),アスモダンレッド・スーツ(F)
 PROPITEM_TXT_1902598,Asmodan Red Head (F),Asmodan Red Head (F)
-PROPITEM_TXT_1902599,Asmodan Red Hands (F),Asmodan Red Hands (F)
-PROPITEM_TXT_1902600,Asmodan Red Shoes (F),Asmodan Red Shoes (F)
+PROPITEM_TXT_1902599,Asmodan Red Hands (F),アスモダンレッド・ハンズ(F)
+PROPITEM_TXT_1902600,Asmodan Red Shoes (F),アスモダンレッド・シューズ(F)
 PROPITEM_TXT_1902601,Asmodan Red Wings,Asmodan Red Wings
 PROPITEM_TXT_1902602,Asmodan Red Set Select Box,Asmodan Red Set Select Box
 PROPITEM_TXT_1902603,Asmodan Red Set (F),アスモダンレッドセット(F)
@@ -29403,20 +29403,20 @@ PROPITEM_TXT_1902634,1.5.5 Update Boss Hunt Pack,1.5.5 Update Boss Hunt Pack
 PROPITEM_TXT_1902635,"A package containing 10x Flask Box, 10x Amplification Elixir Box, 10x Amplification Potion Box, 10x Upcut Stone, 10x Activation and 1x Personal House NPC(7 days) Select Box. All items are also linked.",秘薬ボックスx10、増幅エリクサーボックスx10、増幅ポーションボックスx10、パワーストーンx10、アクティビションx10、パーソナルハウスNPC(7日)セレクトボックスx1が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_1902636,Reonan Set,レオナンセット
 PROPITEM_TXT_1902637,Reonan Cloak,Reonan Cloak
-PROPITEM_TXT_1902638,Reonan Hat (M),Reonan Hat (M)
-PROPITEM_TXT_1902639,Reonan Suit (M),Reonan Suit (M)
-PROPITEM_TXT_1902640,Reonan Shoes (M),Reonan Shoes (M)
-PROPITEM_TXT_1902641,Reonan Hands (M),Reonan Hands (M)
+PROPITEM_TXT_1902638,Reonan Hat (M),レオナン・ハット(M)
+PROPITEM_TXT_1902639,Reonan Suit (M),レオナン・スーツ(M)
+PROPITEM_TXT_1902640,Reonan Shoes (M),レオナン・シューズ(M)
+PROPITEM_TXT_1902641,Reonan Hands (M),レオナン・グローブ(M)
 PROPITEM_TXT_1902642,Reonan Set (M),レオナンセット(M)
 PROPITEM_TXT_1902643,The Reonan Set for male characters.,男性キャラクター用のレオナンセット
-PROPITEM_TXT_1902644,Reonan Hat (F),Reonan Hat (F)
-PROPITEM_TXT_1902645,Reonan Suit (F),Reonan Suit (F)
-PROPITEM_TXT_1902647,Reonan Hands (F),Reonan Hands (F)
-PROPITEM_TXT_1902646,Reonan Shoes (F),Reonan Shoes (F)
+PROPITEM_TXT_1902644,Reonan Hat (F),レオナン・ハット(F)
+PROPITEM_TXT_1902645,Reonan Suit (F),レオナン・スーツ(F)
+PROPITEM_TXT_1902647,Reonan Hands (F),レオナン・グローブ(F)
+PROPITEM_TXT_1902646,Reonan Shoes (F),レオナン・シューズ(F)
 PROPITEM_TXT_1902648,Reonan Set (F),レオナンセット(F)
 PROPITEM_TXT_1902649,The Reonan Set for female characters.,女性キャラクター用のレオナンセット
-PROPITEM_TXT_1902650,Reonan Costume Lucky Box,Reonan Costume Lucky Box
-PROPITEM_TXT_1902651,This box contains a Reonan Set. You can select your gender after opening the Lucky Box.,This box contains a Reonan Set. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_1902650,Reonan Costume Lucky Box,レオナン・コスチュームラッキーボックス
+PROPITEM_TXT_1902651,This box contains a Reonan Set. You can select your gender after opening the Lucky Box.,このボックスには、レオナン・セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_1902652,Royal Vanguard Sword,Royal Vanguard Sword
 PROPITEM_TXT_1902653,Royal Vanguard Axe,Royal Vanguard Axe
 PROPITEM_TXT_1902654,Royal Vanguard Big Sword,Royal Vanguard Big Sword
@@ -29449,16 +29449,16 @@ PROPITEM_TXT_1902680,Royal  Abyss Weapon Set,ロイヤルアビスウェポン�
 PROPITEM_TXT_1902681,Select which Royal Abyss Weapon you want to receive!,Select which Royal Abyss Weapon you want to receive!
 PROPITEM_TXT_1902682,Reonan Kalgas Set,レオナンカルガスセット
 PROPITEM_TXT_1902683,Reonan Kalgas Cloak,Reonan Kalgas Cloak
-PROPITEM_TXT_1902684,Reonan Kalgas Hat (M),Reonan Kalgas Hat (M)
-PROPITEM_TXT_1902685,Reonan Kalgas Suit (M),Reonan Kalgas Suit (M)
-PROPITEM_TXT_1902686,Reonan Kalgas Shoes (M),Reonan Kalgas Shoes (M)
-PROPITEM_TXT_1902687,Reonan Kalgas Hands (M),Reonan Kalgas Hands (M)
+PROPITEM_TXT_1902684,Reonan Kalgas Hat (M),レオナンカルガス・ハット(M)
+PROPITEM_TXT_1902685,Reonan Kalgas Suit (M),レオナンカルガス・スーツ(M)
+PROPITEM_TXT_1902686,Reonan Kalgas Shoes (M),レオナンカルガス・シューズ(M)
+PROPITEM_TXT_1902687,Reonan Kalgas Hands (M),レオナンカルガス・グローブ(M)
 PROPITEM_TXT_1902688,Reonan Kalgas Set (M),レオナンカルガスセット(M)
 PROPITEM_TXT_1902689,The Reonan Kalgas Set for male characters.,男性キャラクター用のレオナンカルガスセット
-PROPITEM_TXT_1902690,Reonan Kalgas Hat (F),Reonan Kalgas Hat (F)
-PROPITEM_TXT_1902691,Reonan Kalgas Suit (F),Reonan Kalgas Suit (F)
-PROPITEM_TXT_1902692,Reonan Kalgas Hands (F),Reonan Kalgas Hands (F)
-PROPITEM_TXT_1902693,Reonan Kalgas Shoes (F),Reonan Kalgas Shoes (F)
+PROPITEM_TXT_1902690,Reonan Kalgas Hat (F),レオナンカルガス・ハット(F)
+PROPITEM_TXT_1902691,Reonan Kalgas Suit (F),レオナンカルガス・スーツ(F)
+PROPITEM_TXT_1902692,Reonan Kalgas Hands (F),レオナンカルガス・グローブ(F)
+PROPITEM_TXT_1902693,Reonan Kalgas Shoes (F),レオナンカルガス・シューズ(F)
 PROPITEM_TXT_1902694,Reonan Kalgas Set (F),レオナンカルガスセット(F)
 PROPITEM_TXT_1902695,The Reonan Kalgas Set for female characters.,女性キャラクター用のレオナンカルガスセット
 PROPITEM_TXT_1902696,WCN Login issue FWC Compensation Box (7days),WCN Login issue FWC Compensation Box (7days)
@@ -29577,7 +29577,7 @@ PROPITEM_TXT_1902808,Veiled Wardens Beige Hands (F),女性キャラクター用�
 PROPITEM_TXT_1902809,Veiled Wardens 2% Beige Set (F),女性キャラクター用のヴェールの守護者 2%ベージュセット
 PROPITEM_TXT_1902810,The Veiled Wardens 2% Beige Set for female characters.,女性キャラクター用のヴェールの守護者 2%ベージュセット
 PROPITEM_TXT_1902811,Veiled Wardens Costume Lucky Box,ヴェールの守護者コスチュームラッキーボックス
-PROPITEM_TXT_1902812,This box contains a Veiled Wardens Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Veiled Wardens Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_1902812,This box contains a Veiled Wardens Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのヴェールの守護者セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_1902813,Veiled Wardens Green Shield,ヴェールの守護者グリーンシールド
 PROPITEM_TXT_1902814,Veiled Wardens Blue Shield,ヴェールの守護者ブルーシールド
 PROPITEM_TXT_1902815,Veiled Wardens Cyan Shield,ヴェールの守護者シアンシールド
