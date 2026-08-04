@@ -1573,4 +1573,4 @@ TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD,You received a reward for clearing a new 
 TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD_MAIL,You can't receive the reward for clearing a new floor. Check your mail.,無法直接領取新樓層通關獎勵，請查看郵件。
 TEXTCLIENT_MYSTCASTLE_USE_FLOOR_TICKET_FAIL,Unable to use the Mysterious Castle Retry Coupon.,無法使用神秘的城堡重試券。
 TEXTCLIENT_LORDSKILLS_NOT,Only the Lord can use this menu.,只有領主能使用此選單。
-TEXTCLIENT_DUNGEON_ESCORT_DIED,Your escort died.,Your escort died.
+TEXTCLIENT_DUNGEON_ESCORT_DIED,Your escort died.,護送對象已死亡。

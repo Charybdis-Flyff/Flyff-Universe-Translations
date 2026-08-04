@@ -9178,8 +9178,8 @@ PROPITEM_TXT_200303,This purchase gives you many advantages during the Lunar Pas
 PROPITEM_TXT_200304,Common Bank,共用銀行
 PROPITEM_TXT_200305,Cloak of Finland,芬蘭披風
 PROPITEM_TXT_200306,This Cloak has a full length depiction of the flag of Finland on it.,這件披風上有完整的芬蘭國旗圖案。
-PROPITEM_TXT_400307,Pyramid Guardian Shield,金字塔守護者之盾
-PROPITEM_TXT_400308,Pyramid Keeper Shield,金字塔守衛者之盾
+PROPITEM_TXT_400307,Pyramid Guardian Shield,金字塔守護者‧日輪聖甲
+PROPITEM_TXT_400308,Pyramid Keeper Shield,金字塔守衛者‧赤瞳骸面
 PROPITEM_TXT_400309,Grrr Axe,基爾斧
 PROPITEM_TXT_400310,Merman Bow,人魚弓
 PROPITEM_TXT_400311,Merman Stick,人魚法棒
@@ -9187,16 +9187,16 @@ PROPITEM_TXT_400312,Regal Kumai Stick,富豪熊井法棒
 PROPITEM_TXT_400313,Kraken Knuckle,克拉肯拳套
 PROPITEM_TXT_400314,Enchanted Shaman Staff,魔法薩滿法杖
 PROPITEM_TXT_400315,Merman Staff,人魚法杖
-PROPITEM_TXT_400316,Pyramid Guardian Sword,金字塔守護者之劍
-PROPITEM_TXT_400317,Pyramid Keeper Sword,金字塔守衛者之劍
-PROPITEM_TXT_400318,Pyramid Guardian Big Sword,金字塔守護者巨劍
-PROPITEM_TXT_400319,Pyramid Keeper Big Sword,金字塔守衛者巨劍
+PROPITEM_TXT_400316,Pyramid Guardian Sword,金字塔守護者‧王陵石鋒
+PROPITEM_TXT_400317,Pyramid Keeper Sword,金字塔守衛者‧冥金之刃
+PROPITEM_TXT_400318,Pyramid Guardian Big Sword,金字塔守護者‧鎮殿斷嶽
+PROPITEM_TXT_400319,Pyramid Keeper Big Sword,金字塔守衛者‧幽陵斬魂
 PROPITEM_TXT_400320,Enchanted Shaman Wand,魔法薩滿魔杖
 PROPITEM_TXT_400321,Kraken Yo-Yo,克拉肯溜刃
-PROPITEM_TXT_400322,Kraken's Head,克拉肯的頭
+PROPITEM_TXT_400322,Kraken's Head,克拉肯首級
 PROPITEM_TXT_400323,Siren's Head,塞壬帽子
-PROPITEM_TXT_400324,Pyramid Guardian's Head,金字塔守護者的頭
-PROPITEM_TXT_400325,Pyramid Keeper's Head,金字塔守衛者的頭
+PROPITEM_TXT_400324,Pyramid Guardian's Head,金字塔守護者首級
+PROPITEM_TXT_400325,Pyramid Keeper's Head,金字塔守衛者首級
 PROPITEM_TXT_400326,Legends of Leren Mountains,勒倫山脈傳奇
 PROPITEM_TXT_400327,Quest Item: A book of myths and legends about the history of the Leren Mountains.,任務物品：一本有關勒倫山脈歷史的神話傳說書。
 PROPITEM_TXT_400328,Flaris Fungi,蘑菇
@@ -9245,9 +9245,9 @@ PROPITEM_TXT_400370,Regal Kumai Big Mace,富豪熊井大錘
 PROPITEM_TXT_400371,Regal Kumai Mace,富豪熊麥錘
 PROPITEM_TXT_400372,Old Rut Hat,舊車轍帽
 PROPITEM_TXT_400373,Old Rut Bag,舊車轍包
-PROPITEM_TXT_400374,Skeleton Assassin Yo-Yo,冥骸刺客溜刃
-PROPITEM_TXT_400375,Skeleton General Sword,冥骸將軍之劍
-PROPITEM_TXT_400376,Skeleton General Big Sword,冥骸將軍巨劍
+PROPITEM_TXT_400374,Skeleton Assassin Yo-Yo,冥骸刺客‧無聲銀弧
+PROPITEM_TXT_400375,Skeleton General Sword,冥骸將軍‧血晶魔鋒
+PROPITEM_TXT_400376,Skeleton General Big Sword,冥骸將軍‧斷界
 PROPITEM_TXT_400377,Skeleton General Head,冥骸將軍頭
 PROPITEM_TXT_400378,Old Rut Pipe,舊車轍管
 PROPITEM_TXT_400379,Cache of Bubble,巴布樂的儲藏
@@ -9416,7 +9416,7 @@ PROPITEM_TXT_130003,Mushpang Cap,咚咚菇帽
 PROPITEM_TXT_130004,Pukepuke Hat,噗卡噗卡帽
 PROPITEM_TXT_130005,Hael's Swords (Cloak),哈爾之劍 (披風)
 PROPITEM_TXT_130006,The Blade Hero's Swords. You can wear them on a belt!,刀鋒英雄的劍。你可以把它們戴在腰帶上！
-PROPITEM_TXT_130007,Skeleton General Wings,冥骸將軍之翼
+PROPITEM_TXT_130007,Skeleton General Wings,冥骸將軍‧裂界刃翼
 PROPITEM_TXT_130008,Crystal Demon Lord Cloak,晶獄魔皇披風
 PROPITEM_TXT_130009,Crystal Demon Sword,晶獄魔劍
 PROPITEM_TXT_130010,Crystal Demon Big Sword,晶獄魔皇巨劍
@@ -9450,18 +9450,18 @@ PROPITEM_TXT_130035,Watangka Mask,嗚啦啦哇噹卡面具
 PROPITEM_TXT_130036,Adorned Watangka Mask,巨嗚啦啦哇噹卡面具
 PROPITEM_TXT_130037,Regal Kumai Yo-Yo,富豪熊井溜刃
 PROPITEM_TXT_130038,Radioactive Long Legs Bow,放射性長腿弓
-PROPITEM_TXT_130039,Skeleton General Bow,冥骸將軍之弓
+PROPITEM_TXT_130039,Skeleton General Bow,冥骸將軍‧蝕月冥弦
 PROPITEM_TXT_130040,Nightmist Knuckle,夜霧拳套
 PROPITEM_TXT_130041,Larva Carapace Shield,幼蟲甲殼盾
-PROPITEM_TXT_130042,Skeleton General Axe,冥骸將軍之斧
+PROPITEM_TXT_130042,Skeleton General Axe,冥骸將軍‧幽晶裂
 PROPITEM_TXT_130043,Queen Long Legs Bow,女王長腿弓
-PROPITEM_TXT_130044,Skeleton General Big Axe,冥骸將軍大斧
+PROPITEM_TXT_130044,Skeleton General Big Axe,冥骸將軍‧葬月
 PROPITEM_TXT_130045,Tombstone Bearer Head,墓碑承載頭
 PROPITEM_TXT_130046,Temple Guardian Horns,聖殿守護者號角
 PROPITEM_TXT_130047,Giant Turtle Shield,巨龜盾
-PROPITEM_TXT_130048,Skeletal Militant Sword,冥骸武士之劍
-PROPITEM_TXT_130049,Skeletal Militant Big Sword,冥骸武士巨劍
-PROPITEM_TXT_130050,Skeletal Militant Shield,冥骸武士之盾
+PROPITEM_TXT_130048,Skeletal Militant Sword,冥骸戰兵‧寒鐵殘鋒
+PROPITEM_TXT_130049,Skeletal Militant Big Sword,冥骸戰兵‧破陣重刃
+PROPITEM_TXT_130050,Skeletal Militant Shield,冥骸戰兵‧鐵棺之壁
 PROPITEM_TXT_130053,Hael's Letter,哈爾的信
 PROPITEM_TXT_130054,"Hidden Quest Item: In his letter, Hael explains the pain of losing his memory to an old friend. Unfortunately, he never wrote who the letter was to.",隱藏任務物品：在信中，哈爾向一位老朋友解釋了失去記憶的痛苦。不幸的是，他從未寫明這封信是寫給誰的。
 PROPITEM_TXT_130055,Hael's Map,哈爾的地圖
@@ -9792,21 +9792,21 @@ PROPITEM_TXT_230127,Scroll of Name Color (Green),名稱顏色卷軸 (綠色)
 PROPITEM_TXT_230128,Crystal Demon Lord Head,晶獄魔皇頭
 PROPITEM_TXT_230129,Extended Update Pass,延長更新通行證
 PROPITEM_TXT_230130,This purchase gives you many advantages during the Update Pass season:\n-More Update Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports,此次購買在更新季節通行證為你帶來許多優勢：\n- 更多更新通行證獎勵\n- 一般銀行\n- 2 天供應商商店\n- 無限加速燃料\n- 無限經驗值鎖定\n- 副本地圖與導航器\n- 更快的安全強化\n- 1 個免費進入副本\n- 每日 5 次搜尋商店傳送
-PROPITEM_TXT_230131,Asmodan Suit (M),阿斯莫丹衣服 (男)
+PROPITEM_TXT_230131,Asmodan Suit (M),阿斯莫丹服裝 (男)
 PROPITEM_TXT_230132,Asmodan Head (M),阿斯莫丹頭飾 (男)
 PROPITEM_TXT_230133,Asmodan Hands (M),阿斯莫丹手套 (男)
-PROPITEM_TXT_230134,Asmodan Shoes (M),阿斯莫丹鞋 (男)
-PROPITEM_TXT_230135,Asmodan Suit (F),阿斯莫丹衣服 (女)
+PROPITEM_TXT_230134,Asmodan Shoes (M),阿斯莫丹鞋子 (男)
+PROPITEM_TXT_230135,Asmodan Suit (F),阿斯莫丹服裝 (女)
 PROPITEM_TXT_230136,Asmodan Head (F),阿斯莫丹頭飾 (女)
 PROPITEM_TXT_230137,Asmodan Hands (F),阿斯莫丹手套 (女)
-PROPITEM_TXT_230138,Asmodan Shoes (F),阿斯莫丹鞋 (女)
-PROPITEM_TXT_230139,Asmodan Wings,阿斯莫丹翅膀
+PROPITEM_TXT_230138,Asmodan Shoes (F),阿斯莫丹鞋子 (女)
+PROPITEM_TXT_230139,Asmodan Wings,阿斯莫丹‧墮翼
 PROPITEM_TXT_230140,Asmodan Set Select Box,阿斯莫丹套裝選擇箱
 PROPITEM_TXT_230141,Asmodan Set (F),阿斯莫丹套裝 (女)
 PROPITEM_TXT_230142,Asmodan Set (M),阿斯莫丹套裝 (男)
 PROPITEM_TXT_230143,Secret Stopwatch,秘密秒錶
 PROPITEM_TXT_230144,"Asmodan once used this to keep track of his time in battle, down to the Nanosecond.",阿斯莫丹曾經用它來記錄他在戰鬥中的時間，精確到納秒級。
-PROPITEM_TXT_230145,Asmodan Sword,阿斯莫丹之劍
+PROPITEM_TXT_230145,Asmodan Sword,阿斯莫丹‧緋痕之刃
 PROPITEM_TXT_230146,Steel Knight Sword,騎士機械劍
 PROPITEM_TXT_230147,Steel Knight Shield,騎士機械盾
 PROPITEM_TXT_230148,Steel Knight Cap,騎士機械帽
@@ -9826,16 +9826,16 @@ PROPITEM_TXT_230161,Thorn Card (C),荊棘卡 (C)
 PROPITEM_TXT_230162,Gives Critical Damage +1% when applied to a weapon or shield.,用於武器或盾牌時，暴擊傷害 +1%。
 PROPITEM_TXT_230163,Thorn Card (D),荊棘卡 (D)
 PROPITEM_TXT_230164,Gives Critical Damage +0.5% when applied to a weapon or shield.,用於武器或盾牌時，暴擊傷害 +0.5%。
-PROPITEM_TXT_230165,Asmodan Shield,阿斯莫丹之盾
-PROPITEM_TXT_230166,Asmodan Axe,阿斯莫丹之斧
-PROPITEM_TXT_230167,Asmodan Big Axe,阿斯莫丹大斧
-PROPITEM_TXT_230168,Asmodan Bow,阿斯莫丹之弓
-PROPITEM_TXT_230169,Asmodan Stick,阿斯莫丹法棒
-PROPITEM_TXT_230170,Asmodan Knuckle,阿斯莫丹拳套
-PROPITEM_TXT_230171,Asmodan Staff,阿斯莫丹法杖
-PROPITEM_TXT_230172,Asmodan Wand,阿斯莫丹魔杖
-PROPITEM_TXT_230173,Asmodan Big Sword,阿斯莫丹巨劍
-PROPITEM_TXT_230174,Asmodan Yo-Yo,阿斯莫丹溜刃
+PROPITEM_TXT_230165,Asmodan Shield,阿斯莫丹‧墮翼之障
+PROPITEM_TXT_230166,Asmodan Axe,阿斯莫丹‧緋月裂
+PROPITEM_TXT_230167,Asmodan Big Axe,阿斯莫丹‧殘月斷獄
+PROPITEM_TXT_230168,Asmodan Bow,阿斯莫丹‧墮羽追魂
+PROPITEM_TXT_230169,Asmodan Stick,阿斯莫丹‧血契
+PROPITEM_TXT_230170,Asmodan Knuckle,阿斯莫丹‧噬心魔爪
+PROPITEM_TXT_230171,Asmodan Staff,阿斯莫丹‧深淵宣告
+PROPITEM_TXT_230172,Asmodan Wand,阿斯莫丹‧墮星
+PROPITEM_TXT_230173,Asmodan Big Sword,阿斯莫丹‧終焉斷罪
+PROPITEM_TXT_230174,Asmodan Yo-Yo,阿斯莫丹‧血月迴蝕
 PROPITEM_TXT_230175,Gooey Glaphan Stick,粘糊糊格拉芬法棒
 PROPITEM_TXT_230176,Gooey Glaphan Bow,粘糊糊格拉芬弓
 PROPITEM_TXT_230177,Mushpoie Knuckle,蘑菇拳套
@@ -12170,25 +12170,25 @@ PROPITEM_TXT_222144,Bank Extra Bag (1 Hour),銀行背包擴充 (1 小時)
 PROPITEM_TXT_222145,Expands the bank space limit by 24 items for current character. You can only use 1 at the same time. Lasts 1 Hour.,將目前角色的銀行空間限制擴大 24 項。同一時間只能使用 1 個。持續 1 小時。
 PROPITEM_TXT_222146,Bank Extra Bag,銀行背包擴充
 PROPITEM_TXT_222147,Expands the bank space limit by 24 items for current character. You can only use 1 at the same time.,將目前角色的銀行空間限制擴大 24 項。同一時間只能使用 1 個。
-PROPITEM_TXT_011432,Lusaka's Sword,盧薩卡之劍
-PROPITEM_TXT_011434,Lusaka's Axe,盧薩卡之斧
+PROPITEM_TXT_011432,Lusaka's Sword,盧薩卡戰劍
+PROPITEM_TXT_011434,Lusaka's Axe,盧薩卡戰斧
 PROPITEM_TXT_011436,Lusaka's Heavy Sword,盧薩卡巨劍
 PROPITEM_TXT_011438,Lusaka's Heavy Axe,盧薩卡巨斧
 PROPITEM_TXT_011440,Lusaka's Fist,盧薩卡拳套
 PROPITEM_TXT_011442,Lusaka's Stick,盧薩卡法棒
 PROPITEM_TXT_011444,Lusaka's Wand,盧薩卡魔杖
 PROPITEM_TXT_011446,Lusaka's Staff,盧薩卡法杖
-PROPITEM_TXT_011448,Lusaka's Bow,盧薩卡之弓
+PROPITEM_TXT_011448,Lusaka's Bow,盧薩卡戰弓
 PROPITEM_TXT_011450,Lusaka's Yo-Yo,盧薩卡溜刃
-PROPITEM_TXT_011452,Lusaka's Crystal Sword,盧薩卡水晶劍
-PROPITEM_TXT_011454,Lusaka's Crystal Axe,盧薩卡水晶斧
+PROPITEM_TXT_011452,Lusaka's Crystal Sword,盧薩卡水晶戰劍
+PROPITEM_TXT_011454,Lusaka's Crystal Axe,盧薩卡水晶戰斧
 PROPITEM_TXT_011456,Lusaka's Heavy Crystal Sword,盧薩卡水晶巨劍
 PROPITEM_TXT_011458,Lusaka's Heavy Crystal Axe,盧薩卡水晶巨斧
 PROPITEM_TXT_011460,Lusaka's Crystal Fist,盧薩卡水晶拳套
 PROPITEM_TXT_011462,Lusaka's Crystal Stick,盧薩卡水晶法棒
 PROPITEM_TXT_011464,Lusaka's Crystal Wand,盧薩卡水晶魔杖
 PROPITEM_TXT_011466,Lusaka's Crystal Staff,盧薩卡水晶法杖
-PROPITEM_TXT_011468,Lusaka's Crystal Bow,盧薩卡水晶弓
+PROPITEM_TXT_011468,Lusaka's Crystal Bow,盧薩卡水晶戰弓
 PROPITEM_TXT_011470,Lusaka's Crystal Yo-Yo,盧薩卡水晶溜刃
 PROPITEM_TXT_011471,An exquisitely crafted weapon found in The Wilds. It hums with power.,在荒野叢境發現的精緻鍛造武器，工藝非凡。它低聲鳴動，蘊藏著強大的力量。
 PROPITEM_TXT_014606,Coral Cutlass,珊瑚潮刃
@@ -12421,8 +12421,8 @@ PROPITEM_TXT_019462,Coral Shield,珊瑚之盾
 PROPITEM_TXT_019463,Mossy Coral Shield,苔生珊瑚之盾
 PROPITEM_TXT_019464,Destroyed Coral Shield,破碎的珊瑚之盾
 PROPITEM_TXT_019465,This shield has been damaged beyond repair.,此盾已嚴重損壞，無法修復。
-PROPITEM_TXT_019466,Lusaka's Shield,盧薩卡之盾
-PROPITEM_TXT_019467,Lusaka's Crystal Shield,盧薩卡水晶盾
+PROPITEM_TXT_019466,Lusaka's Shield,盧薩卡戰盾
+PROPITEM_TXT_019467,Lusaka's Crystal Shield,盧薩卡水晶戰盾
 PROPITEM_TXT_019468,An exquisitely crafted shield found in The Wilds. It hums with power.,一面精緻打造的盾牌，發現於荒野叢境之地，散發著強大的能量。
 PROPITEM_TXT_150000,Lightning Strike,雷霆之怒
 PROPITEM_TXT_150001,"Call a lightning strike upon the person ahead of you in points, slowing them down by 20% for 10 seconds.",對積分榜上位於你前方的玩家召喚一道雷擊，使其 10 秒內緩速 20%。
@@ -14284,7 +14284,7 @@ PROPITEM_TXT_131424,"Instant respawn item that can be used only once when partic
 PROPITEM_TXT_131425,Kalgas Gold Coin,卡爾加斯金幣
 PROPITEM_TXT_131426,"Instant respawn item that can be used unlimited number of times when participating in Kalgas Assault When used, will be immediately respawned at the starting point without wait time.",瞬逝復活道具，參與「卡爾加斯突襲」時可無限次使用。使用後將在起點立即復活，無等待時間。
 PROPITEM_TXT_131427,Kalgas Chip,卡爾加斯籌碼
-PROPITEM_TXT_131428,Exchange this Old Kalgas chip to Waforu for wonderful rewards!,將舊卡爾加斯籌碼交給 [戰鬥商人] 華弗，兌換豐厚獎勵！
+PROPITEM_TXT_131428,Exchange this Old Kalgas chip to Waforu for wonderful rewards!,將舊卡爾加斯籌碼交給 [戰鬥商人] 瓦普勒，兌換豐厚獎勵！
 PROPITEM_TXT_722673,Valentine 2024 10% Red Set,2024 情人節熾戀套裝 10%
 PROPITEM_TXT_722674,Valentine 2024 10% Red Set (M),2024 情人節熾戀套裝 10% (男)
 PROPITEM_TXT_722675,The Valentine 2024 10% Red Set for male characters.,男角色使用的 2024 情人節熾戀套裝 10%。
@@ -15536,12 +15536,12 @@ PROPITEM_TXT_724687,FWC Golden Reine Helmet,榮耀‧雷恩頭盔
 PROPITEM_TXT_724688,FWC Golden Reine Suit,榮耀‧雷恩套裝
 PROPITEM_TXT_724689,FWC Golden Reine Gauntlets,榮耀‧雷恩護手
 PROPITEM_TXT_724690,FWC Golden Reine Boots,榮耀‧雷恩戰靴
-PROPITEM_TXT_724691,FWC Golden Lusaka's Crystal Axe,榮耀‧盧薩卡水晶斧
-PROPITEM_TXT_724692,FWC Golden Lusaka's Crystal Bow,榮耀‧盧薩卡水晶弓
-PROPITEM_TXT_724693,FWC Golden Lusaka's Crystal Fist,榮耀‧盧薩卡水晶拳
+PROPITEM_TXT_724691,FWC Golden Lusaka's Crystal Axe,榮耀‧盧薩卡水晶戰斧
+PROPITEM_TXT_724692,FWC Golden Lusaka's Crystal Bow,榮耀‧盧薩卡水晶戰弓
+PROPITEM_TXT_724693,FWC Golden Lusaka's Crystal Fist,榮耀‧盧薩卡水晶拳套
 PROPITEM_TXT_724694,FWC Golden Lusaka's Crystal Staff,榮耀‧盧薩卡水晶法杖
 PROPITEM_TXT_724695,FWC Golden Lusaka's Crystal Stick,榮耀‧盧薩卡水晶法棒
-PROPITEM_TXT_724696,FWC Golden Lusaka's Crystal Sword,榮耀‧盧薩卡水晶劍
+PROPITEM_TXT_724696,FWC Golden Lusaka's Crystal Sword,榮耀‧盧薩卡水晶戰劍
 PROPITEM_TXT_724697,FWC Golden Lusaka's Heavy Crystal Axe,榮耀‧盧薩卡水晶巨斧
 PROPITEM_TXT_724698,FWC Golden Lusaka's Heavy Crystal Sword,榮耀‧盧薩卡水晶巨劍
 PROPITEM_TXT_724699,FWC Golden Lusaka's Crystal Wand,榮耀‧盧薩卡水晶魔杖
@@ -21816,12 +21816,12 @@ PROPITEM_TXT_828288,Easter Rabbit 2025 2% Rainbow Set (F),2025 復活節兔兔�
 PROPITEM_TXT_828289,The Easter Rabbit 2025 2% Rainbow Set for female characters.,女角色使用的 2025 復活節兔兔彩虹色套裝 2%。
 PROPITEM_TXT_828290,Easter Rabbit 2025 Costume Lucky Box,2025 復活兔服裝幸運箱
 PROPITEM_TXT_828291,This box contains a Easter Rabbit 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,此箱子包含附帶速度加成的 2025 復活兔套裝。開啟幸運箱後可選擇性別。
-PROPITEM_TXT_900000,2025 FWC Golden Lusaka's Crystal Axe,[2025] 榮耀‧盧薩卡水晶斧
-PROPITEM_TXT_900001,2025 FWC Golden Lusaka's Crystal Bow,[2025] 榮耀‧盧薩卡水晶弓
+PROPITEM_TXT_900000,2025 FWC Golden Lusaka's Crystal Axe,[2025] 榮耀‧盧薩卡水晶戰斧
+PROPITEM_TXT_900001,2025 FWC Golden Lusaka's Crystal Bow,[2025] 榮耀‧盧薩卡水晶戰弓
 PROPITEM_TXT_900002,2025 FWC Golden Lusaka's Crystal Fist,[2025] 榮耀‧盧薩卡水晶拳套
 PROPITEM_TXT_900003,2025 FWC Golden Lusaka's Crystal Staff,[2025] 榮耀‧盧薩卡水晶法杖
 PROPITEM_TXT_900004,2025 FWC Golden Lusaka's Crystal Stick,[2025] 榮耀‧盧薩卡水晶法棒
-PROPITEM_TXT_900005,2025 FWC Golden Lusaka's Crystal Sword,[2025] 榮耀‧盧薩卡水晶劍
+PROPITEM_TXT_900005,2025 FWC Golden Lusaka's Crystal Sword,[2025] 榮耀‧盧薩卡水晶戰劍
 PROPITEM_TXT_900006,2025 FWC Golden Lusaka's Heavy Crystal Axe,[2025] 榮耀‧盧薩卡水晶巨斧
 PROPITEM_TXT_900007,2025 FWC Golden Lusaka's Heavy Crystal Sword,[2025] 榮耀‧盧薩卡水晶巨劍
 PROPITEM_TXT_900008,2025 FWC Golden Lusaka's Crystal Wand,[2025] 榮耀‧盧薩卡水晶魔杖
@@ -24032,19 +24032,19 @@ PROPITEM_TXT_134870,The 2025 FWC Flame Bilari Costume Set for female characters.
 PROPITEM_TXT_134871,2025 FWC Flame Bileire Costume Set (M),[2025] 烈焰比雷爾時裝套裝 (男)
 PROPITEM_TXT_134872,The 2025 FWC Flame Bileire Costume Set for male characters.,男角色使用的 [2025] FWC 烈焰比雷爾時裝套裝。
 PROPITEM_TXT_134873,FWC Red Wings,FWC 紅翅膀
-PROPITEM_TXT_134874,2025 FWC Flame Lusaka Sword,[2025] 烈焰盧薩卡之劍
-PROPITEM_TXT_134875,2025 FWC Flame Lusaka Axe,[2025] 烈焰盧薩卡之斧
-PROPITEM_TXT_134876,2025 FWC Flame Lusaka Big Sword,[2025] 烈焰盧薩卡巨劍
-PROPITEM_TXT_134877,2025 FWC Flame Lusaka Big Axe,[2025] 烈焰盧薩卡大斧
-PROPITEM_TXT_134878,2025 FWC Flame Lusaka Stick,[2025] 烈焰盧薩卡法棒
-PROPITEM_TXT_134879,2025 FWC Flame Lusaka Knuckle,[2025] 烈焰盧薩卡拳套
-PROPITEM_TXT_134880,2025 FWC Flame Lusaka Bow,[2025] 烈焰盧薩卡之弓
-PROPITEM_TXT_134881,2025 FWC Flame Lusaka Yo-Yo,[2025] 烈焰盧薩卡溜溜球
-PROPITEM_TXT_134882,2025 FWC Flame Lusaka Staff,[2025] 烈焰盧薩卡法杖
-PROPITEM_TXT_134883,2025 FWC Flame Lusaka Wand,[2025] 烈焰盧薩卡魔杖
-PROPITEM_TXT_134884,2025 FWC Flame Lusaka Shield,[2025] 烈焰盧薩卡之盾
-PROPITEM_TXT_134885,2025 FWC Flame Lusaka Weapon Select Box,[2025] 烈焰盧薩卡武器選擇盒
-PROPITEM_TXT_134886,This box contains the 2025 FWC Flame Lusaka Weapons.,此盒子包含 [2025] 烈焰盧薩卡武器。
+PROPITEM_TXT_134874,2025 FWC Flame Lusaka Sword,[2025] 烈焰‧盧薩卡戰劍
+PROPITEM_TXT_134875,2025 FWC Flame Lusaka Axe,[2025] 烈焰‧盧薩卡戰斧
+PROPITEM_TXT_134876,2025 FWC Flame Lusaka Big Sword,[2025] 烈焰‧盧薩卡巨劍
+PROPITEM_TXT_134877,2025 FWC Flame Lusaka Big Axe,[2025] 烈焰‧盧薩卡巨斧
+PROPITEM_TXT_134878,2025 FWC Flame Lusaka Stick,[2025] 烈焰‧盧薩卡法棒
+PROPITEM_TXT_134879,2025 FWC Flame Lusaka Knuckle,[2025] 烈焰‧盧薩卡拳套
+PROPITEM_TXT_134880,2025 FWC Flame Lusaka Bow,[2025] 烈焰‧盧薩卡戰弓
+PROPITEM_TXT_134881,2025 FWC Flame Lusaka Yo-Yo,[2025] 烈焰‧盧薩卡溜刃
+PROPITEM_TXT_134882,2025 FWC Flame Lusaka Staff,[2025] 烈焰‧盧薩卡法杖
+PROPITEM_TXT_134883,2025 FWC Flame Lusaka Wand,[2025] 烈焰‧盧薩卡魔杖
+PROPITEM_TXT_134884,2025 FWC Flame Lusaka Shield,[2025] 烈焰‧盧薩卡戰盾
+PROPITEM_TXT_134885,2025 FWC Flame Lusaka Weapon Select Box,[2025] 烈焰‧盧薩卡武器選擇箱
+PROPITEM_TXT_134886,This box contains the 2025 FWC Flame Lusaka Weapons.,此箱內含 [2025] 烈焰‧盧薩卡系列武器。
 PROPITEM_TXT_155000,Blinkwing of Eillun,艾爾倫村翅膀
 PROPITEM_TXT_155001,Teleport to Eillun,傳送到艾爾倫村
 PROPITEM_TXT_155002,Fragment of ???,？？？的碎片
@@ -28801,33 +28801,33 @@ PROPITEM_TXT_905767,Guild Pride Costume Select Box 2,公會榮耀服裝選擇箱
 PROPITEM_TXT_905768,Select your favorite fashion !,選擇你最喜愛的造型！
 PROPITEM_TXT_905769,FWC Guild Spotlight Compensation box,FWC 公會焦點補償箱
 PROPITEM_TXT_905770,"A package containing 1x Friendly Baby Kargo, 3x Power Scroll, 1x Feed Bag (3days), 1x Bank Extra Bag (3 Days), 3x Scroll of Amplification ES, 3x Flask Box and 3x Activition.",禮包內含 1x 可愛卡勒古先生、3x 力量卷軸、1x 飼料袋 (3 天)、1x 銀行背包擴充 (3 天)、3x 經驗值加成卷軸 ES、3x 藥瓶箱與 3x 無限技能卷軸。
-PROPITEM_TXT_135267,2026 Summer Vacance Ocean Blue Set,2026 Summer Vacance Ocean Blue Set
-PROPITEM_TXT_135268,2026 Summer Vacance Ocean Blue Set (M),2026 Summer Vacance Ocean Blue Set (M)
-PROPITEM_TXT_135269,The 2026 Summer Vacance Ocean Blue Set for male characters.,The 2026 Summer Vacance Ocean Blue Set for male characters.
-PROPITEM_TXT_135270,2026 Summer Vacance Ocean Blue Set (F),2026 Summer Vacance Ocean Blue Set (F)
-PROPITEM_TXT_135271,The 2026 Summer Vacance Ocean Blue Set for female characters.,The 2026 Summer Vacance Ocean Blue Set for female characters.
-PROPITEM_TXT_135272,2026 Summer Vacance Ocean Blue 10% Set,2026 Summer Vacance Ocean Blue 10% Set
-PROPITEM_TXT_135273,2026 Summer Vacance Ocean Blue 10% Set (M),2026 Summer Vacance Ocean Blue 10% Set (M)
-PROPITEM_TXT_135274,The 2026 Summer Vacance Ocean Blue 10% Set for male characters.,The 2026 Summer Vacance Ocean Blue 10% Set for male characters.
-PROPITEM_TXT_135275,2026 Summer Vacance Ocean Blue 10% Set (F),2026 Summer Vacance Ocean Blue 10% Set (F)
-PROPITEM_TXT_135276,The 2026 Summer Vacance Ocean Blue 10% Set for female characters.,The 2026 Summer Vacance Ocean Blue 10% Set for female characters.
-PROPITEM_TXT_135277,2026 Summer Vacance Ocean Blue Hat (M),2026 Summer Vacance Ocean Blue Hat (M)
-PROPITEM_TXT_135278,2026 Summer Vacance Ocean Blue Suit (M),2026 Summer Vacance Ocean Blue Suit (M)
-PROPITEM_TXT_135279,2026 Summer Vacance Ocean Blue Shoes (M),2026 Summer Vacance Ocean Blue Shoes (M)
-PROPITEM_TXT_135280,2026 Summer Vacance Ocean Blue Hat (F),2026 Summer Vacance Ocean Blue Hat (F)
-PROPITEM_TXT_135281,2026 Summer Vacance Ocean Blue Suit (F),2026 Summer Vacance Ocean Blue Suit (F)
-PROPITEM_TXT_135282,2026 Summer Vacance Ocean Blue Shoes (F),2026 Summer Vacance Ocean Blue Shoes (F)
-PROPITEM_TXT_135284,2026 Summer Vacance Ocean Blue 5% Suit (M),2026 Summer Vacance Ocean Blue 5% Suit (M)
-PROPITEM_TXT_135285,2026 Summer Vacance Ocean Blue 5% Shoes (M),2026 Summer Vacance Ocean Blue 5% Shoes (M)
-PROPITEM_TXT_135286,2026 Summer Vacance Ocean Blue 5% Suit (F),2026 Summer Vacance Ocean Blue 5% Suit (F)
-PROPITEM_TXT_135287,2026 Summer Vacance Ocean Blue 5% Shoes (F),2026 Summer Vacance Ocean Blue 5% Shoes (F)
-PROPITEM_TXT_135288,Vacance Ocean Blue Surf Board,Vacance Ocean Blue Surf Board
-PROPITEM_TXT_135289,Vacance Sandy Beige Surf Board,Vacance Sandy Beige Surf Board
-PROPITEM_TXT_135290,Vacance Palm Green Surf Board,Vacance Palm Green Surf Board
-PROPITEM_TXT_135291,Vacance Sunshine Yellow Surf Board,Vacance Sunshine Yellow Surf Board
-PROPITEM_TXT_135292,Vacance Deep Blue Surf Board,Vacance Deep Blue Surf Board
-PROPITEM_TXT_135293,Vacance Coral Pink Surf Board,Vacance Coral Pink Surf Board
-PROPITEM_TXT_135294,Ocean Blue Axolotl,Ocean Blue Axolotl
+PROPITEM_TXT_135267,2026 Summer Vacance Ocean Blue Set,2026 夏日假期蔚藍套裝
+PROPITEM_TXT_135268,2026 Summer Vacance Ocean Blue Set (M),2026 夏日假期蔚藍套裝 (男)
+PROPITEM_TXT_135269,The 2026 Summer Vacance Ocean Blue Set for male characters.,男角色使用的 2026 夏日假期蔚藍套裝。
+PROPITEM_TXT_135270,2026 Summer Vacance Ocean Blue Set (F),2026 夏日假期蔚藍套裝 (女)
+PROPITEM_TXT_135271,The 2026 Summer Vacance Ocean Blue Set for female characters.,女角色使用的 2026 夏日假期蔚藍套裝。
+PROPITEM_TXT_135272,2026 Summer Vacance Ocean Blue 10% Set,2026 夏日假期蔚藍套裝 10%
+PROPITEM_TXT_135273,2026 Summer Vacance Ocean Blue 10% Set (M),2026 夏日假期蔚藍套裝 10% (男)
+PROPITEM_TXT_135274,The 2026 Summer Vacance Ocean Blue 10% Set for male characters.,男角色使用的 2026 夏日假期蔚藍套裝 10%。
+PROPITEM_TXT_135275,2026 Summer Vacance Ocean Blue 10% Set (F),2026 夏日假期蔚藍套裝 10% (女)
+PROPITEM_TXT_135276,The 2026 Summer Vacance Ocean Blue 10% Set for female characters.,女角色使用的 2026 夏日假期蔚藍套裝 10%。
+PROPITEM_TXT_135277,2026 Summer Vacance Ocean Blue Hat (M),2026 夏日假期蔚藍帽子 (男)
+PROPITEM_TXT_135278,2026 Summer Vacance Ocean Blue Suit (M),2026 夏日假期蔚藍服裝 (男)
+PROPITEM_TXT_135279,2026 Summer Vacance Ocean Blue Shoes (M),2026 夏日假期蔚藍鞋子 (男)
+PROPITEM_TXT_135280,2026 Summer Vacance Ocean Blue Hat (F),2026 夏日假期蔚藍帽子 (女)
+PROPITEM_TXT_135281,2026 Summer Vacance Ocean Blue Suit (F),2026 夏日假期蔚藍服裝 (女)
+PROPITEM_TXT_135282,2026 Summer Vacance Ocean Blue Shoes (F),2026 夏日假期蔚藍鞋子 (女)
+PROPITEM_TXT_135284,2026 Summer Vacance Ocean Blue 5% Suit (M),2026 夏日假期蔚藍服裝 5% (男)
+PROPITEM_TXT_135285,2026 Summer Vacance Ocean Blue 5% Shoes (M),2026 夏日假期蔚藍鞋子 5% (男)
+PROPITEM_TXT_135286,2026 Summer Vacance Ocean Blue 5% Suit (F),2026 夏日假期蔚藍服裝 5% (女)
+PROPITEM_TXT_135287,2026 Summer Vacance Ocean Blue 5% Shoes (F),2026 夏日假期蔚藍鞋子 5% (女)
+PROPITEM_TXT_135288,Vacance Ocean Blue Surf Board,假期蔚藍衝浪板
+PROPITEM_TXT_135289,Vacance Sandy Beige Surf Board,假期沙灘米衝浪板
+PROPITEM_TXT_135290,Vacance Palm Green Surf Board,假期棕櫚綠衝浪板
+PROPITEM_TXT_135291,Vacance Sunshine Yellow Surf Board,假期陽光黃衝浪板
+PROPITEM_TXT_135292,Vacance Deep Blue Surf Board,假期深海藍衝浪板
+PROPITEM_TXT_135293,Vacance Coral Pink Surf Board,假期珊瑚粉衝浪板
+PROPITEM_TXT_135294,Ocean Blue Axolotl,蔚藍六角龍
 PROPITEM_TXT_905771,Swimsuit 2026 10% Cyan Set,2026 泳裝碧潮套裝 10%
 PROPITEM_TXT_905772,Swimsuit 2026 Cyan Hat (M),2026 泳裝碧潮帽子 (男)
 PROPITEM_TXT_905773,Swimsuit 2026 Cyan Suit (M),2026 泳裝碧潮服裝 (男)
@@ -29191,7 +29191,7 @@ PROPITEM_TXT_913710,Glow Footsteps,發光腳步
 PROPITEM_TXT_913711,New footstep effect,全新的腳步特效。
 PROPITEM_TXT_913712,Sparkle Footsteps,閃耀腳步
 PROPITEM_TXT_913713,New footstep effect,全新的腳步特效。
-PROPITEM_TXT_913714,Scroll of PProtect,PProtect 卷軸
+PROPITEM_TXT_913714,Scroll of PProtect,對戰精煉防爆卷軸
 PROPITEM_TXT_913715,"This scroll prevents the loss of equipment in the event of upgrade or elemental attribute upgrade failure for PVP items. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process.",此卷軸可防止 PvP 道具在精煉或元素屬性精煉失敗時消失。使用時，請先將卷軸放入精煉選單中的指定欄位，再嘗試精煉。卷軸會在過程中消耗。
 PROPITEM_TXT_913716,Yellow Chips 2,黃色籌碼 2
 PROPITEM_TXT_913717,Madrigal Tournament reward (Used to buy items from Waforu).,瑪德利賈錦標賽獎勵 (可向瓦普勒購買道具)。
@@ -29247,34 +29247,34 @@ PROPITEM_TXT_913766,Green Spirit Shard,綠色靈魂碎片
 PROPITEM_TXT_913767,That's strange... It seems to be a fragment of Anae's soul.,真奇怪……看起來像是祭司的靈魂碎片。
 PROPITEM_TXT_913768,Black Spirit Shard,黑色靈魂碎片
 PROPITEM_TXT_913769,That's strange... It seems to be a fragment of Rifter's soul.,真奇怪……看起來像是裂界者的靈魂碎片。
-PROPITEM_TXT_913770,Phantasmal Shield,幻夢之盾
+PROPITEM_TXT_913770,Phantasmal Shield,幻夢之鑑
 PROPITEM_TXT_913771,A shield forged around a phantasmal crystal born from Entaness' nightmares. Its eerie glow is said to reveal dangers hidden beyond mortal sight.,以誕生自恩塔妮絲夢魘的幻夢水晶鍛造而成的盾牌。據說它詭異的光芒能揭露凡人肉眼無法察覺的危險。
-PROPITEM_TXT_913772,Book of Thorns,荊棘之書
+PROPITEM_TXT_913772,Book of Thorns,棘淵禁典
 PROPITEM_TXT_913773,An ancient tome nourished by the Queen of Thorns herself. The crystal embedded within its cover preserves forbidden knowledge from the depths of Euphrasia.,一本由荊棘女王親自滋養的古老典籍。封面上鑲嵌的水晶保存著來自尤芙蕾西亞深處的禁忌知識。
-PROPITEM_TXT_913774,Soul of Entaness,恩塔妮絲之魂
+PROPITEM_TXT_913774,Soul of Entaness,恩塔妮絲寂照
 PROPITEM_TXT_913775,A sacred targe infused with a fragment of Entaness' lingering soul. Its tranquil radiance grants strength to those who walk the path of enlightenment.,一面注入恩塔妮絲殘魂碎片的神聖小圓盾。它祥和的光輝會賜予走在啟悟之路上的人力量。
-PROPITEM_TXT_913776,Sword of Whisper,低語之劍
-PROPITEM_TXT_913777,Sword of Mist,迷霧之劍
-PROPITEM_TXT_913778,Phantasmal Slayer,幻夢巨劍
-PROPITEM_TXT_913779,Specter's Axe ,幽魂戰斧
-PROPITEM_TXT_913780,Clever of the mist,迷霧巨斧
-PROPITEM_TXT_913781,Knuckle of Madness,狂亂拳套
-PROPITEM_TXT_913782,Mirage,幻象
-PROPITEM_TXT_913783,Wand of apparitions,幻靈魔杖
-PROPITEM_TXT_913784,Staff of Ethereal Dreams,虛幻夢境法杖
-PROPITEM_TXT_913785,Bow of Echoes,回聲之弓
-PROPITEM_TXT_913786,Jewel of Nightmare,夢魘寶珠
-PROPITEM_TXT_913787,Sword of Whisper Ultimate,低語之劍
-PROPITEM_TXT_913788,Sword of Mist Ultimate,迷霧之劍
-PROPITEM_TXT_913789,Phantasmal Slayer Ultimate,幻夢巨劍
-PROPITEM_TXT_913790,Specter's Axe Ultimate,幽魂戰斧
-PROPITEM_TXT_913791,Clever of the mist Ultimate,迷霧巨斧
-PROPITEM_TXT_913792,Knuckle of Madness Ultimate,狂亂拳套
-PROPITEM_TXT_913793,Mirage Ultimate,幻象
-PROPITEM_TXT_913794,Wand of apparitions Ultimate,幻靈魔杖
-PROPITEM_TXT_913795,Staff of Ethereal Dreams Ultimate,虛幻夢境法杖
-PROPITEM_TXT_913796,Bow of Echoes Ultimate,回聲之弓
-PROPITEM_TXT_913797,Jewel of Nightmare Ultimate,夢魘寶珠
+PROPITEM_TXT_913776,Sword of Whisper,夢囈之刃
+PROPITEM_TXT_913777,Sword of Mist,霧藏鋒
+PROPITEM_TXT_913778,Phantasmal Slayer,幻夢斬魄
+PROPITEM_TXT_913779,Specter's Axe ,幽魂裂
+PROPITEM_TXT_913780,Clever of the mist,斷霧
+PROPITEM_TXT_913781,Knuckle of Madness,失心之握
+PROPITEM_TXT_913782,Mirage,蜃夢
+PROPITEM_TXT_913783,Wand of apparitions,幻靈引
+PROPITEM_TXT_913784,Staff of Ethereal Dreams,夢遊太虛
+PROPITEM_TXT_913785,Bow of Echoes,殘響之弦
+PROPITEM_TXT_913786,Jewel of Nightmare,夢迴魘
+PROPITEM_TXT_913787,Sword of Whisper Ultimate,夢囈之刃
+PROPITEM_TXT_913788,Sword of Mist Ultimate,霧藏鋒
+PROPITEM_TXT_913789,Phantasmal Slayer Ultimate,幻夢斬魄
+PROPITEM_TXT_913790,Specter's Axe Ultimate,幽魂裂
+PROPITEM_TXT_913791,Clever of the mist Ultimate,斷霧
+PROPITEM_TXT_913792,Knuckle of Madness Ultimate,失心之握
+PROPITEM_TXT_913793,Mirage Ultimate,蜃夢
+PROPITEM_TXT_913794,Wand of apparitions Ultimate,幻靈引
+PROPITEM_TXT_913795,Staff of Ethereal Dreams Ultimate,夢遊太虛
+PROPITEM_TXT_913796,Bow of Echoes Ultimate,殘響之弦
+PROPITEM_TXT_913797,Jewel of Nightmare Ultimate,夢迴魘
 PROPITEM_TXT_913798,1.5.5 Update Pass,1.5.5 更新通行證
 PROPITEM_TXT_913799,This purchase will give you access to many advantages until the end of the 1.5.5 Update Pass season,購買後可享有多項優惠，直到 1.5.5 更新通行證賽季結束。
 PROPITEM_TXT_913800,1.5.5 Update Lucky Box,1.5.5 更新幸運箱
@@ -29586,5 +29586,5 @@ PROPITEM_TXT_1902817,Veiled Wardens Yellow Shield,秘幕守衛黃色盾牌
 PROPITEM_TXT_1902818,Veiled Wardens Red Shield,秘幕守衛紅色盾牌
 PROPITEM_TXT_1902819,Veiled Wardens Orange Shield,秘幕守衛橙色盾牌
 PROPITEM_TXT_1902820,Veiled Wardens Beige Shield,秘幕守衛米色盾牌
-PROPITEM_TXT_1902821,Baron's Daily Reward,Baron's Daily Reward
-PROPITEM_TXT_1902822,Old Baron's Daily Reward,Old Baron's Daily Reward
+PROPITEM_TXT_1902821,Baron's Daily Reward,巴倫每日獎勵
+PROPITEM_TXT_1902822,Old Baron's Daily Reward,舊版巴倫每日獎勵
