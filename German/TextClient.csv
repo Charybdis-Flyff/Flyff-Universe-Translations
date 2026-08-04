@@ -1324,8 +1324,8 @@ TEXTCLIENT_MATOURNAMENT_INVALID_MEMBER_COUNT,Invalid number of party members.,In
 TEXTCLIENT_MATOURNAMENT_ALREADY_REGISTERED,A party member is already registered.,A party member is already registered.
 TEXTCLIENT_MATOURNAMENT_MEMBER_OFFLINE,Not all party members are online.,Not all party members are online.
 TEXTCLIENT_MATOURNAMENT_MEMBER_MINLEVEL,A party member does not meet the minimum level requirement.,A party member does not meet the minimum level requirement.
-TEXTCLIENT_MATOURNAMENT_NOGOLDS,Not enough Penya.,Not enough Penya.
-TEXTCLIENT_MATOURNAMENT_REGISTRATIONSUCCESS,Registration successful.,Registration successful.
+TEXTCLIENT_MATOURNAMENT_NOGOLDS,Not enough Penya.,Nicht genügend Penya.
+TEXTCLIENT_MATOURNAMENT_REGISTRATIONSUCCESS,Registration successful.,Registrierung erfolgreich.
 TEXTCLIENT_MATOURNAMENT_WINNER,The Madrigal Tournament has ended! The winner is: %s! Congratulations!,The Madrigal Tournament has ended! The winner is: %s! Congratulations!
 TEXTCLIENT_MATOURNAMENT_NO_WINNER,The Madrigal Tournament has ended on a draw! Congratulations!,The Madrigal Tournament has ended on a draw! Congratulations!
 TEXTCLIENT_MATOURNAMENT_TELEPORTNOMATCH,You can't enter because there is no match available.,You can't enter because there is no match available.
@@ -1449,7 +1449,7 @@ TEXTCLIENT_FISHING_FAIL_BAIT_INDEX,Can't find bait.,Can't find bait.
 TEXTCLIENT_LIFESKILL_NOT_LEARN,You have not learned the required skill yet.,You have not learned the required skill yet.
 TEXTCLIENT_LIFEMASTERY_RANKING_REWARD_RECEIVE,You have received %s as a reward for your life mastery ranking.,You have received %s as a reward for your life mastery ranking.
 TEXTCLIENT_LIFEMASTERY_RANKING_REWARD_FAIL,Could not send life mastery ranking reward.,Could not send life mastery ranking reward.
-TEXTCLIENT_LIFESTYLE_NOGOLD,Not enough Penya.,Not enough Penya.
+TEXTCLIENT_LIFESTYLE_NOGOLD,Not enough Penya.,Nicht genügend Penya.
 TEXTCLIENT_FISHING_FAIL_DIFF_POS,Fishing failed. Please move to a different spot and try again.,Fishing failed. Please move to a different spot and try again.
 TEXTCLIENT_COUPLEHOUSING_BUYSUCCESS,You successfully setup your couple house.,You successfully setup your couple house.
 TEXTCLIENT_COUPLEHOUSING_NOTOWN,You currently have no couple house yet.,You currently have no couple house yet.
@@ -1523,54 +1523,54 @@ TEXTCLIENT_PVPMATCH_COLOR_2,Blue Team,Blaues Team
 TEXTCLIENT_PVPMATCH_COLOR_3,Green Team,Grünes Team
 TEXTCLIENT_PVPMATCH_COLOR_4,Yellow Team,Gelbes Team
 TEXTCLIENT_PVPMATCH_KILL,[%s] %s,[%s] %s
-TEXTCLIENT_TRADE_BLOCKED,Item or Penya has been removed. Please wait.,Item or Penya has been removed. Please wait.
-TEXTCLIENT_MAIL_LEVEL,You must reach level %d to send a mail.,You must reach level %d to send a mail.
-TEXTCLIENT_MAILBOX_FAILED,Mail delivery failed due to recipient settings.,Mail delivery failed due to recipient settings.
-TEXTCLIENT_MAILBOX_BLOCKED,Mail delivery failed due to messenger settings.,Mail delivery failed due to messenger settings.
+TEXTCLIENT_TRADE_BLOCKED,Item or Penya has been removed. Please wait.,Item oder Penya wurde entfernt. Bitte warte.
+TEXTCLIENT_MAIL_LEVEL,You must reach level %d to send a mail.,"Du musst Level %d erreichen, um Post versenden zu können."
+TEXTCLIENT_MAILBOX_FAILED,Mail delivery failed due to recipient settings.,Die Zustellung ist aufgrund der Einstellungen des Empfängers fehlgeschlagen.
+TEXTCLIENT_MAILBOX_BLOCKED,Mail delivery failed due to messenger settings.,Die Zustellung ist aufgrund der Messenger-Einstellungen fehlgeschlagen.
 TEXTCLIENT_ITEM_RECEIVED,You have received %s x%d.,Du hast %s x%d erhalten.
-TEXTCLIENT_ADD_ATTRIBUTE_SUCCESS,Item has been upgraded.,Item has been upgraded.
-TEXTCLIENT_ADD_ATTRIBUTE_INVALID,This item is not upgradeable.,This item is not upgradeable.
-TEXTCLIENT_REQSKILLSTACKS,You do not have the required skill stacks to use this skill.,You do not have the required skill stacks to use this skill.
-TEXTCLIENT_MAX_TRAPS,You cannot place another one of these traps yet.,You cannot place another one of these traps yet.
-TEXTCLIENT_TRAP_RANGE,You cannot place a trap here.,You cannot place a trap here.
-TEXTCLIENT_TRAP_TOOL,You do not have enough Trap Tool.,You do not have enough Trap Tool.
-TEXTCLIENT_ENCHANT_SAME_JEWEL_FAILED,Equipping the same jewel failed.,Equipping the same jewel failed.
-TEXTCLIENT_JEWELSYNTHESIS_NO,You do not have enough jewel or Penya for synthesis.,You do not have enough jewel or Penya for synthesis.
-TEXTCLIENT_JEWELSYNTHESIS_SUCCESS,Jewel synthesis succeeded!,Jewel synthesis succeeded!
-TEXTCLIENT_HEROQUEST_REQUIRED,This feature is only available with the Hero Quest.,This feature is only available with the Hero Quest.
-TEXTCLIENT_SKILLPAGE_COOLDOWN,You can swap skill pages in %d seconds.,You can swap skill pages in %d seconds.
-TEXTCLIENT_SKILLPAGE_NOSKILL,You cannot swap skill pages while using skills.,You cannot swap skill pages while using skills.
-TEXTCLIENT_CHGLEVEL_MASTER,You cannot use this item while on a master quest.,You cannot use this item while on a master quest.
-TEXTCLIENT_CHGLEVEL_JOBCHANGE,You cannot use this item while on a job change quest.,You cannot use this item while on a job change quest.
-TEXTCLIENT_MONSTER_ATTACK_ERROR_POSITION,You cannot attack the monster because you are not on the combat ground.,You cannot attack the monster because you are not on the combat ground.
-TEXTCLIENT_UPGRADEANNOUNCE_ULTIMATE,%s upgraded Ultimate %s to %s+%d!,%s upgraded Ultimate %s to %s+%d!
-TEXTCLIENT_PAYMENT_SUCCESS,Payment was successful!\nfCoins have been added to your account. ,Payment was successful!\nfCoins have been added to your account. 
-TEXTCLIENT_PAYMENT_ERROR,Unknown error during payment.\nPlease try again.,Unknown error during payment.\nPlease try again.
-TEXTCLIENT_EXP_RECOVER,You recovered the experience lost in the dungeon.,You recovered the experience lost in the dungeon.
-TEXTCLIENT_EXPBOX_OLDVERSION,You cannot use it because you already recovered experience by clearing the dungeon.,You cannot use it because you already recovered experience by clearing the dungeon.
-TEXTCLIENT_PARTYFAILREMOVE_DUNGEON,You cannot remove a member from your party while you are in the same dungeon.,You cannot remove a member from your party while you are in the same dungeon.
-TEXTCLIENT_PARTYFAILCHANGE_DUNGEON,You cannot transfer leadership to a party member who is not in the same dungeon.,You cannot transfer leadership to a party member who is not in the same dungeon.
-TEXTCLIENT_PARTYFAILLEAVE_DUNGEON,You cannot leave the party as a leader in the dungeon.,You cannot leave the party as a leader in the dungeon.
-TEXTCLIENT_BOSS_RAID_DUNGEON_ENDED,The instance dungeon has ended. Please try again in a moment.,The instance dungeon has ended. Please try again in a moment.
-TEXTCLIENT_BOSS_RAID_MAX_PLAYCOUNT,%s has no daily entries remaining.,%s has no daily entries remaining.
-TEXTCLIENT_BOSS_RAID_ANOTHER_DUNGEON,%s is already in another instance.,%s is already in another instance.
-TEXTCLIENT_MESSAGE_WARNING,Warning: '%s' is a regular player. Do not visit any website and never give out your credentials. The only official website is $WEBSITE$. Beware of scams and phishing websites.,Warning: '%s' is a regular player. Do not visit any website and never give out your credentials. The only official website is $WEBSITE$. Beware of scams and phishing websites.
-TEXTCLIENT_APP_DONATION,Donation,Donation
-TEXTCLIENT_APP_LORD,Lord Skills,Lord Skills
-TEXTCLIENT_DONATION_START,Donation event %s +%d%% started!,Donation event %s +%d%% started!
-TEXTCLIENT_DONATION_END,Donation event %s +%d% ended...,Donation event %s +%d% ended...
-TEXTCLIENT_DONATION_CONFIRM,You donated %s Penya to the %s event.,You donated %s Penya to the %s event.
-TEXTCLIENT_DONATION_MAIL,Congratulations for becoming the Lord of the week!,Congratulations for becoming the Lord of the week!
-TEXTCLIENT_DONATION_NOLORD,There is no Lord this week.,There is no Lord this week.
-TEXTCLIENT_DONATION_LORD,The Lord of the week is %s. Congratulations!,The Lord of the week is %s. Congratulations!
-TEXTCLIENT_MYSTCASTLE_DATA_PENDING,Server data synchronization in progress. Please try again shortly.,Server data synchronization in progress. Please try again shortly.
-TEXTCLIENT_MYSTCASTLE_INVALID_FLOOR,Invalid floor selection. Please try again.,Invalid floor selection. Please try again.
-TEXTCLIENT_MYSTCASTLE_LEVEL_TOO_LOW,Your level is too low to enter this floor.,Your level is too low to enter this floor.
-TEXTCLIENT_MYSTCASTLE_BLOCK_TIME,Ranking settlement in progress. Please try again later.,Ranking settlement in progress. Please try again later.
-TEXTCLIENT_MYSTCASTLE_INIT_FAILED,Failed to initialize the floor. Please try again.,Failed to initialize the floor. Please try again.
-TEXTCLIENT_MYSTCASTLE_FLOOR_TICKET_REQUIRED,A Mysterious Castle Retry Coupon is required to challenge this floor.,A Mysterious Castle Retry Coupon is required to challenge this floor.
-TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD,You received a reward for clearing a new floor.,You received a reward for clearing a new floor.
-TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD_MAIL,You can't receive the reward for clearing a new floor. Check your mail.,You can't receive the reward for clearing a new floor. Check your mail.
-TEXTCLIENT_MYSTCASTLE_USE_FLOOR_TICKET_FAIL,Unable to use the Mysterious Castle Retry Coupon.,Unable to use the Mysterious Castle Retry Coupon.
-TEXTCLIENT_LORDSKILLS_NOT,Only the Lord can use this menu.,Only the Lord can use this menu.
-TEXTCLIENT_DUNGEON_ESCORT_DIED,Your escort died.,Your escort died.
+TEXTCLIENT_ADD_ATTRIBUTE_SUCCESS,Item has been upgraded.,Das Item wurde aufgewertet.
+TEXTCLIENT_ADD_ATTRIBUTE_INVALID,This item is not upgradeable.,Dieses Item kann nicht aufgewertet werden.
+TEXTCLIENT_REQSKILLSTACKS,You do not have the required skill stacks to use this skill.,"Du hast nicht genügend Skill-Stacks, um diesen Skill einzusetzen."
+TEXTCLIENT_MAX_TRAPS,You cannot place another one of these traps yet.,Du kannst noch keine weitere Falle dieser Art platzieren.
+TEXTCLIENT_TRAP_RANGE,You cannot place a trap here.,Du kannst hier keine Falle platzieren.
+TEXTCLIENT_TRAP_TOOL,You do not have enough Trap Tool.,Du hast nicht genügend Trap Tool.
+TEXTCLIENT_ENCHANT_SAME_JEWEL_FAILED,Equipping the same jewel failed.,Das Einsetzen desselben Juwels ist fehlgeschlagen.
+TEXTCLIENT_JEWELSYNTHESIS_NO,You do not have enough jewel or Penya for synthesis.,Du hast nicht genügend Juwelen oder Penya für die Synthese.
+TEXTCLIENT_JEWELSYNTHESIS_SUCCESS,Jewel synthesis succeeded!,Juwelensynthese erfolgreich!
+TEXTCLIENT_HEROQUEST_REQUIRED,This feature is only available with the Hero Quest.,Diese Funktion ist nur mit der Hero Quest verfügbar.
+TEXTCLIENT_SKILLPAGE_COOLDOWN,You can swap skill pages in %d seconds.,Du kannst die Skillseiten in %d Sekunden wechseln.
+TEXTCLIENT_SKILLPAGE_NOSKILL,You cannot swap skill pages while using skills.,"Du kannst die Skillseiten nicht wechseln, während du Skills einsetzt."
+TEXTCLIENT_CHGLEVEL_MASTER,You cannot use this item while on a master quest.,Du kannst dieses Item während einer Master-Quest nicht benutzen.
+TEXTCLIENT_CHGLEVEL_JOBCHANGE,You cannot use this item while on a job change quest.,Du kannst dieses Item während einer Jobwechsel-Quest nicht benutzen.
+TEXTCLIENT_MONSTER_ATTACK_ERROR_POSITION,You cannot attack the monster because you are not on the combat ground.,"Du kannst das Monster nicht angreifen, weil du dich nicht im Kampfgebiet befindest."
+TEXTCLIENT_UPGRADEANNOUNCE_ULTIMATE,%s upgraded Ultimate %s to %s+%d!,%s hat Ultimate %s auf %s+%d aufgewertet!
+TEXTCLIENT_PAYMENT_SUCCESS,Payment was successful!\nfCoins have been added to your account. ,Zahlung erfolgreich!\nDie fCoins wurden deinem Konto gutgeschrieben.
+TEXTCLIENT_PAYMENT_ERROR,Unknown error during payment.\nPlease try again.,Unbekannter Fehler bei der Zahlung.\nBitte versuche es erneut.
+TEXTCLIENT_EXP_RECOVER,You recovered the experience lost in the dungeon.,Du hast die im Dungeon verlorene Erfahrung zurückerhalten.
+TEXTCLIENT_EXPBOX_OLDVERSION,You cannot use it because you already recovered experience by clearing the dungeon.,"Du kannst es nicht benutzen, weil du deine Erfahrung bereits durch das Abschließen des Dungeons zurückerhalten hast."
+TEXTCLIENT_PARTYFAILREMOVE_DUNGEON,You cannot remove a member from your party while you are in the same dungeon.,"Du kannst kein Mitglied aus der Party entfernen, während ihr euch im selben Dungeon befindet."
+TEXTCLIENT_PARTYFAILCHANGE_DUNGEON,You cannot transfer leadership to a party member who is not in the same dungeon.,"Du kannst die Führung nicht an ein Party-Mitglied übertragen, das sich nicht im selben Dungeon befindet."
+TEXTCLIENT_PARTYFAILLEAVE_DUNGEON,You cannot leave the party as a leader in the dungeon.,Als Anführer kannst du die Party im Dungeon nicht verlassen.
+TEXTCLIENT_BOSS_RAID_DUNGEON_ENDED,The instance dungeon has ended. Please try again in a moment.,Der Instanz-Dungeon wurde beendet. Bitte versuche es gleich noch einmal.
+TEXTCLIENT_BOSS_RAID_MAX_PLAYCOUNT,%s has no daily entries remaining.,%s hat keine Eintritte für heute mehr übrig.
+TEXTCLIENT_BOSS_RAID_ANOTHER_DUNGEON,%s is already in another instance.,%s befindet sich bereits in einer anderen Instanz.
+TEXTCLIENT_MESSAGE_WARNING,Warning: '%s' is a regular player. Do not visit any website and never give out your credentials. The only official website is $WEBSITE$. Beware of scams and phishing websites.,Warnung: '%s' ist ein normaler Spieler. Besuche keine Webseiten und gib niemals deine Zugangsdaten weiter. Die einzige offizielle Webseite ist $WEBSITE$. Hüte dich vor Betrug und Phishing-Seiten.
+TEXTCLIENT_APP_DONATION,Donation,Spende
+TEXTCLIENT_APP_LORD,Lord Skills,Lord-Skills
+TEXTCLIENT_DONATION_START,Donation event %s +%d%% started!,Spenden-Event %s +%d%% hat begonnen!
+TEXTCLIENT_DONATION_END,Donation event %s +%d% ended...,Spenden-Event %s +%d% ist zu Ende...
+TEXTCLIENT_DONATION_CONFIRM,You donated %s Penya to the %s event.,Du hast %s Penya für das Event %s gespendet.
+TEXTCLIENT_DONATION_MAIL,Congratulations for becoming the Lord of the week!,Glückwunsch! Du bist nun der Lord für diese Woche!
+TEXTCLIENT_DONATION_NOLORD,There is no Lord this week.,Diese Woche gibt es keinen Lord.
+TEXTCLIENT_DONATION_LORD,The Lord of the week is %s. Congratulations!,Der Lord diese Woche ist %s. Glückwunsch!
+TEXTCLIENT_MYSTCASTLE_DATA_PENDING,Server data synchronization in progress. Please try again shortly.,Die Serverdaten werden gerade synchronisiert. Bitte versuche es in Kürze erneut.
+TEXTCLIENT_MYSTCASTLE_INVALID_FLOOR,Invalid floor selection. Please try again.,Ungültige Ebenenauswahl. Bitte versuche es erneut.
+TEXTCLIENT_MYSTCASTLE_LEVEL_TOO_LOW,Your level is too low to enter this floor.,Dein Level ist für diese Ebene zu niedrig.
+TEXTCLIENT_MYSTCASTLE_BLOCK_TIME,Ranking settlement in progress. Please try again later.,Die Ranking-Auswertung läuft gerade. Bitte versuche es später erneut.
+TEXTCLIENT_MYSTCASTLE_INIT_FAILED,Failed to initialize the floor. Please try again.,Die Ebene konnte nicht initialisiert werden. Bitte versuche es erneut.
+TEXTCLIENT_MYSTCASTLE_FLOOR_TICKET_REQUIRED,A Mysterious Castle Retry Coupon is required to challenge this floor.,Für diese Ebene wird ein Mysteriöses-Schloss-Wiederholungscoupon benötigt.
+TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD,You received a reward for clearing a new floor.,Du hast eine Belohnung für das Abschließen einer neuen Ebene erhalten.
+TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD_MAIL,You can't receive the reward for clearing a new floor. Check your mail.,Die Belohnung für das Abschließen einer neuen Ebene konnte nicht überreicht werden. Sieh in deinem Briefkasten nach.
+TEXTCLIENT_MYSTCASTLE_USE_FLOOR_TICKET_FAIL,Unable to use the Mysterious Castle Retry Coupon.,Der Mysteriöses-Schloss-Wiederholungscoupon konnte nicht verwendet werden.
+TEXTCLIENT_LORDSKILLS_NOT,Only the Lord can use this menu.,Nur der Lord kann dieses Menü nutzen.
+TEXTCLIENT_DUNGEON_ESCORT_DIED,Your escort died.,Dein Begleiter ist gestorben.

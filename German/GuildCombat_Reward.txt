@@ -22,4 +22,4 @@
   - 4 Siege in Folge: Dragon Cloak of the Hero (Alle Stats +8, Max HP +100)
 
 #b#cffff0000* Ein Button erscheint, der es ermöglicht, Dragon Cloaks frei im Gildenlager zu erstellen.#nb#nc
-* Dragon Cloaks können nur ausgerüstet werden, bis die nächste Gildenkampf beginnt.
+* Dragon Cloaks können nur ausgerüstet werden, bis der nächste Gildenkampf beginnt.
