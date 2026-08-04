@@ -718,7 +718,7 @@ TEXTCLIENT_GUILDCOMBAT_RAMPAGE,%s is on a rampage!,%s est déchaîné !
 TEXTCLIENT_GUILDCOMBAT_UNSTOPPABLE,%s is unstoppable!,%s est inarrêtable !
 TEXTCLIENT_GROUPQUEST_KILL_TIMER,%d minute(s) remaining to kill the boss,%d minute(s) restantes pour tuer le boss.
 TEXTCLIENT_GROUPQUEST_KILL,%s killed the %s!,%s a vaincu le boss %s !
-TEXTCLIENT_GROUPQUEST_KILL_GUILD,%s from Guild %s killed the %s!,%s de la guilde %s a tué le %s !
+TEXTCLIENT_GROUPQUEST_KILL_GUILD,%s from Guild %s killed the %s!,%s de la guilde %s a vaincu %s !
 TEXTCLIENT_GROUPQUEST_LOOT_TIMER,%d minute(s) remaining to loot the items,%d minute(s) restantes pour récupérer les objets tombés
 TEXTCLIENT_ERROR_ARENA_VAGRANT,A vagrant cannot join the Arena.,Un vagabond ne peut pas entrer dans l'arène.
 TEXTCLIENT_ERROR_ARENA_LEAVE,Please move out of the Arena first.,Veuillez d'abord sortir de l'arène.
@@ -1573,4 +1573,4 @@ TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD,You received a reward for clearing a new 
 TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD_MAIL,You can't receive the reward for clearing a new floor. Check your mail.,Vous ne pouvez pas recevoir la récompense pour avoir terminé un nouvel étage. Consultez votre boîte aux lettres.
 TEXTCLIENT_MYSTCASTLE_USE_FLOOR_TICKET_FAIL,Unable to use the Mysterious Castle Retry Coupon.,Impossible d'utiliser le Coupon de nouvelle tentative du Château mystérieux.
 TEXTCLIENT_LORDSKILLS_NOT,Only the Lord can use this menu.,Seul le Souverain peut utiliser ce menu.
-TEXTCLIENT_DUNGEON_ESCORT_DIED,Your escort died.,Your escort died.
+TEXTCLIENT_DUNGEON_ESCORT_DIED,Your escort died.,Votre escorte est morte.
