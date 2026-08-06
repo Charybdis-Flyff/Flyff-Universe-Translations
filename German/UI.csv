@@ -1178,7 +1178,7 @@ UI_TOOLTIP_RARITY_VERYRARE,Very Rare,Sehr selten
 UI_TOOLTIP_RARITY_ULTIMATE,Ultimate,Ultimate
 UI_WORLD_CASTING,Casting,Zaubern
 UI_WORLD_HARVESTING,Harvesting,Ernten
-UI_WORLD_OPENING,Opening,öffnet
+UI_WORLD_OPENING,Opening,Öffnet
 UI_WORLD_CHARGING,Charging,Lädt auf
 UI_NAVIGATOR_LOCALTIME,Local Time,Ortszeit
 UI_NAVIGATOR_SERVERTIME,Server Time,Serverzeit
@@ -1241,7 +1241,7 @@ UI_TOOLTIP_BOWRANGE,Bow Range,Bogenreichweite
 UI_TOOLTIP_SKILLUP,Skill Damage,Fähigkeitsschaden
 UI_TOOLTIP_SKILLUP_1V1,1v1 Skill Damage,1v1 Skill Schaden
 UI_TOOLTIP_HEALUP,Healing,Heilung
-UI_TOOLTIP_SKILLRANGE,Skill Range,Skill Weichreite
+UI_TOOLTIP_SKILLRANGE,Skill Range,Skill Reichreite
 UI_MAP_MENU,Menu,Menü
 UI_MAP_MENU_TIP,Hide/Show the menu,Menü ein-/ausblenden
 UI_TOOLTIP_RESTOREUP,HP Restoration,HP Wiederherstellung
