@@ -1033,7 +1033,7 @@ UI_TOOLTIP_COMBO_STEP,Starter,Beginn
 UI_TOOLTIP_COMBO_CIRCLE,Link,Übergang
 UI_TOOLTIP_COMBO_FINISH,Finisher,Abschluss
 UI_TOOLTIP_BASE_DAMAGE,Base Damage: %d ~ %d,Basisschaden: %d ~ %d
-UI_TOOLTIP_DMG_MUL,Damage Multiplier: %.2f,Damage Multiplier: %.2f
+UI_TOOLTIP_DMG_MUL,Damage Multiplier: %.2f,Schadens Multiplikator: %.2f
 UI_TOOLTIP_SCALE_ATTACK,Attack Scaling,Angriffsskalierung
 UI_TOOLTIP_SCALE_HEAL,Heal Scaling,Heilungsskalierung
 UI_TOOLTIP_SCALE_TIME,Time Scaling,Zeitskalierung
@@ -1045,19 +1045,19 @@ UI_TOOLTIP_PVP,PvP,PvP
 UI_TOOLTIP_PVE,PvE,PvE
 UI_TOOLTIP_AROUND,Around,Ungefähr
 UI_TOOLTIP_BASE_HEAL,Base Heal: %d,Basisheilung: %d
-UI_TOOLTIP_BASE_HEAL_MP,Base MP Heal: %d,Base MP Heal: %d
-UI_TOOLTIP_BASE_HEAL_FP,Base FP Heal: %d,Base FP Heal: %d
-UI_TOOLTIP_BASE_TIME,Base Time: %.2d:%.2d.%.3d,Base Time: %.2d:%.2d.%.3d
+UI_TOOLTIP_BASE_HEAL_MP,Base MP Heal: %d,Basis MP Heilung: %d
+UI_TOOLTIP_BASE_HEAL_FP,Base FP Heal: %d,Basis FP Heilung: %d
+UI_TOOLTIP_BASE_TIME,Base Time: %.2d:%.2d.%.3d,Basiszeit: %.2d:%.2d.%.3d
 UI_TOOLTIP_BASE_TIME_PVP,/ %.2d:%.2d (PvP & Giants),/ %.2d:%.2d (PvP & Giants)
 UI_TOOLTIP_PROBABILITY,Probability: %d%%,Wahrscheinlichkeit: %d%%
 UI_TOOLTIP_PROBABILITY_PVP,/ %d%% (PvP & Giants),/ %d%% (PvP & Giants)
 UI_TOOLTIP_PROBABILITY_FLYBACK,Knockdown Probability: %d%%,Knockdown Probability: %d%%
 UI_TOOLTIP_COOLDOWN,Cooldown: %.2d:%.2d,Abklingzeit: %.2d:%.2d
 UI_TOOLTIP_COOLDOWN_PVP,/ %.2d:%.2d (PvP),/ %.2d:%.2d (PvP)
-UI_TOOLTIP_COOLDOWN_ONLY_PVP,Cooldown: %.2d:%.2d (PvP),Cooldown: %.2d:%.2d (PvP)
-UI_TOOLTIP_COOLDOWN_ONEND,(After Expiry),(After Expiry)
+UI_TOOLTIP_COOLDOWN_ONLY_PVP,Cooldown: %.2d:%.2d (PvP),Abklingzeit: %.2d:%.2d (PvP)
+UI_TOOLTIP_COOLDOWN_ONEND,(After Expiry),(Nach Ablauf)
 UI_TOOLTIP_CASTING,Casting Time: %.2d:%.2d,Beschwörungszeit: %.2d:%.2d
-UI_TOOLTIP_CHARGING,Charging Time: %.2d:%.2d,Charging Time: %.2d:%.2d
+UI_TOOLTIP_CHARGING,Charging Time: %.2d:%.2d,Aufladezeit: %.2d:%.2d
 UI_NEWCHAR_FACE,Face,Gesicht
 UI_NEWCHAR_HAIR,Hair,Haare
 UI_NEWCHAR_HAIR_COLOR,Hair Color,Haarfarbe
@@ -1167,7 +1167,7 @@ UI_PARTY_PERMANENT_CONFIRM,This scroll will transform your party into a permanen
 UI_PARTY_PERMANENT,Permanent Party,Dauerhafte Party
 UI_SEARCHPARTY_TITLE,Search Party,Partysuche
 UI_SEARCHGUILD_TITLE,Search Guild,Gildensuche
-UI_GROUPSEARCH,Search,Search
+UI_GROUPSEARCH,Search,Suchen
 UI_TOOLTIP_TRANSMUTE,Transmutation:,Transmutation:
 UI_TOOLTIP_RARITY,Rarity:,Seltenheit:
 UI_TOOLTIP_RARITY_NORMAL,Common,Gewöhnlich
@@ -1178,8 +1178,8 @@ UI_TOOLTIP_RARITY_VERYRARE,Very Rare,Sehr selten
 UI_TOOLTIP_RARITY_ULTIMATE,Ultimate,Ultimate
 UI_WORLD_CASTING,Casting,Zaubern
 UI_WORLD_HARVESTING,Harvesting,Ernten
-UI_WORLD_OPENING,Opening,Opening
-UI_WORLD_CHARGING,Charging,Charging
+UI_WORLD_OPENING,Opening,Öffnen
+UI_WORLD_CHARGING,Charging,Aufladen
 UI_NAVIGATOR_LOCALTIME,Local Time,Ortszeit
 UI_NAVIGATOR_SERVERTIME,Server Time,Serverzeit
 UI_NAVIGATOR_MADRIGALTIME,Madrigal Time,Madrigal Zeit
@@ -1189,7 +1189,7 @@ UI_UPGRADESAFE_MATERIAL_NORMAL,Power Dice,Power Dice
 UI_UPGRADESAFE_MATERIAL_ULTIMATE,Sunstone,Oricalkum
 UI_UPGRADESAFE_MATERIAL_ELEMENT,Card,Karte
 UI_UPGRADESAFE_COST,#b%s#nb per attempt,#b%s#nb pro Versuch
-UI_UPGRADESAFE_TARGET_PIERCING,Piercing Goal,Zielanzahl
+UI_UPGRADESAFE_TARGET_PIERCING,Piercing Goal,Sockelziel
 UI_UPGRADESAFE_TARGET,Upgrade Goal,Zielbonus
 UI_UPGRADESAFE_CURRENT_PIERCING,~Piercings~,Anzahl der Sockel
 UI_UPGRADESAFE_CURRENT,~Current Value~,Derzeitiger Bonus
@@ -1241,7 +1241,7 @@ UI_TOOLTIP_BOWRANGE,Bow Range,Bogenreichweite
 UI_TOOLTIP_SKILLUP,Skill Damage,Fähigkeitsschaden
 UI_TOOLTIP_SKILLUP_1V1,1v1 Skill Damage,1v1 Skill Schaden
 UI_TOOLTIP_HEALUP,Healing,Heilung
-UI_TOOLTIP_SKILLRANGE,Skill Range,Skill Range
+UI_TOOLTIP_SKILLRANGE,Skill Range,Skill Reichweite
 UI_MAP_MENU,Menu,Menü
 UI_MAP_MENU_TIP,Hide/Show the menu,Menü ein-/ausblenden
 UI_TOOLTIP_RESTOREUP,HP Restoration,HP Wiederherstellung
