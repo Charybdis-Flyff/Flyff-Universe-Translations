@@ -12200,7 +12200,7 @@ PROPITEM_TXT_014616,Typhoon
 PROPITEM_TXT_014618,Fist of Tides
 PROPITEM_TXT_014620,Song of Sirens
 PROPITEM_TXT_014622,Lamprey's Wand
-PROPITEM_TXT_014624,Conch Stave
+PROPITEM_TXT_014624,Conch Staff
 PROPITEM_TXT_014625,Formed over the ages deep within the watery sands of Coral Island.
 PROPITEM_TXT_018197,Wingwander Boots
 PROPITEM_TXT_018199,Wingwander Gauntlets
@@ -12276,7 +12276,7 @@ PROPITEM_TXT_122305,Tarnished Typhoon
 PROPITEM_TXT_122306,Flawed Fist of Tides
 PROPITEM_TXT_122307,Sundered Song of Sirens
 PROPITEM_TXT_122308,Leaky Lamprey's Wand
-PROPITEM_TXT_122309,Craggy Conch Stave
+PROPITEM_TXT_122309,Craggy Conch Staff
 PROPITEM_TXT_122310,"This weathered iteration emerged as an imperfect echo of its prime, marked by the passage of time."
 PROPITEM_TXT_019197,Aqualis Helmet
 PROPITEM_TXT_019199,Aqualis Suit
@@ -12415,7 +12415,7 @@ PROPITEM_TXT_019456,Destroyed Typhoon
 PROPITEM_TXT_019457,Destroyed Fist of Tides
 PROPITEM_TXT_019458,Destroyed Song of Sirens
 PROPITEM_TXT_019459,Destroyed Lamprey's Wand
-PROPITEM_TXT_019460,Destroyed Conch Stave
+PROPITEM_TXT_019460,Destroyed Conch Staff
 PROPITEM_TXT_019461,This weapon has been damaged beyond repair.
 PROPITEM_TXT_019462,Coral Shield
 PROPITEM_TXT_019463,Mossy Coral Shield
@@ -24550,7 +24550,7 @@ PROPITEM_TXT_155501,Veil of Shade
 PROPITEM_TXT_155502,Maw of Judgement
 PROPITEM_TXT_155503,Oracle
 PROPITEM_TXT_155504,Scepter of Disorder
-PROPITEM_TXT_155505,Roika's Stave
+PROPITEM_TXT_155505,Roika's Staff
 PROPITEM_TXT_155506,Curtana
 PROPITEM_TXT_155507,Celestial Edge
 PROPITEM_TXT_155508,Bringer of Souls
@@ -24574,10 +24574,10 @@ PROPITEM_TXT_155525,Broken Maw of Judgement
 PROPITEM_TXT_155526,Battle-Worn Maw of Judgement
 PROPITEM_TXT_155527,Cursed Maw of Judgement
 PROPITEM_TXT_155528,Maw of Judgement
-PROPITEM_TXT_155529,Broken Roika's Stave
-PROPITEM_TXT_155530,Battle-Worn Roika's Stave
-PROPITEM_TXT_155531,Cursed Roika's Stave
-PROPITEM_TXT_155532,Roika's Stave
+PROPITEM_TXT_155529,Broken Roika's Staff
+PROPITEM_TXT_155530,Battle-Worn Roika's Staff
+PROPITEM_TXT_155531,Cursed Roika's Staff
+PROPITEM_TXT_155532,Roika's Staff
 PROPITEM_TXT_155533,Broken Oracle
 PROPITEM_TXT_155534,Battle-Worn Oracle
 PROPITEM_TXT_155535,Cursed Oracle
@@ -26603,17 +26603,17 @@ PROPITEM_TXT_903693,Rose Pink Yukata Costume Set Select Box
 PROPITEM_TXT_903694,Select which Gender you want to receive!
 PROPITEM_TXT_155827,[Event] 2026 Spring Gift Box
 PROPITEM_TXT_155828,Madrigal Flying Selection Box (15 days)
-PROPITEM_TXT_155829,2026 FWC Golden Curtana Ultimate
-PROPITEM_TXT_155830,2026 FWC Golden Celestial Edge Ultimate
-PROPITEM_TXT_155831,2026 FWC Golden Butcher's Carnage Ultimate
-PROPITEM_TXT_155832,2026 FWC Golden Harbinger Ultimate
-PROPITEM_TXT_155833,2026 FWC Golden Maw of Judgement Ultimate
-PROPITEM_TXT_155834,2026 FWC Golden Oracle Ultimate
-PROPITEM_TXT_155835,2026 FWC Golden Scepter of Disorder Ultimate
-PROPITEM_TXT_155836,2026 FWC Golden Roika's Stave Ultimate
-PROPITEM_TXT_155837,2026 FWC Golden Dementia Ultimate
-PROPITEM_TXT_155838,2026 FWC Golden Dragon's Rain Ultimate
-PROPITEM_TXT_155839,2026 FWC Golden K Fang Ultimate
+PROPITEM_TXT_155829,2026 FWC Golden Curtana
+PROPITEM_TXT_155830,2026 FWC Golden Celestial Edge
+PROPITEM_TXT_155831,2026 FWC Golden Butcher's Carnage
+PROPITEM_TXT_155832,2026 FWC Golden Harbinger
+PROPITEM_TXT_155833,2026 FWC Golden Maw of Judgement
+PROPITEM_TXT_155834,2026 FWC Golden Oracle
+PROPITEM_TXT_155835,2026 FWC Golden Scepter of Disorder
+PROPITEM_TXT_155836,2026 FWC Golden Roika's Staff
+PROPITEM_TXT_155837,2026 FWC Golden Dementia
+PROPITEM_TXT_155838,2026 FWC Golden Dragon's Rain
+PROPITEM_TXT_155839,2026 FWC Golden K Fang
 PROPITEM_TXT_155840,2026 FWC Golden Runthiel Helmet
 PROPITEM_TXT_155841,2026 FWC Golden Runthiel Suit
 PROPITEM_TXT_155842,2026 FWC Golden Runthiel Gauntlets
@@ -29257,24 +29257,24 @@ PROPITEM_TXT_913776,Sword of Whisper
 PROPITEM_TXT_913777,Sword of Mist
 PROPITEM_TXT_913778,Phantasmal Slayer
 PROPITEM_TXT_913779,Specter's Axe 
-PROPITEM_TXT_913780,Clever of the mist
+PROPITEM_TXT_913780,Cleaver of the Mist
 PROPITEM_TXT_913781,Knuckle of Madness
 PROPITEM_TXT_913782,Mirage
-PROPITEM_TXT_913783,Wand of apparitions
+PROPITEM_TXT_913783,Wand of Apparitions
 PROPITEM_TXT_913784,Staff of Ethereal Dreams
 PROPITEM_TXT_913785,Bow of Echoes
 PROPITEM_TXT_913786,Jewel of Nightmare
-PROPITEM_TXT_913787,Sword of Whisper Ultimate
-PROPITEM_TXT_913788,Sword of Mist Ultimate
-PROPITEM_TXT_913789,Phantasmal Slayer Ultimate
-PROPITEM_TXT_913790,Specter's Axe Ultimate
-PROPITEM_TXT_913791,Clever of the mist Ultimate
-PROPITEM_TXT_913792,Knuckle of Madness Ultimate
-PROPITEM_TXT_913793,Mirage Ultimate
-PROPITEM_TXT_913794,Wand of apparitions Ultimate
-PROPITEM_TXT_913795,Staff of Ethereal Dreams Ultimate
-PROPITEM_TXT_913796,Bow of Echoes Ultimate
-PROPITEM_TXT_913797,Jewel of Nightmare Ultimate
+PROPITEM_TXT_913787,Sword of Whisper
+PROPITEM_TXT_913788,Sword of Mist
+PROPITEM_TXT_913789,Phantasmal Slayer
+PROPITEM_TXT_913790,Specter's Axe
+PROPITEM_TXT_913791,Cleaver of the Mist
+PROPITEM_TXT_913792,Knuckle of Madness
+PROPITEM_TXT_913793,Mirage
+PROPITEM_TXT_913794,Wand of Apparitions
+PROPITEM_TXT_913795,Staff of Ethereal Dreams
+PROPITEM_TXT_913796,Bow of Echoes
+PROPITEM_TXT_913797,Jewel of Nightmare
 PROPITEM_TXT_913798,1.5.5 Update Pass
 PROPITEM_TXT_913799,This purchase will give you access to many advantages until the end of the 1.5.5 Update Pass season
 PROPITEM_TXT_913800,1.5.5 Update Lucky Box
