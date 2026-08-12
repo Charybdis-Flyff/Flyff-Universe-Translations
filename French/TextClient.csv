@@ -717,8 +717,8 @@ TEXTCLIENT_GUILDCOMBAT_KILLING_STREAK,%s is on a killing spree!,%s est sur une l
 TEXTCLIENT_GUILDCOMBAT_RAMPAGE,%s is on a rampage!,%s est déchaîné !
 TEXTCLIENT_GUILDCOMBAT_UNSTOPPABLE,%s is unstoppable!,%s est inarrêtable !
 TEXTCLIENT_GROUPQUEST_KILL_TIMER,%d minute(s) remaining to kill the boss,%d minute(s) restantes pour tuer le boss.
-TEXTCLIENT_GROUPQUEST_KILL,%s killed the %s!,%s a vaincu le boss %s !
-TEXTCLIENT_GROUPQUEST_KILL_GUILD,%s from Guild %s killed the %s!,%s de la guilde %s a vaincu %s !
+TEXTCLIENT_GROUPQUEST_KILL,%s killed the %s!,%s a vaincu le boss : %s !
+TEXTCLIENT_GROUPQUEST_KILL_GUILD,%s from Guild %s killed the %s!,%s de la guilde %s a vaincu le boss : %s !
 TEXTCLIENT_GROUPQUEST_LOOT_TIMER,%d minute(s) remaining to loot the items,%d minute(s) restantes pour récupérer les objets tombés
 TEXTCLIENT_ERROR_ARENA_VAGRANT,A vagrant cannot join the Arena.,Un vagabond ne peut pas entrer dans l'arène.
 TEXTCLIENT_ERROR_ARENA_LEAVE,Please move out of the Arena first.,Veuillez d'abord sortir de l'arène.
