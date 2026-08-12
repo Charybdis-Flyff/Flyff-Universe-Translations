@@ -1,17 +1,17 @@
-﻿#b#cff00ffffTHE LAST BEACON: MISSION MANILA#nc#nb
+#b#cff00ffffLE DERNIER PHARE : MISSION MANILLE#nc#nb
 
-#cffffffffThe shipwreck was only the beginning.#nc The wrecked guild ship’s magical power source is leaking unstable energy, acting as a #b#cffff0000cursed beacon#nc#nb in the deep. This surge of power has become a massive lure, attracting the most relentless monsters of the abyss.
+#cffffffffLe naufrage n'était que le début.#nc La source d'énergie magique du navire de guilde échoué libère une énergie instable, agissant comme un #b#cffff0000phare maudit#nc#nb dans les profondeurs. Cette déferlante de puissance est devenue un immense appât, attirant les monstres les plus redoutables des abysses.
 
-#b[MISSION BRIEFING]#nb
-#cffffff00Eight elite agents#nc must team up to #b#cff00ff00protect the 20 terrified sailors#nc#nb until the very end. Fend off 20 relentless waves of enemies and prove your mettle.
+#b[BRIEFING DE MISSION]#nb
+#cffffff00Huit agents d'élite#nc doivent faire équipe pour #b#cff00ff00protéger les 20 marins terrifiés#nc#nb jusqu'à la fin. Repoussez 20 vagues incessantes d'ennemis et faites vos preuves.
 
-#b[ENEMY TYPES]#nb
-#b#cffff0000Common#nc#nb enemies are standard attackers.
-#b#cffff0000Healthy#nc#nb enemies have high HP and resist physical damage.
-#b#cffff0000Fast#nc#nb enemies move quickly and resist magic damage.
-#b#cffff0000Explosive#nc#nb enemies detonate on death.
+#b[TYPE D'ENNEMIS]#nb
+#b#cffff0000Les ennemis communs#nc#nb sont des attaquants standards.
+#b#cffff0000Les ennemis robustes#nc#nb disposent de beaucoup de PV et résistent aux dégâts physiques.
+#b#cffff0000Les ennemis rapides#nc#nb se déplacent rapidement et résistent aux dégâts magiques.
+#b#cffff0000Les ennemis explosifs#nc#nb explosent à leur mort.
 
-#b"You are the final line of defense between the survivors and total annihilation. Every second counts, and every position is critical."#nb
+#b« Vous êtes la dernière ligne de défense entre les survivants et l'anéantissement total. Chaque seconde compte et chaque position est cruciale. »#nb
 
-#b[THE CHALLENGE]#nb
-The team that demonstrates the #b#cffffffffmost perfect defense#nc#nb will receive the ultimate honor. Are you ready to turn this tragedy into a record of great victory with your companions?
+#b[LE DÉFI]#nb
+L'équipe qui réalisera la #b#cffffffffdéfense la plus parfaite#nc#nb recevra l'ultime honneur. Êtes-vous prêts à transformer cette tragédie en un récit de grande victoire aux côtés de vos compagnons ?
