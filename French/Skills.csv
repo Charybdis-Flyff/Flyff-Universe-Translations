@@ -1225,3 +1225,5 @@ PROPSKILL_TXT_100203,Stun,Étourdissement
 PROPSKILL_TXT_100204,You are stunned and cannot move.,Vous êtes étourdi et ne pouvez plus bouger.
 PROPSKILL_TXT_100205,Sand Shield,Bouclier de sable
 PROPSKILL_TXT_100206,Incoming damage is reduced to 1 for 5 seconds.,Les dégâts reçus sont réduits à 1 pendant 5 secondes.
+PROPSKILL_TXT_150642,Wave Defense Buff,Wave Defense Buff
+PROPSKILL_TXT_150643,"Reinforced by your fellow defenders. Increases Attack, Speed, Defense, and Max HP based on the number of defenders present.","Reinforced by your fellow defenders. Increases Attack, Speed, Defense, and Max HP based on the number of defenders present."

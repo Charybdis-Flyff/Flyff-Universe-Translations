@@ -1225,3 +1225,5 @@ PROPSKILL_TXT_100203,Stun,暈眩
 PROPSKILL_TXT_100204,You are stunned and cannot move.,你被暈眩了，動彈不得。
 PROPSKILL_TXT_100205,Sand Shield,沙之護盾
 PROPSKILL_TXT_100206,Incoming damage is reduced to 1 for 5 seconds.,受到的傷害降低為 1，持續 5 秒。
+PROPSKILL_TXT_150642,Wave Defense Buff,Wave Defense Buff
+PROPSKILL_TXT_150643,"Reinforced by your fellow defenders. Increases Attack, Speed, Defense, and Max HP based on the number of defenders present.","Reinforced by your fellow defenders. Increases Attack, Speed, Defense, and Max HP based on the number of defenders present."

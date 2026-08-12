@@ -1,0 +1,20 @@
+﻿#b PVP Contest: The Road to Glory #nb
+
+#cff00ccff Will you defeat every rival guild and dominate your region's ladder? #nc
+
+Assemble your #b 4 strongest champions #nb and fight for your place in the #cffffd700 Grand Final in Manila #nc!
+
+#b Tournament Regulations #nb
+
+#cff00aaff • #nc #b Match Attendance #nb
+You #b must #nb join your designated match. Failure to appear results in an immediate #cffff0000 disqualification #nc. Your opponent will receive points based on your remaining lives.
+
+#cff00aaff • #nc #b Reconnection Policy #nb
+In case of a disconnection, you have a #cff00ff00 90-second window #nc to rejoin.
+#b [!]#nb Limited to #b 3 attempts #nb per match.
+
+#cff00aaff • #nc #b Tournament Exit #nb
+Missing or failing to reconnect to more than #cffff0000 3 matches #nc total will result in an #b automatic permanent ban #nb from the current tournament.
+
+#cff00aaff • #nc #b Daily Limit #nb
+To ensure peak performance, players are restricted to #cff00aaff 1 match per day #nc.

@@ -1267,6 +1267,7 @@ UI_TOOLTIP_DST_CRITICAL_RESIST,Critical Resist,Resistencia Crítica
 UI_TOOLTIP_DST_PVP_DMG_RATE,PvP Damage Reduction,Reducción de Daño PvP
 UI_TOOLTIP_DST_PVE_DMG_RATE,PvE Damage Reduction,Reducción de Daño PvE
 UI_TOOLTIP_DST_DEFMAGIC_RATE,Magic Resistance,Resistencia Mágica
+UI_TOOLTIP_DST_DEFPHYS_RATE,Physical Resistance,Physical Resistance
 UI_TOOLTIP_DST_PVP_DMG,PvP Damage,Daño PvP
 UI_TOOLTIP_DST_PVE_DMG,PvE Damage,Daño PvE
 UI_TOOLTIP_DST_ASAL,Asalraalaikum Damage,Daño Asalraalaikum
@@ -3389,3 +3390,100 @@ UI_MYSTCASTLE_ENTER_FLOOR_USE_TICKET,Entering will consume a Mysterious Castle r
 UI_MYSTCASTLE_TOUCH_ANYWHERE,Touch anywhere to type!,¡Toca cualquier lugar para escribir!
 UI_DUNGEON_DEFEND,Defend,Defend
 UI_DUNGEON_ESCORT,Rescue,Rescue
+UI_PVPCONTEST_MINPARTICIPATINGPLAYERS,Min. Participating Players:,Min. Participating Players:
+UI_PVPCONTEST_REGIONTEAMS_GUILD,Guild,Guild
+UI_PVPCONTEST_REGIONTEAMS_NEXTMATCH,Next Match,Next Match
+UI_PVPCONTEST_REGIONTEAMS_REGION,Region,Region
+UI_PVPCONTEST_REGISTRATION_LBLFEE,Reg. fee,Reg. fee
+UI_PVPCONTEST_REGISTRATION_LBLFEE_TOOLTIP,Registration fee,Registration fee
+UI_PVPCONTEST_REGISTRATION_LBLREQPLAYERS,Req. Players,Req. Players
+UI_PVPCONTEST_REGISTRATION_LBLREQPLAYERS_TOOLTIP,Required player count,Required player count
+UI_PVPCONTEST_REGISTRATION_LBLMINGUILDLEVEL,Min. Guild Level,Min. Guild Level
+UI_PVPCONTEST_REGISTRATION_LBLMINGUILDLEVEL_TOOLTIP,Minimum guild level,Minimum guild level
+UI_PVPCONTEST_REGISTRATION_LBLMINLEVEL,Min. Player Level,Min. Player Level
+UI_PVPCONTEST_REGISTRATION_LBLMINLEVEL_TOOLTIP,Minimum player level,Minimum player level
+UI_PVPCONTEST_REGISTRATION_LBLREGIONDETAIL,Region assigned based on active match schedule,Region assigned based on active match schedule
+UI_WAVEDEFENSE_TITLE,The Last Beacon,The Last Beacon
+UI_WAVEDEFENSE_CREATEMATCH,Create Match,Create Match
+UI_WAVEDEFENSE_JOINMATCH,Join Match,Join Match
+UI_WAVEDEFENSE_BTNMODEPUBLIC,Public,Public
+UI_WAVEDEFENSE_BTNMODEPRIVATE,Private,Private
+UI_WAVEDEFENSE_BTNCREATEMATCH,Create Match,Create Match
+UI_WAVEDEFENSE_BTNQUICKJOIN,Quick Join,Quick Join
+UI_WAVEDEFENSE_BTNJOIN,Join,Join
+UI_WAVEDEFENSE_LBLMODE,Mode,Mode
+UI_WAVEDEFENSE_LBLMATCH,Match,Match
+UI_WAVEDEFENSE_LBLSETTINGS,Game Settings,Game Settings
+UI_WAVEDEFENSE_LBLMATCHPASSWORD,Match password,Match password
+UI_WAVEDEFENSE_HDRMINLEVEL,Min. Level: %d,Min. Level: %d
+UI_WAVEDEFENSE_HDRMAXPLAYERS,Max Players: %d,Max Players: %d
+UI_WAVEDEFENSE_HDRWAVECOUNT,Waves Count: %d,Waves Count: %d
+UI_WAVEDEFENSE_LBLSEARCH,Room Name,Room Name
+UI_WAVEDEFENSE_CBBMODEPUBLIC,Public,Public
+UI_WAVEDEFENSE_CBBMODEPRIVATE,Private,Private
+UI_WAVEDEFENSE_LBLROOMNAME,Room Name,Room Name
+UI_WAVEDEFENSE_LBLROOMDETAILS,Room Details,Room Details
+UI_WAVEDEFENSE_LBLPLAYERCOUNT,Player Count,Player Count
+UI_WAVEDEFENSE_LBLSTARTINGIN,Starting in,Starting in
+UI_WAVEDEFENSE_LBLLEADER,Leader,Leader
+UI_WAVEDEFENSE_LBLPLAYERSCOMPOSITION,Players Composition,Players Composition
+UI_WAVEDEFENSE_CBBMODEALL,All ,All 
+UI_WAVEDEFENSEMATCHLIST_HDRROOMNAME,Room Name,Room Name
+UI_WAVEDEFENSEMATCHLIST_HDRMODE,Mode,Mode
+UI_WAVEDEFENSEMATCHLIST_HDRPLAYERCOUNT,Players,Players
+UI_WAVEDEFENSEMATCHLIST_HDRLEADER,Leader,Leader
+UI_WAVEDEFENSEMATCHLIST_HDRSTARTINGIN,Starting in,Starting in
+UI_WAVEDEFENSE_STATUS_CURRENTWAVE,Current Wave %d/%d,Current Wave %d/%d
+UI_WAVEDEFENSE_STATUS_TOTALTIME,Total time %s,Total time %s
+UI_WAVEDEFENSE_STATUS_DEFENDERSLEFT,Sailors %d/%d,Sailors %d/%d
+UI_WAVEDEFENSE_STATUS_MONSTERSLEFT,Monsters %d/%d,Monsters %d/%d
+UI_WAVEDEFENSE_STATUS_REWARDS,Rewards,Rewards
+UI_WAVEDEFENSE_STATUS_TIMELEFT_PREPARE,Starting in %s,Starting in %s
+UI_WAVEDEFENSE_STATUS_TIMELEFT_FIGHT,Time left %s,Time left %s
+UI_WAVEDEFENSE_STATUS_TIMELEFT_PREPAREWAVE,Prepare %s,Prepare %s
+UI_WAVEDEFENSE_STATUS_TIMELEFT_TELEPORT,Teleporting in %s,Teleporting in %s
+UI_WAVEDEFENSE_STATUS_FORCESTART,Start now,Start now
+UI_WAVEDEFENSE_STATUS_FORCENEXTWAVE,Next wave,Next wave
+UI_WAVEDEFENSE_LISTPLAYER_LEVEL,Lv.%d,Lv.%d
+UI_WAVEDEFENSE_LISTPLAYER_EMPTYSLOT,Empty Slot,Empty Slot
+UI_WAVEDEFENSE_STATUS_PASSWORD,Room password: %s,Room password: %s
+UI_WAVEDEFENSE_STATUS_KICK,Kick,Kick
+UI_WAVEDEFENSE_STATUS_KICKTITLE,Kick user,Kick user
+UI_WAVEDEFENSE_STATUS_KICKMSG,You are about to kick user %s. Do you want to continue?,You are about to kick user %s. Do you want to continue?
+UI_WAVEDEFENSE_STATUS_INVITETITLE,Invite user,Invite user
+UI_WAVEDEFENSE_STATUS_INVITEINFO,Please put the player name you want to invite in your Wave Defense match.,Please put the player name you want to invite in your Wave Defense match.
+UI_WAVEDEFENSE_STATUS_INVITEPLAYER,Player name,Player name
+UI_WAVEDEFENSE_JOIN_TITLE,Confirm Wave,Confirm Wave
+UI_WAVEDEFENSE_JOIN_MSG,%s invites you to join wave defense match. Accept the invitation?,%s invites you to join wave defense match. Accept the invitation?
+UI_WAVEDEFENSE_JOINMATCH_TITLE,Join Wave Defense Match,Join Wave Defense Match
+UI_WAVEDEFENSE_JOINMATCH_MSG,You are about to join match %s. Confirm?,You are about to join match %s. Confirm?
+UI_WAVEDEFENSE_JOINMATCH_PWD,Password,Password
+UI_WAVEDEFENSE_RANKING,Ranking,Ranking
+UI_WAVEDEFENSE_MILESTONE_HEADER,Milestones,Milestones
+UI_WAVEDEFENSE_MILESTONE_DESC,Clear waves with your team and claim exclusive rewards!,Clear waves with your team and claim exclusive rewards!
+UI_WAVEDEFENSE_MILESTONE,Clear %d total waves,Clear %d total waves
+UI_WAVEDEFENSE_RANKING_RANK,Rank,Rank
+UI_WAVEDEFENSE_RANKING_ROOM,Room Name,Room Name
+UI_WAVEDEFENSE_RANKING_WAVE,Max Wave,Max Wave
+UI_WAVEDEFENSE_RANKING_KILLS,Total Kills,Total Kills
+UI_WAVEDEFENSE_RANKING_DEFENDERS,Sailors,Sailors
+UI_WAVEDEFENSE_RANKING_TIME,Time,Time
+UI_WAVEDEFENSE_MILESTONE_CLAIM,Claim,Claim
+UI_WAVEDEFENSE_RANKING_DESC,Dominate the rankings with your team and secure your place at the top!,Dominate the rankings with your team and secure your place at the top!
+UI_WAVEDEFENSE_RANKINGDETAILS_HDR,Match Details,Match Details
+UI_WAVEDEFENSE_RANKINGDETAILS_ROOMNAME,Room Name,Room Name
+UI_WAVEDEFENSE_RANKINGDETAILS_PLAYERS_NAME,Player,Player
+UI_WAVEDEFENSE_RANKINGDETAILS_PLAYERS_JOB,Job,Job
+UI_WAVEDEFENSE_RANKINGDETAILS_PLAYERS_KILLS,Kills,Kills
+UI_WAVEDEFENSE_STATUS_RESPAWN,Respawn in %s,Respawn in %s
+UI_PVPMATCH_RESPAWNNOW,Respawn now,Respawn now
+UI_WAVEDEFENSE_INVITATION_INVITE,Invite,Invite
+UI_WAVEDEFENSE_INVITATION_CLOSE,Close,Close
+UI_WAVEDEFENSE_HDRDAILYMATCHES,Daily matches: %d/%d,Daily matches: %d/%d
+UI_WAVEDEFENSE_SKIPWAVE_CONFIRM,Skip the remaining wait and start the next wave now?,Skip the remaining wait and start the next wave now?
+UI_WAVEDEFENSE_CLEARREWARD_MAXEDTODAY,Already claimed today. Resets tomorrow.,Already claimed today. Resets tomorrow.
+UI_WAVEDEFENSE_STATUS_IMMORTAL,Immortal Sailors Enabled,Immortal Sailors Enabled
+UI_WAVEDEFENSE_STATUS_LEAVE,Leave,Leave
+UI_WAVEDEFENSE_STATUS_LEAVE_CONFIRM,Are you sure you want to leave the match?,Are you sure you want to leave the match?
+UI_FWC_PASS_2026,2026 FWC Championship Pass,2026 FWC Championship Pass
+UI_WAVEDEFENSE_CLEARREWARD_DAILYLIMIT,Daily reward: %d / %d claimed today,Daily reward: %d / %d claimed today

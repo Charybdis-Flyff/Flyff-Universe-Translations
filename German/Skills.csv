@@ -1225,3 +1225,5 @@ PROPSKILL_TXT_100203,Stun,Stun
 PROPSKILL_TXT_100204,You are stunned and cannot move.,Du bist betäubt und kannst dich nicht bewegen.
 PROPSKILL_TXT_100205,Sand Shield,Sand Shield
 PROPSKILL_TXT_100206,Incoming damage is reduced to 1 for 5 seconds.,Eingehender Schaden wird 5 Sekunden lang auf 1 reduziert.
+PROPSKILL_TXT_150642,Wave Defense Buff,Wave Defense Buff
+PROPSKILL_TXT_150643,"Reinforced by your fellow defenders. Increases Attack, Speed, Defense, and Max HP based on the number of defenders present.","Reinforced by your fellow defenders. Increases Attack, Speed, Defense, and Max HP based on the number of defenders present."

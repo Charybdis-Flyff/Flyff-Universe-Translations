@@ -12200,7 +12200,7 @@ PROPITEM_TXT_014616,Typhoon,Typhoon
 PROPITEM_TXT_014618,Fist of Tides,Fist of Tides
 PROPITEM_TXT_014620,Song of Sirens,Song of Sirens
 PROPITEM_TXT_014622,Lamprey's Wand,Lamprey's Wand
-PROPITEM_TXT_014624,Conch Stave,Conch Stave
+PROPITEM_TXT_014624,Conch Staff,Conch Staff
 PROPITEM_TXT_014625,Formed over the ages deep within the watery sands of Coral Island.,Được hình thành qua nhiều thời đại sâu trong bãi cát đầy nước của Coral Island.
 PROPITEM_TXT_018197,Wingwander Boots,Wingwander Boots
 PROPITEM_TXT_018199,Wingwander Gauntlets,Wingwander Gauntlets
@@ -12276,7 +12276,7 @@ PROPITEM_TXT_122305,Tarnished Typhoon,Tarnished Typhoon
 PROPITEM_TXT_122306,Flawed Fist of Tides,Flawed Fist of Tides
 PROPITEM_TXT_122307,Sundered Song of Sirens,Sundered Song of Sirens
 PROPITEM_TXT_122308,Leaky Lamprey's Wand,Leaky Lamprey's Wand
-PROPITEM_TXT_122309,Craggy Conch Stave,Craggy Conch Stave
+PROPITEM_TXT_122309,Craggy Conch Staff,Craggy Conch Staff
 PROPITEM_TXT_122310,"This weathered iteration emerged as an imperfect echo of its prime, marked by the passage of time.","Sự lặp lại bị phong hóa này xuất hiện như một tiếng vang không hoàn hảo của thời kỳ sơ khai, được đánh dấu bằng sự trôi qua của thời gian."
 PROPITEM_TXT_019197,Aqualis Helmet,Aqualis Helmet
 PROPITEM_TXT_019199,Aqualis Suit,Aqualis Suit
@@ -12415,7 +12415,7 @@ PROPITEM_TXT_019456,Destroyed Typhoon,Destroyed Typhoon
 PROPITEM_TXT_019457,Destroyed Fist of Tides,Destroyed Fist of Tides
 PROPITEM_TXT_019458,Destroyed Song of Sirens,Destroyed Song of Sirens
 PROPITEM_TXT_019459,Destroyed Lamprey's Wand,Destroyed Lamprey's Wand
-PROPITEM_TXT_019460,Destroyed Conch Stave,Destroyed Conch Stave
+PROPITEM_TXT_019460,Destroyed Conch Staff,Destroyed Conch Staff
 PROPITEM_TXT_019461,This weapon has been damaged beyond repair.,Vũ khí này đã bị hư hại không thể phục hồi được.
 PROPITEM_TXT_019462,Coral Shield,Coral Shield
 PROPITEM_TXT_019463,Mossy Coral Shield,Mossy Coral Shield
@@ -24550,7 +24550,7 @@ PROPITEM_TXT_155501,Veil of Shade,Veil of Shade
 PROPITEM_TXT_155502,Maw of Judgement,Maw of Judgement
 PROPITEM_TXT_155503,Oracle,Tiên tri
 PROPITEM_TXT_155504,Scepter of Disorder,Scepter of Disorder
-PROPITEM_TXT_155505,Roika's Stave,Roika's Stave
+PROPITEM_TXT_155505,Roika's Staff,Roika's Staff
 PROPITEM_TXT_155506,Curtana,Curtana
 PROPITEM_TXT_155507,Celestial Edge,Celestial Edge
 PROPITEM_TXT_155508,Bringer of Souls,Bringer of Souls
@@ -24574,10 +24574,10 @@ PROPITEM_TXT_155525,Broken Maw of Judgement,Broken Maw of Judgement
 PROPITEM_TXT_155526,Battle-Worn Maw of Judgement,Battle-Worn Maw of Judgement
 PROPITEM_TXT_155527,Cursed Maw of Judgement,Cursed Maw of Judgement
 PROPITEM_TXT_155528,Maw of Judgement,Maw of Judgement
-PROPITEM_TXT_155529,Broken Roika's Stave,Broken Roika's Stave
-PROPITEM_TXT_155530,Battle-Worn Roika's Stave,Battle-Worn Roika's Stave
-PROPITEM_TXT_155531,Cursed Roika's Stave,Cursed Roika's Stave
-PROPITEM_TXT_155532,Roika's Stave,Roika's Stave
+PROPITEM_TXT_155529,Broken Roika's Staff,Broken Roika's Staff
+PROPITEM_TXT_155530,Battle-Worn Roika's Staff,Battle-Worn Roika's Staff
+PROPITEM_TXT_155531,Cursed Roika's Staff,Cursed Roika's Staff
+PROPITEM_TXT_155532,Roika's Staff,Roika's Staff
 PROPITEM_TXT_155533,Broken Oracle,Broken Oracle
 PROPITEM_TXT_155534,Battle-Worn Oracle,Battle-Worn Oracle
 PROPITEM_TXT_155535,Cursed Oracle,Cursed Oracle
@@ -26603,17 +26603,17 @@ PROPITEM_TXT_903693,Rose Pink Yukata Costume Set Select Box,Rose Pink Yukata Cos
 PROPITEM_TXT_903694,Select which Gender you want to receive!,Select which Gender you want to receive!
 PROPITEM_TXT_155827,[Event] 2026 Spring Gift Box,[Event] 2026 Spring Gift Box
 PROPITEM_TXT_155828,Madrigal Flying Selection Box (15 days),Madrigal Flying Selection Box (15 days)
-PROPITEM_TXT_155829,2026 FWC Golden Curtana Ultimate,2026 FWC Golden Curtana Ultimate
-PROPITEM_TXT_155830,2026 FWC Golden Celestial Edge Ultimate,2026 FWC Golden Celestial Edge Ultimate
-PROPITEM_TXT_155831,2026 FWC Golden Butcher's Carnage Ultimate,2026 FWC Golden Butcher's Carnage Ultimate
-PROPITEM_TXT_155832,2026 FWC Golden Harbinger Ultimate,2026 FWC Golden Harbinger Ultimate
-PROPITEM_TXT_155833,2026 FWC Golden Maw of Judgement Ultimate,2026 FWC Golden Maw of Judgement Ultimate
-PROPITEM_TXT_155834,2026 FWC Golden Oracle Ultimate,2026 FWC Golden Oracle Ultimate
-PROPITEM_TXT_155835,2026 FWC Golden Scepter of Disorder Ultimate,2026 FWC Golden Scepter of Disorder Ultimate
-PROPITEM_TXT_155836,2026 FWC Golden Roika's Stave Ultimate,2026 FWC Golden Roika's Stave Ultimate
-PROPITEM_TXT_155837,2026 FWC Golden Dementia Ultimate,2026 FWC Golden Dementia Ultimate
-PROPITEM_TXT_155838,2026 FWC Golden Dragon's Rain Ultimate,2026 FWC Golden Dragon's Rain Ultimate
-PROPITEM_TXT_155839,2026 FWC Golden K Fang Ultimate,2026 FWC Golden K Fang Ultimate
+PROPITEM_TXT_155829,2026 FWC Golden Curtana,2026 FWC Golden Curtana
+PROPITEM_TXT_155830,2026 FWC Golden Celestial Edge,2026 FWC Golden Celestial Edge
+PROPITEM_TXT_155831,2026 FWC Golden Butcher's Carnage,2026 FWC Golden Butcher's Carnage
+PROPITEM_TXT_155832,2026 FWC Golden Harbinger,2026 FWC Golden Harbinger
+PROPITEM_TXT_155833,2026 FWC Golden Maw of Judgement,2026 FWC Golden Maw of Judgement
+PROPITEM_TXT_155834,2026 FWC Golden Oracle,2026 FWC Golden Oracle
+PROPITEM_TXT_155835,2026 FWC Golden Scepter of Disorder,2026 FWC Golden Scepter of Disorder
+PROPITEM_TXT_155836,2026 FWC Golden Roika's Staff,2026 FWC Golden Roika's Staff
+PROPITEM_TXT_155837,2026 FWC Golden Dementia,2026 FWC Golden Dementia
+PROPITEM_TXT_155838,2026 FWC Golden Dragon's Rain,2026 FWC Golden Dragon's Rain
+PROPITEM_TXT_155839,2026 FWC Golden K Fang,2026 FWC Golden K Fang
 PROPITEM_TXT_155840,2026 FWC Golden Runthiel Helmet,2026 FWC Golden Runthiel Helmet
 PROPITEM_TXT_155841,2026 FWC Golden Runthiel Suit,2026 FWC Golden Runthiel Suit
 PROPITEM_TXT_155842,2026 FWC Golden Runthiel Gauntlets,2026 FWC Golden Runthiel Gauntlets
@@ -29256,25 +29256,25 @@ PROPITEM_TXT_913775,A sacred targe infused with a fragment of Entaness' lingerin
 PROPITEM_TXT_913776,Sword of Whisper,Sword of Whisper
 PROPITEM_TXT_913777,Sword of Mist,Sword of Mist
 PROPITEM_TXT_913778,Phantasmal Slayer,Phantasmal Slayer
-PROPITEM_TXT_913779,Specter's Axe ,Specter's Axe 
-PROPITEM_TXT_913780,Clever of the mist,Clever of the mist
+PROPITEM_TXT_913779,Specter's Axe,Specter's Axe
+PROPITEM_TXT_913780,Cleaver of the Mist,Cleaver of the Mist
 PROPITEM_TXT_913781,Knuckle of Madness,Knuckle of Madness
 PROPITEM_TXT_913782,Mirage,Mirage
-PROPITEM_TXT_913783,Wand of apparitions,Wand of apparitions
+PROPITEM_TXT_913783,Wand of Apparitions,Wand of Apparitions
 PROPITEM_TXT_913784,Staff of Ethereal Dreams,Staff of Ethereal Dreams
 PROPITEM_TXT_913785,Bow of Echoes,Bow of Echoes
 PROPITEM_TXT_913786,Jewel of Nightmare,Jewel of Nightmare
-PROPITEM_TXT_913787,Sword of Whisper Ultimate,Sword of Whisper Ultimate
-PROPITEM_TXT_913788,Sword of Mist Ultimate,Sword of Mist Ultimate
-PROPITEM_TXT_913789,Phantasmal Slayer Ultimate,Phantasmal Slayer Ultimate
-PROPITEM_TXT_913790,Specter's Axe Ultimate,Specter's Axe Ultimate
-PROPITEM_TXT_913791,Clever of the mist Ultimate,Clever of the mist Ultimate
-PROPITEM_TXT_913792,Knuckle of Madness Ultimate,Knuckle of Madness Ultimate
-PROPITEM_TXT_913793,Mirage Ultimate,Mirage Ultimate
-PROPITEM_TXT_913794,Wand of apparitions Ultimate,Wand of apparitions Ultimate
-PROPITEM_TXT_913795,Staff of Ethereal Dreams Ultimate,Staff of Ethereal Dreams Ultimate
-PROPITEM_TXT_913796,Bow of Echoes Ultimate,Bow of Echoes Ultimate
-PROPITEM_TXT_913797,Jewel of Nightmare Ultimate,Jewel of Nightmare Ultimate
+PROPITEM_TXT_913787,Sword of Whisper,Sword of Whisper
+PROPITEM_TXT_913788,Sword of Mist,Sword of Mist
+PROPITEM_TXT_913789,Phantasmal Slayer,Phantasmal Slayer
+PROPITEM_TXT_913790,Specter's Axe,Specter's Axe
+PROPITEM_TXT_913791,Cleaver of the Mist,Cleaver of the Mist
+PROPITEM_TXT_913792,Knuckle of Madness,Knuckle of Madness
+PROPITEM_TXT_913793,Mirage,Mirage
+PROPITEM_TXT_913794,Wand of Apparitions,Wand of Apparitions
+PROPITEM_TXT_913795,Staff of Ethereal Dreams,Staff of Ethereal Dreams
+PROPITEM_TXT_913796,Bow of Echoes,Bow of Echoes
+PROPITEM_TXT_913797,Jewel of Nightmare,Jewel of Nightmare
 PROPITEM_TXT_913798,1.5.5 Update Pass,1.5.5 Update Pass
 PROPITEM_TXT_913799,This purchase will give you access to many advantages until the end of the 1.5.5 Update Pass season,This purchase will give you access to many advantages until the end of the 1.5.5 Update Pass season
 PROPITEM_TXT_913800,1.5.5 Update Lucky Box,1.5.5 Update Lucky Box
@@ -29588,3 +29588,111 @@ PROPITEM_TXT_1902819,Veiled Wardens Orange Shield,Veiled Wardens Orange Shield
 PROPITEM_TXT_1902820,Veiled Wardens Beige Shield,Veiled Wardens Beige Shield
 PROPITEM_TXT_1902821,Baron's Daily Reward,Baron's Daily Reward
 PROPITEM_TXT_1902822,Old Baron's Daily Reward,Old Baron's Daily Reward
+PROPITEM_TXT_904086,Wraithbark Trans,Wraithbark Trans
+PROPITEM_TXT_904087,Transform into a Wraithbark,Transform into a Wraithbark
+PROPITEM_TXT_904088,Ironback Trans,Ironback Trans
+PROPITEM_TXT_904089,Transform into an Ironback,Transform into an Ironback
+PROPITEM_TXT_904090,Swift Spiderling Trans,Swift Spiderling Trans
+PROPITEM_TXT_904091,Transform into a Swift Spiderling,Transform into a Swift Spiderling
+PROPITEM_TXT_904092,Caboom Trans,Caboom Trans
+PROPITEM_TXT_904093,Transform into a Caboom,Transform into a Caboom
+PROPITEM_TXT_904094,Winged Manticore Trans,Winged Manticore Trans
+PROPITEM_TXT_904095,Transform into a Winged Manticore,Transform into a Winged Manticore
+PROPITEM_TXT_904096,Gorvak Bonecrusher Trans,Gorvak Bonecrusher Trans
+PROPITEM_TXT_904097,Transform into a Gorvak Bonecrusher,Transform into a Gorvak Bonecrusher
+PROPITEM_TXT_904098,Chief Zekaru Trans,Chief Zekaru Trans
+PROPITEM_TXT_904099,Transform into Chief Zekaru,Transform into Chief Zekaru
+PROPITEM_TXT_904100,Tyrant Ankou Trans,Tyrant Ankou Trans
+PROPITEM_TXT_904101,Transform into Tyrant Ankou,Transform into Tyrant Ankou
+PROPITEM_TXT_904102,Last Beacon Trans Random Box,Last Beacon Trans Random Box
+PROPITEM_TXT_904103,"A random box that gives 1 of the random Trans items of the monsters appearing in The Last Beacon, including the boss.","A random box that gives 1 of the random Trans items of the monsters appearing in The Last Beacon, including the boss."
+PROPITEM_TXT_904104,FWC Firework,FWC Firework
+PROPITEM_TXT_904105,"If you shoot, FWC 2026 is drawn in the sky or on the ground.","If you shoot, FWC 2026 is drawn in the sky or on the ground."
+PROPITEM_TXT_904106,[5K] Guild Ship Supply Box,[5K] Guild Ship Supply Box
+PROPITEM_TXT_904107,"A package containing 1x Fortune Pang (7 days), 30x [New] FWC Firework and 5x Last Beacon Trans Random Box. All items are also linked.","A package containing 1x Fortune Pang (7 days), 30x [New] FWC Firework and 5x Last Beacon Trans Random Box. All items are also linked."
+PROPITEM_TXT_904108,[10K] Guild Ship Supply Box,[10K] Guild Ship Supply Box
+PROPITEM_TXT_904109,"A package containing 1x FWC Flame Lusaka Weapon Select Box (30 days), 1x FWC Red Wings (30 days), 1x Fortune Pang (30 days), 30x [New] FWC Firework and 5x Last Beacon Trans Random Box. All items are also linked.","A package containing 1x FWC Flame Lusaka Weapon Select Box (30 days), 1x FWC Red Wings (30 days), 1x Fortune Pang (30 days), 30x [New] FWC Firework and 5x Last Beacon Trans Random Box. All items are also linked."
+PROPITEM_TXT_904110,Flyff Summer Upgrade Package,Flyff Summer Upgrade Package
+PROPITEM_TXT_904111,"A package containing 10x Smelting Scroll Box, 20x Power Dice 10 and 20x Power Dice 12. All items are also linked.","A package containing 10x Smelting Scroll Box, 20x Power Dice 10 and 20x Power Dice 12. All items are also linked."
+PROPITEM_TXT_904112,Flyff Summer Festival Element Package,Flyff Summer Festival Element Package
+PROPITEM_TXT_904113,"A package containing 5x Scroll of Element Change, 5x Box of Element Attack and 5x Box of Element Defense. All items are also linked.","A package containing 5x Scroll of Element Change, 5x Box of Element Attack and 5x Box of Element Defense. All items are also linked."
+PROPITEM_TXT_904114,Summer Jewel All Inclusive Package,Summer Jewel All Inclusive Package
+PROPITEM_TXT_904115,"A package containing 3x Jewel Tweezers, 3x Cutting Knife, 1x Scroll of increased Jewel synthesis chance Select Box, 2x Lower Scroll of Jewel Conversion and 2x Scroll of Jewel Conversion. All items are also linked.","A package containing 3x Jewel Tweezers, 3x Cutting Knife, 1x Scroll of increased Jewel synthesis chance Select Box, 2x Lower Scroll of Jewel Conversion and 2x Scroll of Jewel Conversion. All items are also linked."
+PROPITEM_TXT_904116,Summer Exp Power Package,Summer Exp Power Package
+PROPITEM_TXT_904117,"A package containing 3x [20~160] Amplification ES Scroll Select Box, 3x Power Scroll, 3x Potion Box and 3x Flask Box. All items are also linked.","A package containing 3x [20~160] Amplification ES Scroll Select Box, 3x Power Scroll, 3x Potion Box and 3x Flask Box. All items are also linked."
+PROPITEM_TXT_904118,Madrigal Ultimate Upgrade Package,Madrigal Ultimate Upgrade Package
+PROPITEM_TXT_904119,"A package containing 3x Scroll of XProtect, 3x Advanced Mana Stone, 3x Mana Stone, 3x Jewel Tweezers and 3x Cutting Knife. All items are also linked.","A package containing 3x Scroll of XProtect, 3x Advanced Mana Stone, 3x Mana Stone, 3x Jewel Tweezers and 3x Cutting Knife. All items are also linked."
+PROPITEM_TXT_904120,Casual Costume Select Box 2,Casual Costume Select Box 2
+PROPITEM_TXT_904121,Select your favorite look from our Casual Costume collection 2.,Select your favorite look from our Casual Costume collection 2.
+PROPITEM_TXT_161078,2026 FWC Championship Pass,2026 FWC Championship Pass
+PROPITEM_TXT_161079,This purchase will give you access to many advantages until the end of the 2026 FWC Championship Pass season,This purchase will give you access to many advantages until the end of the 2026 FWC Championship Pass season
+PROPITEM_TXT_161080,Flaris Pet Transmute,Flaris Pet Transmute
+PROPITEM_TXT_161081,This item will change your pet's appearance into a random monster from Flaris. May luck be on your side!,This item will change your pet's appearance into a random monster from Flaris. May luck be on your side!
+PROPITEM_TXT_161082,Serus Uriel Cage,Serus Uriel Cage
+PROPITEM_TXT_161083,A mysterious guardian lurking within the Mars Dungeon. Very rare sighting!,A mysterious guardian lurking within the Mars Dungeon. Very rare sighting!
+PROPITEM_TXT_161084,Violet Aibatt Cage,Violet Aibatt Cage
+PROPITEM_TXT_161085,A rare violet variant of the familiar Aibatt. Rare sighting!,A rare violet variant of the familiar Aibatt. Rare sighting!
+PROPITEM_TXT_161086,Violet Mushpang Cage,Violet Mushpang Cage
+PROPITEM_TXT_161087,A rare violet variant of the peaceful Mushpang. Rare sighting!,A rare violet variant of the peaceful Mushpang. Rare sighting!
+PROPITEM_TXT_161088,Violet Burudeng Cage,Violet Burudeng Cage
+PROPITEM_TXT_161089,A rare violet variant of the sturdy Burudeng. Rare sighting!,A rare violet variant of the sturdy Burudeng. Rare sighting!
+PROPITEM_TXT_161090,Violet Pukepuke Cage,Violet Pukepuke Cage
+PROPITEM_TXT_161091,A rare violet variant of the mischievous Pukepuke. Rare sighting!,A rare violet variant of the mischievous Pukepuke. Rare sighting!
+PROPITEM_TXT_161092,Violet Peakyturtle Cage,Violet Peakyturtle Cage
+PROPITEM_TXT_161093,A rare violet variant of the hard-shelled Peakyturtle. Rare sighting!,A rare violet variant of the hard-shelled Peakyturtle. Rare sighting!
+PROPITEM_TXT_161094,Violet Demian Cage,Violet Demian Cage
+PROPITEM_TXT_161095,A rare violet variant of the troublesome Demian. Rare sighting!,A rare violet variant of the troublesome Demian. Rare sighting!
+PROPITEM_TXT_161096,Violet Doridoma Cage,Violet Doridoma Cage
+PROPITEM_TXT_161097,A rare violet variant of the curious Doridoma. Rare sighting!,A rare violet variant of the curious Doridoma. Rare sighting!
+PROPITEM_TXT_161098,Violet Lawolf Cage,Violet Lawolf Cage
+PROPITEM_TXT_161099,A rare violet variant of the fierce Lawolf. Rare sighting!,A rare violet variant of the fierce Lawolf. Rare sighting!
+PROPITEM_TXT_161100,Violet Fefern Cage,Violet Fefern Cage
+PROPITEM_TXT_161101,A rare violet variant of the fiery Fefern. Rare sighting!,A rare violet variant of the fiery Fefern. Rare sighting!
+PROPITEM_TXT_161102,Violet Nyangnyang Cage,Violet Nyangnyang Cage
+PROPITEM_TXT_161103,A rare violet variant of the sneaky Nyangnyang. Rare sighting!,A rare violet variant of the sneaky Nyangnyang. Rare sighting!
+PROPITEM_TXT_161104,Violet Bang Cage,Violet Bang Cage
+PROPITEM_TXT_161105,A rare violet variant of the mighty Bang. Rare sighting!,A rare violet variant of the mighty Bang. Rare sighting!
+PROPITEM_TXT_161106,Giant Aibatt Cage,Giant Aibatt Cage
+PROPITEM_TXT_161107,A much larger and stronger Aibatt. Uncommon sighting!,A much larger and stronger Aibatt. Uncommon sighting!
+PROPITEM_TXT_161108,Giant Mushpang Cage,Giant Mushpang Cage
+PROPITEM_TXT_161109,A much larger and stronger Mushpang. Uncommon sighting!,A much larger and stronger Mushpang. Uncommon sighting!
+PROPITEM_TXT_161110,Giant Burudeng Cage,Giant Burudeng Cage
+PROPITEM_TXT_161111,A much larger and stronger Burudeng. Uncommon sighting!,A much larger and stronger Burudeng. Uncommon sighting!
+PROPITEM_TXT_161112,Captain Pukepuke Cage,Captain Pukepuke Cage
+PROPITEM_TXT_161113,A formidable leader among Pukepukes. Uncommon sighting!,A formidable leader among Pukepukes. Uncommon sighting!
+PROPITEM_TXT_161114,Captain Peakyturtle Cage,Captain Peakyturtle Cage
+PROPITEM_TXT_161115,A formidable leader among Peakyturtles. Uncommon sighting!,A formidable leader among Peakyturtles. Uncommon sighting!
+PROPITEM_TXT_161116,Lord Demian Cage,Lord Demian Cage
+PROPITEM_TXT_161117,A fearsome lord among Demians. Uncommon sighting!,A fearsome lord among Demians. Uncommon sighting!
+PROPITEM_TXT_161118,Captain Doridoma Cage,Captain Doridoma Cage
+PROPITEM_TXT_161119,A formidable leader among Doridomas. Uncommon sighting!,A formidable leader among Doridomas. Uncommon sighting!
+PROPITEM_TXT_161120,Grownup Lawolf Cage,Grownup Lawolf Cage
+PROPITEM_TXT_161121,A fully grown and fearsome Lawolf. Uncommon sighting!,A fully grown and fearsome Lawolf. Uncommon sighting!
+PROPITEM_TXT_161122,Giant Fefern Cage,Giant Fefern Cage
+PROPITEM_TXT_161123,A much larger and stronger Fefern. Uncommon sighting!,A much larger and stronger Fefern. Uncommon sighting!
+PROPITEM_TXT_161124,Creep Nyangnyang Cage,Creep Nyangnyang Cage
+PROPITEM_TXT_161125,A particularly nasty Nyangnyang. Uncommon sighting!,A particularly nasty Nyangnyang. Uncommon sighting!
+PROPITEM_TXT_161126,Giant Bang Cage,Giant Bang Cage
+PROPITEM_TXT_161127,A much larger and stronger Bang. Uncommon sighting!,A much larger and stronger Bang. Uncommon sighting!
+PROPITEM_TXT_161128,Aibatt Cage,Aibatt Cage
+PROPITEM_TXT_161129,A small and familiar creature of Flaris.,A small and familiar creature of Flaris.
+PROPITEM_TXT_161130,Mushpang Cage,Mushpang Cage
+PROPITEM_TXT_161131,A peaceful mushroom-like creature of Flaris.,A peaceful mushroom-like creature of Flaris.
+PROPITEM_TXT_161132,Burudeng Cage,Burudeng Cage
+PROPITEM_TXT_161133,A sturdy creature commonly found around Flaris.,A sturdy creature commonly found around Flaris.
+PROPITEM_TXT_161134,Small Pukepuke Cage,Small Pukepuke Cage
+PROPITEM_TXT_161135,A small and mischievous creature of Flaris.,A small and mischievous creature of Flaris.
+PROPITEM_TXT_161136,Small Peakyturtle Cage,Small Peakyturtle Cage
+PROPITEM_TXT_161137,A small turtle-like creature with a sturdy shell.,A small turtle-like creature with a sturdy shell.
+PROPITEM_TXT_161138,Demian Cage,Demian Cage
+PROPITEM_TXT_161139,A troublesome little creature found around Flaris.,A troublesome little creature found around Flaris.
+PROPITEM_TXT_161140,Doridoma Cage,Doridoma Cage
+PROPITEM_TXT_161141,A curious creature commonly found in Flaris.,A curious creature commonly found in Flaris.
+PROPITEM_TXT_161142,Lawolf Cage,Lawolf Cage
+PROPITEM_TXT_161143,A fierce wolf-like creature of Flaris.,A fierce wolf-like creature of Flaris.
+PROPITEM_TXT_161144,1st Class Fefern Cage,1st Class Fefern Cage
+PROPITEM_TXT_161145,A fiery creature roaming the lands of Flaris.,A fiery creature roaming the lands of Flaris.
+PROPITEM_TXT_161146,Nyangnyang Cage,Nyangnyang Cage
+PROPITEM_TXT_161147,A sneaky feline creature found around Flaris.,A sneaky feline creature found around Flaris.
+PROPITEM_TXT_161148,Bang Cage,Bang Cage
+PROPITEM_TXT_161149,A large and powerful creature of Flaris.,A large and powerful creature of Flaris.
