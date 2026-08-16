@@ -6137,7 +6137,7 @@ PROPITEM_TXT_009066,Scroll of Pet Revival (B Class),Scroll of Pet Revival (B Cla
 PROPITEM_TXT_009067,Revives a dead B Class Pet.,Belebt ein totes B-Klasse Haustier wieder.
 PROPITEM_TXT_008020,Free Makeup Coupon,Free Makeup Coupon
 PROPITEM_TXT_017355,Scroll of EProtect,Scroll of EProtect
-PROPITEM_TXT_017356,Prevents a card from being destroyed when an upgrade fails.,"Verhindert das Zerstören einer Karte, wenn diese aufgewertet wird."
+PROPITEM_TXT_017356,Prevents a card from being destroyed when an upgrade fails.,"Verhindert das Zerstören einer Karte, wenn diese geupgradet wird."
 PROPITEM_TXT_100000,Scroll of Guild Members,Scroll of Guild Members
 PROPITEM_TXT_100001,Permanently increases the amount of members you can have in a guild by 5. Only works on the current guild you are in.,Erhöht dauerhaft die maximale Mitgliederanzahl in deiner Gilde um 5. Dies gilt nur für deine derzeitige Gilde.
 PROPITEM_TXT_100002,Change Channel,Kanal wechseln
@@ -6161,29 +6161,29 @@ PROPITEM_TXT_015964,Your party will get twice the number of points when reaching
 PROPITEM_TXT_015965,Scroll of Party Amplification (15 Days),Scroll of Party Amplification (15 Tage)
 PROPITEM_TXT_015966,Your party will get twice the number of points when reaching a new level. Lasts 15 days. Note that the counter on this item will continue to count down even when logged out.,"Deine Party erhält doppelt so viele Partypunkte, wenn sie ein neues Level erreicht. Hält 15 Tage. Die Zeit läuft auch dann weiter, wenn der Charakter offline ist."
 PROPITEM_TXT_016079,Gold Aura (7 days),Golden Aura (7 Tage)
-PROPITEM_TXT_016080,This mystical orb will change the color of your upgraded armor's aura to Gold. Lasts 7 days.,Ändert die existierende Aura aufgewerteter Rüstungssets in die Farbe Gold.
+PROPITEM_TXT_016080,This mystical orb will change the color of your upgraded armor's aura to Gold. Lasts 7 days.,Ändert die existierende Aura geupgradeter Rüstungssets in die Farbe Gold.
 PROPITEM_TXT_016081,Scarlet Aura (7 days),Red Aura (7 Tage)
-PROPITEM_TXT_016082,This mystical orb will change the color of your upgraded armor's aura to Red. Lasts 7 days.,Ändert die existierende Aura aufgewerteter Rüstungssets in die Farbe Rot.
+PROPITEM_TXT_016082,This mystical orb will change the color of your upgraded armor's aura to Red. Lasts 7 days.,Ändert die existierende Aura geupgradeter Rüstungssets in die Farbe Rot.
 PROPITEM_TXT_016083,Black Aura (7 days),Black Aura (7 Tage)
-PROPITEM_TXT_016084,This mystical orb will change the color of your upgraded armor's aura to Black. Lasts 7 days.,Ändert die existierende Aura aufgewerteter Rüstungssets in die Farbe Schwarz.
+PROPITEM_TXT_016084,This mystical orb will change the color of your upgraded armor's aura to Black. Lasts 7 days.,Ändert die existierende Aura geupgradeter Rüstungssets in die Farbe Schwarz.
 PROPITEM_TXT_016085,Purple Aura (7 days),Purple Aura (7 Tage)
-PROPITEM_TXT_016086,This mystical orb will change the color of your upgraded armor's aura to Purple. Lasts 7 days.,Ändert die existierende Aura aufgewerteter Rüstungssets in die Farbe Lila.
+PROPITEM_TXT_016086,This mystical orb will change the color of your upgraded armor's aura to Purple. Lasts 7 days.,Ändert die existierende Aura geupgradeter Rüstungssets in die Farbe Lila.
 PROPITEM_TXT_016087,Green Aura (7 days),Green Aura (7 Tage)
-PROPITEM_TXT_016088,This mystical orb will change the color of your upgraded armor's aura to Green. Lasts 7 days.,Ändert die existierende Aura aufgewerteter Rüstungssets in die Farbe Grün.
+PROPITEM_TXT_016088,This mystical orb will change the color of your upgraded armor's aura to Green. Lasts 7 days.,Ändert die existierende Aura geupgradeter Rüstungssets in die Farbe Grün.
 PROPITEM_TXT_016089,White Aura (7 days),White Aura (7 Tage)
-PROPITEM_TXT_016090,This mystical orb will change the color of your upgraded armor's aura to White. Lasts 7 days.,Ändert die existierende Aura aufgewerteter Rüstungssets in die Farbe Weiß.
+PROPITEM_TXT_016090,This mystical orb will change the color of your upgraded armor's aura to White. Lasts 7 days.,Ändert die existierende Aura geupgradeter Rüstungssets in die Farbe Weiß.
 PROPITEM_TXT_016091,Golden Aura (15 days),Golden Aura (15 Tage)
-PROPITEM_TXT_016092,This mystical orb will change the color of your upgraded armor's aura to Gold. Lasts 15 days.,Ändert die existierende Aura aufgewerteter Rüstungssets in die Farbe Gold.
+PROPITEM_TXT_016092,This mystical orb will change the color of your upgraded armor's aura to Gold. Lasts 15 days.,Ändert die existierende Aura geupgradeter Rüstungssets in die Farbe Gold.
 PROPITEM_TXT_016093,Scarlet Aura (15 days),Red Aura (15 Tage)
-PROPITEM_TXT_016094,This mystical orb will change the color of your upgraded armor's aura to Red. Lasts 15 days.,Ändert die existierende Aura aufgewerteter Rüstungssets in die Farbe Rot.
+PROPITEM_TXT_016094,This mystical orb will change the color of your upgraded armor's aura to Red. Lasts 15 days.,Ändert die existierende Aura geupgradeter Rüstungssets in die Farbe Rot.
 PROPITEM_TXT_016095,Black Aura (15 days),Black Aura (15 Tage)
-PROPITEM_TXT_016096,This mystical orb will change the color of your upgraded armor's aura to Black. Lasts 15 days.,Ändert die existierende Aura aufgewerteter Rüstungssets in die Farbe Schwarz.
+PROPITEM_TXT_016096,This mystical orb will change the color of your upgraded armor's aura to Black. Lasts 15 days.,Ändert die existierende Aura geupgradeter Rüstungssets in die Farbe Schwarz.
 PROPITEM_TXT_016097,Purple Aura (15 days),Purple Aura (15 Tage)
-PROPITEM_TXT_016098,This mystical orb will change the color of your upgraded armor's aura to Purple. Lasts 15 days.,Ändert die existierende Aura aufgewerteter Rüstungssets in die Farbe Lila.
+PROPITEM_TXT_016098,This mystical orb will change the color of your upgraded armor's aura to Purple. Lasts 15 days.,Ändert die existierende Aura geupgradeter Rüstungssets in die Farbe Lila.
 PROPITEM_TXT_016099,Green Aura (15 days),Green Aura (15 Tage)
-PROPITEM_TXT_016100,This mystical orb will change the color of your upgraded armor's aura to Green. Lasts 15 days.,Ändert die existierende Aura aufgewerteter Rüstungssets in die Farbe Grün.
+PROPITEM_TXT_016100,This mystical orb will change the color of your upgraded armor's aura to Green. Lasts 15 days.,Ändert die existierende Aura geupgradeter Rüstungssets in die Farbe Grün.
 PROPITEM_TXT_016101,White Aura (15 days),White Aura (15 Tage)
-PROPITEM_TXT_016102,This mystical orb will change the color of your upgraded armor's aura to White. Lasts 15 days.,Ändert die existierende Aura aufgewerteter Rüstungssets in die Farbe Weiß.
+PROPITEM_TXT_016102,This mystical orb will change the color of your upgraded armor's aura to White. Lasts 15 days.,Ändert die existierende Aura geupgradeter Rüstungssets in die Farbe Weiß.
 PROPITEM_TXT_016289,Scroll of Party Amplification (1 Day),Scroll of Party Amplification (1 Tag)
 PROPITEM_TXT_016290,Your party will get twice the number of points when reaching a new level. Lasts 1 day. Note that the counter on this item will continue to count down even when logged out.,"Deine Party erhält doppelt so viele Partypunkte, wenn sie ein neues Level erreicht. Hält einen Tag. Die Zeit läuft auch dann weiter, wenn der Charakter offline ist."
 PROPITEM_TXT_100004,Scroll of Permanent Party,Scroll of Permanent Party
@@ -9780,8 +9780,8 @@ PROPITEM_TXT_230115,Exchange this PK chip to Waforu for wonderful rewards!,Tausc
 PROPITEM_TXT_230116,1 Day Kebaras Ticket,1 Tag Kebaras Ticket
 PROPITEM_TXT_230117,You have unlimited access to Kebaras  area for 1 day after activating this Ticket. Kebaras contains monsters from level 16 to 140.,"Du hast einen Tag lang unbegrenzten Zugang zum Kebaras  Gebiet, nachdem du dieses Ticket aktiviert hast. Kebaras enthält Monster von Level 16 bis 140."
 PROPITEM_TXT_230118,6 hours Tower Ticket,6 Stunden Tower Ticket
-PROPITEM_TXT_230119,You have unlimited access to Tower area for 6 hours after activating this Ticket. Tower contains monsters from level 89 to 160.,You have unlimited access to Tower area for 6 hours after activating this Ticket. Tower contains monsters from level 89 to 160.
-PROPITEM_TXT_230120,Change your name color for 7 days!,Change your name color for 7 days!
+PROPITEM_TXT_230119,You have unlimited access to Tower area for 6 hours after activating this Ticket. Tower contains monsters from level 89 to 160.,"Du hast 6 Stunden lang unbegrenzten Zugang zum Tower Gebiet, nachdem du dieses Ticket aktiviert hast. Tower enthält Monster von Level 89 bis 160."
+PROPITEM_TXT_230120,Change your name color for 7 days!,Ändert deine Namensfarbe für 7 Tage!
 PROPITEM_TXT_230121,Scroll of Name Color (Blue),Scroll of Name Color (Blau)
 PROPITEM_TXT_230122,Scroll of Name Color (Beige),Scroll of Name Color (Beige)
 PROPITEM_TXT_230123,Scroll of Name Color (Orange),Scroll of Name Color (Orange)
@@ -10640,29 +10640,29 @@ PROPITEM_TXT_300015,Adventurer's Fortune Flask (30 Days),Abenteurer-Glückselixi
 PROPITEM_TXT_300016,Champion's Bounty Flask (30 Days),Kopfgeld-Flasche des Champions (30 Tage)
 PROPITEM_TXT_300017,This powerful buff is only available on the Flyff World Championship server. You cannot use it at the same time as another Adventurer's Fortune or Champion's Bounty buff.,Dieser mächtige Buff ist nur auf dem Flyff-Weltmeisterschafts-Server verfügbar. Du kannst ihn nicht gleichzeitig mit einem anderen Abenteurer-Glücks- oder Champion-Kopfgeld-Buff verwenden.
 PROPITEM_TXT_300018,Warbringer's Ring,Warbringer's Ring
-PROPITEM_TXT_300019,Increases STR. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Erhöht STR. Kann mit einem Power Dice 8 oder 10 bis zu Stufe 20 aufgewertet werden.
+PROPITEM_TXT_300019,Increases STR. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Erhöht STR. Kann mit einem Power Dice 8 oder 10 bis zu Stufe 20 geupgradet werden.
 PROPITEM_TXT_300020,Sentinel's Ring,Sentinel's Ring
-PROPITEM_TXT_300021,Increases STA. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Erhöht STA. Kann mit einem Power Dice 8 oder 10 bis zu Stufe 20 aufgewertet werden.
+PROPITEM_TXT_300021,Increases STA. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Erhöht STA. Kann mit einem Power Dice 8 oder 10 bis zu Stufe 20 geupgradet werden.
 PROPITEM_TXT_300022,Spellweaver's Ring,Spellweaver's Ring
-PROPITEM_TXT_300023,Increases INT. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Erhöht INT. Kann mit einem Power Dice 8 oder 10 bis zu Stufe 20 aufgewertet werden.
+PROPITEM_TXT_300023,Increases INT. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Erhöht INT. Kann mit einem Power Dice 8 oder 10 bis zu Stufe 20 geupgradet werden.
 PROPITEM_TXT_300024,Hawkeye's Ring,Hawkeye's Ring
-PROPITEM_TXT_300025,Increases DEX. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Erhöht DEX. Kann mit einem Power Dice 8 oder 10 bis zu Stufe 20 aufgewertet werden.
+PROPITEM_TXT_300025,Increases DEX. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Erhöht DEX. Kann mit einem Power Dice 8 oder 10 bis zu Stufe 20 geupgradet werden.
 PROPITEM_TXT_300026,Warbringer's Necklace,Warbringer's Necklace
 PROPITEM_TXT_300027,Increases Max HP. Can be upgraded with a Power Dice 8 or 10 up to level 20.,"Halskette, welche maximale HP erhöht. Upgrade-Option mit Power Dice 8 oder 10 bis Stufe 20."
 PROPITEM_TXT_300028,Spellweaver's Necklace,Spellweaver's Necklace
 PROPITEM_TXT_300029,Increases Max MP. Can be upgraded with a Power Dice 8 or 10 up to level 20.,"Halskette, welche maximale MP erhöht. Upgrade-Option mit Power Dice 8 oder 10 bis Stufe 20."
 PROPITEM_TXT_300030,Hawkeye's Necklace,Hawkeye's Necklace
-PROPITEM_TXT_300031,Increases Max MP. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Erhöht die maximale MP. Kann mit einem Power Dice 8 oder 10 bis zu Stufe 20 aufgewertet werden.
+PROPITEM_TXT_300031,Increases Max MP. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Erhöht die maximale MP. Kann mit einem Power Dice 8 oder 10 bis zu Stufe 20 geupgradet werden.
 PROPITEM_TXT_300032,Sentinel's Necklace,Sentinel's Necklace
-PROPITEM_TXT_300033,Increases Max HP. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Erhöht die maximalen HP. Kann mit einem Power Dice 8 oder 10 bis zu Stufe 20 aufgewertet werden.
+PROPITEM_TXT_300033,Increases Max HP. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Erhöht die maximalen HP. Kann mit einem Power Dice 8 oder 10 bis zu Stufe 20 geupgradet werden.
 PROPITEM_TXT_300034,Warbringer's Earring,Warbringer's Earring
 PROPITEM_TXT_300035,Increases Attack Power. Can be upgraded with a Power Dice 8 or 10 up to level 20.,"Ohrring, der die Angriffskraft steigert. Upgrade-Option mit Power Dice 8 oder 10 bis Stufe 20."
 PROPITEM_TXT_300036,Spellweaver's Earring,Spellweaver's Earring
 PROPITEM_TXT_300037,Increases Attack Power. Can be upgraded with a Power Dice 8 or 10 up to level 20.,"Ohrring, der die Angriffskraft steigert. Upgrade-Option mit Power Dice 8 oder 10 bis Stufe 20."
 PROPITEM_TXT_300038,Sentinel's Earring,Sentinel's Earring
-PROPITEM_TXT_300039,Increases Defense. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Erhöht die Verteidigung. Kann mit einem Power Dice 8 oder 10 bis zu Stufe 20 aufgewertet werden.
+PROPITEM_TXT_300039,Increases Defense. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Erhöht die Verteidigung. Kann mit einem Power Dice 8 oder 10 bis zu Stufe 20 geupgradet werden.
 PROPITEM_TXT_300040,Hawkeye's Earring,Hawkeye's Earring
-PROPITEM_TXT_300041,Increases Attack Power. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Erhöht die Angriffskraft. Kann mit einem Power Dice 8 oder 10 bis zu Stufe 20 aufgewertet werden.
+PROPITEM_TXT_300041,Increases Attack Power. Can be upgraded with a Power Dice 8 or 10 up to level 20.,Erhöht die Angriffskraft. Kann mit einem Power Dice 8 oder 10 bis zu Stufe 20 geupgradet werden.
 PROPITEM_TXT_300042,FWC Jewel Piece,FWC Juwelenteil
 PROPITEM_TXT_300043,You can exchange these pieces to FWC Jewelry at [FWC Manager] Ava.,Diese Teile können bei [FWC-Managerin] Ava gegen FWC-Juwelen eingetauscht werden.
 PROPITEM_TXT_300045,Magic Power Statted Glasses (Black),Magic Power Statted Glasses (Black)
@@ -12540,43 +12540,43 @@ PROPITEM_TXT_160017,A gear that can only be found from the largest Dorian.,"Getr
 PROPITEM_TXT_160018,Lord Okean Crown,Lord Okean Crown
 PROPITEM_TXT_160019,A crown that can only be found from the largest Okean.,"Eine Krone, die nur beim größten Okean zu finden ist."
 PROPITEM_TXT_160020,Champion's Ring,Champions Ring
-PROPITEM_TXT_160021,Increases STR. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht STR. Kann mit einem Oricalkum bis zu Ultimate Level 10 aufgewertet werden.
+PROPITEM_TXT_160021,Increases STR. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht STR. Kann mit einem Oricalkum bis zu Ultimate Level 10 geupgradet werden.
 PROPITEM_TXT_160022,Defender's Ring,Defender's Ring
-PROPITEM_TXT_160023,Increases STA. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht STA. Kann mit einem Oricalkum bis zu Ultimate Level 10 aufgewertet werden.
+PROPITEM_TXT_160023,Increases STA. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht STA. Kann mit einem Oricalkum bis zu Ultimate Level 10 geupgradet werden.
 PROPITEM_TXT_160024,Adept's Ring,Adept's Ring
-PROPITEM_TXT_160025,Increases INT. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht INT. Kann mit einem Oricalkum bis zu Ultimate Level 10 aufgewertet werden.
+PROPITEM_TXT_160025,Increases INT. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht INT. Kann mit einem Oricalkum bis zu Ultimate Level 10 geupgradet werden.
 PROPITEM_TXT_160026,Marksman's Ring,Marksman's Ring
-PROPITEM_TXT_160027,Increases DEX. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht DEX. Kann mit einem Oricalkum bis zu Ultimate Level 10 aufgewertet werden.
+PROPITEM_TXT_160027,Increases DEX. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht DEX. Kann mit einem Oricalkum bis zu Ultimate Level 10 geupgradet werden.
 PROPITEM_TXT_160028,Champion's Gore Necklace,Champion's Gore Necklace
-PROPITEM_TXT_160029,Increases Max HP. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die maximalen HP. Kann mit einem Oricalkum bis zu Ultimate Level 10 aufgewertet werden.
+PROPITEM_TXT_160029,Increases Max HP. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die maximalen HP. Kann mit einem Oricalkum bis zu Ultimate Level 10 geupgradet werden.
 PROPITEM_TXT_160030,Adept's Mental Necklace,Adept's Mental Necklace
-PROPITEM_TXT_160031,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die maximale MP. Kann mit einem Oricalkum bis zu Ultimate Level 10 aufgewertet werden.
+PROPITEM_TXT_160031,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die maximale MP. Kann mit einem Oricalkum bis zu Ultimate Level 10 geupgradet werden.
 PROPITEM_TXT_160032,Defender's Peision Necklace,Defender's Peision Necklace
-PROPITEM_TXT_160033,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die maximalen FP. Kann mit einem Oricalkum bis zu Ultimate Level 10 aufgewertet werden.
+PROPITEM_TXT_160033,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die maximalen FP. Kann mit einem Oricalkum bis zu Ultimate Level 10 geupgradet werden.
 PROPITEM_TXT_160034,Champion's Demol Earring,Champion's Demol Earring
-PROPITEM_TXT_160035,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die Angriffskraft. Kann mit einem Oricalkum bis zu Ultimate Level 10 aufgewertet werden.
+PROPITEM_TXT_160035,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die Angriffskraft. Kann mit einem Oricalkum bis zu Ultimate Level 10 geupgradet werden.
 PROPITEM_TXT_160036,Defender's Plug Earring,Defender's Plug Earring
-PROPITEM_TXT_160037,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die Verteidigung. Kann mit einem Oricalkum bis zu Ultimate Level 10 aufgewertet werden.
+PROPITEM_TXT_160037,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die Verteidigung. Kann mit einem Oricalkum bis zu Ultimate Level 10 geupgradet werden.
 PROPITEM_TXT_160038,Defender's Gore Necklace,Defender's Gore Necklace
 PROPITEM_TXT_160040,Marksman's Gore Necklace,Marksman's Gore Necklace
 PROPITEM_TXT_160042,Adept's Gore Necklace,Adept's Gore Necklace
 PROPITEM_TXT_160044,Marksman's Demol Earring,Marksman's Demol Earring
-PROPITEM_TXT_160045,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die Angriffskraft. Kann mit einem Oricalkum bis zu Ultimate Level 10 aufgewertet werden.
+PROPITEM_TXT_160045,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die Angriffskraft. Kann mit einem Oricalkum bis zu Ultimate Level 10 geupgradet werden.
 PROPITEM_TXT_160046,Adept's Demol Earring,Adept's Demol Earring
-PROPITEM_TXT_160047,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die Angriffskraft. Kann mit einem Oricalkum bis zu Ultimate Level 10 aufgewertet werden.
+PROPITEM_TXT_160047,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die Angriffskraft. Kann mit einem Oricalkum bis zu Ultimate Level 10 geupgradet werden.
 PROPITEM_TXT_160048,Marksman's Mental Necklace,Marksman's Mental Necklace
-PROPITEM_TXT_160049,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die maximale MP. Kann mit einem Oricalkum bis zu Ultimate Level 10 aufgewertet werden.
+PROPITEM_TXT_160049,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die maximale MP. Kann mit einem Oricalkum bis zu Ultimate Level 10 geupgradet werden.
 PROPITEM_TXT_160050,Champion's Mental Necklace,Champion's Mental Necklace
 PROPITEM_TXT_160052,Champion's Peision Necklace,Champion's Peision Necklace
-PROPITEM_TXT_160053,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die maximalen FP. Kann mit einem Oricalkum bis zu Ultimate Level 10 aufgewertet werden.
+PROPITEM_TXT_160053,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die maximalen FP. Kann mit einem Oricalkum bis zu Ultimate Level 10 geupgradet werden.
 PROPITEM_TXT_160054,Defender's Demol Earring,Defender's Demol Earring
-PROPITEM_TXT_160055,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die Angriffskraft. Kann mit einem Oricalkum bis zu Ultimate Level 10 aufgewertet werden.
+PROPITEM_TXT_160055,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die Angriffskraft. Kann mit einem Oricalkum bis zu Ultimate Level 10 geupgradet werden.
 PROPITEM_TXT_160056,Champion's Plug Earring,Champion's Plug Earring
-PROPITEM_TXT_160057,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die Verteidigung. Kann mit einem Oricalkum bis zu Ultimate Level 10 aufgewertet werden.
+PROPITEM_TXT_160057,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die Verteidigung. Kann mit einem Oricalkum bis zu Ultimate Level 10 geupgradet werden.
 PROPITEM_TXT_160058,Adept's Plug Earring,Adept's Plug Earring
-PROPITEM_TXT_160059,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die Verteidigung. Kann mit einem Oricalkum bis zu Ultimate Level 10 aufgewertet werden.
+PROPITEM_TXT_160059,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die Verteidigung. Kann mit einem Oricalkum bis zu Ultimate Level 10 geupgradet werden.
 PROPITEM_TXT_160060,Marksman's Plug Earring,Marksman's Plug Earring
-PROPITEM_TXT_160061,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die Verteidigung. Kann mit einem Oricalkum bis zu Ultimate Level 10 aufgewertet werden.
+PROPITEM_TXT_160061,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 10.,Erhöht die Verteidigung. Kann mit einem Oricalkum bis zu Ultimate Level 10 geupgradet werden.
 PROPITEM_TXT_160062,Ultima,Ultima
 PROPITEM_TXT_160063,A powerful essence that could one day contain Ultimate energy.,"Eine mächtige Essenz, die eines Tages ultimative Energie enthalten könnte."
 PROPITEM_TXT_160064,Blinkwing of Coral Island,Blinkwing of Coral Island
@@ -29589,110 +29589,110 @@ PROPITEM_TXT_1902820,Veiled Wardens Beige Shield,Veiled Wardens Beige Shield
 PROPITEM_TXT_1902821,Baron's Daily Reward,Baron's Daily Reward
 PROPITEM_TXT_1902822,Old Baron's Daily Reward,Old Baron's Daily Reward
 PROPITEM_TXT_904086,Wraithbark Trans,Wraithbark Trans
-PROPITEM_TXT_904087,Transform into a Wraithbark,Transform into a Wraithbark
+PROPITEM_TXT_904087,Transform into a Wraithbark,Verwandelt dich in einen Wraithbark.
 PROPITEM_TXT_904088,Ironback Trans,Ironback Trans
-PROPITEM_TXT_904089,Transform into an Ironback,Transform into an Ironback
+PROPITEM_TXT_904089,Transform into an Ironback,Verwandelt dich in einen Ironback.
 PROPITEM_TXT_904090,Swift Spiderling Trans,Swift Spiderling Trans
-PROPITEM_TXT_904091,Transform into a Swift Spiderling,Transform into a Swift Spiderling
+PROPITEM_TXT_904091,Transform into a Swift Spiderling,Verwandelt dich in einen Swift Spiderling.
 PROPITEM_TXT_904092,Caboom Trans,Caboom Trans
-PROPITEM_TXT_904093,Transform into a Caboom,Transform into a Caboom
+PROPITEM_TXT_904093,Transform into a Caboom,Verwandelt dich in einen Caboom.
 PROPITEM_TXT_904094,Winged Manticore Trans,Winged Manticore Trans
-PROPITEM_TXT_904095,Transform into a Winged Manticore,Transform into a Winged Manticore
+PROPITEM_TXT_904095,Transform into a Winged Manticore,Verwandelt dich in einen Winged Manticore.
 PROPITEM_TXT_904096,Gorvak Bonecrusher Trans,Gorvak Bonecrusher Trans
-PROPITEM_TXT_904097,Transform into a Gorvak Bonecrusher,Transform into a Gorvak Bonecrusher
+PROPITEM_TXT_904097,Transform into a Gorvak Bonecrusher,Verwandelt dich in einen Gorvak Bonecrusher.
 PROPITEM_TXT_904098,Chief Zekaru Trans,Chief Zekaru Trans
-PROPITEM_TXT_904099,Transform into Chief Zekaru,Transform into Chief Zekaru
+PROPITEM_TXT_904099,Transform into Chief Zekaru,Verwandelt dich in Chief Zekaru.
 PROPITEM_TXT_904100,Tyrant Ankou Trans,Tyrant Ankou Trans
-PROPITEM_TXT_904101,Transform into Tyrant Ankou,Transform into Tyrant Ankou
+PROPITEM_TXT_904101,Transform into Tyrant Ankou,Verwandelt dich in Tyrant Ankou.
 PROPITEM_TXT_904102,Last Beacon Trans Random Box,Last Beacon Trans Random Box
-PROPITEM_TXT_904103,"A random box that gives 1 of the random Trans items of the monsters appearing in The Last Beacon, including the boss.","A random box that gives 1 of the random Trans items of the monsters appearing in The Last Beacon, including the boss."
+PROPITEM_TXT_904103,"A random box that gives 1 of the random Trans items of the monsters appearing in The Last Beacon, including the boss.","Eine Zufallsbox, die dir eines von mehreren zufälligen Trans-Items der in The Last Beacon erscheinenden Monster gewährt, einschließlich des Bosses."
 PROPITEM_TXT_904104,FWC Firework,FWC Firework
-PROPITEM_TXT_904105,"If you shoot, FWC 2026 is drawn in the sky or on the ground.","If you shoot, FWC 2026 is drawn in the sky or on the ground."
+PROPITEM_TXT_904105,"If you shoot, FWC 2026 is drawn in the sky or on the ground.","Wenn du es abschießt, erscheint „FWC 2026“ am Himmel oder auf dem Boden."
 PROPITEM_TXT_904106,[5K] Guild Ship Supply Box,[5K] Guild Ship Supply Box
-PROPITEM_TXT_904107,"A package containing 1x Fortune Pang (7 days), 30x [New] FWC Firework and 5x Last Beacon Trans Random Box. All items are also linked.","A package containing 1x Fortune Pang (7 days), 30x [New] FWC Firework and 5x Last Beacon Trans Random Box. All items are also linked."
+PROPITEM_TXT_904107,"A package containing 1x Fortune Pang (7 days), 30x [New] FWC Firework and 5x Last Beacon Trans Random Box. All items are also linked.","Ein Paket, das 1x Fortune Pang (7 Tage), 30x [New] FWC Firework und 5x Last Beacon Trans Random Box enthält. Alle Items sind seelengebunden."
 PROPITEM_TXT_904108,[10K] Guild Ship Supply Box,[10K] Guild Ship Supply Box
-PROPITEM_TXT_904109,"A package containing 1x FWC Flame Lusaka Weapon Select Box (30 days), 1x FWC Red Wings (30 days), 1x Fortune Pang (30 days), 30x [New] FWC Firework and 5x Last Beacon Trans Random Box. All items are also linked.","A package containing 1x FWC Flame Lusaka Weapon Select Box (30 days), 1x FWC Red Wings (30 days), 1x Fortune Pang (30 days), 30x [New] FWC Firework and 5x Last Beacon Trans Random Box. All items are also linked."
+PROPITEM_TXT_904109,"A package containing 1x FWC Flame Lusaka Weapon Select Box (30 days), 1x FWC Red Wings (30 days), 1x Fortune Pang (30 days), 30x [New] FWC Firework and 5x Last Beacon Trans Random Box. All items are also linked.","Ein Paket, das 1x FWC Flame Lusaka Weapon Select Box (30 Tage), 1x FWC Red Wings (30 Tage), 1x Fortune Pang (30 Tage), 30x [New] FWC Firework und 5x Last Beacon Trans Random Box enthält. Alle Items sind seelengebunden."
 PROPITEM_TXT_904110,Flyff Summer Upgrade Package,Flyff Summer Upgrade Package
-PROPITEM_TXT_904111,"A package containing 10x Smelting Scroll Box, 20x Power Dice 10 and 20x Power Dice 12. All items are also linked.","A package containing 10x Smelting Scroll Box, 20x Power Dice 10 and 20x Power Dice 12. All items are also linked."
+PROPITEM_TXT_904111,"A package containing 10x Smelting Scroll Box, 20x Power Dice 10 and 20x Power Dice 12. All items are also linked.","Ein Paket, das 10x Smelting Scroll Box, 20x Power Dice 10 und 20x Power Dice 12 enthält. Alle Items sind seelengebunden."
 PROPITEM_TXT_904112,Flyff Summer Festival Element Package,Flyff Summer Festival Element Package
-PROPITEM_TXT_904113,"A package containing 5x Scroll of Element Change, 5x Box of Element Attack and 5x Box of Element Defense. All items are also linked.","A package containing 5x Scroll of Element Change, 5x Box of Element Attack and 5x Box of Element Defense. All items are also linked."
+PROPITEM_TXT_904113,"A package containing 5x Scroll of Element Change, 5x Box of Element Attack and 5x Box of Element Defense. All items are also linked.","Ein Paket, das 5x Scroll of Element Change, 5x Box of Element Attack und 5x Box of Element Defense enthält. Alle Items sind seelengebunden."
 PROPITEM_TXT_904114,Summer Jewel All Inclusive Package,Summer Jewel All Inclusive Package
-PROPITEM_TXT_904115,"A package containing 3x Jewel Tweezers, 3x Cutting Knife, 1x Scroll of increased Jewel synthesis chance Select Box, 2x Lower Scroll of Jewel Conversion and 2x Scroll of Jewel Conversion. All items are also linked.","A package containing 3x Jewel Tweezers, 3x Cutting Knife, 1x Scroll of increased Jewel synthesis chance Select Box, 2x Lower Scroll of Jewel Conversion and 2x Scroll of Jewel Conversion. All items are also linked."
+PROPITEM_TXT_904115,"A package containing 3x Jewel Tweezers, 3x Cutting Knife, 1x Scroll of increased Jewel synthesis chance Select Box, 2x Lower Scroll of Jewel Conversion and 2x Scroll of Jewel Conversion. All items are also linked.","Ein Paket, das 3x Jewel Tweezers, 3x Cutting Knife, 1x Scroll of increased Jewel synthesis chance Select Box, 2x Lower Scroll of Jewel Conversion und 2x Scroll of Jewel Conversion enthält. Alle Items sind seelengebunden."
 PROPITEM_TXT_904116,Summer Exp Power Package,Summer Exp Power Package
-PROPITEM_TXT_904117,"A package containing 3x [20~160] Amplification ES Scroll Select Box, 3x Power Scroll, 3x Potion Box and 3x Flask Box. All items are also linked.","A package containing 3x [20~160] Amplification ES Scroll Select Box, 3x Power Scroll, 3x Potion Box and 3x Flask Box. All items are also linked."
+PROPITEM_TXT_904117,"A package containing 3x [20~160] Amplification ES Scroll Select Box, 3x Power Scroll, 3x Potion Box and 3x Flask Box. All items are also linked.","Ein Paket, das 3x [20~160] Amplification ES Scroll Select Box, 3x Power Scroll, 3x Potion Box und 3x Flask Box enthält. Alle Items sind seelengebunden."
 PROPITEM_TXT_904118,Madrigal Ultimate Upgrade Package,Madrigal Ultimate Upgrade Package
-PROPITEM_TXT_904119,"A package containing 3x Scroll of XProtect, 3x Advanced Mana Stone, 3x Mana Stone, 3x Jewel Tweezers and 3x Cutting Knife. All items are also linked.","A package containing 3x Scroll of XProtect, 3x Advanced Mana Stone, 3x Mana Stone, 3x Jewel Tweezers and 3x Cutting Knife. All items are also linked."
+PROPITEM_TXT_904119,"A package containing 3x Scroll of XProtect, 3x Advanced Mana Stone, 3x Mana Stone, 3x Jewel Tweezers and 3x Cutting Knife. All items are also linked.","Ein Paket, das 3x Scroll of XProtect, 3x Advanced Mana Stone, 3x Mana Stone, 3x Jewel Tweezers und 3x Cutting Knife enthält. Alle Items sind seelengebunden."
 PROPITEM_TXT_904120,Casual Costume Select Box 2,Casual Costume Select Box 2
-PROPITEM_TXT_904121,Select your favorite look from our Casual Costume collection 2.,Select your favorite look from our Casual Costume collection 2.
+PROPITEM_TXT_904121,Select your favorite look from our Casual Costume collection 2.,Wähle deinen Lieblingslook aus unserer Casual Costume-Kollektion 2 aus.
 PROPITEM_TXT_161078,2026 FWC Championship Pass,2026 FWC Championship Pass
-PROPITEM_TXT_161079,This purchase will give you access to many advantages until the end of the 2026 FWC Championship Pass season,This purchase will give you access to many advantages until the end of the 2026 FWC Championship Pass season
+PROPITEM_TXT_161079,This purchase will give you access to many advantages until the end of the 2026 FWC Championship Pass season,Mit diesem Kauf erhältst du bis zum Ende der 2026 FWC Championship Pass-Saison Zugang zu vielen Vorteilen.
 PROPITEM_TXT_161080,Flaris Pet Transmute,Flaris Pet Transmute
-PROPITEM_TXT_161081,This item will change your pet's appearance into a random monster from Flaris. May luck be on your side!,This item will change your pet's appearance into a random monster from Flaris. May luck be on your side!
+PROPITEM_TXT_161081,This item will change your pet's appearance into a random monster from Flaris. May luck be on your side!,Dieses Item verändert das Aussehen deines Pets in ein zufälliges Monster aus Flaris. Möge das Glück auf deiner Seite sein!
 PROPITEM_TXT_161082,Serus Uriel Cage,Serus Uriel Cage
-PROPITEM_TXT_161083,A mysterious guardian lurking within the Mars Dungeon. Very rare sighting!,A mysterious guardian lurking within the Mars Dungeon. Very rare sighting!
+PROPITEM_TXT_161083,A mysterious guardian lurking within the Mars Dungeon. Very rare sighting!,"Ein mysteriöser Wächter, der im Mars Dungeon lauert. Sehr seltene Sichtung!"
 PROPITEM_TXT_161084,Violet Aibatt Cage,Violet Aibatt Cage
-PROPITEM_TXT_161085,A rare violet variant of the familiar Aibatt. Rare sighting!,A rare violet variant of the familiar Aibatt. Rare sighting!
+PROPITEM_TXT_161085,A rare violet variant of the familiar Aibatt. Rare sighting!,Eine seltene violette Variante des vertrauten Aibatt. Seltene Sichtung!
 PROPITEM_TXT_161086,Violet Mushpang Cage,Violet Mushpang Cage
-PROPITEM_TXT_161087,A rare violet variant of the peaceful Mushpang. Rare sighting!,A rare violet variant of the peaceful Mushpang. Rare sighting!
+PROPITEM_TXT_161087,A rare violet variant of the peaceful Mushpang. Rare sighting!,Eine seltene violette Variante des friedlichen Mushpang. Seltene Sichtung!
 PROPITEM_TXT_161088,Violet Burudeng Cage,Violet Burudeng Cage
-PROPITEM_TXT_161089,A rare violet variant of the sturdy Burudeng. Rare sighting!,A rare violet variant of the sturdy Burudeng. Rare sighting!
+PROPITEM_TXT_161089,A rare violet variant of the sturdy Burudeng. Rare sighting!,Eine seltene violette Variante des robusten Burudeng. Seltene Sichtung!
 PROPITEM_TXT_161090,Violet Pukepuke Cage,Violet Pukepuke Cage
-PROPITEM_TXT_161091,A rare violet variant of the mischievous Pukepuke. Rare sighting!,A rare violet variant of the mischievous Pukepuke. Rare sighting!
+PROPITEM_TXT_161091,A rare violet variant of the mischievous Pukepuke. Rare sighting!,Eine seltene violette Variante des schelmischen Pukepuke. Seltene Sichtung!
 PROPITEM_TXT_161092,Violet Peakyturtle Cage,Violet Peakyturtle Cage
-PROPITEM_TXT_161093,A rare violet variant of the hard-shelled Peakyturtle. Rare sighting!,A rare violet variant of the hard-shelled Peakyturtle. Rare sighting!
+PROPITEM_TXT_161093,A rare violet variant of the hard-shelled Peakyturtle. Rare sighting!,Eine seltene violette Variante des hartschaligen Peakyturtle. Seltene Sichtung!
 PROPITEM_TXT_161094,Violet Demian Cage,Violet Demian Cage
-PROPITEM_TXT_161095,A rare violet variant of the troublesome Demian. Rare sighting!,A rare violet variant of the troublesome Demian. Rare sighting!
+PROPITEM_TXT_161095,A rare violet variant of the troublesome Demian. Rare sighting!,Eine seltene violette Variante des lästigen Demian. Seltene Sichtung!
 PROPITEM_TXT_161096,Violet Doridoma Cage,Violet Doridoma Cage
-PROPITEM_TXT_161097,A rare violet variant of the curious Doridoma. Rare sighting!,A rare violet variant of the curious Doridoma. Rare sighting!
+PROPITEM_TXT_161097,A rare violet variant of the curious Doridoma. Rare sighting!,Eine seltene violette Variante des neugierigen Doridoma. Seltene Sichtung!
 PROPITEM_TXT_161098,Violet Lawolf Cage,Violet Lawolf Cage
-PROPITEM_TXT_161099,A rare violet variant of the fierce Lawolf. Rare sighting!,A rare violet variant of the fierce Lawolf. Rare sighting!
+PROPITEM_TXT_161099,A rare violet variant of the fierce Lawolf. Rare sighting!,Eine seltene violette Variante des wilden Lawolf. Seltene Sichtung!
 PROPITEM_TXT_161100,Violet Fefern Cage,Violet Fefern Cage
-PROPITEM_TXT_161101,A rare violet variant of the fiery Fefern. Rare sighting!,A rare violet variant of the fiery Fefern. Rare sighting!
+PROPITEM_TXT_161101,A rare violet variant of the fiery Fefern. Rare sighting!,Eine seltene violette Variante des feurigen Fefern. Seltene Sichtung!
 PROPITEM_TXT_161102,Violet Nyangnyang Cage,Violet Nyangnyang Cage
-PROPITEM_TXT_161103,A rare violet variant of the sneaky Nyangnyang. Rare sighting!,A rare violet variant of the sneaky Nyangnyang. Rare sighting!
+PROPITEM_TXT_161103,A rare violet variant of the sneaky Nyangnyang. Rare sighting!,Eine seltene violette Variante des hinterlistigen Nyangnyang. Seltene Sichtung!
 PROPITEM_TXT_161104,Violet Bang Cage,Violet Bang Cage
-PROPITEM_TXT_161105,A rare violet variant of the mighty Bang. Rare sighting!,A rare violet variant of the mighty Bang. Rare sighting!
+PROPITEM_TXT_161105,A rare violet variant of the mighty Bang. Rare sighting!,Eine seltene violette Variante des mächtigen Bang. Seltene Sichtung!
 PROPITEM_TXT_161106,Giant Aibatt Cage,Giant Aibatt Cage
-PROPITEM_TXT_161107,A much larger and stronger Aibatt. Uncommon sighting!,A much larger and stronger Aibatt. Uncommon sighting!
+PROPITEM_TXT_161107,A much larger and stronger Aibatt. Uncommon sighting!,Ein deutlich größerer und stärkerer Aibatt. Ungewöhnliche Sichtung!
 PROPITEM_TXT_161108,Giant Mushpang Cage,Giant Mushpang Cage
-PROPITEM_TXT_161109,A much larger and stronger Mushpang. Uncommon sighting!,A much larger and stronger Mushpang. Uncommon sighting!
+PROPITEM_TXT_161109,A much larger and stronger Mushpang. Uncommon sighting!,Ein deutlich größerer und stärkerer Mushpang. Ungewöhnliche Sichtung!
 PROPITEM_TXT_161110,Giant Burudeng Cage,Giant Burudeng Cage
-PROPITEM_TXT_161111,A much larger and stronger Burudeng. Uncommon sighting!,A much larger and stronger Burudeng. Uncommon sighting!
+PROPITEM_TXT_161111,A much larger and stronger Burudeng. Uncommon sighting!,Ein deutlich größerer und stärkerer Burudeng. Ungewöhnliche Sichtung!
 PROPITEM_TXT_161112,Captain Pukepuke Cage,Captain Pukepuke Cage
-PROPITEM_TXT_161113,A formidable leader among Pukepukes. Uncommon sighting!,A formidable leader among Pukepukes. Uncommon sighting!
+PROPITEM_TXT_161113,A formidable leader among Pukepukes. Uncommon sighting!,Ein furchteinflößender Anführer unter den Pukepukes. Ungewöhnliche Sichtung!
 PROPITEM_TXT_161114,Captain Peakyturtle Cage,Captain Peakyturtle Cage
-PROPITEM_TXT_161115,A formidable leader among Peakyturtles. Uncommon sighting!,A formidable leader among Peakyturtles. Uncommon sighting!
+PROPITEM_TXT_161115,A formidable leader among Peakyturtles. Uncommon sighting!,Ein furchteinflößender Anführer unter den Peakyturtles. Ungewöhnliche Sichtung!
 PROPITEM_TXT_161116,Lord Demian Cage,Lord Demian Cage
-PROPITEM_TXT_161117,A fearsome lord among Demians. Uncommon sighting!,A fearsome lord among Demians. Uncommon sighting!
+PROPITEM_TXT_161117,A fearsome lord among Demians. Uncommon sighting!,Ein furchterregender Lord unter den Demians. Ungewöhnliche Sichtung!
 PROPITEM_TXT_161118,Captain Doridoma Cage,Captain Doridoma Cage
-PROPITEM_TXT_161119,A formidable leader among Doridomas. Uncommon sighting!,A formidable leader among Doridomas. Uncommon sighting!
+PROPITEM_TXT_161119,A formidable leader among Doridomas. Uncommon sighting!,Ein furchteinflößender Anführer unter den Doridomas. Ungewöhnliche Sichtung!
 PROPITEM_TXT_161120,Grownup Lawolf Cage,Grownup Lawolf Cage
-PROPITEM_TXT_161121,A fully grown and fearsome Lawolf. Uncommon sighting!,A fully grown and fearsome Lawolf. Uncommon sighting!
+PROPITEM_TXT_161121,A fully grown and fearsome Lawolf. Uncommon sighting!,Ein ausgewachsener und furchterregender Lawolf. Ungewöhnliche Sichtung!
 PROPITEM_TXT_161122,Giant Fefern Cage,Giant Fefern Cage
-PROPITEM_TXT_161123,A much larger and stronger Fefern. Uncommon sighting!,A much larger and stronger Fefern. Uncommon sighting!
+PROPITEM_TXT_161123,A much larger and stronger Fefern. Uncommon sighting!,Ein deutlich größerer und stärkerer Fefern. Ungewöhnliche Sichtung!
 PROPITEM_TXT_161124,Creep Nyangnyang Cage,Creep Nyangnyang Cage
-PROPITEM_TXT_161125,A particularly nasty Nyangnyang. Uncommon sighting!,A particularly nasty Nyangnyang. Uncommon sighting!
+PROPITEM_TXT_161125,A particularly nasty Nyangnyang. Uncommon sighting!,Ein besonders fieser Nyangnyang. Ungewöhnliche Sichtung!
 PROPITEM_TXT_161126,Giant Bang Cage,Giant Bang Cage
-PROPITEM_TXT_161127,A much larger and stronger Bang. Uncommon sighting!,A much larger and stronger Bang. Uncommon sighting!
+PROPITEM_TXT_161127,A much larger and stronger Bang. Uncommon sighting!,Ein deutlich größerer und stärkerer Bang. Ungewöhnliche Sichtung!
 PROPITEM_TXT_161128,Aibatt Cage,Aibatt Cage
-PROPITEM_TXT_161129,A small and familiar creature of Flaris.,A small and familiar creature of Flaris.
+PROPITEM_TXT_161129,A small and familiar creature of Flaris.,"Eine kleine, vertraute Kreatur aus Flaris."
 PROPITEM_TXT_161130,Mushpang Cage,Mushpang Cage
-PROPITEM_TXT_161131,A peaceful mushroom-like creature of Flaris.,A peaceful mushroom-like creature of Flaris.
+PROPITEM_TXT_161131,A peaceful mushroom-like creature of Flaris.,"Eine friedliche, pilzähnliche Kreatur aus Flaris."
 PROPITEM_TXT_161132,Burudeng Cage,Burudeng Cage
-PROPITEM_TXT_161133,A sturdy creature commonly found around Flaris.,A sturdy creature commonly found around Flaris.
+PROPITEM_TXT_161133,A sturdy creature commonly found around Flaris.,"Eine robuste Kreatur, die häufig rund um Flaris anzutreffen ist."
 PROPITEM_TXT_161134,Small Pukepuke Cage,Small Pukepuke Cage
-PROPITEM_TXT_161135,A small and mischievous creature of Flaris.,A small and mischievous creature of Flaris.
+PROPITEM_TXT_161135,A small and mischievous creature of Flaris.,"Eine kleine, schelmische Kreatur aus Flaris."
 PROPITEM_TXT_161136,Small Peakyturtle Cage,Small Peakyturtle Cage
-PROPITEM_TXT_161137,A small turtle-like creature with a sturdy shell.,A small turtle-like creature with a sturdy shell.
+PROPITEM_TXT_161137,A small turtle-like creature with a sturdy shell.,"Eine kleine, schildkrötenähnliche Kreatur mit einem robusten Panzer."
 PROPITEM_TXT_161138,Demian Cage,Demian Cage
-PROPITEM_TXT_161139,A troublesome little creature found around Flaris.,A troublesome little creature found around Flaris.
+PROPITEM_TXT_161139,A troublesome little creature found around Flaris.,"Eine lästige kleine Kreatur, die rund um Flaris anzutreffen ist."
 PROPITEM_TXT_161140,Doridoma Cage,Doridoma Cage
-PROPITEM_TXT_161141,A curious creature commonly found in Flaris.,A curious creature commonly found in Flaris.
+PROPITEM_TXT_161141,A curious creature commonly found in Flaris.,"Eine neugierige Kreatur, die häufig in Flaris anzutreffen ist."
 PROPITEM_TXT_161142,Lawolf Cage,Lawolf Cage
-PROPITEM_TXT_161143,A fierce wolf-like creature of Flaris.,A fierce wolf-like creature of Flaris.
+PROPITEM_TXT_161143,A fierce wolf-like creature of Flaris.,"Eine wilde, wolfsähnliche Kreatur aus Flaris."
 PROPITEM_TXT_161144,1st Class Fefern Cage,1st Class Fefern Cage
-PROPITEM_TXT_161145,A fiery creature roaming the lands of Flaris.,A fiery creature roaming the lands of Flaris.
+PROPITEM_TXT_161145,A fiery creature roaming the lands of Flaris.,"Eine feurige Kreatur, die durch die Lande von Flaris streift."
 PROPITEM_TXT_161146,Nyangnyang Cage,Nyangnyang Cage
-PROPITEM_TXT_161147,A sneaky feline creature found around Flaris.,A sneaky feline creature found around Flaris.
+PROPITEM_TXT_161147,A sneaky feline creature found around Flaris.,"Eine hinterlistige, katzenartige Kreatur, die rund um Flaris anzutreffen ist."
 PROPITEM_TXT_161148,Bang Cage,Bang Cage
-PROPITEM_TXT_161149,A large and powerful creature of Flaris.,A large and powerful creature of Flaris.
+PROPITEM_TXT_161149,A large and powerful creature of Flaris.,Eine große und mächtige Kreatur aus Flaris.
