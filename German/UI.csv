@@ -11,7 +11,7 @@ UI_HOME_ALREADYACCOUNT,Already have an account?,Hast du bereits einen Account?
 UI_HOME_WEBSITE,Website,Webseite
 UI_HOME_CREDITS,Credits,Credits
 UI_HOME_OR,Or,Oder
-UI_HOME_LOGIN_DOTS,Email:,Email:
+UI_HOME_LOGIN_DOTS,Email:,E-Mail:
 UI_HOME_PASSWORD,Password:,Passwort:
 UI_HOME_RECOVER,Forgot password?,Anmeldedaten vergessen?
 UI_SELECTSERVER_TITLE,Select Server,Wähle einen Server aus
@@ -46,7 +46,7 @@ UI_OPTION_SOUND,Sound,Ton
 UI_OPTION_TEXQUALITY,Textures,Texturen
 UI_OPTION_TEXTOON,Cartoon,Zeichentrick
 UI_OPTION_TEXHIGH,High,Hoch
-UI_OPTION_TEXMID,Medium,Medium
+UI_OPTION_TEXMID,Medium,Mittel
 UI_OPTION_TEXLOW,Low,Wenig
 UI_OPTION_WEATHER,Weather,Wetter
 UI_OPTION_LANGUAGE,Language,Sprache
@@ -58,14 +58,14 @@ UI_NAVIGATOR_MONSTER,Monster,Monster
 UI_PRIVACY_NOTICE,Privacy Policy,Datenschutzbestimmungen
 UI_MSGBOX_ACCEPT,Accept,Akzeptieren
 UI_MSGBOX_DECLINE,Decline,Ablehnen
-UI_MSGBOX_CLOSE,Close,Close
+UI_MSGBOX_CLOSE,Close,Schließen
 UI_OPTION_SHADOWS,Shadows,Schatten
 UI_OPTION_SHADOWS_MAXDIST,Maximum Distance,Maximale Distanz
 UI_OPTION_SHADOWS_MAXQUALITY,Maximum Quality,Maximale Qualität
 UI_OPTION_FULLSCREEN,Fullscreen,Vollbild
 UI_MOTION_TAB_MOT,Emotes,Emotes
 UI_MOTION_TAB_EMO,Emoticons,Emotion
-UI_REVIVAL_TITLE,Resurrection,Resurrection
+UI_REVIVAL_TITLE,Resurrection,Wiederbelebung
 UI_REVIVAL_LODESTAR,Lodestar,Lodestar
 UI_REVIVAL_LODESTAR_TIP,Revive at the nearest town,Wiederbeleben am Loadestar
 UI_REVIVAL_LODELIGHT,Lodelight,Lodelight
@@ -84,7 +84,7 @@ UI_CHARINFO_DEX,DEX,DEX
 UI_CHARINFO_INT,INT,INT
 UI_CHARINFO_STATPOINTS,Stat Points,Statuspunkte
 UI_CHARINFO_APPLY,Confirm,OK
-UI_CHARINFO_RESET,Revert,Revert
+UI_CHARINFO_RESET,Revert,Zurücksetzen
 UI_CHARINFO_CHANGESTATE,Change State,Zustand wechseln
 UI_CHARINFO_CURRENTPAGE,Current Stat Page: %d,Aktuelle Stat Seite: %d
 UI_CHARINFO_CHANGEPAGE_TITLE,Switch Stat Page,Stat Seite wechseln
@@ -100,14 +100,14 @@ UI_CHARINFO_GP_TOOLTIP,"After allocating your stat points, press Confirm.","Klic
 UI_CHARINFO_PVP_DUELFAME,Duel Fame,Duellruhm
 UI_CHARINFO_PVP_DUELPOINT,Duel Points,Duellpunkte
 UI_CHARINFO_PVP_KILLPOINT,Killing Points,Kill Punkte
-UI_CHARINFO_PVP_KARMALEVEL,Karma Level,Karma Level
+UI_CHARINFO_PVP_KARMALEVEL,Karma Level,Karma-Level
 UI_CHARINFO_PVP_KARMAPOINT,Karma Points,Karma Punkte
 UI_CHARINFO_PVPPK,PvP/PK,PvP/PK
 UI_TOOLTIP_SEX_MALE,Sex: Male,Geschlecht: Männlich
 UI_TOOLTIP_SEX_FEMALE,Sex: Female,Geschlecht: Weiblich
 UI_TOOLTIP_HARVEST_TIMEREDUC,Time Reduction Level,Zeitreduktion Level
 UI_TOOLTIP_HARVEST_YIELDBONUS,Yield Bonus Level,Ertragsbonus Level
-UI_TOOLTIP_HARVEST_SPAWNBONUS,Carrier Chance Bonus Level,Carrier Chance Bonus Level
+UI_TOOLTIP_HARVEST_SPAWNBONUS,Carrier Chance Bonus Level,Trägerchance-Bonusstufe
 UI_TOOLTIP_ONEHAND,One-handed weapon.,Einhandwaffe
 UI_TOOLTIP_TWOHAND,Two-handed weapon.,Zweihandwaffe
 UI_TOOLTIP_ATTACK_BASE,Base Attack:,Grundschaden:
@@ -115,9 +115,9 @@ UI_TOOLTIP_DEF_BASE,Base Defense:,Grundverteidigung:
 UI_TOOLTIP_ATTACK,Attack:,ATK :
 UI_TOOLTIP_DEF_A,Defense:,Verteidigung:
 UI_TOOLTIP_ATTACK_SPEED,Attack speed: %s,Angriffstempo: %s
-UI_TOOLTIP_REQ_JOB,Req Job:,Benötigte Klasse:
+UI_TOOLTIP_REQ_JOB,Req Job:,Benötigter Job:
 UI_TOOLTIP_REQ_LEVEL,Required Level: %d,Benötigtes Level: %d
-UI_TOOLTIP_REQ,Requires %s,Requires %s
+UI_TOOLTIP_REQ,Requires %s,Erfordert %s
 UI_TOOLTIP_RESTORE_MP,Restore MP: %d,MP Wiederherst. Rate: %d
 UI_TOOLTIP_CONSUME_MP,MP: %d,MP: %d
 UI_TOOLTIP_CONSUME_FP,FP: %d,FP: %d
@@ -130,12 +130,12 @@ UI_TOOLTIP_INV_BOOTS,Boots,Stiefel
 UI_TOOLTIP_INV_HELMET,Helmet,Helm
 UI_TOOLTIP_INV_CLO,Cloak,Umhang
 UI_TOOLTIP_INV_WEAPON,Weapon,Waffen
-UI_TOOLTIP_INV_GUARD,Shield,Shield
+UI_TOOLTIP_INV_GUARD,Shield,Schild
 UI_TOOLTIP_INV_MASK,Mask,Maske
 UI_TOOLTIP_INV_RID,Flying Item,Fluggerät
 UI_TOOLTIP_INV_NECKLACE,Necklace,Halskette
 UI_TOOLTIP_INV_RING,Ring,Ring
-UI_TOOLTIP_INV_EARRING,Earring,Earring
+UI_TOOLTIP_INV_EARRING,Earring,Ohrring
 UI_TOOLTIP_INV_BULLET,"Ammunition (Arrows, Posters)","Munition (Pfeile, Poster)"
 UI_TOOLTIP_INV_CLOTHES_1,Fashion Hat,Modischer Hut
 UI_TOOLTIP_INV_CLOTHES_2,Fashion Clothes,Modisches Kostüm
@@ -162,14 +162,14 @@ UI_OPTION_PARTY,Party and Guild Invites,Party- und Gildeneinladungen
 UI_OPTION_FRIEND,Friend Invites,Freundschaftsanfragen
 UI_OPTION_SIEGE_CAPTION,Guild Siege Captions,Gildenkrieg Untertitel
 UI_OPTION_DISABLE_PANG,Disable Tutorial Pang,Tutorial Pang deaktivieren
-UI_OPTION_COUPLE,Couple Proposals,Couple Proposals
+UI_OPTION_COUPLE,Couple Proposals,Partneranträge
 UI_INSTANTMSG_TITLE,Message,Nachricht
 UI_MESSAGE_SEND,Send,Senden
 UI_SHOP_TITLE,Shop,Shop
 UI_SHOP_ITEMSLIST,Item List,Gegenstandsliste
 UI_TOOLTIP_PRICE,Price: %s,Preis: %s
 UI_TOOLTIP_SELLPRICE,Selling Price: %s,Verkaufspreis: %s
-UI_SHOP_FILTER,Search,Search
+UI_SHOP_FILTER,Search,Suche
 UI_SHOP_LEVEL,By Level,Level
 UI_SHOP_GENDER,By Gender,Geschlecht
 UI_SHOP_ITEMPRICE,Item Price,Item Preis
@@ -241,10 +241,10 @@ UI_TOOLTIP_DST_REFLECT_DAMAGE,Reflect Damage,Schadensreflektion
 UI_TOOLTIP_DST_MP_DEC_RATE,MP Consumption Decrease,Verringert die Rate des MP-Verbrauchs
 UI_TOOLTIP_DST_FP_DEC_RATE,FP Consumption Decrease,Verringert die Rate des FP-Verbrauchs
 UI_TOOLTIP_DST_SPELL_RATE,Casting Speed,Magiebeschleunigung
-UI_TOOLTIP_DST_ACTION_SPEED,Action Speed,Action Speed
-UI_TOOLTIP_DST_PROJ_SPEED,Projectile Speed,Projectile Speed
-UI_TOOLTIP_DST_DISABLE_EFF,Disable Effect,Disable Effect
-UI_TOOLTIP_DST_WEAKEN_EFF,Weaken Effect,Weaken Effect
+UI_TOOLTIP_DST_ACTION_SPEED,Action Speed,Aktionsgeschwindigkeit
+UI_TOOLTIP_DST_PROJ_SPEED,Projectile Speed,Projektilgeschwindigkeit
+UI_TOOLTIP_DST_DISABLE_EFF,Disable Effect,Deaktivierungseffekt
+UI_TOOLTIP_DST_WEAKEN_EFF,Weaken Effect,Schwächungseffekt
 UI_TOOLTIP_DST_CRITICAL_BONUS,Critical Damage,Kritischer Schaden
 UI_TOOLTIP_DST_YOY_DMG,Attack Power (Yo-Yo),Yoyo-Angriffskraft
 UI_TOOLTIP_DST_BOW_DMG,Attack Power (Bow),Bogen-Angriffskraft
@@ -255,13 +255,13 @@ UI_TOOLTIP_ATTACKSPEED_RATE,Attack Speed Rate,Angriffsgeschwindigkeit
 UI_TOOLTIP_DST_DMG_GET,Lifesteal,Lebensentzug
 UI_TOOLTIP_DST_HPDMG_UP,Attack power and HP,Angriffsstärke und HP sind gestiegen
 UI_TOOLTIP_DST_DEFHIRATE_DOWN,Defense power and accuracy decrease,Verteidigung und Treffsicherheit sind gesunken um  
-UI_TOOLTIP_DST_DEATHRUSH,Death's Rush Chance,Death's Rush Chance
+UI_TOOLTIP_DST_DEATHRUSH,Death's Rush Chance,Death's Rush-Chance
 UI_TOOLTIP_DST_ANKOUHARVEST,Ankou's Harvest,Ankou's Harvest
 UI_TOOLTIP_DST_MURANWRATH,Muran's Wrath,Muran's Wrath
 UI_TOOLTIP_LOCOMOTION,Movement,Bewegung
 UI_TOOLTIP_RETURN_USE,Return to your former position.,Kehre zu deiner ursprünglichen Position zurück.
 UI_DISPLAY_BUFFS,Show/hide buffs,Buffs anzeigen/ausblenden
-UI_SELECTJOB_TITLE,Select new job,Wähle deine neue Klasse
+UI_SELECTJOB_TITLE,Select new job,Wähle deinen neuen Job
 UI_NOTICE_DISCORD,Join our Discord server,Trete unserem Discordserver bei
 UI_TOOLTIP_COMBO,Use skills in the Action Slot,Benutze Fähigkeiten im Action Slot
 UI_OPTION_ANTIALIAS,Antialiasing,Antialiasing
@@ -295,7 +295,7 @@ UI_PARTY_LOOTMODE_MAN,Leader Only,Leader
 UI_PARTY_LOOTMODE_MAN_TIP,All loot goes to the party leader. The party leader can then distribute it at their discretion.,"Alle Items gehen an den Partyleiter. Der Partyleiter kann die Items so verteilen, wie er möchte."
 UI_PARTY_LOOTMODE_RAND,Randomly,Zufall
 UI_PARTY_LOOTMODE_RAND_TIP,Loot is distributed randomly among party members.,Gegenstände werden zufällig verteilt.
-UI_PARTY_LOOTMODE_KILL,Top Damage,Top Damage
+UI_PARTY_LOOTMODE_KILL,Top Damage,Höchster Schaden
 UI_PARTY_LOOTMODE_KILL_TIP,Loot goes to the player who inflicted the most damage to the monster.,Gegenstände werden entsprechend des höchsten Schadens verteilt.
 UI_PARTY_SEARCHMODE,Joining via Finder,Suchmodus
 UI_PARTY_TRANSFER,Transfer,Übertragen
@@ -351,8 +351,8 @@ UI_OPTION_UISCALE,Scale,Skaliert
 UI_OPTION_TEXTSCALE,Font Size,Schriftgröße
 UI_IGNORELIST_TITLE,Ignore List,Blockierliste
 UI_IGNORELIST_COUNT,Ignored Players: %d,Blockierliste: %d
-UI_CHATFILTER_TITLE,Chat Filter,Chat Filter
-UI_CHATFILTER_GENERAL,General,General
+UI_CHATFILTER_TITLE,Chat Filter,Chat-Filter
+UI_CHATFILTER_GENERAL,General,Allgemein
 UI_CHATFILTER_WHISPER,Whispers,Flüstern
 UI_CHATFILTER_SHOUT,Shouts,Rufen
 UI_CHATFILTER_PARTY,Party,Party
@@ -368,7 +368,7 @@ UI_ITEMSLOT_QUESTION,How many items?,Wie viele Items?
 UI_ITEMSLOT_COUNT,Count:,Menge
 UI_POSTSEND_CONFIRM,Send this mail?\nMail expires after %d days.,Möchtest du die Nachricht versenden? \n Erhaltene Nachrichten werden nach %d Tagen gelöscht.
 UI_POST_NO_MAIL,You have no mail.,Du hast keine Post
-UI_POST_UNKNOWN,Unknown,Unknown
+UI_POST_UNKNOWN,Unknown,Unbekannt
 UI_POST_RECEIVE_DATE,Received on: %s,Erhalten am : %s
 UI_POSTREAD_TITLE,Mail Message,Zum kontrollieren der Email
 UI_POSTREAD_FROM,From,Absender
@@ -386,7 +386,7 @@ UI_QUEST_ALLQUESTS,All Quests,Alle Quests
 UI_QUEST_INPROGRESS,In Progress,In Bearbeitung
 UI_QUEST_COMPLETED,Completed,Abgeschlossene Quests
 UI_QUEST_LIST,Quest List,Questliste
-UI_QUEST_DETAIL,Quest Details,Quest Details
+UI_QUEST_DETAIL,Quest Details,Quest-Details
 UI_QUEST_REWARDS,Reward List,Belohnungsliste
 UI_QUEST_CONDITIONS,Quest Condition,Quest Bedingung
 UI_QUEST_GOLD1,Penya: %d,Penya : %d
@@ -394,7 +394,7 @@ UI_QUEST_GOLD2,Penya: %d~%d,Penya : %d~%d
 UI_QUEST_GOLD3,Penya: ????,Penya : ????
 UI_QUEST_EXP1,Experience Gained.,Erfahrung erhalten.
 UI_QUEST_EXP2,Experience: %.2f%%,Erfahrung: %.2f%%
-UI_QUEST_EXP_COUPLE,Couple Experience: %.2f%%,Couple Experience: %.2f%%
+UI_QUEST_EXP_COUPLE,Couple Experience: %.2f%%,Partner-Erfahrung: %.2f%%
 UI_QUEST_SKILLPOINT,Skill Points,Fähigkeitenpunkte
 UI_QUEST_INVENTORYSLOT1,Inventory Space,Inventarplatz
 UI_QUEST_INVENTORYSLOT2,Inventory Space: %d,Inventarplatz: %d
@@ -444,7 +444,7 @@ UI_GUILD_TAB_MEMBER,Members,Mitglieder
 UI_GUILD_TAB_GRADE,Titles,Titel
 UI_GUILD_TAB_WAR,Guild Duel,Gildenkrieg
 UI_GUILD_NAME,Name:,Name
-UI_GUILD_NAME_BUTTON,Change Name,Change Name
+UI_GUILD_NAME_BUTTON,Change Name,Namen ändern
 UI_GUILD_MASTER,Guild Master:,Meister:
 UI_GUILD_EXP,EXP:,Erfahrung:
 UI_GUILD_PENYA,Penya:,Penya:
@@ -452,7 +452,7 @@ UI_GUILD_LEVEL,Level:,Lv.
 UI_GUILD_MEMBER,Members:,Mitglieder:
 UI_GUILD_DISCORD_TIP,Join the guild Discord server,Trete dem Gildendiscord bei.
 UI_GUILD_LOGO,Logo:,Emblem:
-UI_GUILD_LOGO_BUTTON,Change Logo,Change Logo
+UI_GUILD_LOGO_BUTTON,Change Logo,Logo ändern
 UI_GUILD_NOTICE,Notice,Notiz
 UI_GUILD_DISMISS,Disband,Verwerfen
 UI_GUILD_NOTICE_TIP,Set your guild notice,Gilden Notiz verfassen
@@ -478,8 +478,8 @@ UI_GUILD_POWER_TITLE,Promote/Demote,Titel
 UI_GUILD_POWER_RANK,Adjust Rank,Rang
 UI_GUILD_POWER_JOIN,Invite,Eintreten
 UI_GUILD_POWER_ITEM,Take Items,Gegenstand
-UI_GUILD_POWER_PENYA,Take Penya,Take Penya
-UI_GUILD_POWER_SPECTATE,Spectate,Spectate
+UI_GUILD_POWER_PENYA,Take Penya,Penya nehmen
+UI_GUILD_POWER_SPECTATE,Spectate,Zuschauen
 UI_GUILD_POWER_TIP,Save changes,Einstellungen anwenden
 UI_GUILD_POWER_SAVE,Save,Speichern
 UI_GUILD_PAY_TIP,Set %s salary. (Paid automatically at 00:00),%s zahlen. (Wird automatisch um 00:00 bezahlt)
@@ -501,11 +501,11 @@ UI_GUILDINVITE_TITLE,Invite to Guild,In Gilde einladen
 UI_GUILDINVITE_QUESTION,%s invites you to join the guild %s. Accept the invitation?,%s lädt dich in die Gilde %s ein. Gilde beitreten?
 UI_GUILD_JOINQUESTION,%s wants to join your guild. Accept the request?,%s will deiner Gilde beitreten. Anfrage akzeptieren?
 UI_GUILDBANK_TITLE,Guild Bank,Gildenbank
-UI_GUILDBANK_SUPPORT,Donate,Donate
+UI_GUILDBANK_SUPPORT,Donate,Spenden
 UI_GUILDBANK_CLOAK,Cloak,Umhang
 UI_GUILDBANK_ITEM,Items,Gegenstand
 UI_GUILDMERIT_TITLE,Guild Donation,Gildenbeitrag
-UI_GUILDMERIT_QUESTITEMS,Quest Items,Quest Items
+UI_GUILDMERIT_QUESTITEMS,Quest Items,Quest-Items
 UI_GUILDMERIT_PENYA,Penya,Penya
 UI_GUILDCOMBATBOARD_TITLE,Guild Siege Information,Informationen über Gildenkriege
 UI_GUILDBANKLOG_TITLE,Guild Bank Log,Gildenbank Protokoll
@@ -537,7 +537,7 @@ UI_GUILDRANK_LEADERNAME,Guild Master,Name des Meisters
 UI_GUILDRANK_WINLOSE,Win / Lose,Gewonnen / Verloren
 UI_GUILDRANK_AVGLEVEL,Average Level,Durchschnittslevel
 UI_GUILD_WAR_DECLARE,Duel,Duell
-UI_GUILD_WAR_PEACE,Truce,Truce
+UI_GUILD_WAR_PEACE,Truce,Waffenstillstand
 UI_GUILD_WAR_GIVEUP,Surrender,Aufgeben
 UI_GUILD_WAR_NAME,Enemy Guild Name:,Gildenname:
 UI_GUILD_WAR_LOGO,Enemy Guild Logo:,Gildenemblem:
@@ -548,9 +548,9 @@ UI_GUILD_WAR_TIMELEFT,Time Left:,Verbleibende Zeit:
 UI_OPTION_THEME,Theme,Theme
 UI_HOME_PROLOGUE,Prologue,Prolog
 UI_SKILL_PLUS_TIP,Increase Skill Level,Skill Level erhöhen
-UI_SKILL_MAX_TIP,Maximize Skill Level,Maximize Skill Level
+UI_SKILL_MAX_TIP,Maximize Skill Level,Skilllevel maximieren
 UI_SKILL_MINUS_TIP,Decrease Skill Level,Skill Level senken
-UI_SKILL_RESET,Reset,Reset
+UI_SKILL_RESET,Reset,Zurücksetzen
 UI_SKILL_RESET_TIP,Discard all unconfirmed changes,Skillpunkte verteilen (Vergebene Skillpunkte stehen nicht zur Verfügung)
 UI_SKILL_SAVE,Apply,Abschluss
 UI_SKILL_SAVE_TIP,Apply new skill point allocations,Skillpunkte werden durch drücken des + oder – Symbols verteilt.
@@ -564,12 +564,12 @@ UI_ITEM_DURATION_TIME_LEFT,Time Left,Verbleibende Zeit
 UI_QUERY_EQUIP_TITLE,Equipment View,Ansicht
 UI_OPTION_EQUIP_VIEW,Equipment View,Ausrüstungsansicht
 UI_OPTION_DUEL_REQUESTS,Duel Requests,Duellanfragen
-UI_OPTION_DUEL_BETS,Duel Bets,Duel Bets
+UI_OPTION_DUEL_BETS,Duel Bets,Duell-Wetten
 UI_TRADE_TITLE,Trade,Handel
 UI_TRADE_PENYA,Penya,Penya
-UI_DROP_FILTER_TITLE,Pickup Pet,Pickup Pet
+UI_DROP_FILTER_TITLE,Pickup Pet,Sammel-Pet
 UI_DROP_FILTER_SETTINGS,Loot Filter Settings,Optionen
-UI_DROP_FILTER_CAT_EQUIPMENT,Equipment,Equipment
+UI_DROP_FILTER_CAT_EQUIPMENT,Equipment,Ausrüstung
 UI_DROP_FILTER_0,Weapons,Waffen
 UI_DROP_FILTER_1,Armor,Rüstung
 UI_DROP_FILTER_2,Accessories,Accessories
@@ -584,7 +584,7 @@ UI_DROP_FILTER_9,Food,Nahrung
 UI_DROP_FILTER_10,Vital Drinks,FP Trank
 UI_DROP_FILTER_11,Buffs,Buffs
 UI_DROP_FILTER_12,Pets,Begleiter
-UI_DROP_FILTER_13,Misc.,Misc.
+UI_DROP_FILTER_13,Misc.,Sonstiges
 UI_DROP_FILTER_CAT_ETC,Others,Sonstiges
 UI_DROP_FILTER_14,Common,Gewöhnlich
 UI_DROP_FILTER_15,Uncommon,Außergewöhnlich
@@ -597,7 +597,7 @@ UI_TOOLTIP_USE,Use: %s,Benutze: %s
 UI_TOOLTIP_PERMANENTTIME,No Time Limit,Kein Zeitlimit
 UI_TOOLTIP_COOLTIME,Cooldown: %.2d:%.2d,Wartezeit bis zur Wiederverwendung: %.2d:%.2d
 UI_RESURRECTION_TITLE,Confirm Resurrection,Wiederbelebung akzeptieren
-UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you (skill level %d). Accept the resurrection?,Another player is trying to resurrect you (skill level %d). Accept the resurrection?
+UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you (skill level %d). Accept the resurrection?,"Ein anderer Spieler versucht, dich wiederzubeleben (Fertigkeitslevel %d). Wiederbelebung annehmen?"
 UI_TOOLTIP_EQUIPSET,Set Effect,Set Effekt
 UI_TOOLTIP_BLOCKRATE,Block,Blocken
 UI_OPTION_FIELDVIEW_AUTO,Auto,automatisch
@@ -613,7 +613,7 @@ UI_OPTION_COLORBLIND_2,Deuteranopia,Deuteranopia
 UI_OPTION_COLORBLIND_3,Tritanopia,Tritanopia
 UI_OPTION_RENDERSCALE,Resolution,Auflösung
 UI_OPTION_FOV,FoV,FoV
-UI_OPTION_FOV_TIP,Field of View,Field of View
+UI_OPTION_FOV_TIP,Field of View,Sichtfeld
 UI_OPTION_ADVANCEDSFX,Special Effects,Besondere Effekte
 UI_INFO_PANG_TUTORIAL,Tutorial,Einweisung
 UI_INFO_PANG_NEXT,Next,Weiter
@@ -624,7 +624,7 @@ UI_TUTORIAL_LIST_TITLE,Tutorial,Einweisung
 UI_DROP_ITEM_CONFIRM,Drop this item?,Möchtest du diesen Gegenstand wirklich wegwerfen?
 UI_PRIVATE_SHOP_NAME,Shop Name,Shopname
 UI_PRIVATE_SHOP_LIST,Sale List,Verkaufsliste
-UI_PRIVATE_SHOP_RESET,Reset,Reset
+UI_PRIVATE_SHOP_RESET,Reset,Zurücksetzen
 UI_PRIVATE_SHOP_CHAT,Chat,Chat
 UI_PRIVATE_SHOP_SELL_TITLE,List Item for Sale,Gegenstände verkaufen
 UI_PRIVATE_SHOP_QUANTITY,Quantity,Menge
@@ -635,12 +635,12 @@ UI_PERSONAL_SHOP_TITLE,%s's Private Shop,%s's privater Laden
 UI_PRIVATE_SHOP_BUY_TITLE,Purchase Item,Item kaufen
 UI_PRIVATE_SHOP_BUY,Purchase,Kaufen
 UI_PRIVATE_SHOP_TOTAL_COST,Total Cost,Gesamt
-UI_PERSONAL_SHOP_CHAT_TITLE,Private Shop Chat,Private Shop Chat
+UI_PERSONAL_SHOP_CHAT_TITLE,Private Shop Chat,Privater Shop-Chat
 UI_PERSONAL_SHOP_CHAT_USER,User,Benutzer
 UI_PERSONAL_SHOP_CHAT_MESSAGE,Message,Nachricht
 UI_PERSONAL_SHOP_CHAT_INPUT,Input,Eingabe
 UI_PERSONAL_SHOP_CHAT_DIALOG,Chat,Chat
-UI_PERSONAL_SHOP_CHAT_INFO,Activity,Activity
+UI_PERSONAL_SHOP_CHAT_INFO,Activity,Aktivität
 UI_PERSONAL_SHOP_CHAT_SEND,Send,Senden
 UI_PERSONAL_SHOP_JOIN,%s has entered the shop.,%s hat den Shop betreten.
 UI_PERSONAL_SHOP_LEAVE,%s has left the shop.,%s hat den Shop verlassen.
@@ -650,7 +650,7 @@ UI_CONFIRM_SELL_PREMIUM_MSG,This is a premium item. Are you sure you want to sel
 UI_TOOLTIP_ITEM_BINDS,[Soul-Linked],[Seelengebunden]
 UI_TOOLTIP_ACCOUNT_BINDS,[Account-Linked],[Account-Gebunden]
 UI_BEAUTY_SHOP_TITLE,Hair Salon,Friseur
-UI_BEAUTY_SHOP_RESET,Reset,Reset
+UI_BEAUTY_SHOP_RESET,Reset,Zurücksetzen
 UI_BEAUTY_SHOP_HAIR_COLOR,Hair Color,Haarfarbe
 UI_BEAUTY_SHOP_HAIR_STYLE,Hair Style,Frisur
 UI_BEAUTY_SHOP_PREVIEW,Preview,Vorschau
@@ -669,7 +669,7 @@ UI_TRADE_PUT_ITEM_QTY,Quantity:,Anzahl :
 UI_TRADE_CONFIRM_TITLE,Finalize Trade,Handel bestätigen
 UI_TRADE_CONFIRM_QUESTION,Accept the trade?,Willst du den Handel annehmen?
 UI_TRADE_CONFIRM_WAIT,Waiting for the other player to accept the trade...,Du musst auf eine Bestätigung warten.
-UI_OPTION_MOBILE_DIR,Directional Pad,Directional Pad
+UI_OPTION_MOBILE_DIR,Directional Pad,Steuerkreuz
 UI_PIERCING_TITLE,Piercing,Sockeln
 UI_PIERCING_PIERCE_ITEM,Pierce Item,Item Sockeln
 UI_PIERCING_ITEM,Item,Gegenstand
@@ -788,7 +788,7 @@ UI_GUILD_WAR_PEACE_MSG,Propose a truce to the enemy guild?,Willst du einen Waffe
 UI_GUILD_WAR_PEACE_CONFIRM_TITLE,Truce Approval,Annahme Waffenstillstand
 UI_GUILD_WAR_PEACE_CONFIRM_MSG,The opposing guild has proposed a truce. Do you accept?,Die gegnerische Gilde hat einen Waffenstillstand vorgeschlagen. Nimmst du an?
 UI_TOOLTIP_ATKPOWER_VALUE,Attack,Angriff
-UI_RANDOM_SCROLL_TITLE,Random Option,Random Option
+UI_RANDOM_SCROLL_TITLE,Random Option,Zufallsoption
 UI_SUMMON_FRIEND_TITLE,Summon,Herbeirufen
 UI_SUMMON_FRIEND_MSG,Select a friend to summon,Wähle einen Freund zum Beschwören
 UI_SUMMON_FRIEND_INPUT,Name:,Name
@@ -828,13 +828,13 @@ UI_MAP_MARK,Position,Ort
 UI_MAP_MARK_NAME_TITLE,Set Map Mark Name,Wegpunkt umbenennen
 UI_MAP_MARK_NAME_INPUT,Enter a new name for the mark:,"Gib den Namen an, der geändert werden soll."
 UI_TOOLTIP_EQUIPPED,[ Equipped ],[ Ausgerüstet ]
-UI_TOOLTIP_ACTIVESELF,Also Cast on You,Also Cast on You
-UI_TOOLTIP_ACTIVETARGET,Also Cast on Target,Also Cast on Target
-UI_TOOLTIP_CHANGEIFHAS,If you have %s,If you have %s
-UI_TOOLTIP_CHANGEIFHAS_TARGET,If the target has %s,If the target has %s
-UI_TOOLTIP_GAINSTACKS,%s Stacks Gained: %d,%s Stacks Gained: %d
-UI_TOOLTIP_GAINSTACKS_PVP,%s Stacks Gained: %d / %d (PvP),%s Stacks Gained: %d / %d (PvP)
-UI_ITEM_LINK_TITLE,Linked Item Info.,Linked Item Info.
+UI_TOOLTIP_ACTIVESELF,Also Cast on You,Wirkt auch auf dich
+UI_TOOLTIP_ACTIVETARGET,Also Cast on Target,Wirkt auch auf das Ziel
+UI_TOOLTIP_CHANGEIFHAS,If you have %s,Wenn du %s hast
+UI_TOOLTIP_CHANGEIFHAS_TARGET,If the target has %s,Wenn das Ziel %s hat
+UI_TOOLTIP_GAINSTACKS,%s Stacks Gained: %d,%s Stapel erhalten: %d
+UI_TOOLTIP_GAINSTACKS_PVP,%s Stacks Gained: %d / %d (PvP),%s Stapel erhalten: %d / %d (PvP)
+UI_ITEM_LINK_TITLE,Linked Item Info.,Info zu verknüpftem Item
 UI_BEAUTY_SHOP_COUPON_TITLE,Use Coupon,Gutschein einlösen
 UI_BEAUTY_SHOP_COUPON_MSG,You have a Free Coupon. Use it now?,Du hast einen Gratis Coupon. Willst du ihn jetzt verwenden?
 UI_BEAUTY_SHOP_COUPON,Using the Free Coupon.,(Gratis Coupon wurde verwendet!)
@@ -858,12 +858,12 @@ UI_GUILDBANK_CLOAK_TIP,Create a guild cloak with your guild logo on it (requires
 UI_GUILDBANK_LOG_TIP,Open the guild bank log,Gildenbankprotokoll anzeigen
 UI_APP_DEBUG_TIP,Debug Window,Öffne Debug Fenster
 UI_APP_INFO_PANG_TIP,Summon Info-Pang.,Beschwöre Info-Pang
-UI_APP_FAQ_TIP,View Frequently Asked Questions.,View Frequently Asked Questions.
+UI_APP_FAQ_TIP,View Frequently Asked Questions.,Häufig gestellte Fragen ansehen.
 UI_APP_TIPS_TIP,View gameplay tips.,Tipps
 UI_APP_HELP_TIP,Open the help window.,Hilfe
 UI_APP_GUILD_TIP,View and manage your guild.,Deine Gilde verwalten.
 UI_APP_PARTY_TIP,View and manage your party.,Deine Party verwalten.
-UI_APP_COUPLE_TIP,View and manage your couple.,View and manage your couple.
+UI_APP_COUPLE_TIP,View and manage your couple.,Deine Partnerschaft ansehen und verwalten.
 UI_APP_MESSENGER_TIP,View and manage your friends list.,Deine Freundesliste verwalten.
 UI_APP_ITEMDURATION_TIP,View the remaining duration of your active premium items.,Dauer der Premium Items
 UI_APP_CASHSHOP_TIP,Open the Flyff Shop to purchase premium items.,Shop öffnen
@@ -917,7 +917,7 @@ UI_GUILDCOMBAT_SELECT_RIGHT_TIP,Add the selected member to the lineup,Gilden Mit
 UI_GUILDCOMBAT_SELECT_LEFT_TIP,Remove the selected member from the lineup,Löschen der Guildwarteilnahme
 UI_GUILDCOMBAT_SELECT_UP_TIP,Move the selected member up in the lineup,Anordnen in aufsteigender Reihenfolge der ausgewählten Spieler.
 UI_GUILDCOMBAT_SELECT_DOWN_TIP,Move the selected member down in the lineup,Anordnen in absteigender Reihenfolge der ausgewählten Spieler.
-UI_GUILDCOMBAT_SELECT_COMPLETE,Confirm,Confirm
+UI_GUILDCOMBAT_SELECT_COMPLETE,Confirm,Bestätigen
 UI_GUILDCOMBAT_SELECT_COMPLETE_TIP,Save and confirm the lineup,Eintrag vervollständigen
 UI_GUILDCOMBAT_SELECT_DEFENDER,Defender,Verteidiger
 UI_GUILDCOMBAT_SELECT_DEFENDER_TIP,Designate the selected member as Defender,Verteidiger auswählen
@@ -934,14 +934,14 @@ UI_GUILDCOMBAT_JOIN_MSG,Enter the Guild Siege Arena now?,Möchtest du dem Gilden
 UI_NETWORK_ERROR_TITLE,Network Error,Netzwerkfehler
 UI_NETWORK_ERROR_MSG,"A network error happened, please check your connection and login again.",Ein Netzwerkfehler ist aufgetreten. Bitte überprüfe deine Internetverbindung und verbinde dich erneut.
 UI_GUILDCOMBAT_JOINWAR_TITLE,Select Entry Zone,Wiederbelebungsort
-UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered zone 1.,Du gehst zum ersten Bereich.
-UI_GUILDCOMBAT_JOINWAR_2_TIP,You have entered zone 2.,Du gehst zum zweiten Bereich.
-UI_GUILDCOMBAT_JOINWAR_3_TIP,You have entered zone 3.,Du gehst zum dritten Bereich.
-UI_GUILDCOMBAT_JOINWAR_4_TIP,You have entered zone 4.,Du gehst zum vierten Bereich.
-UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered zone 5.,You have entered zone 5.
-UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered zone 6.,You have entered zone 6.
-UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered zone 7.,You have entered zone 7.
-UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered zone 8.,You have entered zone 8.
+UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered zone 1.,Du hast Zone 1 betreten.
+UI_GUILDCOMBAT_JOINWAR_2_TIP,You have entered zone 2.,Du hast Zone 2 betreten.
+UI_GUILDCOMBAT_JOINWAR_3_TIP,You have entered zone 3.,Du hast Zone 3 betreten.
+UI_GUILDCOMBAT_JOINWAR_4_TIP,You have entered zone 4.,Du hast Zone 4 betreten.
+UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered zone 5.,Du hast Zone 5 betreten.
+UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered zone 6.,Du hast Zone 6 betreten.
+UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered zone 7.,Du hast Zone 7 betreten.
+UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered zone 8.,Du hast Zone 8 betreten.
 UI_GUILDCOMBAT_JOINWAR_SELECT,Select the zone you wish to enter.,Wähle den Startpunkt mit Hilfe der Landkarte
 UI_GUILDCOMBAT_JOINWAR_MSG,"In %d seconds, you will enter zone %s.","Nach %d, betrittst du %s."
 UI_GUILDCOMBAT_JOINWAR_RANDOM,Random,Zufällig
@@ -1012,7 +1012,7 @@ UI_TOOLTIP_ABILITY,Bonus,Skill
 UI_PET_HP,Energy: %d / %d,Energie: %d / %d
 UI_PET_LEVEL,Lv%d,Lvl %d
 UI_PET_DEAD,(DEAD),(Tot)
-UI_PET_REROLL_TIER,Scroll-rerolled tier:,Scroll-rerolled tier:
+UI_PET_REROLL_TIER,Scroll-rerolled tier:,Scroll-neu gewürfelte Stufe:
 UI_TARGET_CLEAR,Clear target,Ziel abwählen
 UI_OPTION_TAB_UI,Interface,Benutzeroberfläche
 UI_OPTION_AUTO_ATTACK,Auto Attack,Automatisch angreifen
@@ -1037,7 +1037,7 @@ UI_TOOLTIP_DMG_MUL,Damage Multiplier: %.2f,Schadens Multiplikator: %.2f
 UI_TOOLTIP_SCALE_ATTACK,Attack Scaling,Angriffsskalierung
 UI_TOOLTIP_SCALE_HEAL,Heal Scaling,Heilungsskalierung
 UI_TOOLTIP_SCALE_TIME,Time Scaling,Zeitskalierung
-UI_TOOLTIP_SCALE_CHARGE,Dec. Charging Time Scaling,Dec. Charging Time Scaling
+UI_TOOLTIP_SCALE_CHARGE,Dec. Charging Time Scaling,Verkürzung der Aufladezeit-Skalierung
 UI_TOOLTIP_SCALE_PARAM,Scaling,Skalierung
 UI_TOOLTIP_SCALE_PARAM_PER,per,Pro
 UI_TOOLTIP_SCALE_PARAM_MAX,max,Max
@@ -1051,7 +1051,7 @@ UI_TOOLTIP_BASE_TIME,Base Time: %.2d:%.2d.%.3d,Basiszeit: %.2d:%.2d.%.3d
 UI_TOOLTIP_BASE_TIME_PVP,/ %.2d:%.2d (PvP & Giants),/ %.2d:%.2d (PvP & Giants)
 UI_TOOLTIP_PROBABILITY,Probability: %d%%,Wahrscheinlichkeit: %d%%
 UI_TOOLTIP_PROBABILITY_PVP,/ %d%% (PvP & Giants),/ %d%% (PvP & Giants)
-UI_TOOLTIP_PROBABILITY_FLYBACK,Knockdown Probability: %d%%,Knockdown Probability: %d%%
+UI_TOOLTIP_PROBABILITY_FLYBACK,Knockdown Probability: %d%%,Niederwurf-Wahrscheinlichkeit: %d%%
 UI_TOOLTIP_COOLDOWN,Cooldown: %.2d:%.2d,Abklingzeit: %.2d:%.2d
 UI_TOOLTIP_COOLDOWN_PVP,/ %.2d:%.2d (PvP),/ %.2d:%.2d (PvP)
 UI_TOOLTIP_COOLDOWN_ONLY_PVP,Cooldown: %.2d:%.2d (PvP),Abklingzeit: %.2d:%.2d (PvP)
@@ -1096,7 +1096,7 @@ UI_KEYBIND_GAME,Game Functions,Spielfunktionen
 UI_KEYBIND_NONE,Not Bound,Ungebunden
 UI_KEYBIND_UNBIND,Unbind key,Tastenbelegung entfernen
 UI_KEYBIND_TITLE,Keys,Tasten
-UI_KEYBIND_RESET,Reset,Reset
+UI_KEYBIND_RESET,Reset,Zurücksetzen
 UI_UPGRADECARD_TITLE,Upgrade Suit Socket Cards,Socket-Card-Verbesserung
 UI_UPGRADECARD_REGISTER,Insert suit cards.,Materialkarte einlegen.
 UI_UPGRADECARD_INFO,Fuse 10 suit cards for a chance to get 1 higher-grade card.,"Kombiniere 10 Materialkarten, um eine höherwertige Karte zu erhalten."
@@ -1127,7 +1127,7 @@ UI_REPORT_REASON4,Insults,Beleidigung
 UI_REPORT_CONFIRM,Are you sure you want to report %s?\n\nAbuse of this feature may result in your account being banned.,"Bist du sicher, dass du %s melden möchtest?\n\nSolltest du Falschmeldungen abgeben, kann dein Konto gesperrt werden."
 UI_APP_ACHIEVEMENTS_TIP,View your achievements.,Zeigt die Erfolge an.
 UI_ACHIEVEMENTS_TITLE,Achievements,Erfolge
-UI_ACHIEVEMENTS_GENERAL_TAB,General,General
+UI_ACHIEVEMENTS_GENERAL_TAB,General,Allgemein
 UI_ACHIEVEMENTS_MONSTERS_TAB,Monsters,Monster
 UI_ACHIEVEMENTS_CONSUMABLES_TAB,Consumables,Verbrauchsgegenstände
 UI_ACHIEVEMENTS_TITLES_TAB,Titles & Badges,Titel & Abzeichen
@@ -1183,8 +1183,8 @@ UI_WORLD_CHARGING,Charging,Aufladen
 UI_NAVIGATOR_LOCALTIME,Local Time,Ortszeit
 UI_NAVIGATOR_SERVERTIME,Server Time,Serverzeit
 UI_NAVIGATOR_MADRIGALTIME,Madrigal Time,Madrigal Zeit
-UI_UPGRADESAFE_STOP,Stop,Stop
-UI_UPGRADESAFE_RESET,Reset,Reset
+UI_UPGRADESAFE_STOP,Stop,Stopp
+UI_UPGRADESAFE_RESET,Reset,Zurücksetzen
 UI_UPGRADESAFE_MATERIAL_NORMAL,Power Dice,Power Dice
 UI_UPGRADESAFE_MATERIAL_ULTIMATE,Sunstone,Oricalkum
 UI_UPGRADESAFE_MATERIAL_ELEMENT,Card,Karte
@@ -1270,7 +1270,7 @@ UI_TOOLTIP_DST_DEFMAGIC_RATE,Magic Resistance,Magieverteidigung
 UI_TOOLTIP_DST_DEFPHYS_RATE,Physical Resistance,Physische Verteidigung
 UI_TOOLTIP_DST_PVP_DMG,PvP Damage,PvP Schaden
 UI_TOOLTIP_DST_PVE_DMG,PvE Damage,PvE Schaden
-UI_TOOLTIP_DST_ASAL,Asalraalaikum Damage,Asalraalaikum Damage
+UI_TOOLTIP_DST_ASAL,Asalraalaikum Damage,Asalraalaikum-Schaden
 UI_TOOLTIP_WALL_LIVES,Number of lives: %d,Anzahl Leben: %d
 UI_BUFF_REMOVE_TITLE,Cancel Buff,Buff entfernen
 UI_BUFF_REMOVE_QUESTION,Remove the buff #b%s#nb? This action cannot be undone.,Bestätigst du die Entfernung des Buffs #b%s#nb? Diese Aktion kann nicht rückgängig gemacht werden.
@@ -1279,13 +1279,13 @@ UI_TOOLTIP_CHANCESTUN_PVP,Stun Probability (PvP),Betäubungswahrscheinlichkeit (
 UI_TOOLTIP_CHANCESTUN_PVE,Stun Probability (PvE),Betäubungswahrscheinlichkeit (PvE)
 UI_TOOLTIP_CHANCEPOISON,Poison Probability,Vergiftungswahrscheinlichkeit
 UI_TOOLTIP_CHANCESTEALHP,Steal HP Probability,HP Stehlen Wahrscheinlichkeit
-UI_TOOLTIP_CHANCESTEALMP,Steal MP Probability,Steal MP Probability
-UI_TOOLTIP_CHANCESTEALFP,Steal FP Probability,Steal FP Probability
+UI_TOOLTIP_CHANCESTEALMP,Steal MP Probability,MP-Diebstahl-Wahrscheinlichkeit
+UI_TOOLTIP_CHANCESTEALFP,Steal FP Probability,FP-Diebstahl-Wahrscheinlichkeit
 UI_TOOLTIP_CHANCEBLEEDING,Bleeding Probability,Blutungswahrscheinlichkeit
 UI_OPTION_PARTY_MEMBERS_HP,Party Members HP,HP von Partymitgliedern anzeigen
 UI_TOOLTIP_DOTTICK,DoT Tick: %s Seconds,Schaden über Zeit: %s Sekunden
-UI_TOOLTIP_MAXHIT,Max Targets: %d,Max Targets: %d
-UI_TOOLTIP_MAXHIT_PVP,Max Targets: %d / %d (PvP),Max Targets: %d / %d (PvP)
+UI_TOOLTIP_MAXHIT,Max Targets: %d,Max. Ziele: %d
+UI_TOOLTIP_MAXHIT_PVP,Max Targets: %d / %d (PvP),Max. Ziele: %d / %d (PvP)
 UI_PRIVATE_SHOP_OK,Shop,Shop
 UI_PRIVATE_SHOP_OK_TIP,Open a Personal Shop,Eröffne einen privaten Laden
 UI_PRIVATE_SHOP_VENDOR,Vendor,Verkäufer
@@ -1307,7 +1307,7 @@ UI_INVENTORY_LOCK,Mark Favorite,Markiere als Favoriten
 UI_INVENTORY_UNLOCK,Unmark Favorite,Entferne Favoriten
 UI_APP_EXTRABAG_TIP,Open the compact inventory view.,Öffnet eine zweite Ansicht deines Inventars.
 UI_INVENTORY_TAB_ALL,All,Alles
-UI_INVENTORY_TAB_GENERAL,General,General
+UI_INVENTORY_TAB_GENERAL,General,Allgemein
 UI_INVENTORY_TAB_PET,Pet,Begleiter
 UI_INVENTORY_TAB_CLOTH,Cloth,Kleidung
 UI_INVENTORY_TAB_QUEST,Quest,Quest
@@ -1318,7 +1318,7 @@ UI_INVENTORY_ACTION_EQUIP,Equip,Ausrüsten
 UI_TOOLTIP_UNSELLABLE,Cannot be sold to NPCs.,Kann nicht an NPCs verkauft werden.
 UI_UPGRADE_PROB,Success: #b%s#nb,Erfolgschance: #b%s#nb
 UI_OPTION_ADVANCEDSHADERS,Advanced Shaders,Erweiterte Shader
-UI_OPTION_BLOOM,Bloom,Blüte
+UI_OPTION_BLOOM,Bloom,Bloom
 UI_OPTION_DOF,Depth of Field,Tiefenschärfe
 UI_OPTION_SSAO,SSAO,SSAO
 UI_OPTION_VLIGHT,Volumetric Light,Volumetric Light
@@ -1350,7 +1350,7 @@ UI_BOUNTYINPUT_LABEL_REWARD,Bounty,Belohnung
 UI_BOUNTYINPUT_LABEL_TOTAL,Total,Gesamt
 UI_BOUNTYINPUT_LABEL_COMMENT,Comment,Kommentar
 UI_BOUNTYLIST_TITLE,Bounty List,Kopfgeld Liste
-UI_BOUNTYLIST_HEADER_NAME,Target,Target
+UI_BOUNTYLIST_HEADER_NAME,Target,Ziel
 UI_BOUNTYLIST_HEADER_LEVEL,Level,Level
 UI_BOUNTYLIST_HEADER_REWARD,Bounty,Belohnung
 UI_BOUNTYLIST_HEADER_TIMELEFT,Time left,Verbleibende Zeit
@@ -1360,8 +1360,8 @@ UI_BOUNTYPOS_FEE,Pay %s Penya to see %s's current location?,"Bist du dir sicher,
 UI_APP_GACHA_TIP,Open the Gacha window.,Zeigt das Gacha Menü.
 UI_GACHA_TITLE,Gacha,Gacha
 UI_GACHA_OPEN,Open,Öffnen
-UI_GACHA_QUANTITY_MAX,Max,Max
-UI_GACHA_RESET,Reset,Reset
+UI_GACHA_QUANTITY_MAX,Max,Max.
+UI_GACHA_RESET,Reset,Zurücksetzen
 UI_GACHA_DESC_EMPTY,"Drag and drop an item pack, gift box, gacha box or housing pack into the item slot to view its contents.","Ziehe das Item Paket, die Geschenkbox oder eine Gacha Box oder ein Wohnpaket in den Item Slot."
 UI_GACHA_DESC_ITEMPACK,"When opening the package, you will receive #ball#nb items from the list below. You can open multiple packages in a row.",Beim Öffnen des Pakets erhältst du #balle#nb unten aufgeführten Gegenstände. Du kannst mehrere Pakete hintereinander öffnen.
 UI_GACHA_DESC_GIFTBOX,"When opening the box, you will receive #bone#nb of the items listed below according to the probabilities. You can open several boxes in a row.",Beim Öffnen der Kiste erhältst du #beinen#nb der unten aufgeführten Gegenstände entsprechend der Wahrscheinlichkeiten. Du kannst mehrere Kisten hintereinander öffnen.
@@ -1375,12 +1375,12 @@ UI_GACHA_PREVIEW,PREVIEW,VORSCHAU
 UI_GACHA_SOLDOUT,Sold out,Ausverkauft
 UI_WELCOME_MSG,Welcome to the world of		\nFlyff Online!,Willkommen in der Welt von		\nFlyff Online!
 UI_WELCOME_BTN,Let's go!,Los geht's!
-UI_TUTORIAL_MSG,Do you want the tutorial?,Do you want the tutorial?
+UI_TUTORIAL_MSG,Do you want the tutorial?,Möchtest du das Tutorial?
 UI_TOOLTIP_DST_INCOMINGDMG,Incoming Damage,Eingehender Schaden
 UI_TOOLTIP_DST_DMGOFFLOADING,Damage Redirection,Schadensumleitung
 UI_TOOLTIP_DST_INCOMINGHEALING,Incoming Healing,Eingehende Heilung
 UI_TOOLTIP_ELEMENT,Element: %s,Element: %s
-UI_APP_BOT_TIP,Bot Simulation,Bot Simulation
+UI_APP_BOT_TIP,Bot Simulation,Bot-Simulation
 UI_TOOLTIP_DST_EXP,Monster EXP,Monster Erfahrung
 UI_TOOLTIP_DST_ITEM_DROPRATE,Item Drop Rate,Item Drop Chance
 UI_TOOLTIP_DST_AUTO_RECOVERY_FP,Auto Attack FP Recovery,Auto Attack FP Widerherstellung
@@ -1424,7 +1424,7 @@ UI_EXPSTOP_RELOAD_CONFIRM,Pay %s Penya to reload the EXP Lock gauge?,Möchtest d
 UI_ARENA_RANKING_TITLE,Arena Ranking,Arena Rangliste
 UI_ARENA_RANKING_NAME,Name,Name
 UI_ARENA_RANKING_LEVEL,Level,Level
-UI_ARENA_RANKING_JOB,Job,Klasse
+UI_ARENA_RANKING_JOB,Job,Job
 UI_ARENA_RANKING_KILLS,Kills,Kills
 UI_ARENA_RANKING_DEATHS,Deaths,Tode
 UI_ARENA_RANKING_RATIO,Ratio,Verhältnis
@@ -1443,7 +1443,7 @@ UI_PARTY_MINLEVEL_TIP,Minimum party member level required to receive experience.
 UI_PARTY_MINLEVEL_VAL_M,%d #i(Affected by master player)#ni,%d #i(Betroffen vom Hauptspieler)#ni
 UI_PARTY_EXPBONUS,EXP Bonus,EXP Bonus
 UI_PARTY_EXPBONUS_TIP,"EXP bonus for party members. Active members are those participating in combat. Contributions include attacking, healing, and tanking.","Bonuserfahrung, welche du mit einer Party erhälst. Aktive Mitglieder sind diese die am Kampf teilnehmen - Schaden austeilen, heilen oder aktiv Schaden nehmen. "
-UI_PARTY_EXPBONUS_ACTIVE,x Active,x Active
+UI_PARTY_EXPBONUS_ACTIVE,x Active,x Aktiv
 UI_TOOLTIP_BLESSING_WARNING,Blessed items cannot be dropped or traded.,Gesegnete Gegenstände können nicht weggeworfen oder gehandelt werden.
 UI_TOOLTIP_BLESSING,Goddess Blessing,Goddess Blessing
 UI_OPTION_ONECLICKATTACK,Single Click to Attack,Mit einem Klick angreifen
@@ -1488,7 +1488,7 @@ UI_CASHSHOP_CASHBACK_DESC,#b[Server Group Purchase Event]#nb\nYou will get back 
 UI_CASHSHOP_CASHBACK_CURRENT,Server Purchases: %d = #b%d%% fCoins Back#nb,Server Käufe: %d = #b%d%% fCoins zurück#nb
 UI_CASHSHOP_CASHBACK_STEP,%d purchases: %d%% fCoins Back,%d Käufe: %d%% fCoins zurück
 UI_TOOLTIP_DST_BLEED_POISON_RESIST,Bleed & Poison Resistance,Blutungs- und Vergiftungswiderstand
-UI_COMBATPOWER_RANKING_PRIZE,The top-ranked players of each job will receive exclusive prizes! Check our website for more information.,Der höchstplatzierte Spieler jeder Klasse wird exklusive Preise gewinnen! Besuche unsere Webseite für weitere Informationen.
+UI_COMBATPOWER_RANKING_PRIZE,The top-ranked players of each job will receive exclusive prizes! Check our website for more information.,Der höchstplatzierte Spieler jedes Jobs wird exklusive Preise gewinnen! Besuche unsere Webseite für weitere Informationen.
 UI_GIANTHUNT_RANKING_TITLE,Giant Hunt Ranking,Giant Hunt Rangliste
 UI_GIANTHUNT_RANKING_PRIZE,The top-ranked players will receive exclusive prizes! Check our website for more information.\n\nYour Hunting Points: #b%d#nb,Die höchstplatzierten Spieler werden exklusive Preise erhalten! Besuche unsere Webseite für weitere Informationen.\n\nDeine Jagdpunkte: #b%d#nb
 UI_GIANTHUNT_RANKING_POS,(Top %d%%),(Top %d%%)
@@ -1531,13 +1531,13 @@ UI_PET_REROLL_CONFIRM,#bThe pet in the window will be destroyed.#nb Proceed?,#b 
 UI_PET_TIER,Tier,Klasse
 UI_PET_USE_SKILL,Grace,Grace
 UI_PET_SKILL_TOOLTIP,Use your pet's Grace skill. Consumes energy and depletes the Grace meter. You can drag this command from the Emotes window to a hotkey slot.,Benutze die Grace-Fähigkeit deines Pets. Es kostet Energie und verbraucht die Fortschrittsanzeige. Es gibt einen verschiebbaren Emote im Emote-Fenster.
-UI_PET_RESTAT_TITLE,Pet Reroll,Pet Reroll
-UI_PET_RESTAT_BUTTON,Reroll,Reroll
+UI_PET_RESTAT_TITLE,Pet Reroll,Pet neu würfeln
+UI_PET_RESTAT_BUTTON,Reroll,Neu würfeln
 UI_PET_RESTAT_DISCARD,Discard,Verwerfen
-UI_PET_RESTAT_KEEP,Keep,Keep
-UI_PET_RESTAT_CONFIRM_REROLL,Are you sure you want to reroll this tier? The resulting level could be higher or lower than the current level.,Are you sure you want to reroll this tier? The resulting level could be higher or lower than the current level.
-UI_PET_RESTAT_CONFIRM_DISCARD,Are you sure you want to discard this result?,Are you sure you want to discard this result?
-UI_PET_RESTAT_CONFIRM_KEEP,Are you sure you want to keep this result?,Are you sure you want to keep this result?
+UI_PET_RESTAT_KEEP,Keep,Behalten
+UI_PET_RESTAT_CONFIRM_REROLL,Are you sure you want to reroll this tier? The resulting level could be higher or lower than the current level.,"Bist du sicher, dass du diese Stufe neu würfeln möchtest? Das Ergebnis könnte höher oder niedriger als die aktuelle Stufe sein."
+UI_PET_RESTAT_CONFIRM_DISCARD,Are you sure you want to discard this result?,"Bist du sicher, dass du dieses Ergebnis verwerfen möchtest?"
+UI_PET_RESTAT_CONFIRM_KEEP,Are you sure you want to keep this result?,"Bist du sicher, dass du dieses Ergebnis behalten möchtest?"
 UI_TOOLTIP_DST_BLOCK_PENETRATE,Block Penetration,Block-Durchdringung
 UI_ITEM_USE_CANDY,How many Pet Candies do you want to use?,Wie viele Pet Candies möchtest du verwenden?
 UI_NAMEMISSING_TITLE,Name Missing,Name fehlt
@@ -1585,11 +1585,11 @@ UI_GUILDCOMBATBOARD_TITLE1,Lv.80 Guild Siege Information,Lv80 Guild War Informat
 UI_GUILDCOMBATBOARD_TITLE2,Lv.60 Guild Siege Information,Lv60 Guild War Information
 UI_GUILDCOMBAT_OFFER_TITLE1,Apply for Lv.80 Guild Siege,Für den Lv80 Guild War anmelden
 UI_GUILDCOMBAT_OFFER_TITLE2,Apply for Lv.60 Guild Siege,Für den Lv60 Guild War anmelden
-UI_GUILDCOMBAT165_CANCEL_TITLE,Lv165 GS - Cancel Application,Lv165 GS - Cancel Application
-UI_GUILDCOMBAT165_CANCEL_MSG,Do you want to withdraw from the Level 165 Guild Siege?,Do you want to withdraw from the Level 165 Guild Siege?
-UI_GUILDCOMBAT165_JOIN_MSG,Do you join the Level 165 Guild Siege?,Do you join the Level 165 Guild Siege?
-UI_GUILDCOMBATBOARD_TITLE3,Level 165 GS Information,Level 165 GS Information
-UI_GUILDCOMBAT_OFFER_TITLE3,Apply for Level 165 GS,Apply for Level 165 GS
+UI_GUILDCOMBAT165_CANCEL_TITLE,Lv165 GS - Cancel Application,Lv165 GS - Anmeldung stornieren
+UI_GUILDCOMBAT165_CANCEL_MSG,Do you want to withdraw from the Level 165 Guild Siege?,Möchtest du dich vom Level 165 Gildenkrieg abmelden?
+UI_GUILDCOMBAT165_JOIN_MSG,Do you join the Level 165 Guild Siege?,Möchtest du dem Level 165 Gildenkrieg beitreten?
+UI_GUILDCOMBATBOARD_TITLE3,Level 165 GS Information,Level 165 GS Informationen
+UI_GUILDCOMBAT_OFFER_TITLE3,Apply for Level 165 GS,Für Level 165 GS anmelden
 UI_GUILDCOMBAT_OFFER_PRESENT1,Blue Chips\n- Winning Guild: 34 x number of participating guilds\n- Second Guild: 24 x number of participating guilds\n- Third Guild: 14 x number of participating guilds\n- Fourth Guild: 8 x number of participating guilds\n- Fifth Guild: 4 x number of participating guilds,Blaue Chips\n- Gewinnende Gilde: 34 x Anzahl der teilnehmenden Gilden\n- Zweite Gilde: 24 x Anzahl der teilnehmenden Gilden\n- Dritte Gilde: 14 x Anzahl der teilnehmenden Gilden\n- Vierte Gilde: 8 x Anzahl der teilnehmenden Gilden\n- Fünfte Gilde: 4 x Anzahl der teilnehmenden Gilden
 UI_GUILDCOMBAT_OFFER_PRESENT2,Blue Chips\n- Winning Guild: 32 x number of participating guilds\n- Second Guild: 22 x number of participating guilds\n- Third Guild: 12 x number of participating guilds\n- Fourth Guild: 7 x number of participating guilds\n- Fifth Guild: 3 x number of participating guilds,Blaue Chips\n- Gewinnende Gilde: 32 x Anzahl der teilnehmenden Gilden\n- Zweite Gilde: 22 x Anzahl der teilnehmenden Gilden\n- Dritte Gilde: 12 x Anzahl der teilnehmenden Gilden\n- Vierte Gilde: 7 x Anzahl der teilnehmenden Gilden\n- Fünfte Gilde: 3 x Anzahl der teilnehmenden Gilden
 UI_GUILDCOMBAT_STATE_TITLE1,Lv.80 Guild Siege Application Status,Lvl 80 GS Anmeldungen
@@ -1600,11 +1600,11 @@ UI_GUILDCOMBAT_RESULT_TITLE1,Lv.80 Guild Siege Results,Lvl 80 Gilden & Mitgliede
 UI_GUILDCOMBAT_RESULT_TITLE2,Lv.60 Guild Siege Results,Lvl 60 Gilden & Mitglieder Ranglisten
 UI_GUILDCOMBAT_RANKING_TITLE1,Lv.80 Guild Siege Player Rankings,Lvl 80 Gildenmitglieder Rangliste
 UI_GUILDCOMBAT_RANKING_TITLE2,Lv.60 Guild Siege Player Rankings,Lvl 70 Gildenmitglieder Rangliste
-UI_GUILDCOMBAT_OFFER_PRESENT3,Blue Chips\n- Winning Guild: 40 x number of participating guilds\n- Second Guild: 30 x number of participating guilds\n- Third Guild: 20 x number of participating guilds\n- Fourth Guild: 10 x number of participating guilds\n- Fifth Guild: 6 x number of participating guilds,Blue Chips\n- Winning Guild: 40 x number of participating guilds\n- Second Guild: 30 x number of participating guilds\n- Third Guild: 20 x number of participating guilds\n- Fourth Guild: 10 x number of participating guilds\n- Fifth Guild: 6 x number of participating guilds
-UI_GUILDCOMBAT_STATE_TITLE3,Level 165 GS Applications,Level 165 GS Applications
-UI_GUILDCOMBAT_SELECT_TITLE3,Level 165 GS Line Up,Level 165 GS Line Up
-UI_GUILDCOMBAT_RESULT_TITLE3,Level 165 Guild & Member Ranking,Level 165 Guild & Member Ranking
-UI_GUILDCOMBAT_RANKING_TITLE3,Level 165 Guild Member Ranking,Level 165 Guild Member Ranking
+UI_GUILDCOMBAT_OFFER_PRESENT3,Blue Chips\n- Winning Guild: 40 x number of participating guilds\n- Second Guild: 30 x number of participating guilds\n- Third Guild: 20 x number of participating guilds\n- Fourth Guild: 10 x number of participating guilds\n- Fifth Guild: 6 x number of participating guilds,Blue Chips\n- Gewinner-Gilde: 40 x Anzahl teilnehmender Gilden\n- Zweite Gilde: 30 x Anzahl teilnehmender Gilden\n- Dritte Gilde: 20 x Anzahl teilnehmender Gilden\n- Vierte Gilde: 10 x Anzahl teilnehmender Gilden\n- Fünfte Gilde: 6 x Anzahl teilnehmender Gilden
+UI_GUILDCOMBAT_STATE_TITLE3,Level 165 GS Applications,Level 165 GS Anmeldungen
+UI_GUILDCOMBAT_SELECT_TITLE3,Level 165 GS Line Up,Level 165 GS Aufstellung
+UI_GUILDCOMBAT_RESULT_TITLE3,Level 165 Guild & Member Ranking,Level 165 Gilden- & Mitgliederrangliste
+UI_GUILDCOMBAT_RANKING_TITLE3,Level 165 Guild Member Ranking,Level 165 Gildenmitglieder-Rangliste
 UI_OPTION_EVENTLIGHT,Event Light,Event Licht
 UI_LEVELREACH,Level Reach,Level erreichen
 UI_LEVELREACH_DESC,"Reach new levels during the event period to receive rewards! Each level has a limited number of rewards, so hurry - first come, first served!","Erreiche während des Events neue Level und erhalte Belohnungen! Die Anzahl der Belohnungen pro Stufe ist begrenzt, also beeilt euch. Wer zuerst kommt, mahlt zuerst!"
@@ -1672,12 +1672,12 @@ UI_DUNGEON_LOW_DROPS,Low Drop Rate,Niedrige Drops
 UI_DUNGEON_NORMAL_DROPS,Normal Drop Rate,Normale Drops
 UI_DUNGEON_HIGH_DROPS,Increased Drop Rate,Erhöhte Drops
 UI_DUNGEON_DEFEAT_BOSS,Defeat the boss!,Besiege den Boss!
-UI_DUNGEON_ENTRANCE_SOLO,Solo Only,Solo Only
+UI_DUNGEON_ENTRANCE_SOLO,Solo Only,Nur Solo
 UI_DUNGEON_ENTRANCE_PARTY_SOLO,Party or Solo,Gruppe oder Solo
 UI_DUNGEON_ENTRANCE_GUILD_SOLO,Guild or Solo,Gilde oder Solo
 UI_DUNGEON_ENTRANCE,Group Type: %s,Eintritt: %s
-UI_DUNGEON_MIN_LEVEL,Minimum Level: %d,Minimum Level: %d
-UI_DUNGEON_MAX_LEVEL,Maximum Level: %d,Maximum Level: %d
+UI_DUNGEON_MIN_LEVEL,Minimum Level: %d,Mindestlevel: %d
+UI_DUNGEON_MAX_LEVEL,Maximum Level: %d,Maximallevel: %d
 UI_DUNGEON_MIN_LEADER_LEVEL,Minimum Creator Level: %d,Minimum Autoren-Level: %d
 UI_DUNGEON_REQ_LEADER_COMPLETE_QUEST,Req. Creator Completed Quest: %s,Ben. Autor Abgeschlossene Quest: %s
 UI_DUNGEON_REQ_LEADER_QUEST,Req. Creator Quest: %s,Ben. Autor-Quest: %s
@@ -1736,7 +1736,7 @@ UI_TICKETCHANNEL,Layer,Ebene
 UI_TICKETLEAVE,Leave Area,Gebiet verlassen
 UI_TARGETITEMLEVEL,Required Target Level: %d,Erforderliches Ziel-Level: %d
 UI_RECOMMENDEDLEVEL,Recommended Level: %s,Empfohlenes Level: %s
-UI_RECOMMENDEDLEVEL_STATDOWN,(Stats x%.2f),(Stats x%.2f)
+UI_RECOMMENDEDLEVEL_STATDOWN,(Stats x%.2f),(Werte x%.2f)
 UI_DUNGEON_REQ_ITEM,Required Items:,Benötigte Gegenstände:
 UI_DUNGEON_MAX_ENTRY_COUNT,Daily Entries: %d / %d,Max Eintritt pro Tag: %d / %d
 UI_DROP_DISTRIBUTE_TITLE,Loot Distribution,Loot Verteilung
@@ -1749,8 +1749,8 @@ UI_DROP_DISTRIBUTE_RESULT,%s was awarded the item.,%s hat den Gegenstand erhalte
 UI_DROP_DISTRIBUTE_RESULT_MAIL,The item has been mailed to a player who is no longer available.,"Einem Spieler, der nicht mehr verfügbar ist, wurde der Gegenstand zugesandt."
 UI_DROP_DISTRIBUTE_CURRENT,Item: %d/%d,Gegenstand: %d/%d
 UI_TOOLTIP_MULTISTRIKE,Multistrike Chance,Chance auf Mehrfachtreffer
-UI_TOOLTIP_PVP_MULTISTRIKE,Multistrike Chance (PvP),Multistrike Chance (PvP)
-UI_TOOLTIP_PVE_MULTISTRIKE,Multistrike Chance (PvE),Multistrike Chance (PvE)
+UI_TOOLTIP_PVP_MULTISTRIKE,Multistrike Chance (PvP),Mehrfachtreffer-Chance (PvP)
+UI_TOOLTIP_PVE_MULTISTRIKE,Multistrike Chance (PvE),Mehrfachtreffer-Chance (PvE)
 UI_BATTLEPASS_MISSION_KILLMONSTER_PK,Hunt Monsters Lv.%s+ on the PK Channel,Jagd auf Monster Lvl %s+ im PK-Kanal
 UI_BATTLEPASS_MISSION_KILLMONSTER2_PK,Hunt %s on the PK Channel,Jage %s auf dem PK Kanal
 UI_BATTLEPASS_MISSION_CLEARDUNGEON,Clear Dungeon(s),Dungeon(s) abschließen
@@ -1802,7 +1802,7 @@ UI_COSTUMECOLLECTION_PART4,Boots,Stiefel
 UI_ACHIEVEMENTS_SUBMITBTN,Submit,Übermitteln
 UI_ACHIEVEMENTS_SUBMITTIP,Submit your costumes!,Übermittel deine Kostüme!
 UI_BATTLEPASS_MISSION_SAFETYALL,Attempt Safe Upgrade or Piercing,Versuche sicheres Uprade oder Sockeln
-UI_TOOLTIP_DST_UPGRADERATE,Upgrade Rate,Upgrade Rate
+UI_TOOLTIP_DST_UPGRADERATE,Upgrade Rate,Upgrade-Rate
 UI_ACHIEVEMENT_TITLE,Title '%s',Titel '%s'
 UI_EXCHANGE_1,1 Exchange,1 Tausch
 UI_EXCHANGE_2,2 Exchanges,2 Tausche
@@ -1818,7 +1818,7 @@ UI_FITTINGROOM_NEXT_TIP,Next animation,Vorschau der nächsten Animation
 UI_FITTINGROOM_PREV_TIP,Previous animation,Vorschau der letzten Animation
 UI_FITTINGROOM_PAUSE_TIP,Play/pause the current animation,Schaltet den aktuellen Zustand der Animationswiedergabe um.
 UI_PVPCONTEST_TITLE,FWC PvP Registration Board,Brett für FWC PVP Registrierungen
-UI_PVPCONTEST_INFO,"Will your guild be the one to win a trip to Manila? \nTake your chance by participating in the FWC PvP Contest! \nRegister your guild, choose your top %d players, and battle to the end!","Will your guild be the one to win a trip to Manila? \nTake your chance by participating in the FWC PvP Contest! \nRegister your guild, choose your top %d players, and battle to the end!"
+UI_PVPCONTEST_INFO,"Will your guild be the one to win a trip to Manila? \nTake your chance by participating in the FWC PvP Contest! \nRegister your guild, choose your top %d players, and battle to the end!","Wird deine Gilde diejenige sein, die eine Reise nach Manila gewinnt? \nNutze deine Chance und nimm am FWC PvP Wettbewerb teil! \nRegistriere deine Gilde, wähle deine besten %d Spieler aus und kämpfe bis zum Ende!"
 UI_PVPCONTEST_REGISTRATIONCOST,Registration Cost:,Registrierungskosten
 UI_PVPCONTEST_MINGUILDLEVEL,Min. Guild Level:,Min. Gild Level:
 UI_PVPCONTEST_MAXPARTICIPATINGPLAYERS,Max. Participating Players:,Max teilnehmende Spieler:
@@ -1826,7 +1826,7 @@ UI_PVPCONTEST_REGISTEREDGUILDS,Registered Guilds (Count: %d),Registrierte Gilden
 UI_PVPCONTEST_REGISTER,Register,Registrieren
 UI_PVPCONTEST_LINEUP,Lineup,Aufstellung
 UI_PVPCONTEST_REMAKE_MAKEUP,Organize the lineup for FWC PvP Contest again?,Möchtest du wieder eine Aufstellung für den FWC PVP Wettbewerb organisieren?
-UI_PVPCONTEST_CONFIRM_LINEUP,Confirm the line up for FWC PvP Contest? You cannot change it after.,Confirm the line up for FWC PvP Contest? You cannot change it after.
+UI_PVPCONTEST_CONFIRM_LINEUP,Confirm the line up for FWC PvP Contest? You cannot change it after.,Aufstellung für den FWC PVP Wettbewerb bestätigen? Du kannst sie danach nicht mehr ändern.
 UI_PVPCONTEST_SELECT_TITLE,Set Entry List for FWC PvP Contest,Teilnehmerliste für FWC PVP-Wettbewerb festlegen
 UI_PVPCONTEST_SELECT_CONNECTED,Connected Guild Members,Verbundene Gildenmitglieder
 UI_PVPCONTEST_SELECT_ENTRANT,Entrant List,Teilnehmerliste
@@ -1877,9 +1877,9 @@ UI_BATTLEPASS_MISSION_PARTYCLEARDUNGEON2,Clear Dungeon %s in a Party,Mit einer G
 UI_BATTLEPASS_MISSION_PARTYPOINT,Obtain Party Points,Erhalte Gruppen-Skill-Punkte
 UI_BATTLEPASS_MISSION_COSTUMETRANSMUTATION,Add a Fashion Item to the Wardrobe,Kostüm in die Garderobe stecken
 UI_BATTLEPASS_MISSION_GETCOSTUME,Obtain a Fashion Item,Kostüme erhalten
-UI_BATTLEPASS_SAFETYSMELT_ELECARD,(Elemental),(Elemental)
+UI_BATTLEPASS_SAFETYSMELT_ELECARD,(Elemental),(Elementar)
 UI_BATTLEPASS_SAFETYSMELT_POWERDICE,(Normal/Accessory),(Normal/Accessory)
-UI_BATTLEPASS_MISSION_LEVELUP,Level Up,Level Up
+UI_BATTLEPASS_MISSION_LEVELUP,Level Up,Levelaufstieg
 UI_BATTLEPASS_MISSION_LEVELUP2,Reach Level %s,Level %s erreichen
 UI_BATTLEPASS_MISSION_JOBCHANGE_EXPERT,Complete the 1st Job Change,1. Jobwechseln vollziehen
 UI_BATTLEPASS_MISSION_JOBCHANGE_PROFESSIONAL,Complete the 2nd Job Change,2. Jobwechseln vollziehen
@@ -1895,7 +1895,7 @@ UI_BATTLEPASS_MISSION_KILLFLYMONSTER,Defeat Aerial Monsters,Luftmonster besiegen
 UI_BATTLEPASS_MISSION_ACTIVEBEGINNERBUFF,Ask the Buff Pang for Buffs,Buffs vom Buff Pang erhalten
 UI_BATTLEPASS_MISSION_USECOMBOSKILL,Perform %s or More Combos Using the Action Slot,Führe %s oder mehr Kombos über den Aktionsslot aus
 UI_BATTLEPASS_MISSION_ACTIVEEQUIPSET,Wear a Set With a Set Effect,Einen bestimmten Effekt aktiviert haben
-UI_BATTLEPASS_MISSION_KALGAS_ASSAULT,Finish a Kalgas Assault Match,Finish a Kalgas Assault Match
+UI_BATTLEPASS_MISSION_KALGAS_ASSAULT,Finish a Kalgas Assault Match,Schließe ein Kalgas-Assault-Match ab
 UI_BATTLEPASS_INFO2,%s ends at: #b%s#nb (Server Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni,"Ende der %s-Saison: #b%s#nb (Serverzeit)\nPunktelimit für diese Woche: #b%d / %d#nb\n#iPunkte, die durch die Saisonmissionen verdient wurden, werden nicht in das wöchentliche Limit eingerechnet.#ni"
 UI_BATTLEPASS_INFO3,%s ends at: #b%s#nb (Server Time)\n#iSome rewards are enhanced after reaching level %d.#ni,Ende der %s-Saison: #b%s#nb (Server Time)\n#ni\n#Einige Belohnungen werden nach Erreichen von Level %d#ni verbessert.
 UI_BATTLEPASS_INFO4,%s ends at: #b%s#nb (Server Time),Ende der %s-Saison: #b%s#nb (Serverzeit)\n#ni
@@ -1924,7 +1924,7 @@ UI_QUEST_KILLSTEP_COND,Defeat monsters (%d/%d),Monster besiegen (%d/%d)
 UI_PVPCONTEST_TELEPORT_AUTOCLOSE,You have %d seconds to join.,"Du hast %d Sekunden, um beizutreten."
 UI_PVPCONTEST_RANKING_DAILY,Today's Matches,Heutige Matches
 UI_PVPCONTEST_RANKING_PRELIMINARY,Preliminary,Vorrunde
-UI_PVPCONTEST_RANKING_BACKUP,Back-up,Back-up
+UI_PVPCONTEST_RANKING_BACKUP,Back-up,Backup
 UI_PVPCONTEST_RANKING_FINALS,Finals,Finale
 UI_PVPCONTEST_RANKING_DESC,"This contains all the ranking data for the current FWC PvP Contest.\nIf only one guild has showed up in the preliminary's ranking, then that means it had no opponent!\n#b#uClick on a guild to see the participating players stats.#nu#nb","Dies enthält alle Ranglistendaten für den aktuellen FWC PVP Wettbewerb.\nWenn nur eine Gilde in der vorläufigen Rangliste auftaucht, dann bedeutet das, dass sie keinen Gegner hatte!\n#b#uKlicke auf eine Gilde, um die Statistiken der teilnehmenden Spieler zu sehen.#nu#nb"
 UI_PVPCONTEST_RANKING_TITLE,FWC PvP Contest Ranking,FWC PvP-Wettbewerb-Rangliste
@@ -1938,11 +1938,11 @@ UI_APP_INFO_PANG_HIDE,You can summon Info-Pang again via Menu > Helper > Info-Pa
 UI_APP_INFO_PANG_LIST,You can view this information again if you click Info-Pang > Right Click > Check the List.,"Du kannst diese Informationen erneut einsehen, wenn du auf Info-Pang > Rechtsklick > Liste prüfen klickst."
 UI_PVPCONTEST_MATCHLIST_INFO,Here you can select a match and spectate it. #bNote: you will be invisible for participating players and will only be able to communicate with others spectators.#nb,Hier kannst du ein Spiel auswählen und es als Zuschauer verfolgen. #Hinweis: Du wirst für die teilnehmenden Spieler unsichtbar sein und kannst nur mit anderen Zuschauern kommunizieren.#nb
 UI_PVPCONTEST_SPECTATE_INFO,Do you want to spectate that match? You will get teleported in the match arena.,Willst du das Spiel sehen? Du wirst in die Spielarena teleportiert.
-UI_SERVERTRANSFER_TITLE,Server Transfer,Server Transfer
+UI_SERVERTRANSFER_TITLE,Server Transfer,Server-Transfer
 UI_SERVERTRANSFER_MSG,Select server:,Server auswählen.
 UI_SERVERTRANSFER_BASE_DESC,Select the server you want to transfer your character to. Please check our website for the exact transfer rules.,"Wähle den Server, auf den du deinen Charakter übertragen möchtest. Bitte prüfe die Website für die genauen Transferregeln."
 UI_SERVERTRANSFER_DESC,Note that transfer requests are done periodically so the transfer is not immediate after using the scroll.,"Bitte bedenke, dass Überweisungsanfragen in regelmäßigen Abständen gestellt werden, so dass der Transfer nicht sofort nach der Verwendung der Schriftrolle erfolgt."
-UI_SERVERTRANSFER_FWC_TITLE,FWC Server Transfer,FWC Server Transfer
+UI_SERVERTRANSFER_FWC_TITLE,FWC Server Transfer,FWC Server-Transfer
 UI_SERVERTRANSFER_FWC_DESC,"Select the server you want to transfer your character to. The transfer will take place after the FWC server closes, and you can still play on your character until then. If you're not sure where you want to transfer, you can close this window and choose the next time you log in. Once you confirm your server, you can't change your choice.","Der Transfer wird nach dem Ende der FWC-Periode stattfinden und du kannst dich in der Zwischenzeit weiterhin mit deinem Charakter einloggen. Wenn du dir nicht sicher bist, kannst du dieses Fenster schließen und beim nächsten Login auswählen. Du kannst deine Wahl nicht mehr ändern, nachdem du sie bestätigt hast."
 UI_PVPCONTEST_SPECTATE_CAMERAMODE_1,Free Camera,Kostenlose Kamera
 UI_PVPCONTEST_SPECTATE_CAMERAMODE_2,Normal Camera,Normale Kamera
@@ -2008,7 +2008,7 @@ UI_BATTLEPASS_INFO9,%s ends at: #b%s#nb (UTC Time),Ende der Saison %s: #b%s#nb (
 UI_REMOTE_SHOP_TITLE,Remote Shop,Remote Shop
 UI_HALLOWEENPASS,Halloween Pass,Halloween Pass
 UI_PURCHASE_BANK_EXTRA_BAG,Purchase Extra Bag,Slot hinzufügen
-UI_SEARCH_BANK_EXTRA_BAG,Bank Extra Bag,Bank Extra Bag
+UI_SEARCH_BANK_EXTRA_BAG,Bank Extra Bag,Zusätzliche Banktasche
 UI_EXTRA_BAG_FMT,Bank Extra Bag Time Remaining: %s,Slot zuhinzufügen %s
 UI_RAINBOWRACE_ITEMS,Rainbow Items,Regenbogen Items
 UI_RAINBOWRACE_ITEMS_INFO,Fly through items throughout the race to use them against others!,"Fliege während des Rennens durch Gegenstände, um sie gegen andere einzusetzen!"
@@ -2016,9 +2016,9 @@ UI_RAINBOWRACE_POINTS,Rank %d / %d (%d points),Rang %d / %d (%d Punkte)
 UI_RAINBOWRACE_FARWARNING,You've received a speed penalty for leaving the track - return now or you'll be disqualified!,"Geschwindigkeit verringert, fliege in der Nähe der Rennstrecke, um eine Disqualifikation zu vermeiden!"
 UI_RAINBOWRACE_SPEEDMULTI,Current speed multiplier: %d,Aktueller Geschwindigkeitsmultiplikator: %d
 UI_RAINBOWRACE_APP_TITLE,Rainbow Race Application,Anmeldung zum Regenbogenrennen
-UI_RAINBOWRACE_APP_CONFIRM,Registering costs %lld Penya. Continue?,Registering costs %lld Penya. Continue?
+UI_RAINBOWRACE_APP_CONFIRM,Registering costs %lld Penya. Continue?,Die Registrierung kostet %lld Penya. Fortfahren?
 UI_RAINBOWRACE_APP_CURRENT,Registered Applicants: %d,Bisherige Anmeldungen: %d
-UI_RAINBOWRACE_APP_FEE,Application Fee: %lld Penya,Application Fee: %lld Penya
+UI_RAINBOWRACE_APP_FEE,Application Fee: %lld Penya,Anmeldegebühr: %lld Penya
 UI_RAINBOWRACE_APP_TIP,Register for the Rainbow Race,Bewerbung für das Regenbogenrennen.
 UI_RAINBOWRACE_RANKING_TIP,View the rankings of the previous race.,Die Rangliste des letzten Rennens anzeigen.
 UI_RAINBOWRACE_APP_DISABLE_TIP,Registration is not currently open.,Zurzeit ist nicht der Bewerbungszeitraum.
@@ -2033,7 +2033,7 @@ UI_ULTIMATE_RANDOMSTAT,Random Ultimate Stats,Zufälligen Wert erhalten
 UI_RESTAT_TITLE,Re-Stat,Restat
 UI_RESTATC_DESC,Do you wish to apply the Fixed Stat upgrade to the following item?\n(%s),Möchtest du das Fixed Stat Upgrade auf den folgenden Artikel anwenden?\n(%s)
 UI_RESTATR_DESC,Do you wish to apply the Random Stat upgrade to the following item?\n(%s),Möchtest du das Fixed Stat Upgrade auf den folgenden Artikel anwenden?\n(%s)
-UI_RESTATR2_DESC,Do you wish to apply the Random Special Option upgrade to the following item?\n(%s),Do you wish to apply the Random Special Option upgrade to the following item?\n(%s)
+UI_RESTATR2_DESC,Do you wish to apply the Random Special Option upgrade to the following item?\n(%s),Möchtest du das Zufalls-Sonderoptions-Upgrade auf folgendes Item anwenden?\n(%s)
 UI_ITEM_UPGRADE_PUT,Please input an item which you want to upgrade.,"Bitte wähle ein Item aus, das du upgraden möchtest."
 UI_MATERIAL_ITEM_PUT,Please input a material item first.,Bitte wähle zuerst ein Material Item aus.
 UI_ELEMENT_UPGRADE_ERROR_ITEM,This item cannot be used.,Dieses Item kann nicht verwendet werden.
@@ -2043,7 +2043,7 @@ UI_MATERIAL_NAME_PLACEHOLDER,Material,Material
 UI_PROTECTION_SCROLL_PLACEHOLDER,Protection Scroll,Schriftrolle des Schutzes
 UI_ULTIMATE_PREFIX,[Ultimate],[Ultimate]
 UI_TOOLTIP_DST_LAST_STAND,Last Stand Chance,Letzte Gelegenheit Chance
-UI_TOOLTIP_DST_RIP_REFLEX,Riposte Reflex Chance,Riposte Reflex Chance
+UI_TOOLTIP_DST_RIP_REFLEX,Riposte Reflex Chance,Riposte Reflex-Chance
 UI_TOOLTIP_DST_PRANK_ESCAPE,Prankster's Escape Chance,Pranksters Flucht Chance
 UI_TOOLTIP_DST_HEAL_GRACE,Healing Grace Chance,Heilende Gnade Chance
 UI_TOOLTIP_DST_SPIRITUAL_CHARGE,Spiritual Overcharge Chance,Spirituelle Überladungs-Chance
@@ -2056,8 +2056,8 @@ UI_PLAYERHOUSINGBUY_TITLE,Select House Template,Hausvorlage auswählen
 UI_PLAYERHOUSINGBUY_INFO,Select a template for your house.\n\n#b#cffff0000Changing your house template will remove all currently placed decorations and NPCs! Save them to a preset to restore them later.#nc#nb,"Wähle eine Vorlage für dein Haus. \n\n#b#cffff0000Wenn du deine Hausvorlage änderst, werden alle Dekorationen aus deinem aktuellen Haus entfernt! Stelle sicher, dass es in einer Voreinstellung gespeichert ist, wenn du es für die Zukunft behalten willst.#nc#nb"
 UI_PLAYERHOUSINGBUY_CONFIRM,Select Template,Vorlage auswählen
 UI_PLAYERHOUSINGBUY_MSGBOX_INFO,"Select this template?\n#bNote:#nb If you already own a house, this action will remove all currently placed decorations and NPCs.","Möchtest du diese Vorlage wirklich auswählen? \n\n#bAnmerkung:#nb Wenn du bereits ein Haus besitzt, wird es die Vorlage ändern, aber alle dekorativen Modelle, die du platziert hattest, werden entfernt!"
-UI_PLAYERHOUSINGVISIT_TITLE,Visit a Friend's House,Visit a Friend's House
-UI_PLAYERHOUSINGVISIT_INFO,Select a friend to visit. Only friends who are online and allow you to visit are listed here.,Select a friend to visit. Only friends who are online and allow you to visit are listed here.
+UI_PLAYERHOUSINGVISIT_TITLE,Visit a Friend's House,Das Haus eines Freundes besuchen
+UI_PLAYERHOUSINGVISIT_INFO,Select a friend to visit. Only friends who are online and allow you to visit are listed here.,"Wähle einen Freund zum Besuchen aus. Hier werden nur Freunde angezeigt, die online sind und Besuche erlauben."
 UI_MESSENGER_MENU_HOUSINGVISIT_ALLOW,Allow house visits,Erlaube den Besuch deines Hauses
 UI_MESSENGER_MENU_HOUSINGVISIT_DENY,Deny house visits,Besuch in deinem Haus verweigern
 UI_GACHA_DESC_HOUSING,You will receive the following housing objects.,"Du wirst alle folgenden Modelle freischalten, um dein Haus zu dekorieren."
@@ -2075,7 +2075,7 @@ UI_HOUSINGSETUP_FILTER_HDR,Filter,Filter
 UI_HOUSINGSETUP_FILTER_HDR_ALL,All,Max
 UI_HOUSINGSETUP_FILTER_TREE,Trees,Bäume
 UI_HOUSINGSETUP_FILTER_OTHER,Other,Sonstiges
-UI_GUILDHOUSINGBIDS_INFO,"You can place a bid on this Guild Ship. In #b#u%s#nb#nu, the guild with the highest bid will gain ownership of this Guild Ship. \n\n#b#uNote:#nu#nb \n- You can only bid on one Guild Ship at a time. \n- The Penya used to place a bid is taken from your Guild Bank. \n- You can increase your bid at any time before the bidding period ends.","You can place a bid on this Guild Ship. In #b#u%s#nb#nu, the guild with the highest bid will gain ownership of this Guild Ship. \n\n#b#uNote:#nu#nb \n- You can only bid on one Guild Ship at a time. \n- The Penya used to place a bid is taken from your Guild Bank. \n- You can increase your bid at any time before the bidding period ends."
+UI_GUILDHOUSINGBIDS_INFO,"You can place a bid on this Guild Ship. In #b#u%s#nb#nu, the guild with the highest bid will gain ownership of this Guild Ship. \n\n#b#uNote:#nu#nb \n- You can only bid on one Guild Ship at a time. \n- The Penya used to place a bid is taken from your Guild Bank. \n- You can increase your bid at any time before the bidding period ends.","Du kannst ein Gebot auf dieses Gildenschiff abgeben. In #b#u%s#nb#nu erhält die Gilde mit dem höchsten Gebot das Eigentum an diesem Gildenschiff. \n\n#b#uHinweis:#nu#nb \n- Du kannst jeweils nur auf ein Gildenschiff bieten. \n- Die für das Gebot verwendete Penya wird aus deiner Gildenbank entnommen. \n- Du kannst dein Gebot jederzeit erhöhen, bevor die Bietfrist endet."
 UI_GUILDHOUSINGBIDS_HDR,Guild Bids,Gebote der Gilden
 UI_GUILDHOUSINGBIDS_PLACE,Place Bid,Gebot einreichen
 UI_GUILDHOUSINGBIDS_MSGBOX_INFO,Enter the amount you wish to bid. #b#uBids are placed using Penya from your Guild Bank.#nu#nb,"Gib den Betrag ein, den du bieten möchtest. #Deine Gilde Bank muss genug Penya haben, um das Gebot zu decken. #nu#nb"
@@ -2103,7 +2103,7 @@ UI_HOUSINGPRESETS_MSGBOX_INFO,Preset Name,Voreinstellungs-Name
 UI_HOUSINGPRESETS_ERROR_NAME,You have to set a name.,Du musst einen Namen festlegen
 UI_HOUSINGPRESETS_ERROR_NAME_INVALID,The name you set for the preset is incorrect!,"Der Name, der für die Voreinstellung festgelegt wurde, ist falsch!"
 UI_UPGRADE_GENERALTAB,General Upgrade,Allgemeines Upgrade
-UI_UPGRADE_ELEMENTTAB,Element Upgrade,Element Upgrade
+UI_UPGRADE_ELEMENTTAB,Element Upgrade,Element-Upgrade
 UI_UPGRADE_PIERCINGTAB,Piercing,Sockeln
 UI_GUILD_TAB_HOUSING_VISITS,Allow Non-Guild Visitors,Externe Besucher gestatten
 UI_HOUSINGSETUP_FILTER_CHAIR,Chair,Stuhl
@@ -2125,7 +2125,7 @@ UI_HOUSINGSETUP_FILTER_FENCE,Fence,Zaun
 UI_HOUSINGSETUP_FILTER_GRASS,Grass,Gras
 UI_HOUSINGSETUP_FILTER_ROCK,Rock,Stein
 UI_REPORT_DISCORD,"To report a player, please send a message through our Discord Modmail with valid evidence. Open Discord now?","Bitte sende eine Nachricht über unsere Discord Modmail mit gültigen Beweisen, um einen Spieler zu melden. Willst du Discord jetzt öffnen?"
-UI_GUILDSHIP_UNKNOWN,Unknown Guild,Unknown Guild
+UI_GUILDSHIP_UNKNOWN,Unknown Guild,Unbekannte Gilde
 UI_GUILDSHIP_VACANT,Unclaimed Ship,Leerstehendes Schiff
 UI_OPTION_WINDOWS_FONT,PC Flyff Font,PC Flyff Schriftart
 UI_CREATE_ULTIMATE_WEAPON,Create Ultimate Weapon,Upgrade zur ultimativen Waffe
@@ -2160,7 +2160,7 @@ UI_LOW_FRAMERATE_GUIDE_GUIDE02,2) Make sure hardware acceleration is enabled in 
 UI_LOW_FRAMERATE_GUIDE_BUTTON_SETTING,Go to Game Settings,Zu den Spieleinstellungen gehen
 UI_BATTLEPASS_MISSION_FINISH_RAINBOW_RACE,Finish a Rainbow Race,Regenbogenrennen beenden
 UI_LOCKED_SLOT_TIP,"Additional inventory slots can be unlocked by completing certain quests or achievements, or by using an Extra Bag (available in the Flyff Shop).","Wird durch Quests, Erfolge oder eine Extra-Bag aus dem Cash Shop freigeschaltet."
-UI_LOCKED_SLOT_TIP_COUPLE,Additional slots can be unlocked by increasing your couple level or proposing with a higher-grade couple ring.,Additional slots can be unlocked by increasing your couple level or proposing with a higher-grade couple ring.
+UI_LOCKED_SLOT_TIP_COUPLE,Additional slots can be unlocked by increasing your couple level or proposing with a higher-grade couple ring.,"Zusätzliche Plätze können freigeschaltet werden, indem du dein Partner-Level erhöhst oder mit einem höherwertigen Partnerring einen Antrag stellst."
 UI_QUEST_SLOTS_COMMAND,Uncompleted quests that unlock inventory slots:,"Unbeendete Quests, die Inventarplätze freischalten:"
 UI_ACHIEVEMENT_SLOTS_COMMAND,Unclaimed or incomplete achievements that unlock inventory slots:,"Nicht abgeholte oder nicht abgeschlossene Erfolge, die Inventarplätze freischalten:"
 UI_QUEST_KILL_MONSTER_COUNT,Defeat Monsters #cffc32f07#b%d/%d#nb#nc,Besiege die Monster #cffc32f07#b%d/%d#nb#nc
@@ -2175,8 +2175,8 @@ UI_STORAGE_VIEW_MOBILE,Long press to view the contents.,"Lang drücken, um den I
 UI_ACHIEVEMENTS_TOTAL_CONNECTION_PREMIUM_TAB,Premium Login Rewards,Premium-Gesamtanschluss
 UI_ACHIEVEMENTS_PROBABILITY,Probability,Wahrscheinlichkeit
 UI_ACHIEVEMENTS_PROBABILITYTIP,View premium reward probabilities,Informationen zur Gewinnwahrscheinlichkeit
-UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase Playtime Coupon,Purchase Playtime Coupon
-UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase Login Coupon,Purchase Login Coupon
+UI_ACHIEVEMENTS_PLAYTIME_PURCHASEBTN,Purchase Playtime Coupon,Spielzeit-Coupon kaufen
+UI_ACHIEVEMENTS_CONNECTION_PURCHASEBTN,Purchase Login Coupon,Login-Coupon kaufen
 UI_STATBOARD_TITLE,Statboard,Statboard
 UI_STATBOARD_RAW,Raw Stats,Rohe Stats
 UI_STATBOARD_GRAPHS,Graphs,Graphen
@@ -2187,18 +2187,18 @@ UI_STATBOARD_SPEED,Avg Speed,Durchschnittliche Geschwindigkeit
 UI_STATBOARD_HIDDEN,Hidden zero values: %d,Ausgeblendete Nullwerte: %d
 UI_APP_UPGRADABLE_ITEMPACK_TIP,Displays the Upgradable Item Pack Menu.,Zeigt das Menü für das aufrüstbare Item Pack an.
 UI_UPGRADE_ITEMPACK,Upgrade,Upgrade
-UI_ITEMPACK_UPGRADE_TITLE,Item Pack Upgrade,Item Pack Upgrade
-UI_ITEMPACK_UPGRADE_DESC,"When you open an egg, you can receive all of the items listed below.\nIf you successfully upgrade the egg, you will receive higher-ranked items. If the upgrade fails, the egg may be downgraded or destroyed.","When you open an egg, you can receive all of the items listed below.\nIf you successfully upgrade the egg, you will receive higher-ranked items. If the upgrade fails, the egg may be downgraded or destroyed."
+UI_ITEMPACK_UPGRADE_TITLE,Item Pack Upgrade,Item-Paket-Upgrade
+UI_ITEMPACK_UPGRADE_DESC,"When you open an egg, you can receive all of the items listed below.\nIf you successfully upgrade the egg, you will receive higher-ranked items. If the upgrade fails, the egg may be downgraded or destroyed.","Wenn du ein Ei öffnest, kannst du alle unten aufgeführten Items erhalten.\nWenn du das Ei erfolgreich upgradest, erhältst du höherwertige Items. Schlägt das Upgrade fehl, kann das Ei herabgestuft oder zerstört werden."
 UI_ITEMPACK_UPGRADE_DESC_EMPTY,Drag and drop an upgradable item pack into the item slot.,Ziehe ein aufrüstbares Gegenstandspaket in den Gegenstandsslot und lege es dort ab.
-UI_ITEMPACK_UPGRADE_CONFIRM,Successful upgrades increase the reward. Failed upgrades may downgrade or destroy the item.\nProceed?,Successful upgrades increase the reward. Failed upgrades may downgrade or destroy the item.\nProceed?
+UI_ITEMPACK_UPGRADE_CONFIRM,Successful upgrades increase the reward. Failed upgrades may downgrade or destroy the item.\nProceed?,Erfolgreiche Upgrades erhöhen die Belohnung. Fehlgeschlagene Upgrades können das Item herabstufen oder zerstören.\nFortfahren?
 UI_TAB_EGG_USE_NAME,Egg Use Achievements Event,"""Eier benutzen"" Erfolge Event"
 UI_EGG_USE_EVENT,Egg Use,Eierbenutzung
 UI_EGG_USE_EVENT_DESC,"Use eggs during the event to earn rewards.\nRewards are granted when the total number of eggs used reaches certain milestones.\nRewards are limited by egg color, so hurry - first come, first served!","Die Belohnung erhält man, wenn die Anzahl der während des Events verwendeten Eier eine bestimmte Anzahl erreicht.\nDie Anzahl der Belohnungen pro Eierfarbe ist begrenzt, also beeilt euch.\nWer zuerst kommt, mahlt zuerst!"
-UI_EGG_USE_RED_EGG,Red Egg,Red Egg
-UI_EGG_USE_ORANGE_EGG,Orange Egg,Orange Egg
-UI_EGG_USE_YELLOW_EGG,Yellow Egg,Yellow Egg
-UI_EGG_USE_GREEN_EGG,Green Egg,Green Egg
-UI_EGG_USE_BLUE_EGG,Blue Egg,Blue Egg
+UI_EGG_USE_RED_EGG,Red Egg,Rotes Ei
+UI_EGG_USE_ORANGE_EGG,Orange Egg,Oranges Ei
+UI_EGG_USE_YELLOW_EGG,Yellow Egg,Gelbes Ei
+UI_EGG_USE_GREEN_EGG,Green Egg,Grünes Ei
+UI_EGG_USE_BLUE_EGG,Blue Egg,Blaues Ei
 UI_PLAYERHOUSINGBUY_KEEPTIME,Expires in:,Verfällt in: 
 UI_HOUSINGSETUP_KEEPTIME,Expires in:,Verfällt in: 
 UI_GUILD_TAB_HOUSING_JOINBATTLE,Participate in Artifact Battle,Artefaktschlacht beitreten
@@ -2214,7 +2214,7 @@ UI_CHARINFO_HOUSING_NOHOUSE,No house yet.,Noch kein Haus.
 UI_CHARINFO_HOUSING_EXPIRED,Expired.,Verfallen.
 UI_HOUSINGPRESETSAPPLY_MSGBOX_INFO,This preset contains non-permanent decorations or NPCs. Apply this preset anyway?\n#b#cff78e12fNote: Decorations and NPCs with the shortest remaining duration are prioritized.#nb#nc,"Du versuchst, eine Voreinstellung anzuwenden, die Objekte oder NPCs enthält, die nicht permanent sind. Bist du sicher, dass du sie immer noch anwenden willst? \n#b#cff78e12fBitte beachte: Gegenstände und NPCs mit der kürzesten Ablaufzeit werden bevorzugt behandelt.#nb#nc"
 UI_GUILDHOUSING_ARTIFACTBATTLE_TIMELEFT,Artifact Battle Ends In,Artefaktschlacht endet in
-UI_GUILD_LOG_BTN,Log,Log
+UI_GUILD_LOG_BTN,Log,Protokoll
 UI_GUILDLOG_TITLE,Guild Log,Gilden-Log
 UI_GUILDLOG_JOINED,Joined,Beigetreten
 UI_GUILDLOG_LEFT,Left,Links
@@ -2235,13 +2235,13 @@ UI_HOUSINGSETUP_FILTER_FLOOR,Floor,Boden
 UI_HOUSINGSETUP_FILTER_CEILING,Ceiling,Decke
 UI_HOUSINGSETUP_FILTER_WALL,Wall,Wand
 UI_PARTY_CHANGE_NAME,Name,Name
-UI_PARTY_CHANGE_NAME_TIP,Change the Party name.,Change the Party name.
-UI_KALGAS_ASSAULT_NOT_SCHEDUL_DESC,There is no Kalgas Assault scheduled.,There is no Kalgas Assault scheduled.
-UI_KALGAS_ASSAULT_CANNOT_ENTER,You cannot enter Kalgas Assault at this time.,You cannot enter Kalgas Assault at this time.
-UI_KALGAS_ASSAULT_ENTERTIME_DESC,Enter Kalgas Assault now?\n\nEntry time remaining: %s,Enter Kalgas Assault now?\n\nEntry time remaining: %s
-UI_KALGAS_ASSAULT_REGISTRATIONTIME_DESC,Cannot enter Kalgas Assault yet.\n\nEntry Start: %02d:%02d:%02d,Cannot enter Kalgas Assault yet.\n\nEntry Start: %02d:%02d:%02d
-UI_KALGAS_ASSAULT_LATE_DESC,Today's Kalgas Assault has already started.,Today's Kalgas Assault has already started.
-UI_KALGAS_ASSAULT_REG_DESC,"#cff0000ffRegistration#nc\nTime until registration opens:\n %s \nTime until entry:\n %s \nMinimum level: %d\n\nCurrent number of registered players: %d\n\n※ Only players registered for Kalgas Assault can participate.\n※ You cannot enter after the entry period ends.\n※ Maximum 200 players per instance (100 vs 100).\n※ Ranking rewards require at least 20 players. If fewer than 20 players participate, only the winner reward will be granted.\n※ Teams are assigned randomly.","#cff0000ffRegistration#nc\nTime until registration opens:\n %s \nTime until entry:\n %s \nMinimum level: %d\n\nCurrent number of registered players: %d\n\n※ Only players registered for Kalgas Assault can participate.\n※ You cannot enter after the entry period ends.\n※ Maximum 200 players per instance (100 vs 100).\n※ Ranking rewards require at least 20 players. If fewer than 20 players participate, only the winner reward will be granted.\n※ Teams are assigned randomly."
+UI_PARTY_CHANGE_NAME_TIP,Change the Party name.,Ändere den Partynamen.
+UI_KALGAS_ASSAULT_NOT_SCHEDUL_DESC,There is no Kalgas Assault scheduled.,Es ist kein Kalgas Assault geplant.
+UI_KALGAS_ASSAULT_CANNOT_ENTER,You cannot enter Kalgas Assault at this time.,Du kannst momentan nicht am Kalgas Assault teilnehmen.
+UI_KALGAS_ASSAULT_ENTERTIME_DESC,Enter Kalgas Assault now?\n\nEntry time remaining: %s,Jetzt Kalgas Assault betreten?\n\nVerbleibende Eintrittszeit: %s
+UI_KALGAS_ASSAULT_REGISTRATIONTIME_DESC,Cannot enter Kalgas Assault yet.\n\nEntry Start: %02d:%02d:%02d,Du kannst Kalgas Assault noch nicht betreten.\n\nEintritt beginnt: %02d:%02d:%02d
+UI_KALGAS_ASSAULT_LATE_DESC,Today's Kalgas Assault has already started.,Der heutige Kalgas Assault hat bereits begonnen.
+UI_KALGAS_ASSAULT_REG_DESC,"#cff0000ffRegistration#nc\nTime until registration opens:\n %s \nTime until entry:\n %s \nMinimum level: %d\n\nCurrent number of registered players: %d\n\n※ Only players registered for Kalgas Assault can participate.\n※ You cannot enter after the entry period ends.\n※ Maximum 200 players per instance (100 vs 100).\n※ Ranking rewards require at least 20 players. If fewer than 20 players participate, only the winner reward will be granted.\n※ Teams are assigned randomly.","#cff0000ffRegistrierung#nc\nZeit bis zur Öffnung der Registrierung:\n %s \nZeit bis zum Eintritt:\n %s \nMindestlevel: %d\n\nAktuelle Anzahl registrierter Spieler: %d\n\n※ Nur für Kalgas Assault registrierte Spieler können teilnehmen.\n※ Nach Ende der Eintrittsfrist ist kein Eintritt mehr möglich.\n※ Maximal 200 Spieler pro Instanz (100 gegen 100).\n※ Für Ranglistenbelohnungen sind mindestens 20 Spieler erforderlich. Nehmen weniger als 20 Spieler teil, wird nur die Gewinnerbelohnung vergeben.\n※ Teams werden zufällig zugewiesen."
 UI_SUN,Sunday,Sonntag
 UI_MON,Monday,Montag
 UI_TUE,Tuesday,Dienstag
@@ -2249,156 +2249,156 @@ UI_WED,Wednesday,Mittwoch
 UI_THU,Thursday,Donnerstag
 UI_FRI,Friday,Freitag
 UI_SAT,Saturday,Samstag
-UI_KALGAS_ASSAULT_INFO_TITLE,Kalgas Assault Information,Kalgas Assault Information
-UI_KALGAS_ASSAULT_REGISTRATION_TITLE,Kalgas Assault Registration,Kalgas Assault Registration
-UI_KALGAS_ASSAULT_REGISTER,Registration,Registration
-UI_KALGAS_ASSAULT_REGISTERED,Registered,Registered
-UI_KALGAS_ASSAULT_RANK_TITLE,Rank,Rank
-UI_KALGAS_ASSAULT_RANK_RETURN,Transport to Town,Transport to Town
-UI_KALGAS_ASSAULT_RANK_WINNER,Winner: %s,Winner: %s
-UI_KALGAS_ASSAULT_RANK_MYRANK,My Ranking: %s,My Ranking: %s
-UI_KALGAS_ASSAULT_RANK_NOT_RECORD,No record,No record
+UI_KALGAS_ASSAULT_INFO_TITLE,Kalgas Assault Information,Kalgas Assault Informationen
+UI_KALGAS_ASSAULT_REGISTRATION_TITLE,Kalgas Assault Registration,Kalgas Assault Registrierung
+UI_KALGAS_ASSAULT_REGISTER,Registration,Registrierung
+UI_KALGAS_ASSAULT_REGISTERED,Registered,Registriert
+UI_KALGAS_ASSAULT_RANK_TITLE,Rank,Rang
+UI_KALGAS_ASSAULT_RANK_RETURN,Transport to Town,In die Stadt transportieren
+UI_KALGAS_ASSAULT_RANK_WINNER,Winner: %s,Gewinner: %s
+UI_KALGAS_ASSAULT_RANK_MYRANK,My Ranking: %s,Meine Platzierung: %s
+UI_KALGAS_ASSAULT_RANK_NOT_RECORD,No record,Kein Eintrag
 UI_KALGAS_ASSAULT_RANK_KALGAS,Kalgas,Kalgas
-UI_KALGAS_ASSAULT_RANK_ARTIFACT,Artifact,Artifact
+UI_KALGAS_ASSAULT_RANK_ARTIFACT,Artifact,Artefakt
 UI_KALGAS_ASSAULT_RANK_KILL,Kill,Kill
-UI_KALGAS_ASSAULT_RANK_RANKING,Ranking,Ranking
+UI_KALGAS_ASSAULT_RANK_RANKING,Ranking,Rangliste
 UI_KALGAS_ASSAULT_RANK_TEAM,Team,Team
 UI_KALGAS_ASSAULT_RANK_NAME,Name,Name
-UI_KALGAS_ASSAULT_RANK_POINT,Point,Point
+UI_KALGAS_ASSAULT_RANK_POINT,Point,Punkt
 UI_TOOLTIP_DST_BOSS_DMG,Boss Monster Damage,Boss Monster Damage
-UI_KALGAS_ASSAULT_KILL_COUNT,Kill Count: %d,Kill Count: %d
-UI_KALGAS_ASSAULT_REVIVAL_TITLE,Kalgas Assault Revival,Kalgas Assault Revival
-UI_KALGAS_ASSAULT_REVIVAL_COUNT,Revive in: %d sec,Revive in: %d sec
-UI_KALGAS_ASSAULT_REVIVAL_DEFAULT,Free Revive,Free Revive
-UI_KALGAS_ASSAULT_REVIVAL_GOLD,Revive Now (Gold Coin x%d),Revive Now (Gold Coin x%d)
-UI_KALGAS_ASSAULT_REVIVAL_SILVER,Revive Now (Silver Coin),Revive Now (Silver Coin)
-UI_KALGAS_ASSAULT_TIMER_KALGAS,Time until Kalgas appears,Time until Kalgas appears
-UI_KALGAS_ASSAULT_TIMER_END,Time until Kalgas Assault ends,Time until Kalgas Assault ends
-UI_KALGAS_ASSAULT_UNFULFILLED_PLAY_TIME,You did not participate long enough to qualify for rewards or rankings.,You did not participate long enough to qualify for rewards or rankings.
-UI_KALGAS_ASSAULT_WINNER,Congratulations. %s Team Wins!,Congratulations. %s Team Wins!
-UI_KALGAS_ASSAULT_DRAW,The winner could not be decided.,The winner could not be decided.
-UI_KALGAS_ASSAULT_RETURN_COUNT,You will be moved to town in %d seconds.,You will be moved to town in %d seconds.
+UI_KALGAS_ASSAULT_KILL_COUNT,Kill Count: %d,Kills: %d
+UI_KALGAS_ASSAULT_REVIVAL_TITLE,Kalgas Assault Revival,Kalgas Assault Wiederbelebung
+UI_KALGAS_ASSAULT_REVIVAL_COUNT,Revive in: %d sec,Wiederbelebung in: %d Sek.
+UI_KALGAS_ASSAULT_REVIVAL_DEFAULT,Free Revive,Kostenlose Wiederbelebung
+UI_KALGAS_ASSAULT_REVIVAL_GOLD,Revive Now (Gold Coin x%d),Jetzt wiederbeleben (Goldmünze x%d)
+UI_KALGAS_ASSAULT_REVIVAL_SILVER,Revive Now (Silver Coin),Jetzt wiederbeleben (Silbermünze)
+UI_KALGAS_ASSAULT_TIMER_KALGAS,Time until Kalgas appears,Zeit bis Kalgas erscheint
+UI_KALGAS_ASSAULT_TIMER_END,Time until Kalgas Assault ends,Zeit bis Kalgas Assault endet
+UI_KALGAS_ASSAULT_UNFULFILLED_PLAY_TIME,You did not participate long enough to qualify for rewards or rankings.,"Du hast nicht lange genug teilgenommen, um für Belohnungen oder Ranglisten qualifiziert zu sein."
+UI_KALGAS_ASSAULT_WINNER,Congratulations. %s Team Wins!,Glückwunsch! Team %s gewinnt!
+UI_KALGAS_ASSAULT_DRAW,The winner could not be decided.,Der Sieger konnte nicht ermittelt werden.
+UI_KALGAS_ASSAULT_RETURN_COUNT,You will be moved to town in %d seconds.,Du wirst in %d Sekunden in die Stadt transportiert.
 UI_BLACK,Black,Schwarz
 UI_WHITE,White,Weiß
-UI_DRAW,Draw,Draw
-UI_KALGAS_ASSAULT_READY,Kalgas Assault is about to start!,Kalgas Assault is about to start!
-UI_KALGAS_ASSAULT_ENTRY_CLOSE_REMAINING,Kalgas Assault entry will close in %d minutes.,Kalgas Assault entry will close in %d minutes.
-UI_KALGAS_ASSAULT_PLAY_START_REMAINING,Kalgas Assault will start in %d minutes.,Kalgas Assault will start in %d minutes.
-UI_RAINBOWRACE_TEAMSELECTION_DESC,"You can form a team with a friend or a random player to compete in the race.\n\nOnce you select a team, it cannot be changed or canceled. Choose carefully.","You can form a team with a friend or a random player to compete in the race.\n\nOnce you select a team, it cannot be changed or canceled. Choose carefully."
-UI_RAINBOWRACE_RANDOMMATCHING,Random Match,Random Match
-UI_RAINBOWRACE_TEAMWITHFRIEND,Team Up with a Friend,Team Up with a Friend
+UI_DRAW,Draw,Unentschieden
+UI_KALGAS_ASSAULT_READY,Kalgas Assault is about to start!,Kalgas Assault beginnt gleich!
+UI_KALGAS_ASSAULT_ENTRY_CLOSE_REMAINING,Kalgas Assault entry will close in %d minutes.,Der Eintritt zu Kalgas Assault schließt in %d Minuten.
+UI_KALGAS_ASSAULT_PLAY_START_REMAINING,Kalgas Assault will start in %d minutes.,Kalgas Assault beginnt in %d Minuten.
+UI_RAINBOWRACE_TEAMSELECTION_DESC,"You can form a team with a friend or a random player to compete in the race.\n\nOnce you select a team, it cannot be changed or canceled. Choose carefully.","Du kannst ein Team mit einem Freund oder einem zufälligen Spieler bilden, um am Rennen teilzunehmen.\n\nSobald du ein Team ausgewählt hast, kann es nicht mehr geändert oder abgebrochen werden. Wähle sorgfältig."
+UI_RAINBOWRACE_RANDOMMATCHING,Random Match,Zufälliges Match
+UI_RAINBOWRACE_TEAMWITHFRIEND,Team Up with a Friend,Mit einem Freund zusammenschließen
 UI_RAINBOWRACE_TEAMINVITATION,Invite Friend,Freund einladen
 UI_RAINBOWRACE_FRIEND_LEVEL,Level,Level
 UI_RAINBOWRACE_FRIEND_NAME,Name,Name
 UI_RAINBOWRACE_FRIEND_APPLICATION,Application,Bewerbung
-UI_RAINBOWRACE_INVITATION_CONFIRM,Participate in Rainbow Race Duo (%s) with %s? The application fee is %lld Penya.,Participate in Rainbow Race Duo (%s) with %s? The application fee is %lld Penya.
+UI_RAINBOWRACE_INVITATION_CONFIRM,Participate in Rainbow Race Duo (%s) with %s? The application fee is %lld Penya.,Am Regenbogenrennen Duo (%s) mit %s teilnehmen? Die Anmeldegebühr beträgt %lld Penya.
 UI_RAINBOWRACE_ITEM,Item,Item
-UI_RAINBOWRACE_SPEED,Speed,Speed
-UI_RAINBOWRACE_TEAM_INVITATION,%s invites you to participate in the Rainbow Race (Duo Team - %s).\nThe application fee is %lld Penya\nAccept?,%s invites you to participate in the Rainbow Race (Duo Team - %s).\nThe application fee is %lld Penya\nAccept?
-UI_RAINBOWRACE_INDIV_REGISTERED,You have registered for Rainbow Race (Individual - %s).\nYou have spent %lld Penya.,You have registered for Rainbow Race (Individual - %s).\nYou have spent %lld Penya.
-UI_RAINBOWRACE_TEAM_REGISTERED_RANDOM,You have registered for Rainbow Race (Duo Team - %s).\nYou have spent %lld Penya.,You have registered for Rainbow Race (Duo Team - %s).\nYou have spent %lld Penya.
-UI_RAINBOWRACE_TEAM_REGISTERED,You have registered for Rainbow Race (Duo Team - %s) with %s.\nYou have spent %lld Penya.,You have registered for Rainbow Race (Duo Team - %s) with %s.\nYou have spent %lld Penya.
+UI_RAINBOWRACE_SPEED,Speed,Geschwindigkeit
+UI_RAINBOWRACE_TEAM_INVITATION,%s invites you to participate in the Rainbow Race (Duo Team - %s).\nThe application fee is %lld Penya\nAccept?,"%s lädt dich ein, am Regenbogenrennen (Duo Team - %s) teilzunehmen.\nDie Anmeldegebühr beträgt %lld Penya\nAnnehmen?"
+UI_RAINBOWRACE_INDIV_REGISTERED,You have registered for Rainbow Race (Individual - %s).\nYou have spent %lld Penya.,Du hast dich für das Regenbogenrennen (Einzel - %s) registriert.\nDu hast %lld Penya ausgegeben.
+UI_RAINBOWRACE_TEAM_REGISTERED_RANDOM,You have registered for Rainbow Race (Duo Team - %s).\nYou have spent %lld Penya.,Du hast dich für das Regenbogenrennen (Duo Team - %s) registriert.\nDu hast %lld Penya ausgegeben.
+UI_RAINBOWRACE_TEAM_REGISTERED,You have registered for Rainbow Race (Duo Team - %s) with %s.\nYou have spent %lld Penya.,Du hast dich für das Regenbogenrennen (Duo Team - %s) mit %s registriert.\nDu hast %lld Penya ausgegeben.
 UI_RAINBOWRACE_TITLE,Rainbow Race,Regenbogenrennen
-UI_INVENTORY_ACTION_EQUIP_LEFT,Equip (L),Equip (L)
+UI_INVENTORY_ACTION_EQUIP_LEFT,Equip (L),Ausrüsten (L)
 UI_FITTINGROOM_RESETEQUIPMENT,Reset Equipment,Equipment zurücksetzen
-UI_KALGAS_ASSAULT_RANK_NODATA,No participation information,No participation information
-UI_QUEST_ATTENDANCE,Playtime Minutes #cffc32f07#b%d/%d#nb#nc,Playtime Minutes #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_HOUSING,Housing Entry Count #cffc32f07#b%d/%d#nb#nc,Housing Entry Count #cffc32f07#b%d/%d#nb#nc
+UI_KALGAS_ASSAULT_RANK_NODATA,No participation information,Keine Teilnahmeinformationen
+UI_QUEST_ATTENDANCE,Playtime Minutes #cffc32f07#b%d/%d#nb#nc,Spielzeit in Minuten #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_HOUSING,Housing Entry Count #cffc32f07#b%d/%d#nb#nc,Wohnungsbesuche #cffc32f07#b%d/%d#nb#nc
 UI_CHATFILTER_TEAM,Team,Team
-UI_CHAT_TEAM_TIP,Send messages to your team members.,Send messages to your team members.
+UI_CHAT_TEAM_TIP,Send messages to your team members.,Sende Nachrichten an deine Teammitglieder.
 UI_BATTLEPASS_MISSION_VISIT_FRIENDS_HOUSE,Visit a Friend's House,Haus eines Freundes besuchen
 UI_BATTLEPASS_MISSION_ENTER_INSTANCE_DUNGEON,Enter an Instanced Dungeon,Instanziierten Dungeon betreten
 UI_BATTLEPASS_MISSION_HOUSING_BOOK_LIKE,Visit a Friend's House and Press the Heart Button,Haus eines Freundes besuchen und ein Like geben
 UI_TOOLTIP_FLYSPEEDRATE,Flying Speed,Fluggeschwindigkeit
-UI_TOOLTIP_DEATHEXPLOSSDEC,Experience Loss Reduction,Experience Loss Reduction
-UI_TOOLTIP_REVIVEHP,HP Restored on Revive,HP Restored on Revive
-UI_TOOLTIP_REVIVEMP,MP Restored on Revive,MP Restored on Revive
-UI_TOOLTIP_REVIVEFP,FP Restored on Revive,FP Restored on Revive
-UI_TOOLTIP_UPGRADENORMAL,Weapon/Armor Upgrade Chance,Weapon/Armor Upgrade Chance
-UI_TOOLTIP_UPGRADEACCESSORY,Accessory Upgrade Chance,Accessory Upgrade Chance
-UI_TOOLTIP_UPGRADEPIERCING,Piercing Chance,Piercing Chance
-UI_TOOLTIP_HOUSINGARTIFACT_HPRATE,Battle Artifact HP,Battle Artifact HP
-UI_TOOLTIP_HOUSINGARTIFACT_DEFRATE,Battle Artifact DEF,Battle Artifact DEF
-UI_TOOLTIP_HOUSINGARTIFACT_RECOVERYRATE,Battle Artifact Recovery,Battle Artifact Recovery
-UI_TOOLTIP_PVPBLOCK_PENETRATION,PvP Block Penetration,PvP Block Penetration
-UI_TOOLTIP_VENDORSHOP_DAY,Added Vendor Shop Day(s),Added Vendor Shop Day(s)
+UI_TOOLTIP_DEATHEXPLOSSDEC,Experience Loss Reduction,Verringerung des Erfahrungsverlusts
+UI_TOOLTIP_REVIVEHP,HP Restored on Revive,Wiederhergestellte HP bei Wiederbelebung
+UI_TOOLTIP_REVIVEMP,MP Restored on Revive,Wiederhergestellte MP bei Wiederbelebung
+UI_TOOLTIP_REVIVEFP,FP Restored on Revive,Wiederhergestellte FP bei Wiederbelebung
+UI_TOOLTIP_UPGRADENORMAL,Weapon/Armor Upgrade Chance,Waffen-/Rüstungs-Upgrade-Chance
+UI_TOOLTIP_UPGRADEACCESSORY,Accessory Upgrade Chance,Zubehör-Upgrade-Chance
+UI_TOOLTIP_UPGRADEPIERCING,Piercing Chance,Piercing-Chance
+UI_TOOLTIP_HOUSINGARTIFACT_HPRATE,Battle Artifact HP,Kampfartefakt-HP
+UI_TOOLTIP_HOUSINGARTIFACT_DEFRATE,Battle Artifact DEF,Kampfartefakt-DEF
+UI_TOOLTIP_HOUSINGARTIFACT_RECOVERYRATE,Battle Artifact Recovery,Kampfartefakt-Erholung
+UI_TOOLTIP_PVPBLOCK_PENETRATION,PvP Block Penetration,PvP-Blockdurchdringung
+UI_TOOLTIP_VENDORSHOP_DAY,Added Vendor Shop Day(s),Zusätzliche Verkaufsstand-Tage
 UI_TOOLTIP_PARTYEXP_RATE,Party EXP,Party EXP
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_HP,Guild Member HP Near Artifact,Guild Member HP Near Artifact
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_ATKRATE,Guild Member ATK Near Artifact,Guild Member ATK Near Artifact
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_DEFRATE,Guild Member DEF Near Artifact,Guild Member DEF Near Artifact
-UI_TOOLTIP_HOUSINGARTIFACT_ATKSPEED,Guild Member Attack Speed Near Artifact,Guild Member Attack Speed Near Artifact
-UI_TOOLTIP_HOUSINGARTIFACT_NEAR_SPELLRATE,Guild Member Casting Speed Near Artifact,Guild Member Casting Speed Near Artifact
-UI_TOOLTIP_PVPBLOCK_RATE,PvP Melee/Range Block,PvP Melee/Range Block
-UI_TOOLTIP_PVPCRITICALBONUS,PvP Critical Damage,PvP Critical Damage
-UI_TOOLTIP_PVPCRITICALCHANCE,PvP Critical Chance,PvP Critical Chance
-UI_TOOLTIP_PENYA_RATE,Penya Drop Bonus,Penya Drop Bonus
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_HP,Guild Member HP Near Artifact,Gildenmitglieder-HP nahe Artefakt
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_ATKRATE,Guild Member ATK Near Artifact,Gildenmitglieder-ATK nahe Artefakt
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_DEFRATE,Guild Member DEF Near Artifact,Gildenmitglieder-DEF nahe Artefakt
+UI_TOOLTIP_HOUSINGARTIFACT_ATKSPEED,Guild Member Attack Speed Near Artifact,Gildenmitglieder-Angriffsgeschwindigkeit nahe Artefakt
+UI_TOOLTIP_HOUSINGARTIFACT_NEAR_SPELLRATE,Guild Member Casting Speed Near Artifact,Gildenmitglieder-Zaubergeschwindigkeit nahe Artefakt
+UI_TOOLTIP_PVPBLOCK_RATE,PvP Melee/Range Block,PvP-Nah-/Fernblock
+UI_TOOLTIP_PVPCRITICALBONUS,PvP Critical Damage,PvP kritischer Schaden
+UI_TOOLTIP_PVPCRITICALCHANCE,PvP Critical Chance,PvP kritische Chance
+UI_TOOLTIP_PENYA_RATE,Penya Drop Bonus,Penya-Drop-Bonus
 UI_OPTION_UNDERWATER,Underwater Effect,Unterwasser Effekte
-UI_REVIVAL_LODELIGHT_CONFIRM,Resurrect at Lodelight?,Resurrect at Lodelight?
-UI_REVIVAL_LODESTAR_CONFIRM,Resurrect at Lodestar?,Resurrect at Lodestar?
-UI_CASHSHOP_CONFIRM_MSG_CMT,Purchase %dx %s (x%d) for %s?,Purchase %dx %s (x%d) for %s?
-UI_BATTLEPASS_MISSION_HOUSING_BOOK_WRITE,Write in a Friend's House Guestbook,Write in a Friend's House Guestbook
-UI_PURCHASE_INAPP_SUCCESS,Purchase was successful!,Purchase was successful!
-UI_PURCHASE_INAPP_CANCELED,Purchase has been cancelled.,Purchase has been cancelled.
-UI_PURCHASE_INAPP_ERROR,An error occurred. The purchase could not be completed.,An error occurred. The purchase could not be completed.
-UI_TOOLTIP_MAGIC_CLOCK,Number of uses today: %d,Number of uses today: %d
-UI_BATTLEPASS_MISSION_UPGRADE_GEAR_OR_ACC,Upgrade a Piece of Gear or an Accessory to +%s or Higher,Upgrade a Piece of Gear or an Accessory to +%s or Higher
-UI_ACHIEVEMENTS_TITLE_TARGETMONSTERS,Monster(s) to kill,Monster(s) to kill
-UI_REVIVAL_INSTANT_CONFIRM,Use the Scroll of Resurrection to resurrect yourself?,Use the Scroll of Resurrection to resurrect yourself?
-UI_EVENT_ITEM_UPGRADE_MATERIAL,Catalyst,Catalyst
-UI_OPTION_ACCOUNT_MANAGE_NOTIFICATIONS,Manage notifications,Manage notifications
-UI_OPTION_ACCOUNT_MANAGE_PRIVACY,Manage privacy,Manage privacy
-UI_OPTION_ACCOUNT_TOS,Terms of Service,Terms of Service
+UI_REVIVAL_LODELIGHT_CONFIRM,Resurrect at Lodelight?,Bei Lodelight wiederbeleben?
+UI_REVIVAL_LODESTAR_CONFIRM,Resurrect at Lodestar?,Bei Lodestar wiederbeleben?
+UI_CASHSHOP_CONFIRM_MSG_CMT,Purchase %dx %s (x%d) for %s?,%dx %s (x%d) für %s kaufen?
+UI_BATTLEPASS_MISSION_HOUSING_BOOK_WRITE,Write in a Friend's House Guestbook,Trage dich im Gästebuch eines Freundes ein
+UI_PURCHASE_INAPP_SUCCESS,Purchase was successful!,Kauf erfolgreich!
+UI_PURCHASE_INAPP_CANCELED,Purchase has been cancelled.,Der Kauf wurde storniert.
+UI_PURCHASE_INAPP_ERROR,An error occurred. The purchase could not be completed.,Ein Fehler ist aufgetreten. Der Kauf konnte nicht abgeschlossen werden.
+UI_TOOLTIP_MAGIC_CLOCK,Number of uses today: %d,Anzahl der heutigen Nutzungen: %d
+UI_BATTLEPASS_MISSION_UPGRADE_GEAR_OR_ACC,Upgrade a Piece of Gear or an Accessory to +%s or Higher,Werte ein Ausrüstungsteil oder Zubehör auf +%s oder höher auf
+UI_ACHIEVEMENTS_TITLE_TARGETMONSTERS,Monster(s) to kill,Zu tötende Monster
+UI_REVIVAL_INSTANT_CONFIRM,Use the Scroll of Resurrection to resurrect yourself?,"Die Scroll of Resurrection benutzen, um dich selbst wiederzubeleben?"
+UI_EVENT_ITEM_UPGRADE_MATERIAL,Catalyst,Katalysator
+UI_OPTION_ACCOUNT_MANAGE_NOTIFICATIONS,Manage notifications,Benachrichtigungen verwalten
+UI_OPTION_ACCOUNT_MANAGE_PRIVACY,Manage privacy,Privatsphäre verwalten
+UI_OPTION_ACCOUNT_TOS,Terms of Service,Nutzungsbedingungen
 UI_OPTION_ACCOUNT_PRIVACY,Privacy Policy,Datenschutzbestimmungen
-UI_OPTION_ACCOUNT_MEMBERSHIP_WITHDRAWAL,Membership Withdrawal,Membership Withdrawal
-UI_OPTION_ACCOUNT_CUSTOMER_CENTER,Customer Center,Customer Center
-UI_SERVICE_AGREEMENT_TITLE,Service agreement,Service agreement
-UI_SERVICE_AGREEMENT_BIRTHDATE,(Required) Please enter your date of birth,(Required) Please enter your date of birth
-UI_SERVICE_AGREEMENT_ACCEPT_TERMS,I agree to the Terms of Service and acknowledge that I have read and understood the Privacy Policy,I agree to the Terms of Service and acknowledge that I have read and understood the Privacy Policy
-UI_SERVICE_AGREEMENT_ACCEPT_TERMS_AGREE,(Required) I agree,(Required) I agree
-UI_SERVICE_AGREEMENT_TERMSOFSERVICE,Check the Terms of Service,Check the Terms of Service
-UI_SERVICE_AGREEMENT_PRIVACY_POLICY,Check the Privacy Policy,Check the Privacy Policy
-UI_SERVICE_AGREEMENT_ADVERTISEMENTS,(Optional) I agree to receive advertisements and updates about Flyff Universe and related services published on Flyff Universe,(Optional) I agree to receive advertisements and updates about Flyff Universe and related services published on Flyff Universe
-UI_SERVICE_AGREEMENT_NOTIFICATIONS,In-app push notifications,In-app push notifications
-UI_SERVICE_AGREEMENT_EMAIL,Email,Email
-UI_SERVICE_AGREEMENT_PHONE,Phone,Phone
-UI_SERVICE_AGREEMENT_CALIFORNIA_RESIDENT,Are you a California resident?,Are you a California resident?
-UI_SERVICE_AGREEMENT_ZIPCODE,ZIPCODE,ZIPCODE
-UI_SERVICE_AGREEMENT_CALIFORNIA_PRIVACY,Check the California Privacy Statement,Check the California Privacy Statement
-UI_SERVICE_AGREEMENT_AGREE_ALL,Agree All,Agree All
-UI_SERVICE_AGREEMENT_ERROR_TITLE,Agreement error,Agreement error
+UI_OPTION_ACCOUNT_MEMBERSHIP_WITHDRAWAL,Membership Withdrawal,Mitgliedschaft kündigen
+UI_OPTION_ACCOUNT_CUSTOMER_CENTER,Customer Center,Kundencenter
+UI_SERVICE_AGREEMENT_TITLE,Service agreement,Nutzungsvereinbarung
+UI_SERVICE_AGREEMENT_BIRTHDATE,(Required) Please enter your date of birth,(Erforderlich) Bitte gib dein Geburtsdatum ein
+UI_SERVICE_AGREEMENT_ACCEPT_TERMS,I agree to the Terms of Service and acknowledge that I have read and understood the Privacy Policy,"Ich stimme den Nutzungsbedingungen zu und bestätige, dass ich die Datenschutzbestimmungen gelesen und verstanden habe"
+UI_SERVICE_AGREEMENT_ACCEPT_TERMS_AGREE,(Required) I agree,(Erforderlich) Ich stimme zu
+UI_SERVICE_AGREEMENT_TERMSOFSERVICE,Check the Terms of Service,Nutzungsbedingungen ansehen
+UI_SERVICE_AGREEMENT_PRIVACY_POLICY,Check the Privacy Policy,Datenschutzbestimmungen ansehen
+UI_SERVICE_AGREEMENT_ADVERTISEMENTS,(Optional) I agree to receive advertisements and updates about Flyff Universe and related services published on Flyff Universe,"(Optional) Ich stimme zu, Werbung und Updates zu Flyff Universe und verwandten, auf Flyff Universe veröffentlichten Diensten zu erhalten"
+UI_SERVICE_AGREEMENT_NOTIFICATIONS,In-app push notifications,In-App-Push-Benachrichtigungen
+UI_SERVICE_AGREEMENT_EMAIL,Email,E-Mail
+UI_SERVICE_AGREEMENT_PHONE,Phone,Telefon
+UI_SERVICE_AGREEMENT_CALIFORNIA_RESIDENT,Are you a California resident?,Bist du wohnhaft in Kalifornien?
+UI_SERVICE_AGREEMENT_ZIPCODE,ZIPCODE,POSTLEITZAHL
+UI_SERVICE_AGREEMENT_CALIFORNIA_PRIVACY,Check the California Privacy Statement,Kalifornische Datenschutzerklärung ansehen
+UI_SERVICE_AGREEMENT_AGREE_ALL,Agree All,Allem zustimmen
+UI_SERVICE_AGREEMENT_ERROR_TITLE,Agreement error,Zustimmungsfehler
 UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,Bitte gib ein gültiges Geburtsdatum ein.
 UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,"Um dieses Spiel spielen zu können, musst du mindestens 16 Jahre alt sein."
 UI_SERVICE_AGREEMENT_ERROR_TERMS,You must read and accept the terms of service and privacy policy to continue.,"Um fortfahren zu können, musst du die Nutzungsbedingungen und die Datenschutzrichtlinie lesen und akzeptieren."
 UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,Bitte gib eine gültige Postleitzahl ein.
 UI_ROLL_AND_MOVE_START,START,START
 UI_ROLL_AND_MOVE_ROLLBTN,Roll the dice,Würfeln
-UI_ROLL_AND_MOVE_COMPLETIONREWARD,Completion Reward,Completion Reward
+UI_ROLL_AND_MOVE_COMPLETIONREWARD,Completion Reward,Abschlussbelohnung
 UI_TRADE_LOG_PUT,Added,Hinzugefügt
 UI_TRADE_LOG_PULL,Removed,Entfernt
 UI_TRADE_LOG_CONFIRM,Confirmed the trade.,Hat den Handel bestätigt.
 UI_TRADE_LOG_ACCEPT,Accepted the trade.,Hat den Handel angenommen.
-UI_TRADE_LIST_VIEW,Toggle list view,Toggle list view
+UI_TRADE_LIST_VIEW,Toggle list view,Listenansicht umschalten
 UI_COUPON_TITLE,Coupon,Coupon
 UI_COUPON_ENTER,Please enter your coupon code.,Bitte gib den Gutscheincode ein.
-UI_COUPON_CODE,Coupon Code,Coupon Code
+UI_COUPON_CODE,Coupon Code,Couponcode
 UI_COUPON_DESCRIPTION,Coupon codes look like the following:\n    AAAA-BBBB-CCCC-DDDD,Die Schlüssel sehen folgendermaßen aus:\n    AAAA-BBBB-CCCC-DDDD
 UI_COUPON_CLAIM,Claim,Abholen
-UI_COUPON_CODE_PAGE,Claim Coupon,Claim Coupon
-UI_COUPON_LOGS_PAGE,Used Coupons,Used Coupons
+UI_COUPON_CODE_PAGE,Claim Coupon,Coupon einlösen
+UI_COUPON_LOGS_PAGE,Used Coupons,Eingelöste Coupons
 UI_COUPON_LOGS_CODE,Code,Code
-UI_COUPON_LOGS_USETIME,Used at,Used at
-UI_COUPONGIFT_TITLE,Coupon Gift,Coupon Gift
-UI_COUPONGIFT_NOTICE,"#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have sent you a coupon code to your post box.\nYou can redeem it from the #bEvents#nb menu at any time, on any server or character.\n\nEnjoy!","#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have sent you a coupon code to your post box.\nYou can redeem it from the #bEvents#nb menu at any time, on any server or character.\n\nEnjoy!"
-UI_MENU_REMOVE_SHORTCUT,Unpin,Unpin
+UI_COUPON_LOGS_USETIME,Used at,Eingelöst am
+UI_COUPONGIFT_TITLE,Coupon Gift,Coupon-Geschenk
+UI_COUPONGIFT_NOTICE,"#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have sent you a coupon code to your post box.\nYou can redeem it from the #bEvents#nb menu at any time, on any server or character.\n\nEnjoy!","#cffff0000Wir haben etwas für dich!#nc\n\nDanke, dass du die #b%s#nb Version von Flyff Universe spielst.\n\nAls Geschenk haben wir dir einen Couponcode in deine Post gesendet.\nDu kannst ihn jederzeit im #bEvents#nb-Menü auf jedem Server oder Charakter einlösen.\n\nViel Spaß!"
+UI_MENU_REMOVE_SHORTCUT,Unpin,Lösen
 UI_MENU_SAVE,Save changes,Änderungen speichern
 UI_MENU_EDIT,Edit pinned menu items,Menü bearbeiten
-UI_MENU_FULL,You cannot pin any more menu items.,You cannot pin any more menu items.
+UI_MENU_FULL,You cannot pin any more menu items.,Du kannst keine weiteren Menüelemente anheften.
 UI_MENU_UNSPECIFIED,Unspecified,Nicht spezifiziert
-UI_OPTION_KEYREPEAT,Holding Keys,Holding Keys
+UI_OPTION_KEYREPEAT,Holding Keys,Tasten gedrückt halten
 UI_DELETEACCOUNT_TITLE,Delete Account,Konto Löschen
 UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Passwort zum Löschen des Kontos\nGib das Passwort ein
 UI_DELETEACCOUNT_NOPASS,Do you confirm?,Bestätigst du?
-UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.","When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies."
+UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.","Wenn du deine Mitgliedschaft kündigst, werden alle Daten gelöscht und du kannst den Dienst nicht mehr nutzen, dein Konto nicht wiederherstellen oder eine Rückerstattung für verbleibende bezahlte Items oder Währungen erhalten."
 UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,Finde Items in persönlichen und Vendor Shops
 UI_SEARCHSHOP_RARITY,Rarity,Seltenheit
 UI_SEARCHSHOP_UPGRADE,Upgrade:,Upgrade:
@@ -2415,17 +2415,17 @@ UI_PARTY_READY_INFO1,has not responded yet.,hat noch nicht reagiert.
 UI_PARTY_READY_INFO2,is ready!,ist bereit!
 UI_PARTY_READY_INFO3,is not ready.,ist nicht bereit.
 UI_PARTY_EDIT_NAME,Edit the party name,Ändert den Partynamen
-UI_SEARCHSHOP_ITEMLEVEL_ASC,Item Level (1 - %d),Item Level (1 - %d)
-UI_SEARCHSHOP_ITEMLEVEL_DESC,Item Level (%d - 1),Item Level (%d - 1)
+UI_SEARCHSHOP_ITEMLEVEL_ASC,Item Level (1 - %d),Item-Level (1 - %d)
+UI_SEARCHSHOP_ITEMLEVEL_DESC,Item Level (%d - 1),Item-Level (%d - 1)
 UI_SEARCHSHOP_UPGRADELEVEL_ASC,Upgrade Level (0 - 20),Upgrade Level (0 - 20)
 UI_SEARCHSHOP_UPGRADELEVEL_DESC,Upgrade Level (20 - 0),Upgrade Level (20 - 0)
 UI_SEARCHSHOP_PLAYERNAME_ASC,Seller Name (A - Z),Verkäufername (A - Z)
 UI_SEARCHSHOP_PLAYERNAME_DESC,Seller Name (Z - A),Verkäufername (Z - A)
-UI_SEARCHSHOP_SHOPNAME_ASC,Shop Name (A - Z),Shop Name (A - Z)
-UI_SEARCHSHOP_SHOPNAME_DESC,Shop Name (Z - A),Shop Name (Z - A)
+UI_SEARCHSHOP_SHOPNAME_ASC,Shop Name (A - Z),Shopname (A - Z)
+UI_SEARCHSHOP_SHOPNAME_DESC,Shop Name (Z - A),Shopname (Z - A)
 UI_SEARCHSHOP_SELLER,Seller,Verkäufer
-UI_SEARCHSHOP_ITEMNAME_ASC,Item Name (A - Z),Item Name (A - Z)
-UI_SEARCHSHOP_ITEMNAME_DESC,Item Name (Z - A),Item Name (Z - A)
+UI_SEARCHSHOP_ITEMNAME_ASC,Item Name (A - Z),Itemname (A - Z)
+UI_SEARCHSHOP_ITEMNAME_DESC,Item Name (Z - A),Itemname (Z - A)
 UI_SEARCHSHOP_CHANNEL_ASC,Channel (1 - %u),Channel (1 - %u)
 UI_SEARCHSHOP_CHANNEL_DESC,Channel (%u - 1),Channel (%u - 1)
 UI_SEARCHSHOP_LOCATION,Show Location,Zeige Position
@@ -2433,62 +2433,62 @@ UI_SEARCHSHOP_MESSAGE,Message Seller,Verkäufer kontaktieren
 UI_SEARCHSHOP_TELEPORT,Teleport (%d / %d),Teleport (%d / %d)
 UI_PURCHASE_INAPP_NOTICE,Notice,Notiz
 UI_PURCHASE_INAPP_PURCHASE,Purchase,Kaufen
-UI_PURCHASE_INAPP_SELECT,Please select an offer to purchase.,Please select an offer to purchase.
-UI_PURCHASE_INAPP_EMPTY,There are currently no offers available.,There are currently no offers available.
-UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_500_AOS,Offer Summary:\n    #cffc32f07#b500 fCoins#nb#nc,Offer Summary:\n    #cffc32f07#b500 fCoins#nb#nc
-UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_1000_AOS,"Purchase this offer and receive #b#u50 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b1,000 fCoins#nb#nc\n    +50 fCoins (Free)","Purchase this offer and receive #b#u50 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b1,000 fCoins#nb#nc\n    +50 fCoins (Free)"
-UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_2000_AOS,"Purchase this offer and receive #b#u150 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b2,000 fCoins#nb#nc\n    +150 fCoins (Free)","Purchase this offer and receive #b#u150 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b2,000 fCoins#nb#nc\n    +150 fCoins (Free)"
-UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_3000_AOS,"Purchase this offer and receive #b#u300 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b3,000 fCoins#nb#nc\n    +300 fCoins (Free)","Purchase this offer and receive #b#u300 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b3,000 fCoins#nb#nc\n    +300 fCoins (Free)"
-UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_5000_AOS,"Purchase this offer and receive #b#u625 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b5,000 fCoins#nb#nc\n    +625 fCoins (Free)","Purchase this offer and receive #b#u625 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b5,000 fCoins#nb#nc\n    +625 fCoins (Free)"
-UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_10000_AOS,"Purchase this offer and receive #b#u1500 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b10,000 fCoins#nb#nc\n    +1,500 fCoins (Free)","Purchase this offer and receive #b#u1500 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b10,000 fCoins#nb#nc\n    +1,500 fCoins (Free)"
+UI_PURCHASE_INAPP_SELECT,Please select an offer to purchase.,Bitte wähle ein Angebot zum Kauf aus.
+UI_PURCHASE_INAPP_EMPTY,There are currently no offers available.,Derzeit sind keine Angebote verfügbar.
+UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_500_AOS,Offer Summary:\n    #cffc32f07#b500 fCoins#nb#nc,Angebotsübersicht:\n    #cffc32f07#b500 fCoins#nb#nc
+UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_1000_AOS,"Purchase this offer and receive #b#u50 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b1,000 fCoins#nb#nc\n    +50 fCoins (Free)","Kaufe dieses Angebot und erhalte #b#u50 fCoins#nu#nb kostenlos!\n\nAngebotsübersicht:\n    #cffc32f07#b1,000 fCoins#nb#nc\n    +50 fCoins (kostenlos)"
+UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_2000_AOS,"Purchase this offer and receive #b#u150 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b2,000 fCoins#nb#nc\n    +150 fCoins (Free)","Kaufe dieses Angebot und erhalte #b#u150 fCoins#nu#nb kostenlos!\n\nAngebotsübersicht:\n    #cffc32f07#b2,000 fCoins#nb#nc\n    +150 fCoins (kostenlos)"
+UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_3000_AOS,"Purchase this offer and receive #b#u300 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b3,000 fCoins#nb#nc\n    +300 fCoins (Free)","Kaufe dieses Angebot und erhalte #b#u300 fCoins#nu#nb kostenlos!\n\nAngebotsübersicht:\n    #cffc32f07#b3,000 fCoins#nb#nc\n    +300 fCoins (kostenlos)"
+UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_5000_AOS,"Purchase this offer and receive #b#u625 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b5,000 fCoins#nb#nc\n    +625 fCoins (Free)","Kaufe dieses Angebot und erhalte #b#u625 fCoins#nu#nb kostenlos!\n\nAngebotsübersicht:\n    #cffc32f07#b5,000 fCoins#nb#nc\n    +625 fCoins (kostenlos)"
+UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_10000_AOS,"Purchase this offer and receive #b#u1500 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b10,000 fCoins#nb#nc\n    +1,500 fCoins (Free)","Kaufe dieses Angebot und erhalte #b#u1500 fCoins#nu#nb kostenlos!\n\nAngebotsübersicht:\n    #cffc32f07#b10,000 fCoins#nb#nc\n    +1,500 fCoins (kostenlos)"
 UI_EVENT_HALLOWEEN_2024,Halloween Pumpkin Hunt,Halloween Pumpkin Hunt
 UI_PUMPKIN_HUNT,Halloween Pumpkin Hunt,Halloween Pumpkin Hunt
-UI_PUMPKIN_HUNT_REWARD_TITLE,Completion Reward,Completion Reward
-UI_PUMPKIN_HUNT_DESC,Pumpkins Destroyed,Pumpkins Destroyed
-UI_SEARCHSHOP_PLAYERNAME,Player Name,Player Name
-UI_PVPCONTEST_MANUALMATCH_TITLE,PvP Manual Match,PvP Manual Match
+UI_PUMPKIN_HUNT_REWARD_TITLE,Completion Reward,Abschlussbelohnung
+UI_PUMPKIN_HUNT_DESC,Pumpkins Destroyed,Zerstörte Kürbisse
+UI_SEARCHSHOP_PLAYERNAME,Player Name,Spielername
+UI_PVPCONTEST_MANUALMATCH_TITLE,PvP Manual Match,PvP manuelles Match
 UI_PVPCONTEST_MANUALMATCH_PLAYERNAME,Name,Name
-UI_PVPCONTEST_MANUALMATCH_INVITE1,Invite to Team 1,Invite to Team 1
-UI_PVPCONTEST_MANUALMATCH_INVITE2,Invite to Team 2,Invite to Team 2
-UI_PVPCONTEST_MANUALMATCH_INVITE3,Invite to Spectators,Invite to Spectators
-UI_PVPCONTEST_MANUALMATCH_START,Start Match,Start Match
+UI_PVPCONTEST_MANUALMATCH_INVITE1,Invite to Team 1,Zu Team 1 einladen
+UI_PVPCONTEST_MANUALMATCH_INVITE2,Invite to Team 2,Zu Team 2 einladen
+UI_PVPCONTEST_MANUALMATCH_INVITE3,Invite to Spectators,Zu Zuschauern einladen
+UI_PVPCONTEST_MANUALMATCH_START,Start Match,Match starten
 UI_PVPCONTEST_MANUALMATCH_TEAM1,Team 1,Team 1
 UI_PVPCONTEST_MANUALMATCH_TEAM2,Team 2,Team 2
-UI_PVPCONTEST_MANUALMATCH_OBSERVERS,Spectators,Spectators
+UI_PVPCONTEST_MANUALMATCH_OBSERVERS,Spectators,Zuschauer
 UI_PVPCONTEST_MANUALMATCH_READY,Ready,Bereit
 UI_BATTLEPASS_BONUS,Bonus,Skill
 UI_MATOURNAMENT_RANKING_POINTS_TOOLTIP,Points,Punkte
 UI_MATOURNAMENT_RANKING_RANK,Rank,Rang
-UI_MATOURNAMENT_RANKING_TEAMNAME,Team Name,Team Name
+UI_MATOURNAMENT_RANKING_TEAMNAME,Team Name,Teamname
 UI_MATOURNAMENT_RANKING_BACKUP_POINTS_TOOLTIP,Lives,Leben
 UI_MATOURNAMENT_TYPE_PRELIMINARY,Preliminary,Vorrunde
-UI_MATOURNAMENT_TYPE_BACKUP,Backup Match,Backup Match
-UI_MATOURNAMENT_TYPE_FINAL16,Round of 16,Round of 16
-UI_MATOURNAMENT_TYPE_QUATERFINAL,Quarter Final,Quarter Final
-UI_MATOURNAMENT_TYPE_SEMIFINAL,Semi Final,Semi Final
+UI_MATOURNAMENT_TYPE_BACKUP,Backup Match,Backup-Match
+UI_MATOURNAMENT_TYPE_FINAL16,Round of 16,Runde der letzten 16
+UI_MATOURNAMENT_TYPE_QUATERFINAL,Quarter Final,Viertelfinale
+UI_MATOURNAMENT_TYPE_SEMIFINAL,Semi Final,Halbfinale
 UI_MATOURNAMENT_TYPE_THIRDPLACE,Third Place,Dritter Platz
-UI_MATOURNAMENT_TYPE_FINAL,Final,Final
+UI_MATOURNAMENT_TYPE_FINAL,Final,Finale
 UI_MATOURNAMENT_MATCH_RESULT_WIN,Win,Gewonnen
 UI_MATOURNAMENT_MATCH_RESULT_LOSE,Lose,Verloren
 UI_MATOURNAMENT_MATCH_RESULT_DRAW,Draw,Unentschieden
-UI_MATOURNAMENT_MATCH_RESULT_NORECORD,You have no matches for this day.,You have no matches for this day.
-UI_MATOURNAMENT_DAILY_RESULT_TYPE,Type: %s,Type: %s
+UI_MATOURNAMENT_MATCH_RESULT_NORECORD,You have no matches for this day.,Du hast an diesem Tag keine Matches.
+UI_MATOURNAMENT_DAILY_RESULT_TYPE,Type: %s,Typ: %s
 UI_MATOURNAMENT_DAILY_RESULT_OTHERTEAM,Other Team: %s,Anderes Team : %s
 UI_MATOURNAMENT_DAILY_RESULT_PLAYTIME,Play Time: %s,Spielzeit : %s
 UI_MATOURNAMENT_DAILY_RESULT_RESULT,Result: %s,Ergebnis : %s
 UI_MATOURNAMENT_CALENDAR_TODAY,(Today),(Heute)
-UI_MATOURNAMENT_WEEK_RESULT_NONE,NONE,NONE
+UI_MATOURNAMENT_WEEK_RESULT_NONE,NONE,KEINE
 UI_MATOURNAMENT_WEEK_RESULT_REGISTRATION,REG,REG
 UI_MATOURNAMENT_WEEK_RESULT_PRELIMINARY,PRE,PRE
-UI_MATOURNAMENT_WEEK_RESULT_FINAL16,FINAL 16,FINAL 16
-UI_MATOURNAMENT_WEEK_RESULT_QUATERFINAL,FINAL 8,FINAL 8
-UI_MATOURNAMENT_TITLE,Madrigal Tournament Registration Board,Madrigal Tournament Registration Board
+UI_MATOURNAMENT_WEEK_RESULT_FINAL16,FINAL 16,FINALE 16
+UI_MATOURNAMENT_WEEK_RESULT_QUATERFINAL,FINAL 8,FINALE 8
+UI_MATOURNAMENT_TITLE,Madrigal Tournament Registration Board,Madrigal-Turnier Registrierungstafel
 UI_MATOURNAMENT_REGISTRATIONCOST,Registration fee:,Registrierungskosten
 UI_MATOURNAMENT_MAXPARTICIPATINGPLAYERS,Maximum players per team: ,Max teilnehmende Spieler:
 UI_MATOURNAMENT_REGISTEREDGUILDS,Registered guilds (%d):,Registrierte Gilden (Menge: %d)
 UI_MATOURNAMENT_REGISTER,Register,Registrieren
-UI_MATOURNAMENT_INFO,"Get a chance to win great riches in the Madrigal Tournament!\nJoin individually or as a party. For party battles, you can register with a party of up to 4 players. Registration is available Monday through %s from 00:00:00 to %s.","Get a chance to win great riches in the Madrigal Tournament!\nJoin individually or as a party. For party battles, you can register with a party of up to 4 players. Registration is available Monday through %s from 00:00:00 to %s."
-UI_MATOURNAMENT_REGISTEREDTEAMS,Registered teams (%d):,Registered teams (%d):
+UI_MATOURNAMENT_INFO,"Get a chance to win great riches in the Madrigal Tournament!\nJoin individually or as a party. For party battles, you can register with a party of up to 4 players. Registration is available Monday through %s from 00:00:00 to %s.","Erhalte die Chance, im Madrigal-Turnier großen Reichtum zu gewinnen!\nNimm einzeln oder als Party teil. Für Partykämpfe kannst du dich mit einer Party von bis zu 4 Spielern registrieren. Die Registrierung ist von Montag bis %s von 00:00:00 bis %s möglich."
+UI_MATOURNAMENT_REGISTEREDTEAMS,Registered teams (%d):,Registrierte Teams (%d):
 UI_MATOURNAMENT_JOINWAR_RANDOM,Random,Zufällig
 UI_MATOURNAMENT_JOINWAR_TITLE,Select Entry Zone,Wiederbelebungsort
 UI_MATOURNAMENT_JOINWAR_1_TIP,You have entered zone 1.,Du gehst zum ersten Bereich.
@@ -2496,154 +2496,154 @@ UI_MATOURNAMENT_JOINWAR_2_TIP,You have entered zone 2.,Du gehst zum zweiten Bere
 UI_MATOURNAMENT_JOINWAR_3_TIP,You have entered zone 3.,Du gehst zum dritten Bereich.
 UI_MATOURNAMENT_JOINWAR_4_TIP,You have entered zone 4.,Du gehst zum vierten Bereich.
 UI_MATOURNAMENT_JOINWAR_SELECT,Select the zone you wish to enter.,Wähle den Startpunkt mit Hilfe der Landkarte
-UI_MATOURNAMENT_JOINWAR_MSG,"In %d seconds, you will enter zone %s.","In %d seconds, you will enter zone %s."
-UI_MATOURNAMENT_RANKING_TITLE,Madrigal Tournament Contest Ranking,Madrigal Tournament Contest Ranking
-UI_MATOURNAMENT_RANKING_RANKING,Top 50 Ranking,Top 50 Ranking
-UI_MATOURNAMENT_RANKING_FINALTOURNAMENT,Final Tournament,Final Tournament
-UI_MATOURNAMENT_RANKING_BACKUP,Backup Match,Backup Match
+UI_MATOURNAMENT_JOINWAR_MSG,"In %d seconds, you will enter zone %s.",In %d Sekunden betrittst du Zone %s.
+UI_MATOURNAMENT_RANKING_TITLE,Madrigal Tournament Contest Ranking,Madrigal-Turnier Wettbewerbsrangliste
+UI_MATOURNAMENT_RANKING_RANKING,Top 50 Ranking,Top-50-Rangliste
+UI_MATOURNAMENT_RANKING_FINALTOURNAMENT,Final Tournament,Finalturnier
+UI_MATOURNAMENT_RANKING_BACKUP,Backup Match,Backup-Match
 UI_MATOURNAMENT_RANKING_CALENDAR,Schedule,Kalender
-UI_MATOURNAMENT_RANKING_DESC,"This contains all the ranking data for the current Madrigal Tournament.\nIf only one team has showed up in the preliminary's ranking, then that means it had no opponent!","This contains all the ranking data for the current Madrigal Tournament.\nIf only one team has showed up in the preliminary's ranking, then that means it had no opponent!"
+UI_MATOURNAMENT_RANKING_DESC,"This contains all the ranking data for the current Madrigal Tournament.\nIf only one team has showed up in the preliminary's ranking, then that means it had no opponent!","Dies enthält alle Ranglistendaten für das aktuelle Madrigal-Turnier.\nWenn in der Vorrunden-Rangliste nur ein Team aufgeführt ist, bedeutet das, dass es keinen Gegner hatte!"
 UI_MATOURNAMENT_REWARD_RANK,Rank,Rang
 UI_MATOURNAMENT_REWARD_REWARD,Reward,Belohnung
-UI_MATOURNAMENT_REWARD_GRADE_QUARTERFINAL,Quarter Finals,Quarter Finals
-UI_MATOURNAMENT_REWARD_GRADE_FINAL16,Round of 16,Round of 16
-UI_MATOURNAMENT_REWARD_GRADE_PARTICIPATION,Participation,Participation
-UI_MATOURNAMENT_REWARD_TITLE,Madrigal Tournament Reward,Madrigal Tournament Reward
-UI_MATOURNAMENT_REGISTRATION_MINLEVEL,Minimum participant level:,Minimum participant level:
-UI_MSGBOX_RECIEVE,Receive,Receive
-UI_MATOURNAMENT_RANKING_CALENDAR_INFO,Match results and participation history for the Madrigal Tournament for this week and the previous three weeks.\nClick a date to view match details for that day.,Match results and participation history for the Madrigal Tournament for this week and the previous three weeks.\nClick a date to view match details for that day.
-UI_MATOURNAMENT_RANKING_TOP50_INFO,Top 50 ranked teams in the Madrigal Tournament and their points. The top 16 teams advance to the finals.,Top 50 ranked teams in the Madrigal Tournament and their points. The top 16 teams advance to the finals.
-UI_MATOURNAMENT_RANKING_TOURNAMENT_INFO,Finals bracket for the Madrigal Tournament. The top 16 teams are seeded by ranking. Teams without an opponent advance by forfeit.,Finals bracket for the Madrigal Tournament. The top 16 teams are seeded by ranking. Teams without an opponent advance by forfeit.
-UI_MATOURNAMENT_BETTING_TITLE,Madrigal Tournament Bidding,Madrigal Tournament Bidding
-UI_MATOURNAMENT_BETTING_DESC,"Place bids in the Madrigal Tournament and view the current top bids.\nYou can place a bid on only one team, and the bid amount can be increased at any time.\nBidding closes on %s %s. The expected payout is shown if the bid is successful.","Place bids in the Madrigal Tournament and view the current top bids.\nYou can place a bid on only one team, and the bid amount can be increased at any time.\nBidding closes on %s %s. The expected payout is shown if the bid is successful."
+UI_MATOURNAMENT_REWARD_GRADE_QUARTERFINAL,Quarter Finals,Viertelfinale
+UI_MATOURNAMENT_REWARD_GRADE_FINAL16,Round of 16,Runde der letzten 16
+UI_MATOURNAMENT_REWARD_GRADE_PARTICIPATION,Participation,Teilnahme
+UI_MATOURNAMENT_REWARD_TITLE,Madrigal Tournament Reward,Madrigal-Turnier Belohnung
+UI_MATOURNAMENT_REGISTRATION_MINLEVEL,Minimum participant level:,Mindestlevel der Teilnehmer:
+UI_MSGBOX_RECIEVE,Receive,Erhalten
+UI_MATOURNAMENT_RANKING_CALENDAR_INFO,Match results and participation history for the Madrigal Tournament for this week and the previous three weeks.\nClick a date to view match details for that day.,"Ergebnisse und Teilnahmehistorie des Madrigal-Turniers für diese und die letzten drei Wochen.\nKlicke auf ein Datum, um die Matchdetails für diesen Tag anzuzeigen."
+UI_MATOURNAMENT_RANKING_TOP50_INFO,Top 50 ranked teams in the Madrigal Tournament and their points. The top 16 teams advance to the finals.,Die Top-50-Teams des Madrigal-Turniers und ihre Punkte. Die besten 16 Teams erreichen das Finale.
+UI_MATOURNAMENT_RANKING_TOURNAMENT_INFO,Finals bracket for the Madrigal Tournament. The top 16 teams are seeded by ranking. Teams without an opponent advance by forfeit.,Finalrunden-Turnierbaum des Madrigal-Turniers. Die Top-16-Teams werden nach Rangliste gesetzt. Teams ohne Gegner kommen kampflos weiter.
+UI_MATOURNAMENT_BETTING_TITLE,Madrigal Tournament Bidding,Madrigal-Turnier Wetten
+UI_MATOURNAMENT_BETTING_DESC,"Place bids in the Madrigal Tournament and view the current top bids.\nYou can place a bid on only one team, and the bid amount can be increased at any time.\nBidding closes on %s %s. The expected payout is shown if the bid is successful.","Platziere Gebote im Madrigal-Turnier und sieh dir die aktuellen Höchstgebote an.\nDu kannst nur auf ein Team bieten, der Gebotsbetrag kann jedoch jederzeit erhöht werden.\nDie Wettannahme endet am %s %s. Die erwartete Auszahlung wird angezeigt, falls das Gebot erfolgreich ist."
 UI_MATOURNAMENT_BETTING_RANK,Rank,Rang
 UI_MATOURNAMENT_BETTING_GOLD,Penya,Penya
 UI_MATOURNAMENT_BETTING_DATE,Last Date,Letztes Datum
-UI_MATOURNAMENT_BETTING_WARNING,Enter the bid amount.,Enter the bid amount.
-UI_MATOURNAMENT_BETTING_BETTINGGOLD,Betting Penya,Betting Penya
+UI_MATOURNAMENT_BETTING_WARNING,Enter the bid amount.,Gib den Gebotsbetrag ein.
+UI_MATOURNAMENT_BETTING_BETTINGGOLD,Betting Penya,Wett-Penya
 UI_MATOURNAMENT_BETTING_NOREWARD,None,kein
 UI_ULTIMATE_JEWEL_REMOVE_TITLE,Remove Ultimate Jewel,Ultimatives Juwel entfernen
 UI_ULTIMATE_JEWEL_REMOVE_OK,Remove,Entfernen
-UI_ULTIMATE_JEWEL_REMOVE_MSG,"Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb","Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb"
-UI_ULTIMATE_JEWEL_COMPOSE_TITLE,Fuse Ultimate Gems,Fuse Ultimate Gems
-UI_ULTIMATE_JEWEL_REGISTER,Insert ultimate gems to use as materials.,Insert ultimate gems to use as materials.
-UI_ULTIMATE_JEWEL_INFO,Fuse 3 to 6 ultimate gems to receive 1 higher-grade ultimate gem.,Fuse 3 to 6 ultimate gems to receive 1 higher-grade ultimate gem.
-UI_ULTIMATE_JEWEL_CONFIRM,The material gems will be consumed.\nProceed?,The material gems will be consumed.\nProceed?
+UI_ULTIMATE_JEWEL_REMOVE_MSG,"Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb",Das ausgewählte ultimative Juwel von diesem Item entfernen? #b#cffff0000Ohne Jewel Tweezers wird das Juwel zerstört.#nc#nb
+UI_ULTIMATE_JEWEL_COMPOSE_TITLE,Fuse Ultimate Gems,Ultimative Edelsteine verschmelzen
+UI_ULTIMATE_JEWEL_REGISTER,Insert ultimate gems to use as materials.,Füge ultimative Edelsteine als Materialien ein.
+UI_ULTIMATE_JEWEL_INFO,Fuse 3 to 6 ultimate gems to receive 1 higher-grade ultimate gem.,"Verschmelze 3 bis 6 ultimative Edelsteine, um 1 höherwertigen ultimativen Edelstein zu erhalten."
+UI_ULTIMATE_JEWEL_CONFIRM,The material gems will be consumed.\nProceed?,Die Materialedelsteine werden verbraucht.\nFortfahren?
 UI_ULTIMATE_JEWEL_COMPOSE_PROB,Success: #b%s#nb,Erfolgschance: #b%s#nb
 UI_ULTIMATE_JEWEL_UPGRADE_TITLE,Create Ultimate Gem,Ultimatives Juwel erstellen
-UI_UPGRADE_ULTIMATE_JEWEL_REGISTER,Insert Ultimate Jewel Gemstone materials.,Insert Ultimate Jewel Gemstone materials.
-UI_UPGRADE_ULTIMATE_JEWEL_INFO,"※ Insert an Ultimate Jewel Gemstone for a chance to obtain either a first-grade jewel or a jewel piece. Using a Cutting Knife (purchasable from the Flyff Shop) guarantees the extraction of jewel pieces or first-grade jewels from a gemstone.\n※ Insert 10 jewel pieces for a chance to create a first-grade jewel. If creation fails, some jewel pieces will be returned. Using a Mana Stone (purchasable from the Flyff Shop) guarantees that all jewel pieces will be recovered on failure.","※ Insert an Ultimate Jewel Gemstone for a chance to obtain either a first-grade jewel or a jewel piece. Using a Cutting Knife (purchasable from the Flyff Shop) guarantees the extraction of jewel pieces or first-grade jewels from a gemstone.\n※ Insert 10 jewel pieces for a chance to create a first-grade jewel. If creation fails, some jewel pieces will be returned. Using a Mana Stone (purchasable from the Flyff Shop) guarantees that all jewel pieces will be recovered on failure."
-UI_COUPLE_PROPOSAL,Couple Proposal,Couple Proposal
-UI_COUPLE_PROPOSAL_TEXT,%s is proposing to you! Accept their proposal request and become a couple?,%s is proposing to you! Accept their proposal request and become a couple?
-UI_COUPLE_RING_REPLACE,Ring Replacement,Ring Replacement
-UI_COUPLE_RING_REPLACE_TEXT,Your partner is proposing to change the ring to the following ring. Accept?,Your partner is proposing to change the ring to the following ring. Accept?
-UI_COUPLE_PARTNER_OFFLINE,Your partner must be online.,Your partner must be online.
-UI_COUPLE_BREAKUP_DEADLINE,Break up response deadline: %s,Break up response deadline: %s
-UI_COUPLE_BREAKUP_NOTI,Break up notification time: %s,Break up notification time: %s
-UI_COUPLE_NEXTEXP_TIME,Next Couple EXP: %s,Next Couple EXP: %s
+UI_UPGRADE_ULTIMATE_JEWEL_REGISTER,Insert Ultimate Jewel Gemstone materials.,Füge Materialien für ultimative Juwelensteine ein.
+UI_UPGRADE_ULTIMATE_JEWEL_INFO,"※ Insert an Ultimate Jewel Gemstone for a chance to obtain either a first-grade jewel or a jewel piece. Using a Cutting Knife (purchasable from the Flyff Shop) guarantees the extraction of jewel pieces or first-grade jewels from a gemstone.\n※ Insert 10 jewel pieces for a chance to create a first-grade jewel. If creation fails, some jewel pieces will be returned. Using a Mana Stone (purchasable from the Flyff Shop) guarantees that all jewel pieces will be recovered on failure.","※ Füge einen ultimativen Juwelenstein ein, um die Chance auf ein erstklassiges Juwel oder ein Juwelenstück zu erhalten. Die Verwendung eines Cutting Knife (im Flyff Shop erhältlich) garantiert die Gewinnung von Juwelenstücken oder erstklassigen Juwelen aus einem Stein.\n※ Füge 10 Juwelenstücke ein, um die Chance auf die Erstellung eines erstklassigen Juwels zu erhalten. Schlägt die Erstellung fehl, werden einige Juwelenstücke zurückgegeben. Die Verwendung eines Mana Stone (im Flyff Shop erhältlich) garantiert, dass bei einem Fehlschlag alle Juwelenstücke zurückerhalten werden."
+UI_COUPLE_PROPOSAL,Couple Proposal,Partnerantrag
+UI_COUPLE_PROPOSAL_TEXT,%s is proposing to you! Accept their proposal request and become a couple?,%s macht dir einen Antrag! Nimm den Antrag an und werdet ein Paar?
+UI_COUPLE_RING_REPLACE,Ring Replacement,Ringaustausch
+UI_COUPLE_RING_REPLACE_TEXT,Your partner is proposing to change the ring to the following ring. Accept?,"Dein Partner schlägt vor, den Ring gegen den folgenden Ring zu tauschen. Annehmen?"
+UI_COUPLE_PARTNER_OFFLINE,Your partner must be online.,Dein Partner muss online sein.
+UI_COUPLE_BREAKUP_DEADLINE,Break up response deadline: %s,Frist für die Trennungsantwort: %s
+UI_COUPLE_BREAKUP_NOTI,Break up notification time: %s,Zeitpunkt der Trennungsbenachrichtigung: %s
+UI_COUPLE_NEXTEXP_TIME,Next Couple EXP: %s,Nächste Partner-EXP: %s
 UI_COUPLE_NEXTEXP_OFFLINE,No Passive EXP (Partner Offline),Keine passive Erfahrung (offline)
-UI_COUPLE_BREAKUP,Break Up,Break Up
-UI_COUPLE_BREAKUP_FORCE,Break Up (F),Break Up (F)
+UI_COUPLE_BREAKUP,Break Up,Trennen
+UI_COUPLE_BREAKUP_FORCE,Break Up (F),Trennen (F)
 UI_COUPLE_TELEPORT,Teleport,Teleport
-UI_COUPLE_TELEPORT_TEXT,Teleport to your partner's location? Teleportation is not possible if your partner is in an inaccessible area.,Teleport to your partner's location? Teleportation is not possible if your partner is in an inaccessible area.
+UI_COUPLE_TELEPORT_TEXT,Teleport to your partner's location? Teleportation is not possible if your partner is in an inaccessible area.,"Zum Standort deines Partners teleportieren? Teleportation ist nicht möglich, wenn sich dein Partner in einem unzugänglichen Bereich befindet."
 UI_COUPLE_CHEER,Cheer,Cheer
-UI_COUPLE_FORM_DATE,Established On,Established On
-UI_COUPLE_STORAGE_AVAIL,Available Storage Slots,Available Storage Slots
-UI_COUPLE_MAX_TELEPORTS,Maximum Daily Teleports,Maximum Daily Teleports
+UI_COUPLE_FORM_DATE,Established On,Gegründet am
+UI_COUPLE_STORAGE_AVAIL,Available Storage Slots,Verfügbare Lagerplätze
+UI_COUPLE_MAX_TELEPORTS,Maximum Daily Teleports,Maximale tägliche Teleports
 UI_COUPLE_MAX_CHEERS,Maximum Daily Cheers,Maximale tägliche Cheers
 UI_COUPLE_MAX_POINTS,Maximum Couple Points,Maximale Skillpunkte
 UI_COUPLE_TOTAL_QUESTS,Couple Quests Completed,Anzahl abgeschlossener Quests
 UI_COUPLE_SINGLE,You are single.,Du bist Single.
 UI_COUPLE_TABPARTNER,Partner,Partner
-UI_COUPLE_BREAKUP_TEXT,"If you break up with your partner, all items in couple storage will be permanently lost, and couple functions will no longer be available. Proceed?","If you break up with your partner, all items in couple storage will be permanently lost, and couple functions will no longer be available. Proceed?"
-UI_COUPLE_BREAKUP_FORCE_TEXT,"Forcing a breakup will permanently delete all items in couple storage, and couple functions will no longer be available. Proceed?","Forcing a breakup will permanently delete all items in couple storage, and couple functions will no longer be available. Proceed?"
-UI_COUPLE_BREAKUP_NOTIFY,"Your partner has requested a breakup. If you accept, all items in couple storage will be permanently lost, and you will no longer have access to couple functions. Accept?","Your partner has requested a breakup. If you accept, all items in couple storage will be permanently lost, and you will no longer have access to couple functions. Accept?"
-UI_COUPLE_PROPOSE,Propose,Propose
-UI_COUPLE_PROPOSE_INFO,Send a couple proposal using the inserted couple ring.,Send a couple proposal using the inserted couple ring.
+UI_COUPLE_BREAKUP_TEXT,"If you break up with your partner, all items in couple storage will be permanently lost, and couple functions will no longer be available. Proceed?","Wenn du dich von deinem Partner trennst, gehen alle Items im Partnerlager dauerhaft verloren und die Partnerfunktionen sind nicht mehr verfügbar. Fortfahren?"
+UI_COUPLE_BREAKUP_FORCE_TEXT,"Forcing a breakup will permanently delete all items in couple storage, and couple functions will no longer be available. Proceed?",Eine erzwungene Trennung löscht dauerhaft alle Items im Partnerlager und die Partnerfunktionen sind nicht mehr verfügbar. Fortfahren?
+UI_COUPLE_BREAKUP_NOTIFY,"Your partner has requested a breakup. If you accept, all items in couple storage will be permanently lost, and you will no longer have access to couple functions. Accept?","Dein Partner hat eine Trennung beantragt. Wenn du zustimmst, gehen alle Items im Partnerlager dauerhaft verloren und du hast keinen Zugriff mehr auf die Partnerfunktionen. Annehmen?"
+UI_COUPLE_PROPOSE,Propose,Antrag stellen
+UI_COUPLE_PROPOSE_INFO,Send a couple proposal using the inserted couple ring.,Sende einen Partnerantrag mit dem eingesetzten Partnerring.
 UI_TOOLTIP_COUPLE_LEVEL,Required Couple Level: %d,Benötigtes Couple Level: %d
 UI_TOOLTIP_COUPLE_POINTS,Required Couple Points: %d,Benötigte Couple-Punkte: %d
 UI_COUPLEBANK_TITLE,Couple Storage,Couple Lager
-UI_ULTIMATE_JEWEL_TOPAZ,Topaz,Topaz
-UI_ULTIMATE_JEWEL_RUBY,Ruby,Ruby
-UI_ULTIMATE_JEWEL_SAPPHIRE,Sapphire,Sapphire
-UI_ULTIMATE_JEWEL_EMERALD,Emerald,Emerald
-UI_ULTIMATE_JEWEL_DIAMOND,Diamond,Diamond
+UI_ULTIMATE_JEWEL_TOPAZ,Topaz,Topas
+UI_ULTIMATE_JEWEL_RUBY,Ruby,Rubin
+UI_ULTIMATE_JEWEL_SAPPHIRE,Sapphire,Saphir
+UI_ULTIMATE_JEWEL_EMERALD,Emerald,Smaragd
+UI_ULTIMATE_JEWEL_DIAMOND,Diamond,Diamant
 UI_ULTIMATE_JEWEL_AMETHYST,Amethyst,Amethyst
 UI_ULTIMATE_JEWEL_ONYX,Onyx,Onyx
-UI_RAINBOW_ULTIMATE_JEWEL_COMPOSE_TITLE,Create Rainbow Ultimate Jewel,Create Rainbow Ultimate Jewel
-UI_RAINBOW_ULTIMATE_JEWEL_INFO,Combine one of each jewel type of the same grade to obtain a Rainbow Jewel of that grade.,Combine one of each jewel type of the same grade to obtain a Rainbow Jewel of that grade.
-UI_RAINBOW_ULITMATE_JEWEL_DISMANTLE_TITLE,Dismantle Rainbow Jewel,Dismantle Rainbow Jewel
-UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_INFO,You can dismantle the Rainbow Jewel to get Ultimate Jewel.,You can dismantle the Rainbow Jewel to get Ultimate Jewel.
-UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_NOTICE,"If you fail, you will lose your item.","If you fail, you will lose your item."
-UI_HOUSINGWARDROBE_INFO,Wardrobe items can only be worn by #bone#nb NPC at a time.,Wardrobe items can only be worn by #bone#nb NPC at a time.
+UI_RAINBOW_ULTIMATE_JEWEL_COMPOSE_TITLE,Create Rainbow Ultimate Jewel,Regenbogen-Ultimativjuwel erstellen
+UI_RAINBOW_ULTIMATE_JEWEL_INFO,Combine one of each jewel type of the same grade to obtain a Rainbow Jewel of that grade.,"Kombiniere je ein Juwel jeder Art der gleichen Stufe, um ein Regenbogenjuwel dieser Stufe zu erhalten."
+UI_RAINBOW_ULITMATE_JEWEL_DISMANTLE_TITLE,Dismantle Rainbow Jewel,Regenbogenjuwel zerlegen
+UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_INFO,You can dismantle the Rainbow Jewel to get Ultimate Jewel.,"Du kannst das Regenbogenjuwel zerlegen, um ein ultimatives Juwel zu erhalten."
+UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_NOTICE,"If you fail, you will lose your item.",Bei einem Fehlschlag verlierst du dein Item.
+UI_HOUSINGWARDROBE_INFO,Wardrobe items can only be worn by #bone#nb NPC at a time.,Garderoben-Items können jeweils nur von #beinem#nb NPC getragen werden.
 UI_HOUSINGWARDROBE_CONFIRM,Equip,Ausrüsten
-UI_HOUSINGWARDROBE_CONFIRMMESSAGE,The selected NPC will wear the chosen costume item. Only one NPC can wear the same costume item at a time. Proceed?,The selected NPC will wear the chosen costume item. Only one NPC can wear the same costume item at a time. Proceed?
-UI_HOUSINGWARDROBE_USEDBY,Worn by %s,Worn by %s
-UI_HOUSINGWARDROBE_UNEQUIP,Unequip,Unequip
-UI_HOUSINGWARDROBE_MSGBOX_TITLE,Unequip Item?,Unequip Item?
-UI_HOUSINGWARDROBE_MSGBOX_CONFIRM,Unequip this item from the NPC?,Unequip this item from the NPC?
+UI_HOUSINGWARDROBE_CONFIRMMESSAGE,The selected NPC will wear the chosen costume item. Only one NPC can wear the same costume item at a time. Proceed?,Der ausgewählte NPC trägt das gewählte Kostüm-Item. Nur ein NPC kann dasselbe Kostüm-Item gleichzeitig tragen. Fortfahren?
+UI_HOUSINGWARDROBE_USEDBY,Worn by %s,Getragen von %s
+UI_HOUSINGWARDROBE_UNEQUIP,Unequip,Ablegen
+UI_HOUSINGWARDROBE_MSGBOX_TITLE,Unequip Item?,Item ablegen?
+UI_HOUSINGWARDROBE_MSGBOX_CONFIRM,Unequip this item from the NPC?,Dieses Item vom NPC ablegen?
 UI_HOUSINGSETUP_PETS,Pets,Pets
-UI_HOUSING_PETTRAINING_INFO,"You can train Raised Pets in your housing inventory by entrusting them to a Caretaker. Each Caretaker NPC has different feeding schedules and intervals and is intended for a specific pet tier.\n\nSelect the Raised Pet you wish to train by #bdouble-clicking or dragging it into the slot#nb, then press the ""Done"" button to begin training.\n\n#cffff0000If you change the Raised Pet, the feeding schedule will reset. If the Caretaker's duration expires, training will end.#nc","You can train Raised Pets in your housing inventory by entrusting them to a Caretaker. Each Caretaker NPC has different feeding schedules and intervals and is intended for a specific pet tier.\n\nSelect the Raised Pet you wish to train by #bdouble-clicking or dragging it into the slot#nb, then press the ""Done"" button to begin training.\n\n#cffff0000If you change the Raised Pet, the feeding schedule will reset. If the Caretaker's duration expires, training will end.#nc"
-UI_PETTRAINING_PET,Pet to Train,Pet to Train
+UI_HOUSING_PETTRAINING_INFO,"You can train Raised Pets in your housing inventory by entrusting them to a Caretaker. Each Caretaker NPC has different feeding schedules and intervals and is intended for a specific pet tier.\n\nSelect the Raised Pet you wish to train by #bdouble-clicking or dragging it into the slot#nb, then press the ""Done"" button to begin training.\n\n#cffff0000If you change the Raised Pet, the feeding schedule will reset. If the Caretaker's duration expires, training will end.#nc","Du kannst aufgezogene Pets in deinem Wohn-Inventar trainieren, indem du sie einem Betreuer anvertraust. Jeder Betreuer-NPC hat unterschiedliche Fütterungspläne und -intervalle und ist für eine bestimmte Pet-Stufe vorgesehen.\n\nWähle das aufgezogene Pet, das du trainieren möchtest, indem du es #bdoppelklickst oder in den Slot ziehst#nb, und drücke dann die Taste ""Fertig"", um das Training zu starten.\n\n#cffff0000Wenn du das aufgezogene Pet wechselst, wird der Fütterungsplan zurückgesetzt. Läuft die Dauer des Betreuers ab, endet das Training.#nc"
+UI_PETTRAINING_PET,Pet to Train,Zu trainierendes Pet
 UI_PETTRAINING_CANDY,Pet Candy,Pet Candy
-UI_PETTRAINING_INTERVALS,Feeding Interval,Feeding Interval
-UI_PETTRAINING_CONFIRM,"#bThe selected pet cannot be used while in training. #cffff0000If you stop the training, the pet will be returned.#nb#nc Proceed?","#bThe selected pet cannot be used while in training. #cffff0000If you stop the training, the pet will be returned.#nb#nc Proceed?"
-UI_PETTRAINING_TOTALTRAINING,Total Training Time,Total Training Time
+UI_PETTRAINING_INTERVALS,Feeding Interval,Fütterungsintervall
+UI_PETTRAINING_CONFIRM,"#bThe selected pet cannot be used while in training. #cffff0000If you stop the training, the pet will be returned.#nb#nc Proceed?","#bDas ausgewählte Pet kann während des Trainings nicht verwendet werden. #cffff0000Wenn du das Training abbrichst, wird das Pet zurückgegeben.#nb#nc Fortfahren?"
+UI_PETTRAINING_TOTALTRAINING,Total Training Time,Gesamte Trainingszeit
 UI_PETTRAINING_CLAIM,Claim,Abholen
-UI_PETTRAINING_NEXTCANDY,Next Candy In,Next Candy In
-UI_PETTRAINING_CANCELTRAINING_HOUSING,You are about to cancel pet training. The pet will be returned to your housing inventory with its current progress. Proceed?,You are about to cancel pet training. The pet will be returned to your housing inventory with its current progress. Proceed?
-UI_PETTRAINING_CANCELTRAINING,You are about to cancel pet training. The pet will be returned to your inventory with its current progress. Proceed?,You are about to cancel pet training. The pet will be returned to your inventory with its current progress. Proceed?
-UI_PETTRAINING_INFO,"You can train Raised Pets in your inventory by entrusting them to a Caretaker. Each Caretaker NPC has different feeding schedules and intervals and is intended for a specific pet tier.\n\nSelect the Raised Pet you wish to train by #bdouble-clicking or dragging it into the slot#nb, then press the ""Done"" button to begin training.\n\n#cffff0000If you change the Raised Pet, the feeding schedule will reset. If the Caretaker's duration expires, training will end.#nc","You can train Raised Pets in your inventory by entrusting them to a Caretaker. Each Caretaker NPC has different feeding schedules and intervals and is intended for a specific pet tier.\n\nSelect the Raised Pet you wish to train by #bdouble-clicking or dragging it into the slot#nb, then press the ""Done"" button to begin training.\n\n#cffff0000If you change the Raised Pet, the feeding schedule will reset. If the Caretaker's duration expires, training will end.#nc"
+UI_PETTRAINING_NEXTCANDY,Next Candy In,Nächstes Candy in
+UI_PETTRAINING_CANCELTRAINING_HOUSING,You are about to cancel pet training. The pet will be returned to your housing inventory with its current progress. Proceed?,"Du bist dabei, das Pet-Training abzubrechen. Das Pet wird mit seinem aktuellen Fortschritt in dein Wohn-Inventar zurückgegeben. Fortfahren?"
+UI_PETTRAINING_CANCELTRAINING,You are about to cancel pet training. The pet will be returned to your inventory with its current progress. Proceed?,"Du bist dabei, das Pet-Training abzubrechen. Das Pet wird mit seinem aktuellen Fortschritt in dein Inventar zurückgegeben. Fortfahren?"
+UI_PETTRAINING_INFO,"You can train Raised Pets in your inventory by entrusting them to a Caretaker. Each Caretaker NPC has different feeding schedules and intervals and is intended for a specific pet tier.\n\nSelect the Raised Pet you wish to train by #bdouble-clicking or dragging it into the slot#nb, then press the ""Done"" button to begin training.\n\n#cffff0000If you change the Raised Pet, the feeding schedule will reset. If the Caretaker's duration expires, training will end.#nc","Du kannst aufgezogene Pets in deinem Inventar trainieren, indem du sie einem Betreuer anvertraust. Jeder Betreuer-NPC hat unterschiedliche Fütterungspläne und -intervalle und ist für eine bestimmte Pet-Stufe vorgesehen.\n\nWähle das aufgezogene Pet, das du trainieren möchtest, indem du es #bdoppelklickst oder in den Slot ziehst#nb, und drücke dann die Taste ""Fertig"", um das Training zu starten.\n\n#cffff0000Wenn du das aufgezogene Pet wechselst, wird der Fütterungsplan zurückgesetzt. Läuft die Dauer des Betreuers ab, endet das Training.#nc"
 UI_COUPLE_RING_TP,Teleports: %d,Teleports: %d
-UI_COUPLE_RING_CHEER,Cheers: %d,Cheers: %d
-UI_COUPLE_RING_SLOTS,Storage Slots: %d,Storage Slots: %d
-UI_COUPLE_MOTION_TITLE,Couple Emotes,Couple Emotes
-UI_COUPLE_MOTION_REQUEST,Your partner would like to perform the %s emote with you. Accept?,Your partner would like to perform the %s emote with you. Accept?
-UI_APP_LIFE_TIP,View and manage life skills.,View and manage life skills.
-UI_LIFE_GATHERING_TAB,Gathering,Gathering
+UI_COUPLE_RING_CHEER,Cheers: %d,Anfeuerungen: %d
+UI_COUPLE_RING_SLOTS,Storage Slots: %d,Lagerplätze: %d
+UI_COUPLE_MOTION_TITLE,Couple Emotes,Partner-Emotes
+UI_COUPLE_MOTION_REQUEST,Your partner would like to perform the %s emote with you. Accept?,Dein Partner möchte die Emote %s mit dir ausführen. Annehmen?
+UI_APP_LIFE_TIP,View and manage life skills.,Lebensfertigkeiten ansehen und verwalten.
+UI_LIFE_GATHERING_TAB,Gathering,Sammeln
 UI_LIFE_PRODUCTION_TAB,Production,Produktion
-UI_LIFE_TITLE,Life,Life
-UI_LIFE_MASTERY_EFFECT,Mastery Details,Mastery Details
-UI_LIFE_IDENTIFIED_HARVESTING,Identified Resources,Identified Resources
-UI_LIFE_HARVESTING_INFORMATION,Resource Information,Resource Information
-UI_LIFE_EXPERTBTN,Set as Expertise,Set as Expertise
-UI_LIFE_MASTERY_EFFECT_DESC,"Gathering Success Rate +%d%%\nGathering Great Success Rate +%d%%\n%sIf less than 100 Mastery is obtained, 10%% mastery is decreased on Monday 00:00(Expert) Gathering Great Success Rate +10%%#nc","Gathering Success Rate +%d%%\nGathering Great Success Rate +%d%%\n%sIf less than 100 Mastery is obtained, 10%% mastery is decreased on Monday 00:00(Expert) Gathering Great Success Rate +10%%#nc"
+UI_LIFE_TITLE,Life,Leben
+UI_LIFE_MASTERY_EFFECT,Mastery Details,Meisterschaftsdetails
+UI_LIFE_IDENTIFIED_HARVESTING,Identified Resources,Identifizierte Ressourcen
+UI_LIFE_HARVESTING_INFORMATION,Resource Information,Ressourceninformationen
+UI_LIFE_EXPERTBTN,Set as Expertise,Als Expertise festlegen
+UI_LIFE_MASTERY_EFFECT_DESC,"Gathering Success Rate +%d%%\nGathering Great Success Rate +%d%%\n%sIf less than 100 Mastery is obtained, 10%% mastery is decreased on Monday 00:00(Expert) Gathering Great Success Rate +10%%#nc","Sammelerfolgsrate +%d%%\nSammel-Großerfolgsrate +%d%%\n%sWenn weniger als 100 Meisterschaft erreicht wird, werden montags um 00:00 Uhr 10%% Meisterschaft abgezogen (Experte) Sammel-Großerfolgsrate +10%%#nc"
 UI_LIFE_MASTERY,Mastery,Meisterung
-UI_LIFE_EXPERT_TIME,Change Expertise In: %s,Change Expertise In: %s
+UI_LIFE_EXPERT_TIME,Change Expertise In: %s,Expertise änderbar in: %s
 UI_REPAIR_TITLE,Repair,Reparatur
-UI_REPAIR_DESC_DEFAULT,Do you wish to repair %s?\n(%s),Do you wish to repair %s?\n(%s)
-UI_REPAIR_DESC_PERCENT,Do you wish to repair %s?\n(%s%%),Do you wish to repair %s?\n(%s%%)
-UI_LIFE_FISHING_MINIGAME,Minigame,Minigame
+UI_REPAIR_DESC_DEFAULT,Do you wish to repair %s?\n(%s),Möchtest du %s reparieren?\n(%s)
+UI_REPAIR_DESC_PERCENT,Do you wish to repair %s?\n(%s%%),Möchtest du %s reparieren?\n(%s%%)
+UI_LIFE_FISHING_MINIGAME,Minigame,Minispiel
 UI_LIFE_FISHING_SKIP_MINIGAME,Auto-Skip Minigame,Minigame überspringen
 UI_LIFE_FISHING_SKIP_MINIGAME_AUTO,Skipping the minigame means you will not gain the fishing success increase from winning. Proceed?,Minigame automatisch überspringen
-UI_LIFE_FISHING_SKIP_MINIGAME_INFORMATION,Skipping the minigame means you will not gain the fishing success increase from winning. Proceed?,Skipping the minigame means you will not gain the fishing success increase from winning. Proceed?
-UI_LIFE_FISHING_BAIT_SELECTION,Bait Selection,Bait Selection
-UI_LIFE_FISHING_BAIT_SELECTION_INFORMATION,Select the bait to use for fishing. The selected bait affects the rarity of fish you can catch.,Select the bait to use for fishing. The selected bait affects the rarity of fish you can catch.
-UI_QUEST_GATHERING_HERB,Gather Herbs #cffc32f07#b%d/%d#nb#nc,Gather Herbs #cffc32f07#b%d/%d#nb#nc
-UI_LIFE_FISHING_GUESS,Guess which bait the fish will bite.,Guess which bait the fish will bite.
-UI_LIFE_FISHING_SUCCESS_RATE_INCREASE,Guessing correctly increases your fishing success rate.\n(Current success rate: %.1f%%),Guessing correctly increases your fishing success rate.\n(Current success rate: %.1f%%)
-UI_SEC,%d sec,%d sec
+UI_LIFE_FISHING_SKIP_MINIGAME_INFORMATION,Skipping the minigame means you will not gain the fishing success increase from winning. Proceed?,"Wenn du das Minispiel überspringst, erhältst du nicht die Erhöhung der Angelerfolgsrate durch einen Sieg. Fortfahren?"
+UI_LIFE_FISHING_BAIT_SELECTION,Bait Selection,Köderauswahl
+UI_LIFE_FISHING_BAIT_SELECTION_INFORMATION,Select the bait to use for fishing. The selected bait affects the rarity of fish you can catch.,"Wähle den Köder zum Angeln aus. Der gewählte Köder beeinflusst die Seltenheit der Fische, die du fangen kannst."
+UI_QUEST_GATHERING_HERB,Gather Herbs #cffc32f07#b%d/%d#nb#nc,Kräuter sammeln #cffc32f07#b%d/%d#nb#nc
+UI_LIFE_FISHING_GUESS,Guess which bait the fish will bite.,"Errate, auf welchen Köder der Fisch beißt."
+UI_LIFE_FISHING_SUCCESS_RATE_INCREASE,Guessing correctly increases your fishing success rate.\n(Current success rate: %.1f%%),Richtiges Raten erhöht deine Angelerfolgsrate.\n(Aktuelle Erfolgsrate: %.1f%%)
+UI_SEC,%d sec,%d Sek.
 UI_CONFIRM,Confirm,Bestätigen
-UI_LIFE_FISHING_TIME,Fishing Time:,Fishing Time:
+UI_LIFE_FISHING_TIME,Fishing Time:,Angelzeit:
 UI_LIFE_FISHING_NUMBEROF_ATTEMPTS,Number of Attempts:,Anzahl der Versuche:
-UI_LIFE_FISHING_NUMBEROF_FISH_CAUGHT,Number of Fish Caught:,Number of Fish Caught:
-UI_LIFE_FISHING_NUMBEROF_LARGEFISH_CAUGHT,Number of Trophy Fish Caught:,Number of Trophy Fish Caught:
-UI_LIFE_FISHING_SUCCESS_RATE,Success Rate:,Success Rate:
-UI_LIFE_FISHING_TIME_FORMAT,%d hrs %d min %d sec,%d hrs %d min %d sec
-UI_TIMES,%d time(s),%d time(s)
-UI_LIFE_FISHING_STATUS,Fishing Status,Fishing Status
+UI_LIFE_FISHING_NUMBEROF_FISH_CAUGHT,Number of Fish Caught:,Anzahl gefangener Fische:
+UI_LIFE_FISHING_NUMBEROF_LARGEFISH_CAUGHT,Number of Trophy Fish Caught:,Anzahl gefangener Trophäenfische:
+UI_LIFE_FISHING_SUCCESS_RATE,Success Rate:,Erfolgsrate:
+UI_LIFE_FISHING_TIME_FORMAT,%d hrs %d min %d sec,%d Std %d Min %d Sek
+UI_TIMES,%d time(s),%d Mal
+UI_LIFE_FISHING_STATUS,Fishing Status,Angelstatus
 UI_WAITING,Waiting,Warten
-UI_LIFE_RECIPEBTN,Recipes,Recipes
+UI_LIFE_RECIPEBTN,Recipes,Rezepte
 UI_LIFE_RECIPES,Recipes,Rezepte
 UI_LIFE_RECIPES_CATEGORY,Category,Kategorie
-UI_LIFE_RECIPES_DETAILS,Recipe,Recipe
-UI_LIFE_RECIPES_GRADE,Grade,Grade
+UI_LIFE_RECIPES_DETAILS,Recipe,Rezept
+UI_LIFE_RECIPES_GRADE,Grade,Stufe
 UI_LIFE_RECIPES_NOSELECTED,No recipe selected,Kein Rezept ausgewählt
-UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired Ingredients:,Required Mastery: %d\nRequired Title: [%s]\nRequired Ingredients:
-UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Ingredients:,Required Mastery: %d\nRequired Ingredients:
+UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired Ingredients:,Erforderliche Meisterschaft: %d\nErforderlicher Titel: [%s]\nErforderliche Zutaten:
+UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Ingredients:,Erforderliche Meisterschaft: %d\nErforderliche Zutaten:
 UI_LIFE_PRODUCTION_TITLE,Production,Produktion
 UI_LIFE_PRODUCTION_SUCCESS_RATE,Success Rate,Erfolgschance
-UI_LIFE_PRODUCTION_TIME,Production Time Per Cycle,Production Time Per Cycle
+UI_LIFE_PRODUCTION_TIME,Production Time Per Cycle,Produktionszeit pro Zyklus
 UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],Erforderliche Mastery: %d\nErforderlicher Titel: [%s]
 UI_LIFE_PRODUCTION_REQUIREMENTS_NOTITLE,Required Mastery: %d,Erforderliche Mastery: %d
 UI_LIFE_PRODUCTION_REQ_MASTERY,Required Mastery:,Erforderliche Mastery:
@@ -2652,128 +2652,128 @@ UI_LIFE_RECIPE_CATEGORY_0,Ingredients,Zutaten
 UI_LIFE_RECIPE_CATEGORY_1,Drinks,Getränke
 UI_LIFE_RECIPE_CATEGORY_2,Pills,Pillen
 UI_ALL,All,Alle
-UI_LIFE_PRODUCTION_INFORMATION,"Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made.","Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made."
-UI_LIFE_PRODUCTION_PROGRESS_INFORMATION,Production is currently in progress.,Production is currently in progress.
+UI_LIFE_PRODUCTION_INFORMATION,"Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made.","Füge Materialgegenstände hinzu, um zu produzieren. Wenn kein Rezept ausgewählt ist, wird ein verstecktes Rezept versucht. Bei zufälliger Produktion wird nur ein Produktionsversuch unternommen."
+UI_LIFE_PRODUCTION_PROGRESS_INFORMATION,Production is currently in progress.,Die Produktion läuft derzeit.
 UI_LIFE_PRODUCTION_PROGRESS_REMAINING,Remaining Time,Verbleibende Zeit
-UI_LIFE_PRODUCTION_DUTAION_REDUCTION,Duration is reduced.,Duration is reduced.
-UI_LIFE_MASTERY_ORDINALY_HERB,Common herb found throughout the world. Yields Common herbs.,Common herb found throughout the world. Yields Common herbs.
-UI_LIFE_MASTERY_REGULAR_HERB,Common herb with a typical appearance. Yields Common-Uncommon herbs.,Common herb with a typical appearance. Yields Common-Uncommon herbs.
-UI_LIFE_MASTERY_ORDINALY_TREE,Tree commonly found throughout the world. Yields Common logs.,Tree commonly found throughout the world. Yields Common logs.
-UI_LIFE_MASTERY_REGULAR_TREE,Tree with a typical appearance. Yields Common-Uncommon logs.,Tree with a typical appearance. Yields Common-Uncommon logs.
-UI_LIFE_MASTERY_ORDINALY_ORE,Rock commonly found throughout the world. Yields Common ores.,Rock commonly found throughout the world. Yields Common ores.
-UI_LIFE_MASTERY_REGULAR_ORE,Rock with a typical appearance. Yields Common-Uncommon ores.,Rock with a typical appearance. Yields Common-Uncommon ores.
+UI_LIFE_PRODUCTION_DUTAION_REDUCTION,Duration is reduced.,Die Dauer wird verkürzt.
+UI_LIFE_MASTERY_ORDINALY_HERB,Common herb found throughout the world. Yields Common herbs.,"Gewöhnliches Kraut, das überall in der Welt zu finden ist. Liefert gewöhnliche Kräuter."
+UI_LIFE_MASTERY_REGULAR_HERB,Common herb with a typical appearance. Yields Common-Uncommon herbs.,Gewöhnliches Kraut mit typischem Aussehen. Liefert gewöhnliche bis ungewöhnliche Kräuter.
+UI_LIFE_MASTERY_ORDINALY_TREE,Tree commonly found throughout the world. Yields Common logs.,"Baum, der überall in der Welt häufig vorkommt. Liefert gewöhnliches Holz."
+UI_LIFE_MASTERY_REGULAR_TREE,Tree with a typical appearance. Yields Common-Uncommon logs.,Baum mit typischem Aussehen. Liefert gewöhnliches bis ungewöhnliches Holz.
+UI_LIFE_MASTERY_ORDINALY_ORE,Rock commonly found throughout the world. Yields Common ores.,"Gestein, das überall in der Welt häufig vorkommt. Liefert gewöhnliches Erz."
+UI_LIFE_MASTERY_REGULAR_ORE,Rock with a typical appearance. Yields Common-Uncommon ores.,Gestein mit typischem Aussehen. Liefert gewöhnliches bis ungewöhnliches Erz.
 UI_PRODUCTION_INGREDIENT,Ingredients,Zutaten
 UI_PRODUCTION_FOOD,Food,Nahrung
 UI_PRODUCTION_BUFF,Buffs,Buffs
 UI_PRODUCTION_DRINK,Drinks,Getränke
 UI_PRODUCTION_REFRESHER,Refreshers,Refresher
 UI_PRODUCTION_PILL,Pills,Pillen
-UI_PRODUCTION_FURNITURE,Furniture,Furniture
-UI_PRODUCTION_ACCESSORY,Accessories,Accessories
-UI_PRODUCTION_COUPLERING,Couple Ring,Couple Ring
+UI_PRODUCTION_FURNITURE,Furniture,Möbel
+UI_PRODUCTION_ACCESSORY,Accessories,Zubehör
+UI_PRODUCTION_COUPLERING,Couple Ring,Partnerring
 UI_TOOLTIP_PRODUCTION_CREATOR,Creator: %s,Hersteller: %s
 UI_TOOLTIP_PRODUCTION_QUALITY,Quality: %s,Qualität: %s
-UI_TOOLTIP_BUFF_STACKABLE,Stackable: %dx,Stackable: %dx
-UI_TOOLTIP_TOOL_DURABILITY,Durability: %d/%d,Durability: %d/%d
+UI_TOOLTIP_BUFF_STACKABLE,Stackable: %dx,Stapelbar: %dx
+UI_TOOLTIP_TOOL_DURABILITY,Durability: %d/%d,Haltbarkeit: %d/%d
 UI_TOOLTIP_PRODUCTION_GRADE_D,D,D
 UI_TOOLTIP_PRODUCTION_GRADE_C,C,C
 UI_TOOLTIP_PRODUCTION_GRADE_B,B,B
 UI_TOOLTIP_PRODUCTION_GRADE_A,A,A
 UI_TOOLTIP_PRODUCTION_GRADE_OVER_A,A+,A+
-UI_LIFE_MASTERY_DECREASE,"If less than %d Mastery is gained, Mastery will decrease by %d%% on Monday at 00:00","If less than %d Mastery is gained, Mastery will decrease by %d%% on Monday at 00:00"
-UI_LIFE_MASTERY_HERBGATHERING_SUCCESS,Gathering Success Rate +%d%%,Gathering Success Rate +%d%%
-UI_LIFE_MASTERY_HERBGATHERING_GREATSUCCESS,Gathering Great Success Rate +%d%%,Gathering Great Success Rate +%d%%
-UI_LIFE_MASTERY_HERBGATHERING_EXPERT,(Expert) Gathering Great Success Rate +%d%%,(Expert) Gathering Great Success Rate +%d%%
-UI_LIFE_MASTERY_WOODCUTTING_SUCCESS,Woodcutting Success Rate +%d%%,Woodcutting Success Rate +%d%%
-UI_LIFE_MASTERY_WOODCUTTING_GREATSUCCESS,Woodcutting Great Success Rate +%d%%,Woodcutting Great Success Rate +%d%%
-UI_LIFE_MASTERY_WOODCUTTING_EXPERT,(Expert) Woodcutting Great Success Rate +%d%%,(Expert) Woodcutting Great Success Rate +%d%%
-UI_LIFE_MASTERY_MINING_SUCCESS,Mining Success Rate +%d%%,Mining Success Rate +%d%%
-UI_LIFE_MASTERY_MINING_GREATSUCCESS,Mining Great Success Rate +%d%%,Mining Great Success Rate +%d%%
-UI_LIFE_MASTERY_MINING_EXPERT,(Expert) Mining Great Success Rate +%d%%,(Expert) Mining Great Success Rate +%d%%
-UI_LIFE_MASTERY_FISHING_SUCCESS,Fishing Success Rate +%d%%,Fishing Success Rate +%d%%
-UI_LIFE_MASTERY_FISHING_GREATSUCCESS,Fishing Great Success Rate +%d%%,Fishing Great Success Rate +%d%%
-UI_LIFE_MASTERY_FISHING_EXPERT,(Expert) Fishing Great Success Rate +%d%%,(Expert) Fishing Great Success Rate +%d%%
-UI_LIFE_MASTERY_ALCHEMY_SUCCESS,Alchemy Success Rate +%d%%,Alchemy Success Rate +%d%%
-UI_LIFE_MASTERY_ALCHEMY_GREATSUCCESS,Alchemy Great Success Rate +%d%%,Alchemy Great Success Rate +%d%%
-UI_LIFE_MASTERY_COOKING_SUCCESS,Cooking Success Rate +%d%%,Cooking Success Rate +%d%%
-UI_LIFE_MASTERY_COOKING_GREATSUCCESS,Cooking Great Success Rate +%d%%,Cooking Great Success Rate +%d%%
-UI_LIFE_MASTERY_SMITHING_SUCCESS,Smithing Success Rate +%d%%,Smithing Success Rate +%d%%
-UI_LIFE_MASTERY_SMITHING_GREATSUCCESS,Smithing Great Success Rate +%d%%,Smithing Great Success Rate +%d%%
-UI_LIFE_MASTERY_CARPENTRY_SUCCESS,Carpentry Success Rate +%d%%,Carpentry Success Rate +%d%%
-UI_LIFE_MASTERY_CARPENTRY_GREATSUCCESS,Carpentry Great Success Rate +%d%%,Carpentry Great Success Rate +%d%%
-UI_LIFE_MASTERY_PRODUCTION_EXPERT,(Expert) Earn unbound item for Great Success,(Expert) Earn unbound item for Great Success
-UI_LIFE_PRODUCTION_STATUS_TIME,Production Time:,Production Time:
+UI_LIFE_MASTERY_DECREASE,"If less than %d Mastery is gained, Mastery will decrease by %d%% on Monday at 00:00","Wird weniger als %d Meisterschaft erreicht, verringert sich die Meisterschaft montags um 00:00 Uhr um %d%%"
+UI_LIFE_MASTERY_HERBGATHERING_SUCCESS,Gathering Success Rate +%d%%,Sammelerfolgsrate +%d%%
+UI_LIFE_MASTERY_HERBGATHERING_GREATSUCCESS,Gathering Great Success Rate +%d%%,Sammel-Großerfolgsrate +%d%%
+UI_LIFE_MASTERY_HERBGATHERING_EXPERT,(Expert) Gathering Great Success Rate +%d%%,(Experte) Sammel-Großerfolgsrate +%d%%
+UI_LIFE_MASTERY_WOODCUTTING_SUCCESS,Woodcutting Success Rate +%d%%,Holzfäller-Erfolgsrate +%d%%
+UI_LIFE_MASTERY_WOODCUTTING_GREATSUCCESS,Woodcutting Great Success Rate +%d%%,Holzfäller-Großerfolgsrate +%d%%
+UI_LIFE_MASTERY_WOODCUTTING_EXPERT,(Expert) Woodcutting Great Success Rate +%d%%,(Experte) Holzfäller-Großerfolgsrate +%d%%
+UI_LIFE_MASTERY_MINING_SUCCESS,Mining Success Rate +%d%%,Bergbau-Erfolgsrate +%d%%
+UI_LIFE_MASTERY_MINING_GREATSUCCESS,Mining Great Success Rate +%d%%,Bergbau-Großerfolgsrate +%d%%
+UI_LIFE_MASTERY_MINING_EXPERT,(Expert) Mining Great Success Rate +%d%%,(Experte) Bergbau-Großerfolgsrate +%d%%
+UI_LIFE_MASTERY_FISHING_SUCCESS,Fishing Success Rate +%d%%,Angel-Erfolgsrate +%d%%
+UI_LIFE_MASTERY_FISHING_GREATSUCCESS,Fishing Great Success Rate +%d%%,Angel-Großerfolgsrate +%d%%
+UI_LIFE_MASTERY_FISHING_EXPERT,(Expert) Fishing Great Success Rate +%d%%,(Experte) Angel-Großerfolgsrate +%d%%
+UI_LIFE_MASTERY_ALCHEMY_SUCCESS,Alchemy Success Rate +%d%%,Alchemie-Erfolgsrate +%d%%
+UI_LIFE_MASTERY_ALCHEMY_GREATSUCCESS,Alchemy Great Success Rate +%d%%,Alchemie-Großerfolgsrate +%d%%
+UI_LIFE_MASTERY_COOKING_SUCCESS,Cooking Success Rate +%d%%,Koch-Erfolgsrate +%d%%
+UI_LIFE_MASTERY_COOKING_GREATSUCCESS,Cooking Great Success Rate +%d%%,Koch-Großerfolgsrate +%d%%
+UI_LIFE_MASTERY_SMITHING_SUCCESS,Smithing Success Rate +%d%%,Schmiede-Erfolgsrate +%d%%
+UI_LIFE_MASTERY_SMITHING_GREATSUCCESS,Smithing Great Success Rate +%d%%,Schmiede-Großerfolgsrate +%d%%
+UI_LIFE_MASTERY_CARPENTRY_SUCCESS,Carpentry Success Rate +%d%%,Schreiner-Erfolgsrate +%d%%
+UI_LIFE_MASTERY_CARPENTRY_GREATSUCCESS,Carpentry Great Success Rate +%d%%,Schreiner-Großerfolgsrate +%d%%
+UI_LIFE_MASTERY_PRODUCTION_EXPERT,(Expert) Earn unbound item for Great Success,(Experte) Erhalte bei Großerfolg ein ungebundenes Item
+UI_LIFE_PRODUCTION_STATUS_TIME,Production Time:,Produktionszeit:
 UI_LIFE_PRODUCTION_STATUS_NUMBEROF_ATTEMPTS,Number of Attempts:,Anzahl der Versuche:
 UI_LIFE_PRODUCTION_STATUS_NUMBEROF_SUCCESSES,Number of Successes:,Anzahl der Erfolge:
 UI_LIFE_PRODUCTION_STATUS_SUCCESS_RATE,Success Rate:,Erfolgsquote:
-UI_LIFE_REPRODUCTION_TITLE,Product Upgrade,Product Upgrade
-UI_LIFE_REPRODUCTION_REGISTER_ITEM,Please insert the material items.,Please insert the material items.
-UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: D:C = 10:1 • C:B = 15:1 • B:A = 20:1,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: D:C = 10:1 • C:B = 15:1 • B:A = 20:1
-UI_LIFE_SHOP_REFRESH_TITLE,Shop Refresh,Shop Refresh
-UI_LIFE_WANDERING_SHOP_REFRESH_MSG,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?
-UI_LIFE_SHOP_REFRESH_BUTTON_TOOLTIP,Use %s to refresh the shop inventory,Use %s to refresh the shop inventory
-UI_LIFE_WANDERING_SHOP_TOGGLE_PRICE,Buy with %s,Buy with %s
-UI_LIFE_MASTERY_RANKING_TITLE,Mastery Rankings,Mastery Rankings
+UI_LIFE_REPRODUCTION_TITLE,Product Upgrade,Produkt-Upgrade
+UI_LIFE_REPRODUCTION_REGISTER_ITEM,Please insert the material items.,Bitte füge die Materialgegenstände ein.
+UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: D:C = 10:1 • C:B = 15:1 • B:A = 20:1,Tausche Produktionsgegenstände niedrigerer Stufe gegen die Chance auf eine höherwertige Version des Items ein.\nTauschverhältnis: D:C = 10:1 • C:B = 15:1 • B:A = 20:1
+UI_LIFE_SHOP_REFRESH_TITLE,Shop Refresh,Shop-Aktualisierung
+UI_LIFE_WANDERING_SHOP_REFRESH_MSG,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?,"Ein Wandering Merchant Refresh Ticket verwenden, um das Shop-Inventar zu aktualisieren?"
+UI_LIFE_SHOP_REFRESH_BUTTON_TOOLTIP,Use %s to refresh the shop inventory,"Verwende %s, um das Shop-Inventar zu aktualisieren"
+UI_LIFE_WANDERING_SHOP_TOGGLE_PRICE,Buy with %s,Mit %s kaufen
+UI_LIFE_MASTERY_RANKING_TITLE,Mastery Rankings,Meisterschaftsranglisten
 UI_LIFE_MASTERY_RANKING_RANK,Rank,Rang
 UI_LIFE_MASTERY_RANKING_CHARNAME,Character Name,Charakter-Name
-UI_LIFE_MASTERY_RANKING_JOB,Job,Klasse
+UI_LIFE_MASTERY_RANKING_JOB,Job,Job
 UI_LIFE_MASTERY_RANKING_POINT,Mastery Points,Mastery Punkte
 UI_LIFE_MASTERY_RANKING_CLOSE,Close,Schließen
-UI_LIFE_MASTERY_RANKING_REWARD_TITLE,Mastery Ranking Rewards,Mastery Ranking Rewards
+UI_LIFE_MASTERY_RANKING_REWARD_TITLE,Mastery Ranking Rewards,Meisterschaftsranglisten-Belohnungen
 UI_LIFE_MASTERY_RANKING_REWARD_CLAIM_REWARD,Claim Rewards,Belohnungen abholen
 UI_LIFE_MASTERY_RANKING_REWARD_DESC_ITEM_COUNT,%s x %d,%s x %d
-UI_LIFE_MASTERY_RANKING_REWARD_DESC_TITLE_ITEM_COUNT,"[%s]Title, %s x %d","[%s]Title, %s x %d"
+UI_LIFE_MASTERY_RANKING_REWARD_DESC_TITLE_ITEM_COUNT,"[%s]Title, %s x %d","[%s]Titel, %s x %d"
 UI_LIFE_MASTERY_RANKING_REWARD_REWARD,Rewards,Belohnungen
-UI_ACHIEVEMENTS_TITLE_TITLE,Achievement titles,Achievement titles
-UI_ACHIEVEMENTS_INDEPENDENTTITLE_TITLE,Independent titles,Independent titles
+UI_ACHIEVEMENTS_TITLE_TITLE,Achievement titles,Erfolgstitel
+UI_ACHIEVEMENTS_INDEPENDENTTITLE_TITLE,Independent titles,Unabhängige Titel
 UI_ACHIEVEMENTS_INDEPENDENTTITLE_REMAININGTIME,remaining time: \n%d day(s) %d:%d:%d,verbleibende Zeit : \n%dTag(e) %d:%d:%d
-UI_LIFE_MASTERY_UNIQUE_HERB,Herb with a unique fragrance. Yields Common-Rare herbs.,Herb with a unique fragrance. Yields Common-Rare herbs.
-UI_LIFE_MASTERY_RARE_HERB,Rare herb that is difficult to find. Yields Common-Very Rare herbs.,Rare herb that is difficult to find. Yields Common-Very Rare herbs.
-UI_LIFE_MASTERY_LEGENDARY_HERB,Legendary herb known to few. Yields Rare-Very Rare herbs.,Legendary herb known to few. Yields Rare-Very Rare herbs.
-UI_LIFE_MASTERY_UNIQUE_TREE,Tree with a unique appearance. Yields Common-Rare logs.,Tree with a unique appearance. Yields Common-Rare logs.
-UI_LIFE_MASTERY_RARE_TREE,Rare tree that is difficult to find. Yields Common-Very Rare logs.,Rare tree that is difficult to find. Yields Common-Very Rare logs.
-UI_LIFE_MASTERY_LEGENDARY_TREE,Legendary tree known to few. Yields Rare-Very Rare logs.,Legendary tree known to few. Yields Rare-Very Rare logs.
-UI_LIFE_MASTERY_UNIQUE_ORE,Rock with a unique appearance. Yields Common-Rare ores.,Rock with a unique appearance. Yields Common-Rare ores.
-UI_LIFE_MASTERY_RARE_ORE,Rare rock that is difficult to find. Yields Common-Very Rare ores.,Rare rock that is difficult to find. Yields Common-Very Rare ores.
-UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary rock known to few. Yields Rare-Very Rare ores.,Legendary rock known to few. Yields Rare-Very Rare ores.
+UI_LIFE_MASTERY_UNIQUE_HERB,Herb with a unique fragrance. Yields Common-Rare herbs.,Kraut mit einzigartigem Duft. Liefert gewöhnliche bis seltene Kräuter.
+UI_LIFE_MASTERY_RARE_HERB,Rare herb that is difficult to find. Yields Common-Very Rare herbs.,"Seltenes Kraut, das schwer zu finden ist. Liefert gewöhnliche bis sehr seltene Kräuter."
+UI_LIFE_MASTERY_LEGENDARY_HERB,Legendary herb known to few. Yields Rare-Very Rare herbs.,"Legendäres Kraut, das nur wenigen bekannt ist. Liefert seltene bis sehr seltene Kräuter."
+UI_LIFE_MASTERY_UNIQUE_TREE,Tree with a unique appearance. Yields Common-Rare logs.,Baum mit einzigartigem Aussehen. Liefert gewöhnliches bis seltenes Holz.
+UI_LIFE_MASTERY_RARE_TREE,Rare tree that is difficult to find. Yields Common-Very Rare logs.,"Seltener Baum, der schwer zu finden ist. Liefert gewöhnliches bis sehr seltenes Holz."
+UI_LIFE_MASTERY_LEGENDARY_TREE,Legendary tree known to few. Yields Rare-Very Rare logs.,"Legendärer Baum, der nur wenigen bekannt ist. Liefert seltenes bis sehr seltenes Holz."
+UI_LIFE_MASTERY_UNIQUE_ORE,Rock with a unique appearance. Yields Common-Rare ores.,Gestein mit einzigartigem Aussehen. Liefert gewöhnliches bis seltenes Erz.
+UI_LIFE_MASTERY_RARE_ORE,Rare rock that is difficult to find. Yields Common-Very Rare ores.,"Seltenes Gestein, das schwer zu finden ist. Liefert gewöhnliches bis sehr seltenes Erz."
+UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary rock known to few. Yields Rare-Very Rare ores.,"Legendäres Gestein, das nur wenigen bekannt ist. Liefert seltenes bis sehr seltenes Erz."
 UI_LIFE_PRODUCTION_START,Production Start,Produktionsstart
 UI_LIFE_CRAFT_START,Start,Start
-UI_LIFE_CRAFT_STOP,Stop,Stop
-UI_LIFE_CRAFT_SEC_REDUCTION,%d sec\n(%d%% reduction applied),%d sec\n(%d%% reduction applied)
+UI_LIFE_CRAFT_STOP,Stop,Stopp
+UI_LIFE_CRAFT_SEC_REDUCTION,%d sec\n(%d%% reduction applied),%d Sek.\n(%d%% Reduzierung angewendet)
 UI_LIFE_CRAFT_RESET,Reset,Zurücksetzen
 UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc","Sobald die Produktion begonnen hat, kann sie nicht mehr abgebrochen werden. Fortfahren?\n\n#cffffc000Produktionszeit: %s#nc"
 UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc","Sobald die Produktion begonnen hat, kann sie nicht mehr abgebrochen werden. Fortfahren?\n\n#cffffc000Produktionszeit: %s~%s#nc"
-UI_QUEST_GATHERING_MINING,Mine Ore #cffc32f07#b%d/%d#nb#nc,Mine Ore #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_GATHERING_WOODCUTTING,Cut Trees #cffc32f07#b%d/%d#nb#nc,Cut Trees #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_GATHERING_MINING,Mine Ore #cffc32f07#b%d/%d#nb#nc,Erz abbauen #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_GATHERING_WOODCUTTING,Cut Trees #cffc32f07#b%d/%d#nb#nc,Bäume fällen #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_FISHING,Catch Fish #cffc32f07#b%d/%d#nb#nc,Fischen. #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_PRODUCTION_COOKING,Cook Food #cffc32f07#b%d/%d#nb#nc,Kochen. #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_PRODUCTION_ALCHEMY,Perform Alchemy #cffc32f07#b%d/%d#nb#nc,Alchemie. #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_PRODUCTION_CARPENTRY,Perform Carpentry #cffc32f07#b%d/%d#nb#nc,Perform Carpentry #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_PRODUCTION_SMITHING,Smith Items #cffc32f07#b%d/%d#nb#nc,Smith Items #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_PRODUCTION_CARPENTRY,Perform Carpentry #cffc32f07#b%d/%d#nb#nc,Schreinerarbeiten ausführen #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_PRODUCTION_SMITHING,Smith Items #cffc32f07#b%d/%d#nb#nc,Items schmieden #cffc32f07#b%d/%d#nb#nc
 UI_CHAT_COPYNAME,Copy name,Name kopieren
-UI_RAINBOWRACE_WRONG_CHANNEL_1,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPlease enter through the Rainbow Race Officer NPC located in %s Darken.\n\nPress OK to move to %s.,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPlease enter through the Rainbow Race Officer NPC located in %s Darken.\n\nPress OK to move to %s.
-UI_RAINBOWRACE_WRONG_CHANNEL_2,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPress OK to move to %s.,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPress OK to move to %s.
-UI_RAINBOWRACE_WRONG_CHANNEL_3,The Rainbow Race has started.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPress OK to move to %s.,The Rainbow Race has started.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPress OK to move to %s.
+UI_RAINBOWRACE_WRONG_CHANNEL_1,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPlease enter through the Rainbow Race Officer NPC located in %s Darken.\n\nPress OK to move to %s.,"Das Regenbogenrennen beginnt in %d Minuten.\nDu kannst nicht im aktuellen Kanal am Regenbogenrennen teilnehmen.\n\nBitte betrete es über den Rainbow Race Officer NPC in %s Darken.\n\nDrücke OK, um zu %s zu wechseln."
+UI_RAINBOWRACE_WRONG_CHANNEL_2,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPress OK to move to %s.,"Das Regenbogenrennen beginnt in %d Minuten.\nDu kannst nicht im aktuellen Kanal am Regenbogenrennen teilnehmen.\n\nDrücke OK, um zu %s zu wechseln."
+UI_RAINBOWRACE_WRONG_CHANNEL_3,The Rainbow Race has started.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPress OK to move to %s.,"Das Regenbogenrennen hat begonnen.\nDu kannst nicht im aktuellen Kanal am Regenbogenrennen teilnehmen.\n\nDrücke OK, um zu %s zu wechseln."
 UI_RAINBOWRACE_ENTER_CONFIRM,Enter the Rainbow Race now?,Möchtest du das Regenbogenrennen betreten?
 UI_CREATENPC_TITLE,Create NPC,NPC erstellen
 UI_CREATENPC_AGRESSIVE,Aggressive,Aggressiv
 UI_CREATENPC_NOWNER,No Owner,Kein Besitzer
-UI_CREATENPC_NOEXPLOSS,No Exp Loss,No Exp Loss
+UI_CREATENPC_NOEXPLOSS,No Exp Loss,Kein EXP-Verlust
 UI_CREATEITEM_FLAGS,Flags,Flags
 UI_CREATEITEM_TIME,Time (Sec),Zeit (Sek)
 UI_CREATEITEM_CHARGED,Charged,Aufgeladen
-UI_TOOLTIP_ALCHEMY_SUCCESS_RATE,Alchemy Success Rate,Alchemy Success Rate
-UI_TOOLTIP_COOKING_SUCCESS_RATE,Cooking Success Rate,Cooking Success Rate
-UI_TOOLTIP_CARPENTRY_SUCCESS_RATE,Carpentry Success Rate,Carpentry Success Rate
-UI_TOOLTIP_SMITHING_SUCCESS_RATE,Smithing Success Rate,Smithing Success Rate
-UI_HOUSINGSETUP_GATHERING,Gathering,Gathering
+UI_TOOLTIP_ALCHEMY_SUCCESS_RATE,Alchemy Success Rate,Alchemie-Erfolgsrate
+UI_TOOLTIP_COOKING_SUCCESS_RATE,Cooking Success Rate,Koch-Erfolgsrate
+UI_TOOLTIP_CARPENTRY_SUCCESS_RATE,Carpentry Success Rate,Schreiner-Erfolgsrate
+UI_TOOLTIP_SMITHING_SUCCESS_RATE,Smithing Success Rate,Schmiede-Erfolgsrate
+UI_HOUSINGSETUP_GATHERING,Gathering,Sammeln
 UI_HOUSINGSETUP_NEXTHARVEST,Ready in:,Bereit in
-UI_HOUSINGSETUP_HARVESTREADY,Ready to Harvest,Ready to Harvest
-UI_GACHA_HOUSINGGATHERING,Harvest Cooldown,Harvest Cooldown
-UI_HOUSINGSETUP_HARVESTCOUNT,Harvests: %d/%d,Harvests: %d/%d
-UI_HOUSINGSETUP_HARVESTCOUNTINFINITE,Infinite Harvests,Infinite Harvests
-UI_TOOLTIP_HARVESTCOOLTIME,Harvest Cooldown:,Harvest Cooldown:
-UI_HOUSINGSETUP_HARVESTCOOLTIME,Growth Time:,Growth Time:
+UI_HOUSINGSETUP_HARVESTREADY,Ready to Harvest,Bereit zur Ernte
+UI_GACHA_HOUSINGGATHERING,Harvest Cooldown,Ernte-Abklingzeit
+UI_HOUSINGSETUP_HARVESTCOUNT,Harvests: %d/%d,Ernten: %d/%d
+UI_HOUSINGSETUP_HARVESTCOUNTINFINITE,Infinite Harvests,Unbegrenzte Ernten
+UI_TOOLTIP_HARVESTCOOLTIME,Harvest Cooldown:,Ernte-Abklingzeit:
+UI_HOUSINGSETUP_HARVESTCOOLTIME,Growth Time:,Wachstumszeit:
 UI_QUEST_MOTION,Emote: %s,Emote: %s
 UI_TOOLTIP_REQ_QUEST,Required Quest: %s,Benötigte Quest: %s
 UI_TOOLTIP_PVE_DMG_FLAT,PvE Damage,PvE Schaden
@@ -2783,39 +2783,39 @@ UI_GENERALAWAKE_HEADERITEM,Item to Awake:,Zu erweckendes Item
 UI_GENERALAWAKESLOT_INDEX,Stat %d,Stat %d
 UI_SEARCHSHOP_TELEPORT_TITLE,Shop Teleport,Zum Shop teleportieren
 UI_SEARCHSHOP_TELEPORT_CONFIRM,Teleport to the shop?,Möchtest du dich zum Shop teleportieren?
-UI_PRIVATE_SHOP_ADS,Shop Advertisement:,Shop Advertisement:
+UI_PRIVATE_SHOP_ADS,Shop Advertisement:,Shop-Werbung:
 UI_SEARCHSHOP_ADVERTISED,Advertised,Beworben
-UI_PRIVATE_SHOP_ADSOPEN,Your Shop Advertisement item will be consumed.,Your Shop Advertisement item will be consumed.
-UI_PRIVATE_SHOP_ADSCLOSE,Your Shop Advertisement item cannot be reused.,Your Shop Advertisement item cannot be reused.
+UI_PRIVATE_SHOP_ADSOPEN,Your Shop Advertisement item will be consumed.,Dein Shop-Werbung-Item wird verbraucht.
+UI_PRIVATE_SHOP_ADSCLOSE,Your Shop Advertisement item cannot be reused.,Dein Shop-Werbung-Item kann nicht wiederverwendet werden.
 UI_GENERALAWAKE_TITLEGODDESSBLESSING,Blessing of the Goddess,Blessing of the Goddess
 UI_GENERALAWAKE_TITLEDEMONBLESSING,Blessing of the Demon,Blessing of the Demon
 UI_TOOLTIP_FREEBLESSING,Demon Blessing,Demon Blessing
 UI_CHARINFO_HOUSING_SLOTS,Pet Inventory Slots,Pet Inventar Slots
-UI_GENERALAWAKE_SOULBIND_TITLE,Use Blessing?,Use Blessing?
-UI_GENERALAWAKE_SOULBIND,Applying a blessing will make the item soul-linked while the blessing is active. Proceed? Blessings of the Goddess can be removed by Jewel Manager NPCs.,Applying a blessing will make the item soul-linked while the blessing is active. Proceed? Blessings of the Goddess can be removed by Jewel Manager NPCs.
+UI_GENERALAWAKE_SOULBIND_TITLE,Use Blessing?,Blessing verwenden?
+UI_GENERALAWAKE_SOULBIND,Applying a blessing will make the item soul-linked while the blessing is active. Proceed? Blessings of the Goddess can be removed by Jewel Manager NPCs.,"Das Anwenden eines Blessings macht das Item seelengebunden, solange der Blessing aktiv ist. Fortfahren? Blessings of the Goddess können von Jewel Manager NPCs entfernt werden."
 UI_RECIPE_NOT_FULL,"The recipe is not fully understood, so only one of each ingredient is used.","Da das Rezept nicht vollständig verstanden wird, wird jeweils nur eine Zutat verwendet."
 UI_CHRISTMAS_INVANSION_MISSION,Quest completed,Quest abgeschlossen
 UI_TELEPORT_ARENA,Exit the arena?,Möchtest du die Arena verlassen?
 UI_NEWYEARPASS_2025,2025 New Year Pass,2025 New Year Pass
-UI_QUEST_GATHERING,Gather %s #cffc32f07#b%d/%d#nb#nc,Gather %s #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_GATHERING_YEAROFSNAKE2025,"Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc","Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc"
-UI_GENERALAWAKE_NOMATERIAL,You ran out of blessings.,You ran out of blessings.
+UI_QUEST_GATHERING,Gather %s #cffc32f07#b%d/%d#nb#nc,Sammle %s #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_GATHERING_YEAROFSNAKE2025,"Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc","Ressourcen sammeln (Kräuter, Holz, Erz, Beeren) #cffc32f07#b%d/%d#nb#nc"
+UI_GENERALAWAKE_NOMATERIAL,You ran out of blessings.,Dir sind die Blessings ausgegangen.
 UI_LIFE_MASTERY_RANKING_TABWEEKLY,Weekly Ranking,Wöchentliches Ranking
 UI_LIFE_MASTERY_RANKING_TABPERMANENT,Permanent Ranking,Permanentes Ranking
-UI_LIFE_MASTERY_RANKINGREWARD_TITLE,Title:,Title:
+UI_LIFE_MASTERY_RANKINGREWARD_TITLE,Title:,Titel:
 UI_LIFE_MASTERY_RANKING_CURRENTRANK,Current rank: ,Gilden Ranking
-UI_LIFE_MASTERY_RANKING_CURRENTRANK_UNRANKED,unranked.,unranked.
+UI_LIFE_MASTERY_RANKING_CURRENTRANK_UNRANKED,unranked.,ungewertet.
 UI_QUEST_PT_JAN2024_1,Spring Points: %d Pts,Frühlingspunkte: %d Pts
 UI_QUEST_PT_JAN2024_2,Spring Points: ????,Frühlingspunkte: ????
 UI_EVENT_JAN2024_NAME,Spring Point Exchange,Frühlingspunkte Austausch
 UI_JAN2024_POINT_NAME,Spring Points,Frühlingspunkte
-UI_POINTS,%d Pts,%d Pts
-UI_QUEST_ATTEMPT_GATHERING,"Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc","Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc"
+UI_POINTS,%d Pts,%d Pkt.
+UI_QUEST_ATTEMPT_GATHERING,"Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc","Ressourcen sammeln (Kräuter, Holz, Erz, Beeren) #cffc32f07#b%d/%d#nb#nc"
 UI_STANDBY,Standby,Standby
 UI_DEAD,Dead,Tot
 UI_NOW_SPECTATING,Spectating %s,Schaue %s zu
-UI_EASTER_EGG_MISSION,Gather Easter Eggs,Gather Easter Eggs
-UI_LIFE_MASTERY_CHROMA_ORE,Rock commonly found throughout the world. Yields Common ores.,Rock commonly found throughout the world. Yields Common ores.
+UI_EASTER_EGG_MISSION,Gather Easter Eggs,Ostereier sammeln
+UI_LIFE_MASTERY_CHROMA_ORE,Rock commonly found throughout the world. Yields Common ores.,"Gestein, das überall in der Welt häufig vorkommt. Liefert gewöhnliches Erz."
 UI_TARGET_HEALTH,Health: ,Leben: 
 UI_TARGET_PENYA,- Penya: ,- Penya: 
 UI_ACHIEVEMENTS_LIFE_TAB,Life,Life
@@ -2829,17 +2829,17 @@ UI_MENU_UNMUTE,Unmute,Stummschaltung aufheben
 UI_MENU_FREEZE,Freeze,Freeze
 UI_MENU_UNFREEZE,Unfreeze,Unfreeze
 UI_MENU_PARTY,Party,Party
-UI_MENU_GUILDJOIN,Guild Join,Guild Join
+UI_MENU_GUILDJOIN,Guild Join,Gilde beitreten
 UI_MENU_BAN,Ban,Ban
 UI_MENU_BAN_IP,Ban IP,Ban IP
 UI_MENU_KICK_IP,Kick IP,Kick IP
 UI_MENU_MUTE_SHA,Mute Sha,Mute Sha
 UI_APP_INSPECTION,Inspection,Inspection
-UI_TARGET_PLAYERS_KILLED,- Players killed: ,- Players killed: 
-UI_TARGET_PK_VALUE,- PK Value : ,- PK Value : 
-UI_TARGET_PLAYER_ID,- PlayerID: #,- PlayerID: #
-UI_PUBLISHED_BY,Published by ,Published by 
-UI_ALL_RIGHTS_RESERVED,. All rights reserved.,. All rights reserved.
+UI_TARGET_PLAYERS_KILLED,- Players killed: ,- Getötete Spieler:
+UI_TARGET_PK_VALUE,- PK Value : ,- PK-Wert:
+UI_TARGET_PLAYER_ID,- PlayerID: #,- Spieler-ID: #
+UI_PUBLISHED_BY,Published by ,Veröffentlicht von
+UI_ALL_RIGHTS_RESERVED,. All rights reserved.,. Alle Rechte vorbehalten.
 UI_QUEST_DISTANCE_M,m,m
 UI_QUEST_DISTANCE_KM,km,km
 UI_SKILL_MAX,MAX,MAX
@@ -3117,7 +3117,7 @@ UI_3RD_ANNIV_PASS,3rd Anniversary Pass,3. Jubiläums-Pass
 UI_BATTLEPASS_REPEAT,Repeat,Wiederholen
 UI_UPGRADE_FAILURE_PROB,Failure: #b%s#nb,Fehlschlag: #b%s#nb
 UI_UPGRADE_BREAK_PROB,Break: #b%s#nb,Zerstörung: #b%s#nb
-UI_TOOLTIP_UPGRADEATTEMPT_REMAINING,Upgrade Attempts Left: %d,Verbleibende Aufwertungsversuche: %d
+UI_TOOLTIP_UPGRADEATTEMPT_REMAINING,Upgrade Attempts Left: %d,Verbleibende Upgrade-Versuche: %d
 UI_BATTLEPASS_MISSION_FIELDBOSS,Participate in a Field Boss Battle: %s,Feldbosskampf-Teilnahme: %s
 UI_QUEST_CONSUMABLE_ITEM_COUNT,Use Consumable Items #cffc32f07#b%d/%d#nb#nc,Anzahl verwendeter Verbrauchsgegenstände #cffc32f07#b%d/%d#nb#nc
 UI_ACHIEVEMENTS_REWARD_STATUE,Personal statue created,Persönliche Statue erstellt
@@ -3149,7 +3149,7 @@ UI_BOSSRAID_BOSS_APPEAR_NOTICE_SEC,The monster will appear in %d seconds,Das Mon
 UI_PVPMATCHRECAP_TITLE,Match Data,Match-Daten
 UI_PVPMATCHRECAP_TITLE_2,Match Result,Match-Ergebnis
 UI_PVPMATCHRECAP_NAME,Name,Name
-UI_PVPMATCHRECAP_JOB,Job,Klasse
+UI_PVPMATCHRECAP_JOB,Job,Job
 UI_PVPMATCHRECAP_LEVEL,Level,Level
 UI_PVPMATCHRECAP_WINNER,Winner,Gewinner
 UI_PVPMATCHRECAP_LOSER,Loser,Verlierer
@@ -3164,8 +3164,8 @@ UI_OPTION_MAIL_MODE,Allow Mails From,Erlaube Nachrichten von
 UI_OPTION_MAIL_EVERYONE,Everyone,Jedem
 UI_OPTION_MAIL_FRIENDS,Friends,Freunden
 UI_OPTION_MAIL_SYSTEM,System Only,Nur System
-UI_OPTION_WHISPER_MODE,Allow Whispers From,Allow Whispers From
-UI_OPTION_WHISPER_NONE,No One,No One
+UI_OPTION_WHISPER_MODE,Allow Whispers From,Erlaube whisper von
+UI_OPTION_WHISPER_NONE,No One,Keinem
 UI_TOOLTIP_DUNGEON_ENTRY,Dungeon Free Entry,Kostenloser Dungeon-Eintritt
 UI_FWC_PASS_2025,2025 FWC Championship Pass,2025 FWC-Meisterschaftspass
 UI_BATTLEPASS_MISSION_CONSUMABLE_ITEM,Use Consumable Items,Anzahl verwendeter Verbrauchsgegenstände
@@ -3175,8 +3175,8 @@ UI_TOOLTIP_FWC_COIN_DROPS,Increased FWC Coin drop,Erhöhter FWC-Coin-Drop
 UI_ADDATTRIBUTE_START,Start,Start
 UI_ADDATTRIBUTE_HEADERITEM,Item to be upgraded,Aufzuwertender Gegenstand
 UI_ADDATTRIBUTE_NOMATERIAL,You ran out of materials.,Dir sind die Materialien ausgegangen.
-UI_ADDATTRIBUTE_SOULBIND_TITLE,Upgrade Item?,Gegenstand aufwerten?
-UI_ADDATTRIBUTE_SOULBIND,Upgrading this item will make the item soul-bound. Proceed?,Das Aufwerten dieses Gegenstands macht ihn seelengebunden. Möchtest du fortfahren?
+UI_ADDATTRIBUTE_SOULBIND_TITLE,Upgrade Item?,Gegenstand upgraden?
+UI_ADDATTRIBUTE_SOULBIND,Upgrading this item will make the item soul-bound. Proceed?,Das Upgraden dieses Gegenstands macht ihn seelengebunden. Möchtest du fortfahren?
 UI_OPTION_PVPMATCH_CAPTION,PvP Match/Contest Captions,PVP-Match-/Wettbewerbs-Untertitel
 UI_PTS_POPUP_DESC,"You are eligible to apply as a tester for the Public Test Server using the form below. This server is used to test upcoming features. For more information, please visit our website.","Du bist berechtigt, dich als Tester für den öffentlichen Testserver über das untenstehende Formular zu bewerben. Dies ist ein Server, der zum Testen kommender Funktionen verwendet wird. Für weitere Informationen besuche bitte unsere Website."
 UI_PTS_POPUP_TITLE,Public Test Server Form,Öffentlicher Testserver-Formular
@@ -3199,7 +3199,7 @@ UI_FWC_PREDICTION_BET_CONFIRM,Are you sure you want to place this bet?\nGuild Na
 UI_TITLE_GUILDINFO,Guild Info,Gildeninfo
 UI_BTN_MEMBERS,Members,Mitglieder
 UI_CHARACTERNAME,Name,Name
-UI_JOB,Job,Klasse
+UI_JOB,Job,Job
 UI_SERVER,Server,Server
 UI_TOTALSERVER_FWCCOIN_SPENT,Total Server\nFWC Coin Spent,Gesamtserver\nAusgegebene FWC-Coins
 UI_MY_FWCCOIN_SPENT,My FWC Coin Spent,Meine ausgegebenen FWC-Coins
@@ -3296,7 +3296,7 @@ UI_TOOLTIP_VS_SUFFOCATE_DEF,Damage from Suffocated Enemies,Schaden von ersticken
 UI_TOOLTIP_VS_SHOCK_DEF,Damage from Shocked Enemies,Schaden von geschockten Gegnern
 UI_TOOLTIP_HP_SHIELD,Max. Health Shield,Max. Gesundheitsschild
 UI_TOOLTIP_AA_DMG,Auto Attack Damage,Auto-Angriff-Schaden
-UI_LEVELCHANGE_NONE,No available jobs at this level,Keine verfügbaren Klassen auf diesem Level
+UI_LEVELCHANGE_NONE,No available jobs at this level,Keine verfügbaren Jobs auf diesem Level
 UI_SKILL_PAGE_SELECT,Select your skill page:,Wähle deine Fähigkeitsseite:
 UI_TOOLTIP_DST_MOBEXP,Monsters EXP Gain,Monster-Erfahrungsgewinn
 UI_TOOLTIP_DST_MOBEXPDROP,Monsters EXP/Drop Gain,Monster-Erfahrungs-/Drop-Gewinn
@@ -3308,24 +3308,24 @@ UI_TOOLTIP_DST_SAME_JEWEL_RATE,Same-Type Ultimate Jewel Insertion Chance,"Wahrsc
 UI_NEWYEARPASS_2026,2026 New Year Pass,2026-Neujahrspass
 UI_TOOLTIP_WARDROBE_YES,In your wardrobe,In deiner Garderobe
 UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,Nicht in deiner Garderobe
-UI_QUEST_PET_LEVEL,Reach pet EXP 99.99%,Reach pet EXP 99.99%
+UI_QUEST_PET_LEVEL,Reach pet EXP 99.99%,Erreiche Pet-EXP 99.99%
 UI_DEBUG_DEVICE_ADVERTISING_ID,Advertising ID: ,Advertising ID: 
 UI_DEBUG_DEVICE_EEA,EEA: ,EEA: 
 UI_DEBUG_DEVICE_AD_PERSONALIZATION,Ad Personalization: ,Ad Personalization: 
 UI_DEBUG_DEVICE_AD_USER_DATA,Ad User Data: ,Ad User Data: 
-UI_TOOLTIP_DST_ULTIMATEUPGRADERATE,Ultimate Upgrade Rate,Ultimate Upgrade Rate
-UI_4TH_ANNIV_ACHIEVEMENT_TITLE,Retrieve the Birthday Banner!,Retrieve the Birthday Banner!
-UI_4TH_ANNIV_ACHIEVEMENT_DESC,"The banner was torn to shreds during a monster attack!\nIf you find the pieces and bring them back, I'll make sure you're rewarded.","The banner was torn to shreds during a monster attack!\nIf you find the pieces and bring them back, I'll make sure you're rewarded."
-UI_ITEM_EXCHANGE_TITLE,Item Exchange,Item Exchange
-UI_ITEM_EXCHANGE_INFO_2033,"By consuming Penya, you can exchange a specific Banner Fragment alphabet item you own into another fragment based on set probabilities.\nThere is a low chance to obtain a Golden Ticket item, which grants a [4th Anniversary Supply Box A].","By consuming Penya, you can exchange a specific Banner Fragment alphabet item you own into another fragment based on set probabilities.\nThere is a low chance to obtain a Golden Ticket item, which grants a [4th Anniversary Supply Box A]."
+UI_TOOLTIP_DST_ULTIMATEUPGRADERATE,Ultimate Upgrade Rate,Ultimative Upgrade-Rate
+UI_4TH_ANNIV_ACHIEVEMENT_TITLE,Retrieve the Birthday Banner!,Hole das Geburtstagsbanner zurück!
+UI_4TH_ANNIV_ACHIEVEMENT_DESC,"The banner was torn to shreds during a monster attack!\nIf you find the pieces and bring them back, I'll make sure you're rewarded.","Das Banner wurde bei einem Monsterangriff in Stücke gerissen!\nWenn du die Teile findest und zurückbringst, wirst du garantiert belohnt."
+UI_ITEM_EXCHANGE_TITLE,Item Exchange,Item-Austausch
+UI_ITEM_EXCHANGE_INFO_2033,"By consuming Penya, you can exchange a specific Banner Fragment alphabet item you own into another fragment based on set probabilities.\nThere is a low chance to obtain a Golden Ticket item, which grants a [4th Anniversary Supply Box A].","Durch den Verbrauch von Penya kannst du ein bestimmtes Banner-Fragment-Buchstaben-Item, das du besitzt, basierend auf festgelegten Wahrscheinlichkeiten gegen ein anderes Fragment eintauschen.\nEs besteht eine geringe Chance, ein Golden Ticket Item zu erhalten, das eine [4th Anniversary Supply Box A] gewährt."
 UI_4TH_ANNIV_PASS,4th Anniversary Pass,4th Anniversary Pass
-UI_EVENT_4TH_ANNIV_FIELDBOSS,4th Anniversary Boss Instance Event,4th Anniversary Boss Instance Event
-UI_ACHIEVEMENT_LYCANHUNTING_TITLE,Server Hunting Carnival,Server Hunting Carnival
-UI_ACHIEVEMENT_LYCANHUNTING_DESC,Hunt monsters in the Kaillun region during the event to reach the goals for each stage! All players on the server can receive rewards every time a goal is achieved!,Hunt monsters in the Kaillun region during the event to reach the goals for each stage! All players on the server can receive rewards every time a goal is achieved!
+UI_EVENT_4TH_ANNIV_FIELDBOSS,4th Anniversary Boss Instance Event,4. Jubiläums-Boss-Instanz-Event
+UI_ACHIEVEMENT_LYCANHUNTING_TITLE,Server Hunting Carnival,Server-Jagdkarneval
+UI_ACHIEVEMENT_LYCANHUNTING_DESC,Hunt monsters in the Kaillun region during the event to reach the goals for each stage! All players on the server can receive rewards every time a goal is achieved!,"Jage während des Events Monster in der Kaillun-Region, um die Ziele jeder Stufe zu erreichen! Alle Spieler auf dem Server erhalten Belohnungen, jedes Mal wenn ein Ziel erreicht wird!"
 UI_APP_DONATION_TIP,Donate Penya to receive server wide buffs!,Spende Penya für serverweite Buffs!
-UI_APP_LORD_TIP,Manage lord skills as the lord.,Manage lord skills as the lord.
+UI_APP_LORD_TIP,Manage lord skills as the lord.,Verwalte Lord-Fertigkeiten als Lord.
 UI_APP_LORD_TARGETNAME,Enter the target's name,Gib den Zielnamen ein
-UI_APP_LORD_INFO,Manage the skills and benefits available to you as the Lord of Madrigal! Press any of the following skills to use them.,Manage the skills and benefits available to you as the Lord of Madrigal! Press any of the following skills to use them.
+UI_APP_LORD_INFO,Manage the skills and benefits available to you as the Lord of Madrigal! Press any of the following skills to use them.,"Verwalte die Fertigkeiten und Vorteile, die dir als Lord von Madrigal zur Verfügung stehen! Drücke eine der folgenden Fertigkeiten, um sie zu nutzen."
 UI_DONATION_NEXTEVENT,Next Event:,Nächstes Event:
 UI_DONATION_CURRENTEVENT,Current Event:,Derzeitiges Event:
 UI_DONATION_MINDONATION,Minimum Donation:,Mindestspende:
@@ -3351,7 +3351,7 @@ UI_MYSTCASTLE_MOVE_NEXT_FLOOR,You’ve defeated the Boss!\nMove on to the next f
 UI_MYSTCASTLE_MISSION_SUCCESS,You’ve defeated the Boss!,Du hast den Boss besiegt!
 UI_MYSTCASTLE_MISSION_FAIL,You’ve failed!,Du hast versagt!
 UI_MYSTCASTLE_FLOORS_TITLE,Mysterious Castle Floors,Ebenen des Mysteriösen Schlosses
-UI_MYSTCASTLE_RANKING,Ranking,Ranking
+UI_MYSTCASTLE_RANKING,Ranking,Rangliste
 UI_ORDINAL_SUFFIX_EXCLUDE_ENG_FRE,,
 UI_MYSTCASTLE_LIST_FLOOR,%s\nFloor,%s\nEbene
 UI_MYSTCASTLE_LIST_CLEAR,Clear,Abgeschlossen
@@ -3369,7 +3369,7 @@ UI_MYSTCASTLE_RANK_JOB_LAST_WEEK,Job Ranking (Last Week),Job-Ranking (letzte Woc
 UI_MYSTCASTLE_MY_RANKING,My Ranking:,Mein Ranking:
 UI_MYSTCASTLE_MY_RANKING_NO,My Ranking: No current ranking information.,Mein Ranking: Keine aktuellen Ranking-Daten vorhanden.
 UI_MYSTCASTLE_RANK_TITLE,Mysterious Castle Ranking,Mysteriöses Schloss – Ranking
-UI_MYSTCASTLE_RANK_COL_RANKING,Ranking,Ranking
+UI_MYSTCASTLE_RANK_COL_RANKING,Ranking,Rangliste
 UI_MYSTCASTLE_RANK_COL_JOB,Job,Job
 UI_MYSTCASTLE_RANK_COL_NAME,Character Name,Charaktername
 UI_MYSTCASTLE_RANK_COL_LEVEL,Level,Level
@@ -3379,7 +3379,7 @@ UI_MYSTCASTLE_REWARD_TITLE,Mysterious Castle Rewards,Mysteriöses Schloss – Be
 UI_MYSTCASTLE_REWARD_COL_FLOOR,Floor,Ebene
 UI_MYSTCASTLE_REWARD_COL_BOSS,Boss,Boss
 UI_MYSTCASTLE_REWARD_COL_REWARD,Reward,Belohnung
-UI_MYSTCASTLE_REWARD_COL_CLASS,Ranking Rewards by Class,Ranking-Belohnungen nach Klasse
+UI_MYSTCASTLE_REWARD_COL_CLASS,Ranking Rewards by Class,Ranking-Belohnungen nach Job
 UI_MYSTCASTLE_REWARD_COL_COUNT,Quant,Anz.
 UI_MYSTCASTLE_REWARD_RATIO,Within Top %d%%\n(Excluding above ranks),Unter den besten %d%%\n(ohne die höheren Ränge)
 UI_MYSTCASTLE_REWARD_OTHERS,Others,Andere
@@ -3473,7 +3473,7 @@ UI_WAVEDEFENSE_RANKING_DESC,Dominate the rankings with your team and secure your
 UI_WAVEDEFENSE_RANKINGDETAILS_HDR,Match Details,Match-Details
 UI_WAVEDEFENSE_RANKINGDETAILS_ROOMNAME,Room Name,Raumname
 UI_WAVEDEFENSE_RANKINGDETAILS_PLAYERS_NAME,Player,Spieler
-UI_WAVEDEFENSE_RANKINGDETAILS_PLAYERS_JOB,Job,Klasse
+UI_WAVEDEFENSE_RANKINGDETAILS_PLAYERS_JOB,Job,Job
 UI_WAVEDEFENSE_RANKINGDETAILS_PLAYERS_KILLS,Kills,Kills
 UI_WAVEDEFENSE_STATUS_RESPAWN,Respawn in %s,Respawn in %s
 UI_PVPMATCH_RESPAWNNOW,Respawn now,Jetzt respawnen
