@@ -900,8 +900,8 @@ TEXTCLIENT_GUILDCOMBAT_END2,The Level 60 Guild Siege has ended.,Der Level 60 Gil
 TEXTCLIENT_GUILDCOMBAT_END3,The Level 165 Guild Siege has ended.,Der Level 165 Gildenkrieg ist zu Ende.
 TEXTCLIENT_GUILDCOMBAT_CHIPS,%d %s have been sent to your inventory or mail box.,%d %s wurden an dein Inventar oder deine Mailbox gesendet.
 TEXTCLIENT_GUILDCOMBAT_OPEN_MSG1,"From now on, Atlas in Flarine can let you into the Lv80 Guild Siege arena.",Von nun an kann Atlas in Flaris euch in die Lvl 80 Gildenkriegsarena lassen.
-TEXTCLIENT_GUILDCOMBAT_OPEN_MSG2,"From now on, Olivia in Flarine can let you into the Lv60 Guild Siege arena.",Von nun an kann Olivia in Flaris euch in die Lvl 60 Gildenriegsarena lassen.
-TEXTCLIENT_GUILDCOMBAT_OPEN_MSG3,"From now on, Prune in Flarine can let you into the Lv165 Guild Siege arena.",Von nun an kann Prune in Flaris euch in die Lvl 165 Gildenriegsarena lassen.
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG2,"From now on, Olivia in Flarine can let you into the Lv60 Guild Siege arena.",Von nun an kann Olivia in Flaris euch in die Lvl 60 Gildenkriegsarena lassen.
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG3,"From now on, Prune in Flarine can let you into the Lv165 Guild Siege arena.",Von nun an kann Prune in Flaris euch in die Lvl 165 Gildenkriegsarena lassen.
 TEXTCLIENT_GUILDCOMBAT_ANOTHER,Another Guild Siege is happening.,Es findet ein anderer Gildenkrieg statt.
 TEXTCLIENT_SKILL_ROOT,You cannot move right now.,Du kannst dich jetzt nicht bewegen. 
 TEXTCLIENT_WORLDBOSS_KILLED,%s has fallen!,%s ist gefallen!

@@ -3164,7 +3164,7 @@ UI_OPTION_MAIL_MODE,Allow Mails From,Erlaube Nachrichten von
 UI_OPTION_MAIL_EVERYONE,Everyone,Jedem
 UI_OPTION_MAIL_FRIENDS,Friends,Freunden
 UI_OPTION_MAIL_SYSTEM,System Only,Nur System
-UI_OPTION_WHISPER_MODE,Allow Whispers From,Erlaube whisper von
+UI_OPTION_WHISPER_MODE,Allow Whispers From,Erlaube Flüstern von
 UI_OPTION_WHISPER_NONE,No One,Keinem
 UI_TOOLTIP_DUNGEON_ENTRY,Dungeon Free Entry,Kostenloser Dungeon-Eintritt
 UI_FWC_PASS_2025,2025 FWC Championship Pass,2025 FWC-Meisterschaftspass

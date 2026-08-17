@@ -11,7 +11,7 @@
 #b#cffff0000Schnelle#nc#nb Gegner bewegen sich schnell und widerstehen Magieschaden.
 #b#cffff0000Explosive#nc#nb Gegner detonieren bei ihrem Tod.
 
-#b„Ihr seid die letzte Verteidigungslinie zwischen den Überlebenden und der völligen Vernichtung. Jede Sekunde zählt, und jede Position ist entscheidend."#nb
+#b"Ihr seid die letzte Verteidigungslinie zwischen den Überlebenden und der völligen Vernichtung. Jede Sekunde zählt, und jede Position ist entscheidend."#nb
 
 #b[DIE HERAUSFORDERUNG]#nb
 Das Team, das die #b#cffffffffperfekteste Verteidigung#nc#nb zeigt, wird die höchste Ehre erhalten. Seid ihr bereit, diese Tragödie gemeinsam mit euren Gefährten in einen großen Sieg zu verwandeln?
