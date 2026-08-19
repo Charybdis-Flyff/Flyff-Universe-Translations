@@ -1393,11 +1393,11 @@ PROPQUEST_SCENARIO_INC_002681,Collect 200 buckets from the Muffrins that roam th
 PROPQUEST_SCENARIO_INC_002682,Collect 200 Muffrin Bucket.,マフリンバケツを200個集める。
 PROPQUEST_SCENARIO_INC_002683,High Quality Goods,高品質の商品
 PROPQUEST_SCENARIO_INC_002684,Smelting all this metal down for use will take a while. You may want to find an armorsmith to determine what else will be needed until I finish my work.,使用のためにこのすべての金属を製錬するにはしばらく時間がかかります。私が仕事を終えるまで、他に何が必要かを判断するために、鎧細工師を見つけることをお勧めします。
-PROPQUEST_SCENARIO_INC_002685,Out in the Village of Kan there is a talented craftsman named Chenbing Khan who can guide you further.,カンの村には、チェンビン・カーンという才能ある職人がいて、あなたをさらに導くことができます。
+PROPQUEST_SCENARIO_INC_002685,Out in the Village of Kan there is a talented craftsman named Chenbing Khan who can guide you further.,カンの村には、シェンビン・カーンという才能ある職人がいて、あなたをさらに導くことができます。
 PROPQUEST_SCENARIO_INC_002686,"Well you could just wait here... but time is ticking, better to get other tasks out of the way.",さて、あなたはここで待つことができます..しかし、時間は刻々と過ぎており、他のタスクを邪魔にならないようにする方が良いです。
 PROPQUEST_SCENARIO_INC_002687,"It's nice Nein thinks enough of me to send you my way. I run a humble armor shop here in my village, and know all the secrets of how to improve simple weapons into deadly munitions.",ネインが私のことを十分に考えてくれて、あなたを私の道に送ってくれるのはいいことです。私はここ村で謙虚な鎧屋を経営しており、単純な武器を致命的な弾薬に改良する方法のすべての秘密を知っています。
-PROPQUEST_SCENARIO_INC_002688,Go find Chenbing in the Village of Kan and give him a hand collecting crafting materials.,カンの村でチェンビンを探しに行き、クラフト材料を集める手を渡してください。
-PROPQUEST_SCENARIO_INC_002689,Speak with Chenbing.,チェンビンと話してください。
+PROPQUEST_SCENARIO_INC_002688,Go find Chenbing in the Village of Kan and give him a hand collecting crafting materials.,カンの村でシェンビンを探しに行き、クラフト材料を集める手を渡してください。
+PROPQUEST_SCENARIO_INC_002689,Speak with Chenbing.,シェンビンと話してください。
 PROPQUEST_SCENARIO_INC_002690,The Twisted Sanctuary Part 2,ねじれた聖域パート2
 PROPQUEST_SCENARIO_INC_002691,Gotta Catch Them All,それらをすべてキャッチする必要があります
 PROPQUEST_SCENARIO_INC_002692,"We won't be able to craft any armor until Nein has completed smelting the Muffrin's buckets into something suitable. But once Nein is complete, we will need several materials only found from rare creatures known as Catchers.",ネインがマフリンのバケツを適切なものに製錬し終えるまで、鎧を作ることはできません。しかし、ネインが完成したら、キャッチャーと呼ばれる珍しい生き物からしか見つけられないいくつかの材料が必要になります。
@@ -1408,16 +1408,16 @@ PROPQUEST_SCENARIO_INC_002696,"Catchers are rare, but Darkon 3 has them all. Kee
 PROPQUEST_SCENARIO_INC_002697,"Collect 500 Erons, Krasec, Mineral, and Guru.",エロン、クラセック、鉱物、グルを500個集める。
 PROPQUEST_SCENARIO_INC_002698,Crafting an Army,軍隊を作る
 PROPQUEST_SCENARIO_INC_002699,"With the smelting complete, it's time to craft an army's worth of armor!",製錬が完了したら、軍隊に相当する鎧を作りましょう!
-PROPQUEST_SCENARIO_INC_002700,"Alright, head back to Chenbing. Work with him to start crafting the armor we'll need to win the battle against Lapranche!",よし、チェンビンに戻る。彼と協力して、ラプランシュとの戦いに勝つために必要な鎧を作り始めましょう!
+PROPQUEST_SCENARIO_INC_002700,"Alright, head back to Chenbing. Work with him to start crafting the armor we'll need to win the battle against Lapranche!",よし、シェンビンに戻る。彼と協力して、ラプランシュとの戦いに勝つために必要な鎧を作り始めましょう!
 PROPQUEST_SCENARIO_INC_002701,Crafting is tough work. It's not for everybody.,クラフトは大変な作業です。それは皆のためではありません。
 PROPQUEST_SCENARIO_INC_002702,"Well done, we have everything needed to bolster an army of adventurers against the Black Magician!",よくやった、私たちは黒魔術師に対して冒険者の軍隊を強化するために必要なすべてを持っています!
-PROPQUEST_SCENARIO_INC_002703,Head back to Chenbing to help craft armaments.,チェンビンに戻り、兵器の作成を手伝ってください。
-PROPQUEST_SCENARIO_INC_002704,Meet with Chenbing.,チェンビンと会う。
+PROPQUEST_SCENARIO_INC_002703,Head back to Chenbing to help craft armaments.,シェンビンに戻り、兵器の作成を手伝ってください。
+PROPQUEST_SCENARIO_INC_002704,Meet with Chenbing.,シェンビンと会う。
 PROPQUEST_SCENARIO_INC_002705,A Loud Bang!,大きなバン!
 PROPQUEST_SCENARIO_INC_002706,Look at all this steel. We'll have an army up and running in no time!,このすべての鋼を見てください。すぐに軍隊を立ち上げて稼働させます!
 PROPQUEST_SCENARIO_INC_002707,"*BANG* Wha... What was that!? Perhaps the battle has already begun? Quickly, go speak with Loala to figure out what is going on!",*バン*うわー..何でしたか！。おそらく戦いはすでに始まっていますか?すぐに、ロアラと話して、何が起こっているのかを理解してください!
 PROPQUEST_SCENARIO_INC_002708,Just a while longer and we'll have enough armor to equip a proper militia!,もう少しすれば、適切な民兵を装備するのに十分な装甲を手に入れることができます!
-PROPQUEST_SCENARIO_INC_002709,Chenbing was smart to send you to me... surely you felt the tremors after that loud bang.,チェンビンはあなたを私に送るのが賢かった..確かにあなたはその大きな強打の後に震えを感じました。
+PROPQUEST_SCENARIO_INC_002709,Chenbing was smart to send you to me... surely you felt the tremors after that loud bang.,シェンビンはあなたを私に送るのが賢かった..確かにあなたはその大きな強打の後に震えを感じました。
 PROPQUEST_SCENARIO_INC_002710,Speak with Loala to find out what caused that loud noise.,ロアラと話して、その大きな音の原因を調べてください。
 PROPQUEST_SCENARIO_INC_002711,Meet with Laola.,ラオラと会う。
 PROPQUEST_SCENARIO_INC_002712,Shot Through the Heart,心を撃ち抜く

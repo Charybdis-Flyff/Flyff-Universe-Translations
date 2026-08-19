@@ -896,7 +896,7 @@ TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT1,Today's Lv80 Guild Siege will not be held du
 TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT2,Today's Lv60 Guild Siege will not be held due to lack of participants.,本日のLv60ギルドコンバットは、参加者不足のため開催されません。
 TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT3,Today's Lv165 Guild Siege will not be held due to lack of participants.,本日のLv165ギルドコンバットは、参加者不足のため開催されません。
 TEXTCLIENT_GUILDCOMBAT_END1,The Level 80 Guild Siege has ended.,Lv80ギルドコンバットが終了しました。
-TEXTCLIENT_GUILDCOMBAT_END2,The Level 60 Guild Siege has ended.,Lv80ギルドコンバットが終了しました。
+TEXTCLIENT_GUILDCOMBAT_END2,The Level 60 Guild Siege has ended.,Lv60ギルドコンバットが終了しました。
 TEXTCLIENT_GUILDCOMBAT_END3,The Level 165 Guild Siege has ended.,Lv165ギルドコンバットが終了しました。
 TEXTCLIENT_GUILDCOMBAT_CHIPS,%d %s have been sent to your inventory or mail box.,%d %s がインベントリまたはメール ボックスに送信されました。
 TEXTCLIENT_GUILDCOMBAT_OPEN_MSG1,"From now on, Atlas in Flarine can let you into the Lv80 Guild Siege arena.",まもなくフラリス北にいるNPCアトラスにて、Lv80ギルドコンバットアリーナへ参加できるようになります。
