@@ -97,7 +97,7 @@ ACHIEVEMENT_KILL_GREATKRAKEN_NAME,Great Kraken,グレート・クラーケン
 ACHIEVEMENT_KILL_PYRAMIDGUARDIAN_NAME,Pyramid Guardian,ピラミッドガーディアン
 ACHIEVEMENT_KILL_CRYSTALDEVIL_NAME,Crystal Demon Lord,クリスタルデーモンロード
 ACHIEVEMENT_KILL_BEASTKINGKHAN_NAME,Beast King Khan,獣王カーン
-ACHIEVEMENT_KILL_SHADEKRITON_NAME,[Shade Lieutenant] Kriton,[Shade Lieutenant] Kriton
+ACHIEVEMENT_KILL_SHADEKRITON_NAME,[Shade Lieutenant] Kriton,[シェードの右腕] クリトン
 ACHIEVEMENT_KILL_PUPPETWOLF_NAME,Hundur Sharpfoot,Hundur Sharpfoot
 ACHIEVEMENT_KILL_RYSENTRY_NAME,Samoset,Samoset
 ACHIEVEMENT_KILL_RYGUARD_NAME,Kyouchish,Kyouchish
@@ -637,11 +637,11 @@ ACHIEVEMENT_KILL_BEASTKINGKHAN_LVL2,Beast King Khan Hunter 2,獣王カーンハ�
 ACHIEVEMENT_KILL_BEASTKINGKHAN_LVL3,Beast King Khan Hunter 3,獣王カーンハンター3
 ACHIEVEMENT_KILL_BEASTKINGKHAN_LVL4,Beast King Khan Hunter 4,獣王カーンハンター4
 ACHIEVEMENT_KILL_BEASTKINGKHAN_LVL5,Beast King Khan Killer,獣王カーンキラー
-ACHIEVEMENT_KILL_SHADEKRITON_LVL1,[Shade Lieutenant] Kriton Hunter 1,[Shade Lieutenant] Kriton Hunter 1
-ACHIEVEMENT_KILL_SHADEKRITON_LVL2,[Shade Lieutenant] Kriton Hunter 2,[Shade Lieutenant] Kriton Hunter 2
-ACHIEVEMENT_KILL_SHADEKRITON_LVL3,[Shade Lieutenant] Kriton Hunter 3,[Shade Lieutenant] Kriton Hunter 3
-ACHIEVEMENT_KILL_SHADEKRITON_LVL4,[Shade Lieutenant] Kriton Hunter 4,[Shade Lieutenant] Kriton Hunter 4
-ACHIEVEMENT_KILL_SHADEKRITON_LVL5,[Shade Lieutenant] Kriton Killer,[Shade Lieutenant] Kriton Killer
+ACHIEVEMENT_KILL_SHADEKRITON_LVL1,[Shade Lieutenant] Kriton Hunter 1,[シェードの右腕] クリトンハンター1
+ACHIEVEMENT_KILL_SHADEKRITON_LVL2,[Shade Lieutenant] Kriton Hunter 2,[シェードの右腕] クリトンハンター2
+ACHIEVEMENT_KILL_SHADEKRITON_LVL3,[Shade Lieutenant] Kriton Hunter 3,[シェードの右腕] クリトンハンター3
+ACHIEVEMENT_KILL_SHADEKRITON_LVL4,[Shade Lieutenant] Kriton Hunter 4,[シェードの右腕] クリトンハンター4
+ACHIEVEMENT_KILL_SHADEKRITON_LVL5,[Shade Lieutenant] Kriton Killer,[シェードの右腕] クリトンキラー
 ACHIEVEMENT_KILL_BEHEMOTH03_LVL1,[God of Death] Demonic Ankou Hunter 1,[God of Death] Demonic Ankou Hunter 1
 ACHIEVEMENT_KILL_BEHEMOTH03_LVL2,[God of Death] Demonic Ankou Hunter 2,[God of Death] Demonic Ankou Hunter 2
 ACHIEVEMENT_KILL_BEHEMOTH03_LVL3,[God of Death] Demonic Ankou Hunter 3,[God of Death] Demonic Ankou Hunter 3
@@ -1360,19 +1360,19 @@ ACHIEVEMENT_KILL_DREAMNIGHTMIST01_LVL2,Nightmyst Slayer 2,Nightmyst Slayer 2
 ACHIEVEMENT_KILL_DREAMNIGHTMIST01_LVL3,Nightmyst Slayer 3,Nightmyst Slayer 3
 ACHIEVEMENT_KILL_DREAMNIGHTMIST01_LVL4,Nightmyst Slayer 4,Nightmyst Slayer 4
 ACHIEVEMENT_KILL_DREAMNIGHTMIST01_LVL5,Nightmyst Hunter,Nightmyst Hunter
-ACHIEVEMENT_KILL_DREAMQEEN01_NAME,[Queen of Thorns] Entaness,[Queen of Thorns] Entaness
+ACHIEVEMENT_KILL_DREAMQEEN01_NAME,[Queen of Thorns] Entaness,[棘の女王] エンタネス
 ACHIEVEMENT_KILL_DREAMQEEN01_TITLE,Queen,Queen
-ACHIEVEMENT_KILL_DREAMQEEN01_LVL1,[Queen of Thorns] Entaness Slayer 1,[Queen of Thorns] Entaness Slayer 1
-ACHIEVEMENT_KILL_DREAMQEEN01_LVL2,[Queen of Thorns] Entaness Slayer 2,[Queen of Thorns] Entaness Slayer 2
-ACHIEVEMENT_KILL_DREAMQEEN01_LVL3,[Queen of Thorns] Entaness Slayer 3,[Queen of Thorns] Entaness Slayer 3
-ACHIEVEMENT_KILL_DREAMQEEN01_LVL4,[Queen of Thorns] Entaness Slayer 4,[Queen of Thorns] Entaness Slayer 4
-ACHIEVEMENT_KILL_DREAMQEEN01_LVL5,[Queen of Thorns] Entaness Hunter,[Queen of Thorns] Entaness Hunter
+ACHIEVEMENT_KILL_DREAMQEEN01_LVL1,[Queen of Thorns] Entaness Slayer 1,[棘の女王] エンタネス スレイヤー 1
+ACHIEVEMENT_KILL_DREAMQEEN01_LVL2,[Queen of Thorns] Entaness Slayer 2,[棘の女王] エンタネス スレイヤー 2
+ACHIEVEMENT_KILL_DREAMQEEN01_LVL3,[Queen of Thorns] Entaness Slayer 3,[棘の女王] エンタネス スレイヤー 3
+ACHIEVEMENT_KILL_DREAMQEEN01_LVL4,[Queen of Thorns] Entaness Slayer 4,[棘の女王] エンタネス スレイヤー 4
+ACHIEVEMENT_KILL_DREAMQEEN01_LVL5,[Queen of Thorns] Entaness Hunter,[棘の女王] エンタネス ハンター
 ACHIEVEMENT_155UPDATE_MAINQUEST_NAME,Meet the Euphresia Dungeon,Meet the Euphresia Dungeon
 ACHIEVEMENT_155UPDATE_GODDESSANDDEMON,Love from Goddess and Demon,Love from Goddess and Demon
 ACHIEVEMENT_155UPDATE_GODDESSANDDEMON_DESC,Use Blessing of the Goddess or Blessing of the Demon to receive special rewards!,Use Blessing of the Goddess or Blessing of the Demon to receive special rewards!
 ACHIEVEMENT_155UPDATE_PROLUMBERJACK,Pro Lumberjack,Pro Lumberjack
 ACHIEVEMENT_155UPDATE_PROLUMBERJACK_DESC,Hunt the new dungeon boss a set number of times during the event period to receive rewards!,Hunt the new dungeon boss a set number of times during the event period to receive rewards!
-ACHIEVEMENT_FWC_2026_JACKPOTWINNER_NAME,FWC 2026 Jackpot Winner,FWC 2026 Jackpot Winner
-ACHIEVEMENT_FWC_2026_FORTUNECHASER_NAME,FWC 2026 Fortune Chaser,FWC 2026 Fortune Chaser
-ACHIEVEMENT_FWC_2026_ALLIN_NAME,FWC 2026 All-In,FWC 2026 All-In
-ACHIEVEMENT_FWC_2026_HARDLUCK_NAME,FWC 2026 Hard Luck,FWC 2026 Hard Luck
+ACHIEVEMENT_FWC_2026_JACKPOTWINNER_NAME,FWC 2026 Jackpot Winner,FWC 2026 ジャックポットウィナー
+ACHIEVEMENT_FWC_2026_FORTUNECHASER_NAME,FWC 2026 Fortune Chaser,FWC 2026 フォーチュンチェイサー
+ACHIEVEMENT_FWC_2026_ALLIN_NAME,FWC 2026 All-In,FWC 2026 オールイン
+ACHIEVEMENT_FWC_2026_HARDLUCK_NAME,FWC 2026 Hard Luck,FWC 2026 ハードラック
