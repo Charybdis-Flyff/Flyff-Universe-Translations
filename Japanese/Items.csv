@@ -4558,12 +4558,12 @@ PROPITEM_TXT_010350,Baby Bang,リトル・ヴァン
 PROPITEM_TXT_010351,Baby Bang that follows its owner around and picks up dropped items.,リトル・ヴァンを召喚し、ドロップしたアイテムを拾ってくれる収集ペット
 PROPITEM_TXT_010372,Baby Panda,ベビーパンダ
 PROPITEM_TXT_010373,Baby Panda that follows its owner around and picks up dropped items.,ベビーパンダを召喚し、ドロップしたアイテムを拾ってくれる収集ペット
-PROPITEM_TXT_010466,Red Armored Tigar,ルビー・ティーガー
-PROPITEM_TXT_010467,A Red Armored Tigar from the grassy plains of Coral Island that follows its master around picking up dropped items.,ルビー・ティーガーを召喚・帰還させることができます。
-PROPITEM_TXT_010468,Blue Armored Tigar,サファイア・ティーガー
-PROPITEM_TXT_010469,A Blue Armored Tigar from the grassy plains of Coral Island that follows its master around picking up dropped items.,サファイア・ティーガーを召喚・帰還させることができます。
-PROPITEM_TXT_010470,Yellow Armored Tigar,エメラルド・ティーガー
-PROPITEM_TXT_010471,A Yellow Armored Tigar from the grassy plains of Coral Island that follows its master around picking up dropped items.,エメラルド・ティーガーを召喚・帰還させることができます。
+PROPITEM_TXT_010466,Red Armored Tigar,ルビー・タイガー
+PROPITEM_TXT_010467,A Red Armored Tigar from the grassy plains of Coral Island that follows its master around picking up dropped items.,ルビー・タイガーを召喚・帰還させることができます。
+PROPITEM_TXT_010468,Blue Armored Tigar,サファイア・タイガー
+PROPITEM_TXT_010469,A Blue Armored Tigar from the grassy plains of Coral Island that follows its master around picking up dropped items.,サファイア・タイガーを召喚・帰還させることができます。
+PROPITEM_TXT_010470,Yellow Armored Tigar,エメラルド・タイガー
+PROPITEM_TXT_010471,A Yellow Armored Tigar from the grassy plains of Coral Island that follows its master around picking up dropped items.,エメラルド・タイガーを召喚・帰還させることができます。
 PROPITEM_TXT_011044,Tommy Toucan,トミーオウム
 PROPITEM_TXT_011045,"A portly toucan that follows its master around, picking up dropped items. SQUAWK!",トミーオウムを召喚させ、ドロップしたアイテムを拾ってくれる収集ペット
 PROPITEM_TXT_011116,Tiny Tanuki,ポンスケ
@@ -11510,13 +11510,13 @@ PROPITEM_TXT_010037,A quest item acquired from Nagas in Coral Island. The hair i
 PROPITEM_TXT_010038,Broken Wings,折れた翼
 PROPITEM_TXT_010039,A quest item acquired from Atrox in Coral Island. These wings are slightly sticky.,珊瑚島のアトロックスから入手したクエストアイテム。これらの翼はわずかに粘着性があります。
 PROPITEM_TXT_010040,Great Crown,豪華な王冠
-PROPITEM_TXT_010041,A quest item acquired from Okeans in Coral Island. Their crowns represent social status within their respective groups.,珊瑚島のオケアンズから入手したクエストアイテム。彼らの王冠は、それぞれのグループ内の社会的地位を表しています。
+PROPITEM_TXT_010041,A quest item acquired from Okeans in Coral Island. Their crowns represent social status within their respective groups.,珊瑚島のオケアノスから入手したクエストアイテム。彼らの王冠は、それぞれのグループ内の社会的地位を表しています。
 PROPITEM_TXT_010042,Sharp Canine,獣王の牙
 PROPITEM_TXT_010043,"A quest item acquired from Tigars in Coral Island. The tooth is covered in blood from a past victim. Ironic, isn't it?",珊瑚島のタイガーから入手したクエストアイテム。歯は過去の犠牲者の血で覆われています。皮肉ですね。
 PROPITEM_TXT_010044,Keen Tooth,鋭い歯
 PROPITEM_TXT_010045,A quest item acquired from Dorians in Coral Island. The tooth appears as though it has been polished.,珊瑚島のドリアンから入手したクエストアイテム。歯は磨かれたように見えます。
 PROPITEM_TXT_010046,Gogloo,丈夫なゴーグル
-PROPITEM_TXT_010047,A quest item acquired from Merals in Coral Island. Merals use these Gogloos to see underwater.,珊瑚島のメラルズから入手したクエストアイテム。メラルはこれらのゴグルーを使って水中を見ます。
+PROPITEM_TXT_010047,A quest item acquired from Merals in Coral Island. Merals use these Gogloos to see underwater.,珊瑚島のメレーから入手したクエストアイテム。メレーはこれらのゴグルーを使って水中を見ます。
 PROPITEM_TXT_121667,2023 Summer 10% Red Set,2023サマーレッド10%セット
 PROPITEM_TXT_121668,2023 Summer Red Hair (M),2023 サマーレッドヘア(M)
 PROPITEM_TXT_121669,2023 Summer Red Suit (M),2023 サマーレッドスーツ(M)
@@ -12520,11 +12520,11 @@ PROPITEM_TXT_123049,Bow of the Scorched Dragon,スコーチドドラゴンの弓
 PROPITEM_TXT_123050,Big Axe of the Scorched Dragon,スコーチドドラゴンの大斧
 PROPITEM_TXT_123051,Big Sword of the Scorched Dragon,スコーチドドラゴンの大剣
 PROPITEM_TXT_160000,Pristine Pirate Lens,手付かずの海賊レンズ
-PROPITEM_TXT_160001,An enhanced set of goggles rarely found on a Meral.,メラルではめったに見られない強化されたゴーグルのセット。
+PROPITEM_TXT_160001,An enhanced set of goggles rarely found on a Meral.,メレーではめったに見られない強化されたゴーグルのセット。
 PROPITEM_TXT_160002,Gigantic Feline Fang,ジャイアントタイガーの牙
 PROPITEM_TXT_160003,A gigantic fang from the mouth of a Giant Tigar.,ジャイアントタイガーの巨大な牙。
 PROPITEM_TXT_160004,Purple Pirate Insignia,紫の海賊記章
-PROPITEM_TXT_160005,An essence of purple magic found on the body of the Violet Meral.,ヴァイオレット・メラルの体に見られる紫色の魔術のエッセンス。
+PROPITEM_TXT_160005,An essence of purple magic found on the body of the Violet Meral.,ヴァイオレット・メレーの体に見られる紫色の魔術のエッセンス。
 PROPITEM_TXT_160006,Island Bait,アイランドベイト
 PROPITEM_TXT_160007,Delicious bait made by Pau Pau to lower the guard of the Naga.,ナーガのガードを下げるためにパウパウが作ったおいしい餌。
 PROPITEM_TXT_160008,Evidence of Victory,勝利の証拠
@@ -12534,11 +12534,11 @@ PROPITEM_TXT_160011,Remains of the Lord Naga.,ロード・ナーガの残骸。
 PROPITEM_TXT_160012,Head of the Overlord Naga,オーバーロード・ナーガの頭
 PROPITEM_TXT_160013,Remains of the Overlord Naga.,オーバーロード・ナーガの残骸。
 PROPITEM_TXT_160014,Coral Island Metal Scrap,珊瑚島金属スクラップ
-PROPITEM_TXT_160015,Metal scraps found on the bodies of Dorian and Okean.,ドリアンとオキーンの遺体から発見された金属片。
+PROPITEM_TXT_160015,Metal scraps found on the bodies of Dorian and Okean.,ドリアンとオケアノスの遺体から発見された金属片。
 PROPITEM_TXT_160016,Lord Dorian Gear,ロード・ドリアンの装備
 PROPITEM_TXT_160017,A gear that can only be found from the largest Dorian.,ジャイアントドリアンからしか手に入らないギア。
-PROPITEM_TXT_160018,Lord Okean Crown,ロード・オケアンの王冠
-PROPITEM_TXT_160019,A crown that can only be found from the largest Okean.,ジャイアントオケアンの王冠。
+PROPITEM_TXT_160018,Lord Okean Crown,ロード・オケアノスの王冠
+PROPITEM_TXT_160019,A crown that can only be found from the largest Okean.,ジャイアントオケアノスの王冠。
 PROPITEM_TXT_160020,Champion's Ring,チャンピオンズリング
 PROPITEM_TXT_160021,Increases STR. Can be upgraded with a Sunstone up to Ultimate level 10.,STRが上昇する。サンストーンでアルティメットレベル5までアップグレードできます。
 PROPITEM_TXT_160022,Defender's Ring,ディフェンダーの指輪
