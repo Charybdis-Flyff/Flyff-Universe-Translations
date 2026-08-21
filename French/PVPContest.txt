@@ -1,20 +1,20 @@
-﻿#b PVP Contest: The Road to Glory #nb
+#b Concours PVP : La Route vers la Gloire #nb
 
-#cff00ccff Will you defeat every rival guild and dominate your region's ladder? #nc
+#cff00ccff Parviendrez-vous à vaincre toutes les guildes rivales et à dominer le classement de votre région ? #nc
 
-Assemble your #b 4 strongest champions #nb and fight for your place in the #cffffd700 Grand Final in Manila #nc!
+Formez votre équipe avec vos #b 4 champions les plus puissants #nb et battez-vous pour décrocher votre place en #cffffd700 Grande Finale à Manille #nc !
 
-#b Tournament Regulations #nb
+#b Règlement du tournoi #nb
 
-#cff00aaff • #nc #b Match Attendance #nb
-You #b must #nb join your designated match. Failure to appear results in an immediate #cffff0000 disqualification #nc. Your opponent will receive points based on your remaining lives.
+#cff00aaff • #nc #b Présence au match #nb
+Vous #b devez #nb rejoindre le match qui vous est attribué. Toute absence entraîne une #cffff0000 disqualification immédiate #nc. Votre adversaire recevra des points en fonction du nombre de vies qu'il vous reste.
 
-#cff00aaff • #nc #b Reconnection Policy #nb
-In case of a disconnection, you have a #cff00ff00 90-second window #nc to rejoin.
-#b [!]#nb Limited to #b 3 attempts #nb per match.
+#cff00aaff • #nc #b Règles de reconnexion #nb
+En cas de déconnexion, vous disposez de #cff00ff00 90 secondes #nc pour rejoindre le match.
+#b [!]#nb Cette possibilité est limitée à #b 3 tentatives #nb par match.
 
-#cff00aaff • #nc #b Tournament Exit #nb
-Missing or failing to reconnect to more than #cffff0000 3 matches #nc total will result in an #b automatic permanent ban #nb from the current tournament.
+#cff00aaff • #nc #b Exclusion du tournoi #nb
+Toute absence ou impossibilité de se reconnecter à plus de #cffff0000 3 matchs #nc au total entraînera une #b exclusion définitive automatique #nb du tournoi en cours.
 
-#cff00aaff • #nc #b Daily Limit #nb
-To ensure peak performance, players are restricted to #cff00aaff 1 match per day #nc.
+#cff00aaff • #nc #b Limite quotidienne #nb
+Afin de garantir des conditions de jeu optimales, les joueurs sont limités à #cff00aaff 1 match par jour #nc.
