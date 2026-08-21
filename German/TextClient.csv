@@ -891,17 +891,17 @@ TEXTCLIENT_GUILDCOMBAT60_MAXLEVEL,Only characters who did not complete the secon
 TEXTCLIENT_GUILDCOMBAT165_MAXLEVEL,Only characters who did not complete the third class change can apply to this Lv165 Guild Siege.,Only characters who did not complete the third class change can apply to this Lv165 Guild Siege.
 TEXTCLIENT_GUILDCOMBAT_ENTER1,The Lv80 Guild Siege is held for this week.,Der Lvl 80 Gildenkrieg findet diese Woche statt. 
 TEXTCLIENT_GUILDCOMBAT_ENTER2,The Lv60 Guild Siege is held for this week.,Der Lvl 60 Gildenkrieg findet diese Woche statt.
-TEXTCLIENT_GUILDCOMBAT_ENTER3,The Lv165 Guild Siege is held for this week.,The Lv165 Guild Siege is held for this week.
-TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT1,Today's Lv80 Guild Siege will not be held due to lack of participants.,Today's Lv80 Guild Siege will not be held due to lack of participants.
-TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT2,Today's Lv60 Guild Siege will not be held due to lack of participants.,Today's Lv60 Guild Siege will not be held due to lack of participants.
-TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT3,Today's Lv165 Guild Siege will not be held due to lack of participants.,Today's Lv165 Guild Siege will not be held due to lack of participants.
+TEXTCLIENT_GUILDCOMBAT_ENTER3,The Lv165 Guild Siege is held for this week.,Der Lvl 165 Gildenkrieg findet diese Woche statt.
+TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT1,Today's Lv80 Guild Siege will not be held due to lack of participants.,Der heutige Lvl 80 Gildenkrieg findet mangels Teilnehmern nicht statt.
+TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT2,Today's Lv60 Guild Siege will not be held due to lack of participants.,Der heutige Lvl 60 Gildenkrieg findet mangels Teilnehmern nicht statt.
+TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT3,Today's Lv165 Guild Siege will not be held due to lack of participants.,Der heutige Lvl 165 Gildenkrieg findet mangels Teilnehmern nicht statt.
 TEXTCLIENT_GUILDCOMBAT_END1,The Level 80 Guild Siege has ended.,Level 80 Gildekrieg ist zu Ende.
 TEXTCLIENT_GUILDCOMBAT_END2,The Level 60 Guild Siege has ended.,Der Level 60 Gildenkrieg ist zu Ende.
-TEXTCLIENT_GUILDCOMBAT_END3,The Level 165 Guild Siege has ended.,The Level 165 Guild Siege has ended.
+TEXTCLIENT_GUILDCOMBAT_END3,The Level 165 Guild Siege has ended.,Der Level 165 Gildenkrieg ist zu Ende.
 TEXTCLIENT_GUILDCOMBAT_CHIPS,%d %s have been sent to your inventory or mail box.,%d %s wurden an dein Inventar oder deine Mailbox gesendet.
 TEXTCLIENT_GUILDCOMBAT_OPEN_MSG1,"From now on, Atlas in Flarine can let you into the Lv80 Guild Siege arena.",Von nun an kann Atlas in Flaris euch in die Lvl 80 Gildenkriegsarena lassen.
-TEXTCLIENT_GUILDCOMBAT_OPEN_MSG2,"From now on, Olivia in Flarine can let you into the Lv60 Guild Siege arena.",Von nun an kann Olivia in Flaris euch in die Lvl 60 Gildenriegsarena lassen.
-TEXTCLIENT_GUILDCOMBAT_OPEN_MSG3,"From now on, Prune in Flarine can let you into the Lv165 Guild Siege arena.","From now on, Prune in Flarine can let you into the Lv165 Guild Siege arena."
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG2,"From now on, Olivia in Flarine can let you into the Lv60 Guild Siege arena.",Von nun an kann Olivia in Flaris euch in die Lvl 60 Gildenkriegsarena lassen.
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG3,"From now on, Prune in Flarine can let you into the Lv165 Guild Siege arena.",Von nun an kann Prune in Flaris euch in die Lvl 165 Gildenkriegsarena lassen.
 TEXTCLIENT_GUILDCOMBAT_ANOTHER,Another Guild Siege is happening.,Es findet ein anderer Gildenkrieg statt.
 TEXTCLIENT_SKILL_ROOT,You cannot move right now.,Du kannst dich jetzt nicht bewegen. 
 TEXTCLIENT_WORLDBOSS_KILLED,%s has fallen!,%s ist gefallen!
@@ -1013,7 +1013,7 @@ TEXTCLIENT_PVPCONTEST_HAVENOT_MASTER,Guild leader has to participate to the FWC 
 TEXTCLIENT_PVPCONTEST_PRESTATE_PRELIMINARY,Registrations for FWC PVP Contest will end in an hour! Make sure you registered your guild to participate!,"Die Anmeldungen für den FWC PVP-Wettbewerb enden in einer Stunde! Stellt sicher, dass ihr eure Gilde registriert habt, um teilzunehmen!"
 TEXTCLIENT_PVPCONTEST_SELECTEDPLAYERS_EMPTY,There was an error with fetching your selected players list. Please try again.,Beim Abrufen der von dir ausgewählten Spielerliste ist ein Fehler aufgetreten. Bitte versuche es erneut.
 TEXTCLIENT_PVPCONTEST_SELECTEDMATCH_ERROR,You need to select a match.,Du musst ein Spiel auswählen.
-TEXTCLIENT_PVPCONTEST_SELECTEDMATCH_CONFIRM,"Thank you for confirming, your next match will start at %s today.","Thank you for confirming, your next match will start at %s today."
+TEXTCLIENT_PVPCONTEST_SELECTEDMATCH_CONFIRM,"Thank you for confirming, your next match will start at %s today.","Danke für deine Bestätigung, dein nächstes Spiel beginnt heute um %s."
 TEXTCLIENT_PVPCONTEST_NO_MEMBER,"Unable to use the member management function during FWC PVP Contest, or you're trying to edit a member that has been selected for the registration.","Die Funktion zur Mitgliederverwaltung kann während des FWC PVP Wettbewerbs nicht verwendet werden, oder du versuchst, ein Mitglied zu bearbeiten, das bereits für die Registrierung ausgewählt wurde."
 TEXTCLIENT_PVPCONTEST_NOT_CHANGE_NAME,You cannot change your guild name during FWC PVP Contest.,Du kannst deinen Gildennamen während des FWC PVP Wettbewerbs nicht ändern.
 TEXTCLIENT_PVPCONTEST_NOT_CHANGE_LOGO,You cannot change your guild logo during FWC PVP Contest.,Du kannst dein Gildenlogo während des FWC PVP Wettbewerbs nicht ändern.
@@ -1562,7 +1562,7 @@ TEXTCLIENT_MESSAGE_WARNING,Warning: '%s' is a regular player. Do not visit any w
 TEXTCLIENT_APP_DONATION,Donation,Spende
 TEXTCLIENT_APP_LORD,Lord Skills,Lord-Skills
 TEXTCLIENT_DONATION_START,Donation event %s +%d%% started!,Spenden-Event %s +%d%% hat begonnen!
-TEXTCLIENT_DONATION_END,Donation event %s +%d%% ended...,Spenden-Event %s +%d% ist zu Ende...
+TEXTCLIENT_DONATION_END,Donation event %s +%d%% ended...,Spenden-Event %s +%d%% ist zu Ende...
 TEXTCLIENT_DONATION_CONFIRM,You donated %s Penya to the %s event.,Du hast %s Penya für das Event %s gespendet.
 TEXTCLIENT_DONATION_MAIL,Congratulations for becoming the Lord of the week!,Glückwunsch! Du bist nun der Lord für diese Woche!
 TEXTCLIENT_DONATION_NOLORD,There is no Lord this week.,Diese Woche gibt es keinen Lord.
@@ -1578,44 +1578,44 @@ TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD_MAIL,You can't receive the reward for cle
 TEXTCLIENT_MYSTCASTLE_USE_FLOOR_TICKET_FAIL,Unable to use the Mysterious Castle Retry Coupon.,Der Mysteriöses-Schloss-Wiederholungscoupon konnte nicht verwendet werden.
 TEXTCLIENT_LORDSKILLS_NOT,Only the Lord can use this menu.,Nur der Lord kann dieses Menü nutzen.
 TEXTCLIENT_DUNGEON_ESCORT_DIED,Your escort died.,Dein Begleiter ist gestorben.
-TEXTCLIENT_WAVEDEFENSE_MATCHEND_TIMEOUT,Time out! You failed to clear the waves before the deadline.,Time out! You failed to clear the waves before the deadline.
-TEXTCLIENT_WAVEDEFENSE_MATCHEND_NODEFENDERS,Defeat! All your sailors have been eliminated.,Defeat! All your sailors have been eliminated.
-TEXTCLIENT_WAVEDEFENSE_MATCHEND_COMPLETED,Victory! You have successfully cleared every wave!,Victory! You have successfully cleared every wave!
-TEXTCLIENT_WAVEDEFENSE_CANTTELEPORT,You can't teleport in the match anymore. Match has ended.,You can't teleport in the match anymore. Match has ended.
-TEXTCLIENT_WAVEDEFENSE_ROOMNAMEEMPTY,The room name can't be empty!,The room name can't be empty!
-TEXTCLIENT_WAVEDEFENSE_ROOMNAMEINVALID,Room name must be between 4 and 32 characters.,Room name must be between 4 and 32 characters.
-TEXTCLIENT_WAVEDEFENSE_ROOMPASSWORDINVALID,Room password must be between 4 and 20 characters.,Room password must be between 4 and 20 characters.
-TEXTCLIENT_WAVEDEFENSE_ALREADYINMATCH,You are already in a Wave Defense match. Please wait for it to end or rejoin the game.,You are already in a Wave Defense match. Please wait for it to end or rejoin the game.
-TEXTCLIENT_PVPCONTEST_NOT_ENOUGH_PLAYER,You need at least %d players to register.,You need at least %d players to register.
-TEXTCLIENT_PVPCONTEST_REGION_EUROPE,Europe,Europe
-TEXTCLIENT_PVPCONTEST_REGION_AMERICA,America,America
-TEXTCLIENT_PVPCONTEST_REGION_ASIA,Asia,Asia
-TEXTCLIENT_PVPCONTEST_REGION_ALL,All,All
-TEXTCLIENT_PVPCONTEST_PRELIMINARYMATCHESENDANNOUNCEMENT_REGION,The FWC PVP Contest Preliminary %s UTC matches have ended! The next matches will start for region %s at %s UTC!,The FWC PVP Contest Preliminary %s UTC matches have ended! The next matches will start for region %s at %s UTC!
-TEXTCLIENT_PVPCONTEST_MAXMISSEDMATCHES,You missed too many matches. You are disqualified from the tournament.,You missed too many matches. You are disqualified from the tournament.
-TEXTCLIENT_PVPCONTEST_GUILDLEVEL_TOOLOW,Your guild must be at least Lv.%d to participate.,Your guild must be at least Lv.%d to participate.
-TEXTCLIENT_PVPCONTEST_ENDED,The FWC PVP Contest has ended!,The FWC PVP Contest has ended!
-TEXTCLIENT_PVPCONTEST_WINNER_GUILD_REGION,The winner of region %s is: %s! Congratulations!,The winner of region %s is: %s! Congratulations!
-TEXTCLIENT_PVPCONTEST_WINNER_NOGUILD_REGION,There is no winner for region %s!,There is no winner for region %s!
-TEXTCLIENT_RANKINGSYSTEM_MAIL,Congrats for reaching rank %d this week! Here is your reward.,Congrats for reaching rank %d this week! Here is your reward.
-TEXTCLIENT_WAVEDEFENSE_PLAYERNOTFOUND,That player doesn't exist!,That player doesn't exist!
-TEXTCLIENT_WAVEDEFENSE_INVITATIONREFUSED,Player %s declined your wave defense invitation.,Player %s declined your wave defense invitation.
-TEXTCLIENT_WAVEDEFENSE_JOINEDMATCH,Player %s joined the wave defense match!,Player %s joined the wave defense match!
-TEXTCLIENT_WAVEDEFENSE_INVITE,You successfully invited player %s to join the match.,You successfully invited player %s to join the match.
-TEXTCLIENT_WAVEDEFENSE_INVITEALREADYINMATCH,That player is already in the match!,That player is already in the match!
-TEXTCLIENT_WAVEDEFENSE_INVITEFAILED_LEVEL,Required player is at least level %d.,Required player is at least level %d.
-TEXTCLIENT_WAVEDEFENSE_WRONGPASSWORD,Room password is incorrect!,Room password is incorrect!
-TEXTCLIENT_WAVEDEFENSE_PLAYERINMATCH,That player is already in a match.,That player is already in a match.
-TEXTCLIENT_WAVEDEFENSE_KICK,You have been kicked of the wave defense match.,You have been kicked of the wave defense match.
-TEXTCLIENT_WAVEDEFENSE_NO_OUTWAR,You cannot use Blinkwings to escape the wave defense.,You cannot use Blinkwings to escape the wave defense.
-TEXTCLIENT_WAVEDEFENSE_MILESTONE_CLAIM,You received %dx %s,You received %dx %s
-TEXTCLIENT_WAVEDEFENSE_MILESTONEALREADYCLAIMED,You received already claimed that milestone.,You received already claimed that milestone.
-TEXTCLIENT_WAVEDEFENSE_NOMATCHFOUND,Match not found. Please try again.,Match not found. Please try again.
-TEXTCLIENT_WAVEDEFENSE_MILESTONE_NOTPARTICIPATED,You must personally clear wave %d in a Wave Defense match to claim this reward (your best: wave %d).,You must personally clear wave %d in a Wave Defense match to claim this reward (your best: wave %d).
-TEXTCLIENT_WAVEDEFENSE_FIRSTAIDKIT_NODEADCREW,You already have the maximum sailors.,You already have the maximum sailors.
-TEXTCLIENT_WAVEDEFENSE_FIRSTAIDKIT_SUCCESS,You successfully revived a sailor.,You successfully revived a sailor.
-TEXTCLIENT_WAVEDEFENSE_DAILYLIMITREACHED,You have reached the daily limit of %d Wave Defense matches.,You have reached the daily limit of %d Wave Defense matches.
-TEXTCLIENT_WAVEDEFENSE_SKIPDISABLED,Skipping is no longer available from round %d onward.,Skipping is no longer available from round %d onward.
-TEXTCLIENT_WAVEDEFENSE_WAVESTART,Monsters are approaching...,Monsters are approaching...
-TEXTCLIENT_WAVEDEFENSE_BOSSSPAWN,A boss is coming!,A boss is coming!
-TEXTCLIENT_WAVEDEFENSE_CLEARREWARD,Congratulations on clearing the match! You have received your rewards.,Congratulations on clearing the match! You have received your rewards.
+TEXTCLIENT_WAVEDEFENSE_MATCHEND_TIMEOUT,Time out! You failed to clear the waves before the deadline.,"Zeit abgelaufen! Du hast es nicht geschafft, die Wellen vor Ablauf der Frist zu bewältigen."
+TEXTCLIENT_WAVEDEFENSE_MATCHEND_NODEFENDERS,Defeat! All your sailors have been eliminated.,Niederlage! Alle deine Matrosen wurden eliminiert.
+TEXTCLIENT_WAVEDEFENSE_MATCHEND_COMPLETED,Victory! You have successfully cleared every wave!,Sieg! Du hast erfolgreich jede Welle bewältigt!
+TEXTCLIENT_WAVEDEFENSE_CANTTELEPORT,You can't teleport in the match anymore. Match has ended.,Du kannst dich im Spiel nicht mehr teleportieren. Das Spiel ist beendet.
+TEXTCLIENT_WAVEDEFENSE_ROOMNAMEEMPTY,The room name can't be empty!,Der Raumname darf nicht leer sein!
+TEXTCLIENT_WAVEDEFENSE_ROOMNAMEINVALID,Room name must be between 4 and 32 characters.,Der Raumname muss zwischen 4 und 32 Zeichen lang sein.
+TEXTCLIENT_WAVEDEFENSE_ROOMPASSWORDINVALID,Room password must be between 4 and 20 characters.,Das Raumpasswort muss zwischen 4 und 20 Zeichen lang sein.
+TEXTCLIENT_WAVEDEFENSE_ALREADYINMATCH,You are already in a Wave Defense match. Please wait for it to end or rejoin the game.,"Du befindest dich bereits in einem Wave-Defense-Match. Bitte warte, bis es endet, oder tritt dem Spiel erneut bei."
+TEXTCLIENT_PVPCONTEST_NOT_ENOUGH_PLAYER,You need at least %d players to register.,"Du benötigst mindestens %d Spieler, um dich zu registrieren."
+TEXTCLIENT_PVPCONTEST_REGION_EUROPE,Europe,Europa
+TEXTCLIENT_PVPCONTEST_REGION_AMERICA,America,Amerika
+TEXTCLIENT_PVPCONTEST_REGION_ASIA,Asia,Asien
+TEXTCLIENT_PVPCONTEST_REGION_ALL,All,Alle
+TEXTCLIENT_PVPCONTEST_PRELIMINARYMATCHESENDANNOUNCEMENT_REGION,The FWC PVP Contest Preliminary %s UTC matches have ended! The next matches will start for region %s at %s UTC!,Die FWC PVP Wettbewerb Vorrunden-Spiele um %s UTC sind beendet! Die nächsten Spiele für die Region %s beginnen um %s UTC!
+TEXTCLIENT_PVPCONTEST_MAXMISSEDMATCHES,You missed too many matches. You are disqualified from the tournament.,Du hast zu viele Spiele verpasst. Du bist vom Turnier disqualifiziert.
+TEXTCLIENT_PVPCONTEST_GUILDLEVEL_TOOLOW,Your guild must be at least Lv.%d to participate.,"Deine Gilde muss mindestens Level %d sein, um teilzunehmen."
+TEXTCLIENT_PVPCONTEST_ENDED,The FWC PVP Contest has ended!,Der FWC PVP Wettbewerb ist beendet!
+TEXTCLIENT_PVPCONTEST_WINNER_GUILD_REGION,The winner of region %s is: %s! Congratulations!,Der Gewinner der Region %s ist: %s! Herzlichen Glückwunsch!
+TEXTCLIENT_PVPCONTEST_WINNER_NOGUILD_REGION,There is no winner for region %s!,Es gibt keinen Gewinner für die Region %s!
+TEXTCLIENT_RANKINGSYSTEM_MAIL,Congrats for reaching rank %d this week! Here is your reward.,Glückwunsch zum Erreichen von Rang %d diese Woche! Hier ist deine Belohnung.
+TEXTCLIENT_WAVEDEFENSE_PLAYERNOTFOUND,That player doesn't exist!,Dieser Spieler existiert nicht!
+TEXTCLIENT_WAVEDEFENSE_INVITATIONREFUSED,Player %s declined your wave defense invitation.,Spieler %s hat deine Wave-Defense-Einladung abgelehnt.
+TEXTCLIENT_WAVEDEFENSE_JOINEDMATCH,Player %s joined the wave defense match!,Spieler %s ist dem Wave-Defense-Match beigetreten!
+TEXTCLIENT_WAVEDEFENSE_INVITE,You successfully invited player %s to join the match.,"Du hast Spieler %s erfolgreich eingeladen, dem Spiel beizutreten."
+TEXTCLIENT_WAVEDEFENSE_INVITEALREADYINMATCH,That player is already in the match!,Dieser Spieler befindet sich bereits im Spiel!
+TEXTCLIENT_WAVEDEFENSE_INVITEFAILED_LEVEL,Required player is at least level %d.,Der Spieler muss mindestens Level %d sein.
+TEXTCLIENT_WAVEDEFENSE_WRONGPASSWORD,Room password is incorrect!,Das Raumpasswort ist falsch!
+TEXTCLIENT_WAVEDEFENSE_PLAYERINMATCH,That player is already in a match.,Dieser Spieler befindet sich bereits in einem Spiel.
+TEXTCLIENT_WAVEDEFENSE_KICK,You have been kicked of the wave defense match.,Du wurdest aus dem Wave-Defense-Match entfernt.
+TEXTCLIENT_WAVEDEFENSE_NO_OUTWAR,You cannot use Blinkwings to escape the wave defense.,Du kannst den Blinkwing nicht zur Flucht aus dem Wave Defense nutzen.
+TEXTCLIENT_WAVEDEFENSE_MILESTONE_CLAIM,You received %dx %s,Du hast %dx %s erhalten
+TEXTCLIENT_WAVEDEFENSE_MILESTONEALREADYCLAIMED,You received already claimed that milestone.,Du hast diesen Meilenstein bereits erhalten.
+TEXTCLIENT_WAVEDEFENSE_NOMATCHFOUND,Match not found. Please try again.,Spiel nicht gefunden. Bitte versuche es erneut.
+TEXTCLIENT_WAVEDEFENSE_MILESTONE_NOTPARTICIPATED,You must personally clear wave %d in a Wave Defense match to claim this reward (your best: wave %d).,"Du musst persönlich Welle %d in einem Wave-Defense-Match schaffen, um diese Belohnung zu erhalten (deine beste: Welle %d)."
+TEXTCLIENT_WAVEDEFENSE_FIRSTAIDKIT_NODEADCREW,You already have the maximum sailors.,Du hast bereits die maximale Anzahl an Matrosen.
+TEXTCLIENT_WAVEDEFENSE_FIRSTAIDKIT_SUCCESS,You successfully revived a sailor.,Du hast erfolgreich einen Matrosen wiederbelebt.
+TEXTCLIENT_WAVEDEFENSE_DAILYLIMITREACHED,You have reached the daily limit of %d Wave Defense matches.,Du hast das tägliche Limit von %d Wave-Defense-Matches erreicht.
+TEXTCLIENT_WAVEDEFENSE_SKIPDISABLED,Skipping is no longer available from round %d onward.,Ab Runde %d ist das Überspringen nicht mehr möglich.
+TEXTCLIENT_WAVEDEFENSE_WAVESTART,Monsters are approaching...,Monster nähern sich...
+TEXTCLIENT_WAVEDEFENSE_BOSSSPAWN,A boss is coming!,Ein Boss erscheint!
+TEXTCLIENT_WAVEDEFENSE_CLEARREWARD,Congratulations on clearing the match! You have received your rewards.,Glückwunsch zum Abschluss des Spiels! Du hast deine Belohnungen erhalten.
