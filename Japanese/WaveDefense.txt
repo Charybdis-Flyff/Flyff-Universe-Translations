@@ -1,17 +1,17 @@
-﻿#b#cff00ffffTHE LAST BEACON: MISSION MANILA#nc#nb
+﻿#b#cff00ffffザ・ラストビーコン：ミッション・マニラ#nc#nb
 
-#cffffffffThe shipwreck was only the beginning.#nc The wrecked guild ship’s magical power source is leaking unstable energy, acting as a #b#cffff0000cursed beacon#nc#nb in the deep. This surge of power has become a massive lure, attracting the most relentless monsters of the abyss.
+#cffffffff難破はほんの始まりに過ぎなかった。#nc 難破したギルド船の魔力源が不安定なエネルギーを漏らし続け、深海で#b#cffff0000呪われたビーコン#nc#nbと化している。この力の奔流は巨大な誘引装置となり、深淵に潜む最も執拗なモンスターたちを引き寄せている。
 
-#b[MISSION BRIEFING]#nb
-#cffffff00Eight elite agents#nc must team up to #b#cff00ff00protect the 20 terrified sailors#nc#nb until the very end. Fend off 20 relentless waves of enemies and prove your mettle.
+#b[ミッション概要]#nb
+#cffffff00精鋭エージェント8名#nc が力を合わせ、#b#cff00ff00怯える20名の船員を最後まで守り抜く#nc#nbのだ。20波にわたる容赦なき敵の猛攻を退け、その実力を証明せよ。
 
-#b[ENEMY TYPES]#nb
-#b#cffff0000Common#nc#nb enemies are standard attackers.
-#b#cffff0000Healthy#nc#nb enemies have high HP and resist physical damage.
-#b#cffff0000Fast#nc#nb enemies move quickly and resist magic damage.
-#b#cffff0000Explosive#nc#nb enemies detonate on death.
+#b[敵の種類]#nb
+#b#cffff0000コモン#nc#nb：標準的な攻撃を行う敵。
+#b#cffff0000ヘルシー#nc#nb：HPが高く、物理ダメージへの耐性を持つ敵。
+#b#cffff0000ファスト#nc#nb：素早く動き、魔法ダメージへの耐性を持つ敵。
+#b#cffff0000エクスプローシブ#nc#nb：死亡時に爆発する敵。
 
-#b"You are the final line of defense between the survivors and total annihilation. Every second counts, and every position is critical."#nb
+#b「お前たちが、生存者たちと全滅の間に立つ最後の防衛線だ。一秒一秒が勝負を分け、どの持ち場も重要になる。」#nb
 
-#b[THE CHALLENGE]#nb
-The team that demonstrates the #b#cffffffffmost perfect defense#nc#nb will receive the ultimate honor. Are you ready to turn this tragedy into a record of great victory with your companions?
+#b[試練]#nb
+#b#cffffffff最も完璧な防衛#nc#nbを見せたチームには、最高の栄誉が贈られる。仲間たちとともに、この悲劇を偉大な勝利の記録へと変える準備はできているか？

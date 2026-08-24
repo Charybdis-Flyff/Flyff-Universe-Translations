@@ -1225,5 +1225,5 @@ PROPSKILL_TXT_100203,Stun,Stun
 PROPSKILL_TXT_100204,You are stunned and cannot move.,You are stunned and cannot move.
 PROPSKILL_TXT_100205,Sand Shield,Sand Shield
 PROPSKILL_TXT_100206,Incoming damage is reduced to 1 for 5 seconds.,Incoming damage is reduced to 1 for 5 seconds.
-PROPSKILL_TXT_150642,Wave Defense Buff,Wave Defense Buff
-PROPSKILL_TXT_150643,"Reinforced by your fellow defenders. Increases Attack, Speed, Defense, and Max HP based on the number of defenders present.","Reinforced by your fellow defenders. Increases Attack, Speed, Defense, and Max HP based on the number of defenders present."
+PROPSKILL_TXT_150642,Wave Defense Buff,ウェーブディフェンスバフ
+PROPSKILL_TXT_150643,"Reinforced by your fellow defenders. Increases Attack, Speed, Defense, and Max HP based on the number of defenders present.","仲間の守備隊員によって強化される。生存中の守備隊員の数に応じて攻撃力、速度、防御力、最大HPが増加する。"
