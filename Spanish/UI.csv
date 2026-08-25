@@ -1515,7 +1515,7 @@ UI_CHAT_TALK,Unmute,Quitar silencio
 UI_CHAT_IGNORE,Ignore,Ignorar
 UI_CHAT_UNIGNORE,Unignore,Quitar ignoración
 UI_SELECTSERVER_US,America,América
-UI_SELECTSERVER_EU,Europe,Eupora
+UI_SELECTSERVER_EU,Europe,Europa
 UI_SELECTSERVER_ASIA,Asia,Asia
 UI_SELECTSERVER_LABEL,Select your Server and Channel:,Selecciona tu Servidor y Canal:
 UI_GUILDBANK_BAGS,Bags,Mochilas
