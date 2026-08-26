@@ -1,20 +1,20 @@
-﻿#b PVP Contest: The Road to Glory #nb
+﻿#b PVPコンテスト：栄光への道 #nb
 
-#cff00ccff Will you defeat every rival guild and dominate your region's ladder? #nc
+#cff00ccff すべてのライバルギルドを打ち破り、あなたの地域のランキングを制覇できるか？ #nc
 
-Assemble your #b 4 strongest champions #nb and fight for your place in the #cffffd700 Grand Final in Manila #nc!
+最強のチャンピオン#b 4名 #nbを集結させ、#cffffd700 マニラでのグランドファイナル #nc出場権をかけて戦おう！
 
-#b Tournament Regulations #nb
+#b 大会規定 #nb
 
-#cff00aaff • #nc #b Match Attendance #nb
-You #b must #nb join your designated match. Failure to appear results in an immediate #cffff0000 disqualification #nc. Your opponent will receive points based on your remaining lives.
+#cff00aaff • #nc #b 試合参加 #nb
+指定された試合には#b 必ず #nb参加してください。出場しなかった場合、即座に#cffff0000 失格 #ncとなります。対戦相手には、あなたの残りライフ数に応じたポイントが与えられます。
 
-#cff00aaff • #nc #b Reconnection Policy #nb
-In case of a disconnection, you have a #cff00ff00 90-second window #nc to rejoin.
-#b [!]#nb Limited to #b 3 attempts #nb per match.
+#cff00aaff • #nc #b 再接続ポリシー #nb
+接続が切断された場合、#cff00ff00 90秒間 #ncの猶予時間内に再接続できます。
+#b [!]#nb 1試合につき#b 3回まで #nb。
 
-#cff00aaff • #nc #b Tournament Exit #nb
-Missing or failing to reconnect to more than #cffff0000 3 matches #nc total will result in an #b automatic permanent ban #nb from the current tournament.
+#cff00aaff • #nc #b 大会からの除外 #nb
+合計で#cffff0000 3試合 #ncを超えて不参加または再接続に失敗した場合、現在の大会から#b 自動的に永久追放 #nbとなります。
 
-#cff00aaff • #nc #b Daily Limit #nb
-To ensure peak performance, players are restricted to #cff00aaff 1 match per day #nc.
+#cff00aaff • #nc #b 1日の制限 #nb
+最高のパフォーマンスを維持するため、プレイヤーは#cff00aaff 1日1試合 #ncまでに制限されます。
