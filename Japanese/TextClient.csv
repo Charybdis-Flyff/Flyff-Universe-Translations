@@ -881,8 +881,8 @@ TEXTCLIENT_APP_BATTLEPASS,Flyff Pass,バトルパス
 TEXTCLIENT_BATTLEPASS_MISSIONCOMPLETE,%s mission %s completed.,%s ミッション %s が完了しました。
 TEXTCLIENT_BATTLEPASS_GETPOINTS,You received %d %s points.,%d %sポイントを獲得しました。
 TEXTCLIENT_BATTLEPASS_RESET,The %s season has been reset!,%s シーズンがリセットされました!
-TEXTCLIENT_BATTLEPASS_NEWRANK,You reached the %s grade %d!,%s のグレード %d に達しました!
-TEXTCLIENT_BATTLEPASS_NEWBONUSRANK,You reached the %s bonus grade %d+%d!,%sボーナス等級%d+%dに到達しました！
+TEXTCLIENT_BATTLEPASS_NEWRANK,You reached the %s grade %d!,%s のティアが %d に到達しました!
+TEXTCLIENT_BATTLEPASS_NEWBONUSRANK,You reached the %s bonus grade %d+%d!,%s のボーナスティアが %d+%d に到達しました！
 TEXTCLIENT_BATTLEPASS_ENDED,There is no more active Flyff Pass.,アクティブなバトルパスはもうありません。
 TEXTCLIENT_BATTLEPASS_PAID,Thank you for purchasing the Extended %s!,拡張%sをお買い上げいただきありがとうございます!
 TEXTCLIENT_BATTLEPASS_PURCHASE_PAID,Purchase the Extended %s to receive more rewards!,拡張 %s を購入すると、より多くの報酬を獲得できます!
@@ -980,7 +980,7 @@ TEXTCLIENT_ACHIEVEMENT_COLLECTION_ERROR_7,Achievement collection error 07.,ア�
 TEXTCLIENT_ACHIEVEMENT_COLLECTIONSUCCESS,Costumes successfully submitted.,コスチュームが無事に提出されました。
 TEXTCLIENT_ACHIEVEMENT_LEVEL,"You reached %d of ""%s""",%d レベルに到達しました。実績: %s
 TEXTCLIENT_MESSAGE_TOO_LONG,Your message exceeds the maximum length.,メッセージの長さが最大文字数を超えています。
-TEXTCLIENT_FREEZE_NOTUSE,You cannot teleport if you're frozen.,凍り付いているとテレポートできません。
+TEXTCLIENT_FREEZE_NOTUSE,You cannot teleport if you're frozen.,取り込み中のためテレポートできません。
 TEXTCLIENT_MINLVLTRADE,You must reach level %d to trade premium items.,プレミアムアイテムを交換するには、レベル%dに到達する必要があります。
 TEXTCLIENT_MINLVLMOTION,You must reach level %d to use this emote.,このモーションを使用するには、レベル %d に到達する必要があります。
 TEXTCLIENT_APP_SWITCHEQUIP,Switch Equip,装備切替
@@ -1150,7 +1150,7 @@ TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOGOLDS,You don't have enough Penya in your 
 TEXTCLIENT_GUILDHOUSING_ARTIFACTNOTICE_PLACEMENT,"Your guild can now place the ship artifact! Check the Guild window tab ""Housing"" for more information.",これでギルドは船のアーティファクトを設置できるようになりました!詳細については、ギルドウィンドウタブの「ハウジング」を確認してください。
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTTIME,It's not time to set the artifact spawn position yet.,アーティファクトの出現位置をまだ設定する時期ではありません。
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTSET,Your guild has lost ownership of the guild ship as no Artifact was placed this week.,今週アーティファクトが設置されなかったため、ギルドはギルド船の所有権を失いました。
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_ANNOUNCE,Guild Ship Artifacts have spawned! Hunt them for ownership of the ship on the PK channel!,ギルド船のアーティファクトが出現しました!PKチャンネルで船の所有権を求めて彼らを狩りましょう!
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ANNOUNCE,Guild Ship Artifacts have spawned! Hunt them for ownership of the ship on the PK channel!,ギルド船のアーティファクトが出現しました!PKチャンネルで船の所有権を求めてアーティファクトを破壊しましょう!
 TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_1,Your team has destroyed a guild ship artifact! That guild ship now belongs to your guild!,あなたのチームがギルド船のアーティファクトを破壊しました!そのギルド船は今、あなたのギルドに属しています!
 TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_2,Your team has destroyed a guild ship artifact!,あなたのチームがギルド船のアーティファクトを破壊しました!
 TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_REWARD_1,%s Penya has been deposited into your guild bank. Congratulations!,%s ペニャがギルドバンクに入金されました。
@@ -1177,7 +1177,7 @@ TEXTCLIENT_HOUSINGPRESETS_SUCCESS01,You can now have a maximum of %d housing pre
 TEXTCLIENT_HOUSING_NOSHOP,You can't open a private shop in houses!,ハウスで個人商店を開くことはできません!
 TEXTCLIENT_HOUSING_NORETURNSCROLL,You cannot use a return scroll in houses!,家の中では返却巻物は使えません!
 TEXTCLIENT_RANDOMSCROLL_BEST,This item already has the best random stat possible.,このアイテムは、すでに可能な限り最高のランダムステータスを持っています。
-TEXTCLIENT_DUNGEON_CUSTOM_OBJECTIVE,%d minute(s) remaining to %s,残り%d分、%sまで
+TEXTCLIENT_DUNGEON_CUSTOM_OBJECTIVE,%d minute(s) remaining to %s,残り%d分: %s
 TEXTCLIENT_RAINBOWRACE_BLINK,You cannot teleport during the rainbow race.,レインボーレース中にテレポートすることはできません。
 TEXTCLIENT_RAINBOWRACE_DISQUALIFY,You have been disqualified from the race.,あなたはレースから失格となりました。
 TEXTCLIENT_RAINBOWRACE_PREANNOUNCE,The Rainbow Race will begin in 10 minutes! Register in Darken City.,まもなく10分後にレインボーレース開始！参加登録はダーコンへ！

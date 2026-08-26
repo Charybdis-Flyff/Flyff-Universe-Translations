@@ -1568,7 +1568,7 @@ UI_BATTLEPASS_MISSION_ARENA,Defeat an Opponent or Be Defeated in the Arena,ア�
 UI_BATTLEPASS_MISSION_HARVEST,Harvest Berries,ベリーを収穫する
 UI_BATTLEPASS_MISSION_RAISEPET,Raise a Pet to %s,育成ペットを %s に上げる
 UI_BATTLEPASS_POINTS,Points,ポイント
-UI_BATTLEPASS_PASSGRADE,Pass Tier,合格点
+UI_BATTLEPASS_PASSGRADE,Pass Tier,ティア
 UI_BATTLEPASS_INFO,%s ends at: #b%s#nb (Server Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d.#ni,%s シーズン終了: #b%s#nb（サーバー時間）\n今週の獲得可能ポイント: #b%d / %d#nb\nシーズンミッションで獲得した#iPoints は週の上限には含まれません。#ni\n#iSome 報酬はレベル%d#niに到達すると強化されます
 UI_BATTLEPASS_PURCHASE,Purchase Extended Pass,拡張バトルパスを購入する
 UI_BATTLEPASS_CLAIM,Claim Rewards,報酬を受け取る
