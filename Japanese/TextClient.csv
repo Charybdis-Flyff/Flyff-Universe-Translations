@@ -1013,7 +1013,7 @@ TEXTCLIENT_PVPCONTEST_HAVENOT_MASTER,Guild leader has to participate to the FWC 
 TEXTCLIENT_PVPCONTEST_PRESTATE_PRELIMINARY,Registrations for FWC PVP Contest will end in an hour! Make sure you registered your guild to participate!,FWC PVPコンテストの登録は1時間後に終了します!参加するには、必ずギルドを登録してください!
 TEXTCLIENT_PVPCONTEST_SELECTEDPLAYERS_EMPTY,There was an error with fetching your selected players list. Please try again.,選択したプレイヤーリストの取得中にエラーが発生しました。もう一度やり直してください。
 TEXTCLIENT_PVPCONTEST_SELECTEDMATCH_ERROR,You need to select a match.,一致するものを選択する必要があります。
-TEXTCLIENT_PVPCONTEST_SELECTEDMATCH_CONFIRM,"Thank you for confirming, your next match will start at %s today.","Thank you for confirming, your next match will start at %s today."
+TEXTCLIENT_PVPCONTEST_SELECTEDMATCH_CONFIRM,"Thank you for confirming, your next match will start at %s today.","確認ありがとうございます。次の試合は本日%sに開始されます。"
 TEXTCLIENT_PVPCONTEST_NO_MEMBER,"Unable to use the member management function during FWC PVP Contest, or you're trying to edit a member that has been selected for the registration.",FWC PVPコンテスト中にメンバー管理機能を利用できない、または登録に選ばれたメンバーを編集しようとしています。
 TEXTCLIENT_PVPCONTEST_NOT_CHANGE_NAME,You cannot change your guild name during FWC PVP Contest.,FWC PvPコンテスト中にギルド名を変更することはできません。
 TEXTCLIENT_PVPCONTEST_NOT_CHANGE_LOGO,You cannot change your guild logo during FWC PVP Contest.,FWC PvPコンテスト中にギルドのロゴを変更することはできません。
@@ -1562,7 +1562,7 @@ TEXTCLIENT_MESSAGE_WARNING,Warning: '%s' is a regular player. Do not visit any w
 TEXTCLIENT_APP_DONATION,Donation,寄付
 TEXTCLIENT_APP_LORD,Lord Skills,ロードスキル
 TEXTCLIENT_DONATION_START,Donation event %s +%d%% started!,寄付イベント%s +%d%%が開始しました！
-TEXTCLIENT_DONATION_END,Donation event %s +%d%% ended...,寄付イベント%s +%d%が終了しました…
+TEXTCLIENT_DONATION_END,Donation event %s +%d%% ended...,寄付イベント%s +%d%%が終了しました…
 TEXTCLIENT_DONATION_CONFIRM,You donated %s Penya to the %s event.,%sペニャを%sイベントに寄付しました。
 TEXTCLIENT_DONATION_MAIL,Congratulations for becoming the Lord of the week!,週間ロード就任おめでとうございます！
 TEXTCLIENT_DONATION_NOLORD,There is no Lord this week.,今週のロードはいません。
