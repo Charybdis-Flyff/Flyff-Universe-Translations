@@ -881,8 +881,8 @@ TEXTCLIENT_APP_BATTLEPASS,Flyff Pass,バトルパス
 TEXTCLIENT_BATTLEPASS_MISSIONCOMPLETE,%s mission %s completed.,%s ミッション %s が完了しました。
 TEXTCLIENT_BATTLEPASS_GETPOINTS,You received %d %s points.,%d %sポイントを獲得しました。
 TEXTCLIENT_BATTLEPASS_RESET,The %s season has been reset!,%s シーズンがリセットされました!
-TEXTCLIENT_BATTLEPASS_NEWRANK,You reached the %s grade %d!,%s のパスランクが %d に到達しました!
-TEXTCLIENT_BATTLEPASS_NEWBONUSRANK,You reached the %s bonus grade %d+%d!,%s のボーナスランクが %d+%d に到達しました！
+TEXTCLIENT_BATTLEPASS_NEWRANK,You reached the %s grade %d!,%s のティアが %d に到達しました!
+TEXTCLIENT_BATTLEPASS_NEWBONUSRANK,You reached the %s bonus grade %d+%d!,%s のボーナスティアが %d+%d に到達しました！
 TEXTCLIENT_BATTLEPASS_ENDED,There is no more active Flyff Pass.,アクティブなバトルパスはもうありません。
 TEXTCLIENT_BATTLEPASS_PAID,Thank you for purchasing the Extended %s!,拡張%sをお買い上げいただきありがとうございます!
 TEXTCLIENT_BATTLEPASS_PURCHASE_PAID,Purchase the Extended %s to receive more rewards!,拡張 %s を購入すると、より多くの報酬を獲得できます!
