@@ -7586,8 +7586,8 @@ PROPITEM_TXT_100972,Beach Box A,ビーチボックスA
 PROPITEM_TXT_100973,Beach Box B,ビーチボックスB
 PROPITEM_TXT_100974,Superior Beach Box A,スーペリア ビーチ ボックス A
 PROPITEM_TXT_100975,Superior Beach Box B,スーペリア ビーチ ボックス B
-PROPITEM_TXT_100976,There is a chance to get a time-limited soul-linked Beachwear Costume Box.,期間限定の帰属ビーチウェア衣装ボックスを獲得するチャンスがあります。
-PROPITEM_TXT_100977,There is a chance to get a time-limited soul-linked Swimwear Costume Box.,期間限定の帰属水着コスチュームボックスが手に入るチャンスです。
+PROPITEM_TXT_100976,There is a chance to get a time-limited soul-linked Beachwear Costume Box.,期間限定のキャラ帰属のビーチウェア衣装ボックスを獲得するチャンスがあります。
+PROPITEM_TXT_100977,There is a chance to get a time-limited soul-linked Swimwear Costume Box.,期間限定のキャラ帰属の水着コスチュームボックスが手に入るチャンスです。
 PROPITEM_TXT_100978,There is a chance to get a Scroll of SProtect or a Beachwear Costume Box.,鍛冶屋の心得・精錬編またはビーチウェアコスチュームボックスを獲得できるチャンスがあります。
 PROPITEM_TXT_100979,There is a chance to get a Scroll of SProtect or a Swimwear Costume Box.,一定確率で鍛冶屋の心得・精錬編や水着ウェアコスチュームボックスを獲得できます。
 PROPITEM_TXT_100980,Baby Shark Costume Lucky Box,ベビーシャークコスチュームラッキーボックス
@@ -24838,11 +24838,11 @@ PROPITEM_TXT_155642,Select which Warrior Horse you want to receive!,受け取り
 PROPITEM_TXT_155643,Demian Server Welcome Coupon,Demianサーバーウェルカムクーポン
 PROPITEM_TXT_155644,"A package containing 5x [Event] Adventurer's Fortune Flask (3 Days), 12x Scroll of Amplification ES, 3x Activation, 10x Vital Drink X or Refresher Hold, 1x Extra Bag (30 days), 10x Blinkwing of Madrigal, 5x Def-Upcut Stone, 10x Scroll of Resurrection, 1x Madrigal Flying Selection Box (30 days), 1x Madrigal PickupPet Selection Box (30 days), 1x I am PANG! and 1x Aura Selection Box (15 days). All items are Soul-Linked.",[イベント]冒険者のフォーチュンフラスコ(3日)x5、戦神の巻物ESx12、アクティビションx3、スタミナドリンクXまたは魔力ドリンクゴールドx10、魔法の携帯バッグ(30日)x1、ブリンクウイング（マドリガル）x10、ディフェンスストーンx5、復活の巻物x10、マドリガルフライングセレクションボックス(30日)x1、マドリガルピックアップペットセレクションボックス(30日)x1、I am PANG!x1、オーラセレクションボックス(15日)x1が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
 PROPITEM_TXT_155645,FWC 2025 Shiny Bloody Tiger,FWC2025シャイニー・ブラッディータイガー
-PROPITEM_TXT_155646,[Soul-Linked] 2025 Mycard Promotion Box A,[魂の絆]2025 MyCardプロモーションボックスA
+PROPITEM_TXT_155646,[Soul-Linked] 2025 Mycard Promotion Box A,[キャラ帰属]2025 MyCardプロモーションボックスA
 PROPITEM_TXT_155647,"A package containing 3x Scroll of Amplification ES, 3x Upcut Stone, 7x Def-Upcut Stone and 3x Vital Drink X or Refresher Hold. All items are Soul-Linked.",戦神の巻物ESx3、パワーストーンx3、ディフェンスストーンx7、スタミナドリンクXまたは魔力ドリンクゴールドx3が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_155648,[Soul-Linked] 2025 Mycard Promotion Box B,[魂の絆]2025 MyCardプロモーションボックスB
+PROPITEM_TXT_155648,[Soul-Linked] 2025 Mycard Promotion Box B,[キャラ帰属]2025 MyCardプロモーションボックスB
 PROPITEM_TXT_155649,"A package containing 10x Grilled Eel, 3x Power Scroll, 10x Flask Box and 1x Blue Snowboarder Set. All items are Soul-Linked.",グリルド・イールx10、豪傑のスクロール(B)x3、秘薬ボックスx10、ブルースノーボーダーセットx1が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_155650,[Soul-Linked] 2025 Mycard Promotion Box C,[魂の絆]2025 MyCardプロモーションボックスC
+PROPITEM_TXT_155650,[Soul-Linked] 2025 Mycard Promotion Box C,[キャラ帰属]2025 MyCardプロモーションボックスC
 PROPITEM_TXT_155651,"A package containing 10x Scroll of Amplification ES, 10x Power Scroll, 10x Balloon Select Box(6h), 1x Extra Bag (30 days), 10x Scroll of SProtect and 1x Winter Casual 10% Black Set. All items are Soul-Linked.",戦神の巻物ESx10、豪傑のスクロール(B)x10、バルーンセレクトボックス(6時間)x10、魔法の携帯バッグ(30日)x1、鍛冶屋の心得・精錬編x10、ウィンターカジュアル10%ブラックセットx1が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
 PROPITEM_TXT_155652,Winter Costume Select Box 1,ウィンターコスチューム選択ボックス1
 PROPITEM_TXT_155653,Select which Winter Costume you want to receive!,受け取りたいウィンターコスチュームを選択してください！

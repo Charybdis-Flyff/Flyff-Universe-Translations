@@ -796,7 +796,7 @@ TEXTCLIENT_BOUNTYINPUT_WAIT,You must wait before registering a bounty on this pl
 TEXTCLIENT_BOUNTYPOS_OFFLINE,%s is currently offline.,%sは現在オフラインです。
 TEXTCLIENT_INVENTORYSPACE,Your inventory space increased by %d!,インベントリのスペースが%d増加しました！
 TEXTCLIENT_UPGRADEANNOUNCE,%s upgraded %s to %s+%d!,%s が %s を %s+%dに精錬成功！
-TEXTCLIENT_UPGRADEANNOUNCE_BOUND,%s upgraded [Soul-Bound] %s to %s+%d!,%s が[装備帰属] %s を %s+%dに精錬成功！
+TEXTCLIENT_UPGRADEANNOUNCE_BOUND,%s upgraded [Soul-Bound] %s to %s+%d!,%s が[キャラ帰属] %s を %s+%dに精錬成功！
 TEXTCLIENT_LEVELUPANNOUNCE,%s reached level %d!,%sがレベル%dに達しました！
 TEXTCLIENT_APP_GACHA,Gacha,ガチャ
 TEXTCLIENT_GACHA_RESET_SUCCESS,The box has been successfully reset.,ボックスは正常にリセットされました。
