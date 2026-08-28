@@ -2789,7 +2789,7 @@ UI_PRIVATE_SHOP_ADSOPEN,Your Shop Advertisement item will be consumed.,ショッ
 UI_PRIVATE_SHOP_ADSCLOSE,Your Shop Advertisement item cannot be reused.,ショップ広告アイテムは再利用できません。
 UI_GENERALAWAKE_TITLEGODDESSBLESSING,Blessing of the Goddess,女神の祝福
 UI_GENERALAWAKE_TITLEDEMONBLESSING,Blessing of the Demon,悪魔の祝福
-UI_TOOLTIP_FREEBLESSING,Demon Blessing,デーモンの祝福
+UI_TOOLTIP_FREEBLESSING,Demon Blessing,悪魔の祝福
 UI_CHARINFO_HOUSING_SLOTS,Pet Inventory Slots,ペットインベントリ枠
 UI_GENERALAWAKE_SOULBIND_TITLE,Use Blessing?,祝福を使用しますか？
 UI_GENERALAWAKE_SOULBIND,Applying a blessing will make the item soul-linked while the blessing is active. Proceed? Blessings of the Goddess can be removed by Jewel Manager NPCs.,祝福を付与すると、祝福が有効な間そのアイテムはソウルリンクされます。続行しますか？女神の祝福はジュエルマネージャーNPCで解除できます。
