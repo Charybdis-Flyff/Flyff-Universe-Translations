@@ -1569,7 +1569,7 @@ UI_BATTLEPASS_MISSION_HARVEST,Harvest Berries,ベリーを収穫する
 UI_BATTLEPASS_MISSION_RAISEPET,Raise a Pet to %s,育成ペットを %s に上げる
 UI_BATTLEPASS_POINTS,Points,ポイント
 UI_BATTLEPASS_PASSGRADE,Pass Tier,ティア
-UI_BATTLEPASS_INFO,%s ends at: #b%s#nb (Server Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d.#ni,%s シーズン終了: #b%s#nb（サーバー時間）\n今週の獲得可能ポイント: #b%d / %d#nb\nシーズンミッションで獲得した#iPoints は週の上限には含まれません。#ni\n#iSome 報酬はレベル%d#niに到達すると強化されます
+UI_BATTLEPASS_INFO,%s ends at: #b%s#nb (Server Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d.#ni,%s シーズン終了日: #b%s#nb（サーバー時間）\n今週のポイント上限: #b%d / %d#nb\nシーズンミッションで獲得したポイントは週の上限には含まれません。\n拡張報酬はプレイヤーレベルが%dに到達すると強化されます。
 UI_BATTLEPASS_PURCHASE,Purchase Extended Pass,拡張バトルパスを購入する
 UI_BATTLEPASS_CLAIM,Claim Rewards,報酬を受け取る
 UI_BATTLEPASS_TIP_BASICREWARDS,Basic rewards for everyone!,全員が獲得可能な基本報酬！
@@ -1896,9 +1896,9 @@ UI_BATTLEPASS_MISSION_ACTIVEBEGINNERBUFF,Ask the Buff Pang for Buffs,バフパ�
 UI_BATTLEPASS_MISSION_USECOMBOSKILL,Perform %s or More Combos Using the Action Slot,%s 以上のコンボを実行する アクション スロットを使用
 UI_BATTLEPASS_MISSION_ACTIVEEQUIPSET,Wear a Set With a Set Effect,セットエフェクトを有効にする
 UI_BATTLEPASS_MISSION_KALGAS_ASSAULT,Finish a Kalgas Assault Match,カルガスアサルトをフィニッシュ
-UI_BATTLEPASS_INFO2,%s ends at: #b%s#nb (Server Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni,%s シーズン終了: #b%s#nb (サーバー時間)\n今週のポイント上限: #b%d / %d#nb\nシーズン ミッションで獲得した#iPoints は週間上限に含まれません #ni
-UI_BATTLEPASS_INFO3,%s ends at: #b%s#nb (Server Time)\n#iSome rewards are enhanced after reaching level %d.#ni,%s シーズン終了: #b%s#nb (サーバー時間)\n#ni\nレベル %d#ni に到達すると、#iSome 報酬が強化されます
-UI_BATTLEPASS_INFO4,%s ends at: #b%s#nb (Server Time),%s シーズン終了: #b%s#nb (サーバー時間)\n#ni
+UI_BATTLEPASS_INFO2,%s ends at: #b%s#nb (Server Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni,%s シーズン終了日: #b%s#nb（サーバー時間）\n今週のポイント上限: #b%d / %d#nb\nシーズンミッションで獲得したポイントは週の上限には含まれません。
+UI_BATTLEPASS_INFO3,%s ends at: #b%s#nb (Server Time)\n#iSome rewards are enhanced after reaching level %d.#ni,%s シーズン終了日: #b%s#nb（サーバー時間）\n拡張報酬はプレイヤーレベルが%dに到達すると強化されます。
+UI_BATTLEPASS_INFO4,%s ends at: #b%s#nb (Server Time),%s シーズン終了日: #b%s#nb (サーバー時間)
 UI_BATTLEPASS_INFO5,The Starter Pass does not expire and is available to all players who purchase it.,スターターパスに有効期限はなく、すべてのプレイヤーが使用できます。
 UI_QUEST_STARTABLE,Startable,スターテーブル
 UI_SUMMERPASS2023,Summer Pass,サマーパス
@@ -2001,10 +2001,10 @@ UI_BATTLEPASS_OCT,October %d Pass,10 月 %d パス
 UI_BATTLEPASS_NOV,November %d Pass,11月 %d パス
 UI_BATTLEPASS_DEC,December %d Pass,12 月 %d パス
 UI_BATTLEPASS_MISSION_CONSECUTIVE_LOGIN,Log In for %s Consecutive Days,ログイン 連続 %s 日
-UI_BATTLEPASS_INFO6,%s ends at: #b%s#nb (UTC Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d.#ni,%s シーズン終了: #b%s#nb (UTC 時間)\n 今週の\nポイント上限: #b%d / %d#nb\n シーズン ミッションで獲得した\n#iPoints は週間上限に含まれません。#ni\n#iSome レベル %d#ni に到達すると報酬が強化されます
-UI_BATTLEPASS_INFO7,%s ends at: #b%s#nb (UTC Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni,%s シーズン終了: #b%s#nb (UTC 時間)\n 今週の\nポイント上限: #b%d / %d#nb\n シーズン ミッションで獲得した\n#iPoints は週間上限に含まれません #ni
-UI_BATTLEPASS_INFO8,%s ends at: #b%s#nb (UTC Time)\n#iSome rewards are enhanced after reaching level %d.#ni,%s シーズン終了: #b%s#nb (UTC 時間)\n#ni\n#iSome レベル %d#ni に到達すると報酬が強化されます
-UI_BATTLEPASS_INFO9,%s ends at: #b%s#nb (UTC Time),%s シーズン終了: #b%s#nb (UTC 時間)\n#ni
+UI_BATTLEPASS_INFO6,%s ends at: #b%s#nb (UTC Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d.#ni,%s シーズン終了日: #b%s#nb（サーバー時間）\n今週のポイント上限: #b%d / %d#nb\nシーズンミッションで獲得したポイントは週の上限には含まれません。\n拡張報酬はプレイヤーレベルが%dに到達すると強化されます。
+UI_BATTLEPASS_INFO7,%s ends at: #b%s#nb (UTC Time)\nWeekly points limit: #b%d / %d#nb\n#iPoints earned from Season missions are not counted toward the weekly limit.#ni,%s シーズン終了日: #b%s#nb（サーバー時間）\n今週のポイント上限: #b%d / %d#nb\nシーズンミッションで獲得したポイントは週の上限には含まれません。
+UI_BATTLEPASS_INFO8,%s ends at: #b%s#nb (UTC Time)\n#iSome rewards are enhanced after reaching level %d.#ni,%s シーズン終了日: #b%s#nb（サーバー時間）\n拡張報酬はプレイヤーレベルが%dに到達すると強化されます。
+UI_BATTLEPASS_INFO9,%s ends at: #b%s#nb (UTC Time),%s シーズン終了日: #b%s#nb（サーバー時間）
 UI_REMOTE_SHOP_TITLE,Remote Shop,リモートショップ
 UI_HALLOWEENPASS,Halloween Pass,ハロウィンパス
 UI_PURCHASE_BANK_EXTRA_BAG,Purchase Extra Bag,スロットを追加
@@ -2308,7 +2308,7 @@ UI_CHATFILTER_TEAM,Team,チーム
 UI_CHAT_TEAM_TIP,Send messages to your team members.,チームメンバーにメッセージを送信する。
 UI_BATTLEPASS_MISSION_VISIT_FRIENDS_HOUSE,Visit a Friend's House,友達の家を訪ねる
 UI_BATTLEPASS_MISSION_ENTER_INSTANCE_DUNGEON,Enter an Instanced Dungeon,インスタンスダンジョンに入る
-UI_BATTLEPASS_MISSION_HOUSING_BOOK_LIKE,Visit a Friend's House and Press the Heart Button,友人の家を訪問し、心を押す
+UI_BATTLEPASS_MISSION_HOUSING_BOOK_LIKE,Visit a Friend's House and Press the Heart Button,友人の家を訪問し、いいね！を押す
 UI_TOOLTIP_FLYSPEEDRATE,Flying Speed,飛行速度
 UI_TOOLTIP_DEATHEXPLOSSDEC,Experience Loss Reduction,経験値損失の低減
 UI_TOOLTIP_REVIVEHP,HP Restored on Revive,蘇生時にHPが回復
