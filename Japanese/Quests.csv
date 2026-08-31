@@ -1051,7 +1051,7 @@ PROPQUEST_INC_001718,Please just investigate the entrance. It can't be that hard
 PROPQUEST_INC_001719,Investigate the entrance to the Mars Mine.,フラリスダンジョンに入ってみましょう。
 PROPQUEST_INC_001721,Phantom of Fear,恐怖の幻影
 PROPQUEST_INC_001722,I cannot be sure by only investigating the entrance. I need more detailed information…,入口周辺の情報だけでは、洞窟内で何が起きているのか、核心に迫ることはできません。もっと多くの情報がどうしても欲しいですね。
-PROPQUEST_INC_001723,"(Looks at you imploringly) Would you please, please bring me more detailed information?",（お悔やみ申し上げます）詳しい情報を教えていただけませんか。
+PROPQUEST_INC_001723,"(Looks at you imploringly) Would you please, please bring me more detailed information?",（あなたを懇願するように見つめる）詳しい情報を教えていただけませんか。
 PROPQUEST_INC_001724,"I wouldn't ask if it weren't very, very important. Will you help?",あれ？あなたがいたじゃないですか！お願いです！もう一度、調査に協力していただけませんか？
 PROPQUEST_INC_001725,"Thank you! This time, investigate the inside of the Mars Mine. Also, please investigate the masquerpets there.",助かります。今回はフラリスダンジョンの奥まで探索し、モンスターの調査を行ってください。
 PROPQUEST_INC_001726,It's not like I'm asking you for your first born child…,ダメですか…。フラリスダンジョンの奥にまで足を踏み入れるのが怖いんですね。あなたという人は…その程度の人だったんですか？
@@ -2102,17 +2102,17 @@ PROPQUEST_INC_150049,Meet with Liekyen,リエキエンに会う
 PROPQUEST_INC_150050,Seeking the Witness… 2,証人を求めて…2
 PROPQUEST_INC_150051,It was deep in the mountains. I saw a shadow and thought it was a monster… but it turned out to be a ship falling from the sky.,山奥でのことだった。影が見えてモンスターかと思ったんだが……空から落ちてきた船だったんだ。
 PROPQUEST_INC_150052,"There was no one on board, even when I searched it the first time. Not a single body. I checked around to see if there was anything useful, but all I found was a book full of strange codes. Curious what it says?",最初に調べた時、船には誰も乗っていなかった。遺体すら一つもない。何か使えるものがないか調べたんだが、見つかったのは奇妙な暗号だらけの本だけだった。何が書いてあるか気になるか？
-PROPQUEST_INC_150053,"I couldn’t make heads or tails of it, so I handed it over to Inisis. If you’re interested, go talk to her.",私にはさっぱりわからなかったから、イニシスに渡したんだ。興味があるなら、彼女に話しかけてみてくれ。
+PROPQUEST_INC_150053,"I couldn’t make heads or tails of it, so I handed it over to Inisis. If you’re interested, go talk to her.",私にはさっぱりわからなかったから、ロッテンマイヤーに渡したんだ。興味があるなら、彼女に話しかけてみてくれ。
 PROPQUEST_INC_150054,"Not curious? Well, that’s your choice.",気にならないのか？まあ、それはお前次第だ。
-PROPQUEST_INC_150055,"Inisis knows the details. If she finishes deciphering it, could you come back and tell me what she found?",イニシスなら詳細を知っている。解読が終わったら、彼女が見つけたことを教えに戻ってきてくれないか？
+PROPQUEST_INC_150055,"Inisis knows the details. If she finishes deciphering it, could you come back and tell me what she found?",ロッテンマイヤーなら詳細を知っている。解読が終わったら、彼女が見つけたことを教えに戻ってきてくれないか？
 PROPQUEST_INC_150056,"Ah, you’ve come for the logbook?",ああ、航海日誌のことで来たのか？
-PROPQUEST_INC_150057,Meet with Inisis,イニシスに会う
+PROPQUEST_INC_150057,Meet with Inisis,ロッテンマイヤーに会う
 PROPQUEST_INC_150058,Searching for Clues… 1,手がかりを求めて…1
 PROPQUEST_INC_150059,It turned out to be just a simple sailing logbook. There’s nothing special written in it. Are you still looking for more clues?,結局、ただの簡単な航海日誌だったわ。特別なことは何も書かれていないの。まだ手がかりを探しているの？
 PROPQUEST_INC_150060,"Actually, after reading it, Amadolka decided to search the Darken mountains again to see if anything else turns up. You should meet him before heading back to Saint City.",実は、それを読んだ後、アマドルカーが何か他に見つかるか、ダーコンの山をもう一度探すことにしたのよ。セイントシティへ戻る前に、彼に会っておくべきね。
 PROPQUEST_INC_150061,"If you’re too busy, I understand. Take care of yourself.",忙しすぎるなら仕方ないわ。気をつけてね。
 PROPQUEST_INC_150062,You haven’t left yet?,まだ出発していないの？
-PROPQUEST_INC_150063,Inisis sent you?,イニシスがお前をよこしたのか？
+PROPQUEST_INC_150063,Inisis sent you?,ロッテンマイヤーがお前をよこしたのか？
 PROPQUEST_INC_150064,Meet with Amadolka,アマドルカーに会う
 PROPQUEST_INC_150065,Searching for Clues… 2,手がかりを求めて…2
 PROPQUEST_INC_150066,That sharp woman… How did she know to send you without me saying anything? Do you really need this?,あの鋭い女め……私が何も言っていないのに、どうしてお前をよこすとわかったんだ？本当にこれが必要なのか？
