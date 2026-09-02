@@ -1105,8 +1105,8 @@ UI_RESHUFFLECARD_TITLE,Weapon Socket Card Reroll,ウェポンソケットカー�
 UI_RESHUFFLECARD_REGISTER,Insert weapon cards to use as materials.,武器素材カードを登録します。
 UI_RESHUFFLECARD_INFO,Fuse 3 weapon cards to receive 1 card of the same grade.,武器素材のカードを3枚合体させると、同グレードのカードが1枚手に入ります。
 UI_RESHUFFLECARD_CONFIRM,Rerolling will consume the material cards. Proceed?,カードを入れ替えると、素材として使われていたカードは消えます。続行しますか?
-UI_CONVERTSOULLINK_TITLE,Convert to Soul-Linked,帰属を変換する
-UI_CONVERTSOULLINK_INFO,"The item will become soul-linked and can no longer be sold to NPCs. You can use this process to stack identical items that otherwise cannot be stacked due to differing properties. Note: Soul-linked items cannot be traded, and this action cannot be undone.",アイテムをソウルリンクタイプに変換できます。
+UI_CONVERTSOULLINK_TITLE,Convert to Soul-Linked,キャラ帰属に変換する
+UI_CONVERTSOULLINK_INFO,"The item will become soul-linked and can no longer be sold to NPCs. You can use this process to stack identical items that otherwise cannot be stacked due to differing properties. Note: Soul-linked items cannot be traded, and this action cannot be undone.",アイテムはキャラ帰属になり、NPCへの売却ができなくなります。プロパティの違いにより重ならないアイテムを重ねたい場合にこの処理を利用できます。注意：キャラ帰属アイテムは取引できず、この操作は元に戻せません。
 UI_CONVERTSOULLINK_CONFIRM,This action cannot be undone.\nProceed?,変換されたアイテムは返品できません。続行しますか?
 UI_CONVERTSOULLINK_NOTAVAILABLE,This item cannot be converted.,このアイテムは変換できません。
 UI_GUILD_SCROLLGADD_CONFIRM,This scroll permanently increases your guild's member limit by 5. It only applies to your current guild and will not affect any guild you join later. Use it now?,この巻物を使用すると、ギルドに所属できるメンバーが永久に5人分増加します。現在のギルドでのみ機能します。新たに他のギルドへ入った場合は、効果はありません。使用しますか？
@@ -1302,7 +1302,7 @@ UI_CHAT_TITLE,Chat,チャット
 UI_CHAT_FILTERS,Filters,フィルター
 UI_CHAT_VIEW_LANGUAGES,View Languages,言語を表示
 UI_CHAT_YOUR_LANGUAGE,Your Language,使用言語
-UI_INVENTORY_CONVERT_SOULLINK,Convert to Soul-Linked,帰属を変換する
+UI_INVENTORY_CONVERT_SOULLINK,Convert to Soul-Linked,キャラ帰属に変換する
 UI_INVENTORY_PUTCHAT,Link in Chat,チャットでリンク
 UI_INVENTORY_LOCK,Mark Favorite,お気に入りにする
 UI_INVENTORY_UNLOCK,Unmark Favorite,お気に入りを解除する
@@ -1405,7 +1405,7 @@ UI_TOOLTIP_ITEM_BINDING,Binding,関連
 UI_TOOLTIP_ITEM_BINDING_DESC,This material makes the target item Soul-Bound.,このアイテムは対象のアイテムを帰属(Soul-Bound)にします。
 UI_BINDING_NOTICE,#cffff0000This will bind the item to your character. You can undo this with a Scroll of Unbinding.#nc,#cffff0000この操作により、アイテムはあなたのキャラクターに帰属（バインド）されます。帰属解除の巻物で解除することができます。#nc
 UI_BINDING_MESSAGE,This item is now bound to your character.,このアイテムは、キャラクターに帰属されています。
-UI_TOOLTIP_ITEM_BOUND,[Soul-Bound],[装備帰属]
+UI_TOOLTIP_ITEM_BOUND,[Soul-Bound],[キャラ帰属]
 UI_TOOLTIP_ITEM_BOUND_DESC,Can be unbound.,帰属（バインド）を解除できます。
 UI_BINDING_TITLE,Binding,関連
 UI_BINDING_CONFIRM,Do you want to continue?,続けますか？
@@ -2144,8 +2144,8 @@ UI_UPGRADE_ULTIMATE_WEAPON_LVL3,Achieve Ultimate Upgrade +3,究極アップグ�
 UI_UPGRADE_ULTIMATE_WEAPON_LVL4,Achieve Ultimate Upgrade +4,究極アップグレード+4を達成した
 UI_UPGRADE_ULTIMATE_WEAPON_LVL5,Achieve Ultimate Upgrade +5,究極アップグレード+5を達成した
 UI_RAINBOWRACE_RANKING,Leaderboard,リーダーボード
-UI_EXCHANGE_ACCOUNTLINK,#cffff0000The result will be Account-Linked because some of the materials are Account-Linked.#nc,生け贄アイテムの一部がアカウントリンクされているため、#cffff0000You アカウントリンクアイテムを取得します #nc
-UI_EXCHANGE_SOULLINK,#cffff0000The result will be Soul-Linked because some of the materials are Soul-Linked.#nc,#cffff0000生け贄のアイテムの一部がキャラ帰属になっているため、完了後はキャラ帰属アイテムとなります。#nc
+UI_EXCHANGE_ACCOUNTLINK,#cffff0000The result will be Account-Linked because some of the materials are Account-Linked.#nc,#cffff0000交換アイテムの一部がアカウント帰属になっているため、完了後はアカウント帰属アイテムとなります。#nc
+UI_EXCHANGE_SOULLINK,#cffff0000The result will be Soul-Linked because some of the materials are Soul-Linked.#nc,#cffff0000交換アイテムの一部がキャラ帰属になっているため、完了後はキャラ帰属アイテムとなります。#nc
 UI_RAINBOWRACE_TELEPORT_TITLE,Rainbow Race,レインボーレース
 UI_RAINBOWRACE_TELEPORT_MSG,"The Rainbow Race will begin shortly. Teleport to the starting point? If you decline, you will be disqualified with no refund.",レインボーレースがまもなく始まります。スタート地点にテレポートしますか?辞退した場合、レースから失格となり、払い戻しは行われません。
 UI_BATTLEPASS_CHRISTMAS2023,Christmas Pass 2023,クリスマスパス 2023
@@ -2793,7 +2793,7 @@ UI_GENERALAWAKE_TITLEDEMONBLESSING,Blessing of the Demon,悪魔の祝福
 UI_TOOLTIP_FREEBLESSING,Demon Blessing,デーモンの祝福
 UI_CHARINFO_HOUSING_SLOTS,Pet Inventory Slots,ペットインベントリ枠
 UI_GENERALAWAKE_SOULBIND_TITLE,Use Blessing?,祝福を使用しますか？
-UI_GENERALAWAKE_SOULBIND,Applying a blessing will make the item soul-linked while the blessing is active. Proceed? Blessings of the Goddess can be removed by Jewel Manager NPCs.,祝福を付与すると、祝福が有効な間そのアイテムはソウルリンクされます。続行しますか？女神の祝福はジュエルマネージャーNPCで解除できます。
+UI_GENERALAWAKE_SOULBIND,Applying a blessing will make the item soul-linked while the blessing is active. Proceed? Blessings of the Goddess can be removed by Jewel Manager NPCs.,祝福を付与すると、祝福が有効な間そのアイテムはキャラ帰属になります。続行しますか？女神の祝福はジュエルマネージャーNPCで解除できます。
 UI_RECIPE_NOT_FULL,"The recipe is not fully understood, so only one of each ingredient is used.",レシピを完全に習得していないため、各素材が1つずつのみ使用されます。
 UI_CHRISTMAS_INVANSION_MISSION,Quest completed,クエスト完了
 UI_TELEPORT_ARENA,Exit the arena?,アリーナから退出しますか？
