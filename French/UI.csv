@@ -878,7 +878,7 @@ UI_APP_STATUS_TIP,View your character's status.,Afficher le statut du personnage
 UI_APP_CHAT_TIP,Show/hide the chat window.,Afficher la fenêtre de discussion
 UI_APP_QUIT_TIP,Exit the game.,Quitter le monde de Flyff
 UI_APP_SUPPORT_TIP,Open the customer support page in a new tab.,Ouvre le Service Client.
-UI_APP_PRIVACY_TIP,Open cookie settings.,Ouvrir l’onglet Confidentialité.
+UI_APP_PRIVACY_TIP,Open cookie settings.,Ouvrir les paramètres des cookies.
 UI_APP_LOGOUT_TIP,Log out and return to the login screen.,Déconnexion
 UI_APP_OPTION_TIP,Open the game's options window.,Options
 UI_APP_MAP_TIP,View the world map.,Une carte de Madrigal
